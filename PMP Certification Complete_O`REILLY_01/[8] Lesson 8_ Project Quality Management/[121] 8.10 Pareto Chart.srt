@@ -1,0 +1,433 @@
+﻿1
+00:00:06,110 --> 00:00:08,887
+Okay, so in this video we're
+going to cover an important
+
+2
+00:00:08,888 --> 00:00:12,130
+quality management tool
+called the Pareto Chart.
+
+3
+00:00:12,310 --> 00:00:15,450
+Now the Pareto chart is a type of
+histogram.
+
+4
+00:00:16,610 --> 00:00:20,087
+It is a specialised type
+of histogram that shows
+
+5
+00:00:20,088 --> 00:00:23,384
+critical issues in descending
+order of frequency.
+
+6
+00:00:23,750 --> 00:00:29,450
+Or it could be showing the causes of an
+issue in descending order of frequency.
+
+7
+00:00:30,090 --> 00:00:31,590
+And it's a histogram.
+
+8
+00:00:32,130 --> 00:00:36,090
+It is a histogram and a histogram is
+basically a bar chart, but it's a special
+
+9
+00:00:36,110 --> 00:00:42,710
+So if you look at an example of the Pareto
+chart here, we'll see that this Pareto
+
+10
+00:00:42,711 --> 00:00:48,410
+chart has a bar chart here, and then there
+is also a line graph across the top.
+
+11
+00:00:49,070 --> 00:00:52,001
+And you'll notice there
+are two y-axis, one on
+
+12
+00:00:52,002 --> 00:00:54,190
+the left-and-side, one
+on the right-in-side.
+
+13
+00:00:54,310 --> 00:00:59,041
+The left-hand y-axis refers
+to the bar chart, and the
+
+14
+00:00:59,042 --> 00:01:03,290
+right-hand refers to the red
+frequency line across the top.
+
+15
+00:01:04,510 --> 00:01:08,722
+Now, as I said, Proto chart
+is showing critical issues or
+
+16
+00:01:08,723 --> 00:01:12,590
+the causes of an issue in a
+descending order of frequency.
+
+17
+00:01:13,370 --> 00:01:18,264
+So in this example here, then, we are
+looking at the number of customer complaints.
+
+18
+00:01:18,570 --> 00:01:20,702
+So regardless of, you
+know, what the situation
+
+19
+00:01:20,703 --> 00:01:23,144
+is, we're getting some
+customer complaints.
+
+20
+00:01:23,370 --> 00:01:26,020
+So what are the biggest causes of customer
+complaints?
+
+21
+00:01:26,550 --> 00:01:29,330
+And that is then shown on this graphic.
+
+22
+00:01:29,950 --> 00:01:33,270
+So the causes of complaints then,
+A, B, C, Claims?
+
+23
+00:01:33,290 --> 00:01:35,988
+C, D, all the way to G, you know, whatever
+
+24
+00:01:36,088 --> 00:01:38,250
+A, B, C, D are, you know, it's irrelevant.
+
+25
+00:01:38,450 --> 00:01:40,470
+But these are the causes of complaints.
+
+26
+00:01:41,170 --> 00:01:45,570
+And then on the left-hand y-axis,
+we show the number of complaints.
+
+27
+00:01:46,290 --> 00:01:50,070
+And the right-hand of Y-axis is showing
+you a percentage, right, the cumulative
+
+28
+00:01:50,071 --> 00:01:54,230
+percentage, which refers to this red line
+across the top.
+
+29
+00:01:55,030 --> 00:01:58,427
+So A, whatever A is,
+that accounts for the most
+
+30
+00:01:58,428 --> 00:02:00,950
+number of complaints
+that we are receiving.
+
+31
+00:02:00,951 --> 00:02:04,839
+B, whatever B is, accounts
+for the next most number
+
+32
+00:02:04,840 --> 00:02:07,410
+of complaints, and so
+on and so forth, right?
+
+33
+00:02:07,510 --> 00:02:11,510
+So it's showing critical issues in
+descending order of frequency.
+
+34
+00:02:12,830 --> 00:02:15,838
+Now, what the line graph across the top is
+
+35
+00:02:15,839 --> 00:02:19,064
+showing, right, is a
+cumulative percentage.
+
+36
+00:02:19,770 --> 00:02:23,284
+So A then accounts for
+maybe, you know, around
+
+37
+00:02:23,285 --> 00:02:26,964
+35% of all of the
+issues that we're gained.
+
+38
+00:02:27,110 --> 00:02:34,330
+A and B together accounts for maybe about
+70% of all of the customer complaints.
+
+39
+00:02:35,090 --> 00:02:38,830
+So A accounts for around 35% of all of the
+customer complaints.
+
+40
+00:02:39,230 --> 00:02:44,810
+A and B together accounts for around 70%
+of all customer complaints.
+
+41
+00:02:45,610 --> 00:02:49,651
+A, B and C together
+accounts for approximately
+
+42
+00:02:49,652 --> 00:02:52,431
+around about 80% of
+all customer complaints.
+
+43
+00:02:52,810 --> 00:02:55,510
+And so on and so forth until we get to
+100%.
+
+44
+00:02:55,511 --> 00:03:02,210
+Now the whole principle behind the Pareto
+chart rests with what is known as the
+
+45
+00:03:02,211 --> 00:03:08,090
+80-20 rule, also known as Pareto's Law,
+also known as Pareto's Law.
+
+46
+00:03:08,710 --> 00:03:11,224
+And it's worth just
+giving you a little bit of
+
+47
+00:03:11,225 --> 00:03:13,864
+background about where
+this 80-20 rule came from.
+
+48
+00:03:14,290 --> 00:03:18,090
+This is not something necessarily that
+will be asked on the exam, but just to
+
+49
+00:03:18,091 --> 00:03:22,099
+understand this graph
+here, just to understand
+
+50
+00:03:22,100 --> 00:03:24,930
+exactly what the Pareto chart is showing.
+
+51
+00:03:24,931 --> 00:03:30,570
+right it's good just to mention it at
+least now this guy Pareto Wilfredo Pareto
+
+52
+00:03:30,571 --> 00:03:34,910
+that was his name he was an economist he
+had nothing to do with project management
+
+53
+00:03:34,911 --> 00:03:40,590
+he was actually an Italian economist and
+this was back around the late 1800 early
+
+54
+00:03:40,591 --> 00:03:45,810
+1900s type of time frame so we're going
+back quite a while and when he was
+
+55
+00:03:45,811 --> 00:03:51,830
+analyzing the economies of Italy and
+Europe and other countries he saw one
+
+56
+00:03:51,831 --> 00:03:55,654
+basic theme over and over
+again now obviously I I'm
+
+57
+00:03:55,655 --> 00:03:59,227
+summarizing and generalizing
+here, but we're just talking
+
+58
+00:03:59,228 --> 00:04:02,824
+about this at a very,
+very, very high level.
+
+59
+00:04:03,590 --> 00:04:10,090
+But essentially what he was saying is 80%
+of a nation's wealth, right, or land in
+
+60
+00:04:10,091 --> 00:04:15,770
+those days, 80% of nation's land is
+generally owned by 20% of the population.
+
+61
+00:04:16,870 --> 00:04:21,510
+And so we see this 80-20 rule over and
+over again.
+
+62
+00:04:21,511 --> 00:04:26,137
+So for a typical business,
+for example, 80% of
+
+63
+00:04:26,138 --> 00:04:29,744
+your revenues comes
+from 20% of your customers.
+
+64
+00:04:30,950 --> 00:04:35,750
+And so when it comes to
+defect management, 80% of
+
+65
+00:04:35,751 --> 00:04:39,704
+your defects are as a
+result of 20% of the causes.
+
+66
+00:04:40,730 --> 00:04:46,416
+So if you can identify those
+20% of the causes and fix
+
+67
+00:04:46,417 --> 00:04:51,310
+those 20%, you've basically
+fixed 80% of all of your issues.
+
+68
+00:04:52,450 --> 00:04:56,690
+So if you look at this graph, and if I
+didn't tell you anything about this graph,
+
+69
+00:04:57,130 --> 00:05:00,877
+and I just told you, or
+rather I just asked you,
+
+70
+00:05:00,878 --> 00:05:03,790
+which issues do we
+need to focus on the most?
+
+71
+00:05:04,550 --> 00:05:06,492
+Immediately you look at
+this graph and say, well,
+
+72
+00:05:06,493 --> 00:05:08,711
+A and B, that's what we
+want to focus on the most.
+
+73
+00:05:09,530 --> 00:05:12,430
+And that is the whole principle behind
+proto-chart.
+
+74
+00:05:12,490 --> 00:05:14,090
+This is what we want to look at.
+
+75
+00:05:14,610 --> 00:05:16,130
+We want to fix A and B.
+
+76
+00:05:16,230 --> 00:05:21,470
+If we fix A and B, then A and B account
+for 70% of all.
+
+77
+00:05:21,510 --> 00:05:22,343
+issues.
+
+78
+00:05:22,790 --> 00:05:27,210
+So we fix A and B, we have fixed 70% of
+all of our issues.
+
+79
+00:05:28,650 --> 00:05:32,470
+And so you can use Pareto chart for
+continuous improvement.
+
+80
+00:05:33,330 --> 00:05:36,030
+We want to make small continuous
+improvement steps.
+
+81
+00:05:37,110 --> 00:05:38,760
+So what should we be focusing on?
+
+82
+00:05:39,350 --> 00:05:41,850
+We should be focusing on, in this case,
+on A and B.
+
+83
+00:05:42,270 --> 00:05:45,400
+Once we have fixed, if we
+can fix A and B, we have
+
+84
+00:05:45,401 --> 00:05:48,341
+fixed in this case, we fixed
+70% of all of our issues.
+
+85
+00:05:48,830 --> 00:05:51,490
+And that really is about as much as what
+you need.
+
+86
+00:05:51,510 --> 00:05:54,970
+for the PNP exam regarding Pareto charts.
+
+87
+00:05:55,570 --> 00:05:57,930
+So again, Pareto chart is just a
+histogram.
+
+88
+00:05:58,650 --> 00:06:04,010
+It's a specialised type of histogram and
+it's showing critical issues in descending
+
+89
+00:06:04,011 --> 00:06:09,330
+order of frequency or the causes of an
+issue in descending order of frequency.
+

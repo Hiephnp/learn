@@ -1,0 +1,719 @@
+﻿1
+00:00:06,460 --> 00:00:09,540
+Okay, so let's talk about conflict
+management now.
+
+2
+00:00:10,840 --> 00:00:13,440
+Now conflict is a difference in opinion.
+
+3
+00:00:14,580 --> 00:00:16,540
+A conflict is a disagreement.
+
+4
+00:00:17,840 --> 00:00:21,580
+A conflict does not necessarily mean that
+people are fighting and arguing.
+
+5
+00:00:22,540 --> 00:00:25,640
+That does fall within the definition of a
+conflict, yes.
+
+6
+00:00:26,440 --> 00:00:29,057
+But conflict does not just mean that
+people are fighting and arguing.
+
+7
+00:00:29,140 --> 00:00:31,820
+So don't just think of conflict as an
+argument, right?
+
+8
+00:00:31,940 --> 00:00:32,890
+Or people fighting.
+
+9
+00:00:33,240 --> 00:00:35,580
+A conflict is a disagreement.
+
+10
+00:00:36,480 --> 00:00:38,140
+It's a difference in opinion.
+
+11
+00:00:39,260 --> 00:00:42,300
+And a difference in opinion is considered
+a good thing.
+
+12
+00:00:42,960 --> 00:00:45,100
+That's how you learn, that's how you grow.
+
+13
+00:00:45,920 --> 00:00:47,920
+You want people to have different ideas.
+
+14
+00:00:48,780 --> 00:00:51,660
+People have different ideas about how to
+perform the work.
+
+15
+00:00:53,140 --> 00:00:55,547
+Sometimes it's efficient,
+right, one person's idea
+
+16
+00:00:55,630 --> 00:00:58,150
+is efficient, another
+person's idea is inefficient.
+
+17
+00:00:58,360 --> 00:01:02,300
+But that's how you learn, that's how you
+grow by learning from each other.
+
+18
+00:01:02,301 --> 00:01:08,140
+And so conflict is considered a good thing
+because it's a difference in opinion.
+
+19
+00:01:08,320 --> 00:01:12,920
+Now, obviously, conflict has negative
+impacts if it becomes contentious.
+
+20
+00:01:13,680 --> 00:01:16,800
+So that's not necessarily what we're
+getting at here.
+
+21
+00:01:16,920 --> 00:01:19,180
+We don't want conflict to become
+contentious.
+
+22
+00:01:19,880 --> 00:01:23,262
+We want to work in a
+collaborative environment, right,
+
+23
+00:01:23,263 --> 00:01:26,220
+so that we can resolve
+these differences in opinions.
+
+24
+00:01:26,920 --> 00:01:30,308
+Now, one other thing also to
+remember, and, you know, mentioning
+
+25
+00:01:30,309 --> 00:01:33,940
+this in a few slides, I
+mentioned this in a few videos.
+
+26
+00:01:35,840 --> 00:01:39,440
+There's a difference in conflict
+management and conflict resolution.
+
+27
+00:01:39,900 --> 00:01:44,120
+You can't always resolve a conflict,
+but certainly you can manage a conflict,
+
+28
+00:01:44,560 --> 00:01:44,660
+right?
+
+29
+00:01:44,680 --> 00:01:47,230
+So it doesn't have a negative impact on
+the project.
+
+30
+00:01:47,940 --> 00:01:50,647
+But that's the whole
+principle behind conflict
+
+31
+00:01:50,648 --> 00:01:53,194
+is, you know, don't
+walk away from conflict.
+
+32
+00:01:53,900 --> 00:01:53,920
+Right.
+
+33
+00:01:54,400 --> 00:01:56,537
+Conflict is, you know, it's always going
+to be there.
+
+34
+00:01:56,620 --> 00:01:59,170
+You're always going to have a difference
+in opinion.
+
+35
+00:01:59,440 --> 00:02:03,102
+Now, the old view was that
+conflict was always considered
+
+36
+00:02:03,103 --> 00:02:05,841
+something negative and
+always needed to be avoided.
+
+37
+00:02:06,660 --> 00:02:08,700
+The modern view is it can be beneficial.
+
+38
+00:02:09,100 --> 00:02:12,600
+Beneficial for team growth, right,
+because people have different ideas.
+
+39
+00:02:12,940 --> 00:02:15,940
+You don't want just a whole bunch of yes
+men on your project.
+
+40
+00:02:16,360 --> 00:02:21,400
+You need people that have different ideas,
+right, that can think outside of the box.
+
+41
+00:02:22,080 --> 00:02:24,500
+And that's what leads to efficiencies.
+
+42
+00:02:25,120 --> 00:02:26,680
+That's what leads to innovation.
+
+43
+00:02:26,681 --> 00:02:30,100
+and that's why the world is growing so
+rapidly.
+
+44
+00:02:30,760 --> 00:02:32,957
+That's why the world is moving along so
+rapidly.
+
+45
+00:02:33,040 --> 00:02:37,160
+That's why innovation is taking place so
+rapidly in the world in this day and age.
+
+46
+00:02:37,560 --> 00:02:40,640
+Because people have different ideas,
+people have fresh ideas.
+
+47
+00:02:41,980 --> 00:02:46,420
+Now, the other modern view, though,
+is that if team members are in
+
+48
+00:02:46,421 --> 00:02:52,834
+disagreement, if there's two
+team members that are disagreeing,
+
+49
+00:02:52,835 --> 00:02:56,520
+then first let them try to
+resolve the disagreement.
+
+50
+00:02:57,380 --> 00:02:59,640
+let them try to resolve it first.
+
+51
+00:03:00,620 --> 00:03:03,120
+Obviously, make sure it doesn't become
+contentious.
+
+52
+00:03:03,820 --> 00:03:05,170
+Let them try to resolve it.
+
+53
+00:03:05,560 --> 00:03:10,680
+If they cannot resolve the disagreement,
+then in a predictive environment,
+
+54
+00:03:11,260 --> 00:03:12,710
+the project manager steps in.
+
+55
+00:03:13,840 --> 00:03:18,420
+If they cannot resolve it, then the
+project manager steps in, right?
+
+56
+00:03:18,540 --> 00:03:23,720
+In a predictive environment, in an agile
+environment, the whole team steps in,
+
+57
+00:03:24,360 --> 00:03:24,480
+right?
+
+58
+00:03:24,481 --> 00:03:26,020
+The whole team is responsible.
+
+59
+00:03:26,680 --> 00:03:29,960
+remember in an agile environment,
+teams are self-organizing, right?
+
+60
+00:03:29,980 --> 00:03:31,830
+You have these self-organizing teams.
+
+61
+00:03:32,320 --> 00:03:35,420
+So the team themselves are responsible for
+leadership.
+
+62
+00:03:36,360 --> 00:03:38,560
+So it's a team that resolves the conflict.
+
+63
+00:03:38,680 --> 00:03:42,800
+Now, included in the team is the servant
+leader.
+
+64
+00:03:43,920 --> 00:03:49,420
+So although it says the PM here,
+really it's in quotes quotation,
+
+65
+00:03:49,780 --> 00:03:53,000
+quote-unquote PM, they're not really a
+project manager in an agile team.
+
+66
+00:03:53,080 --> 00:03:54,300
+It's a team facilitator.
+
+67
+00:03:54,560 --> 00:03:56,660
+And they are the servant leader.
+
+68
+00:03:57,380 --> 00:03:59,480
+and they facilitate the resolution.
+
+69
+00:03:59,880 --> 00:04:00,480
+They collaborate.
+
+70
+00:04:00,580 --> 00:04:02,430
+They collaborate with the whole team.
+
+71
+00:04:02,680 --> 00:04:05,430
+They use the whole team to collaborate
+with one another.
+
+72
+00:04:05,880 --> 00:04:08,642
+The whole team collaborates to resolve the
+
+73
+00:04:08,643 --> 00:04:11,894
+disagreement or at least
+manage the disagreement.
+
+74
+00:04:12,440 --> 00:04:14,683
+So again, first let the
+team members try to
+
+75
+00:04:14,684 --> 00:04:17,714
+resolve the disagreement
+if they cannot resolve it.
+
+76
+00:04:17,960 --> 00:04:20,485
+If it's in a predictive
+environment, the project manager
+
+77
+00:04:20,486 --> 00:04:23,680
+steps in, in an agile environment,
+the whole team steps in.
+
+78
+00:04:25,440 --> 00:04:28,280
+Now, what are some of the common causes of
+conflict?
+
+79
+00:04:28,720 --> 00:04:32,220
+Well, there's many, many causes of
+conflict, right?
+
+80
+00:04:32,221 --> 00:04:34,875
+Many causes of disagreement,
+many cause of conflict,
+
+81
+00:04:34,935 --> 00:04:37,120
+I'm sure you know many,
+many causes as well.
+
+82
+00:04:37,320 --> 00:04:40,170
+Some of the common ones between team
+members, competition.
+
+83
+00:04:40,620 --> 00:04:42,640
+That's a common cause of conflict,
+right?
+
+84
+00:04:42,860 --> 00:04:44,410
+It's competition, disagreement.
+
+85
+00:04:45,240 --> 00:04:48,740
+And, you know, competition again,
+it could just be healthy competition.
+
+86
+00:04:49,180 --> 00:04:51,600
+Think of sports personalities,
+for example.
+
+87
+00:04:52,400 --> 00:04:54,360
+they're competing against one another.
+
+88
+00:04:54,640 --> 00:04:57,940
+Are you having a tennis game or,
+you know, a track and field event?
+
+89
+00:04:58,700 --> 00:05:01,020
+Everyone is in competition with one
+another.
+
+90
+00:05:01,160 --> 00:05:02,677
+They're all in conflict with one another.
+
+91
+00:05:02,760 --> 00:05:04,277
+But are they fighting and argue it?
+
+92
+00:05:04,360 --> 00:05:05,193
+No.
+
+93
+00:05:05,840 --> 00:05:08,890
+But they are, but they're, you know,
+it's healthy competition.
+
+94
+00:05:09,360 --> 00:05:12,200
+So that is a very common cause of
+conflict, right?
+
+95
+00:05:12,380 --> 00:05:13,930
+A common cause of disagreement.
+
+96
+00:05:14,500 --> 00:05:16,460
+Now it can get contentious.
+
+97
+00:05:17,180 --> 00:05:20,880
+But again, the whole idea is we're trying
+not to get to that stage.
+
+98
+00:05:22,580 --> 00:05:26,230
+different perspectives, different
+interpretations, difference in opinions,
+
+99
+00:05:26,940 --> 00:05:29,490
+right, the technical opinions,
+a technical approach.
+
+100
+00:05:30,180 --> 00:05:31,930
+This is a common cause of conflict.
+
+101
+00:05:32,380 --> 00:05:34,457
+And again, I mean, they don't really need
+to explain that.
+
+102
+00:05:34,540 --> 00:05:35,577
+I mean, self-explanatory.
+
+103
+00:05:35,660 --> 00:05:37,277
+I mean, that is a very common cause of
+conflict.
+
+104
+00:05:37,360 --> 00:05:39,040
+People have different ideas, right?
+
+105
+00:05:39,100 --> 00:05:41,869
+They want to take
+the, they want to do the,
+
+106
+00:05:41,870 --> 00:05:44,180
+I mean, the end result might be the same.
+
+107
+00:05:44,240 --> 00:05:46,820
+They want to get to the end result,
+the same end result, but, you know,
+
+108
+00:05:46,900 --> 00:05:48,717
+how they actually get there might be
+different, right?
+
+109
+00:05:48,800 --> 00:05:50,550
+People have difference in opinions.
+
+110
+00:05:51,980 --> 00:05:53,430
+Communication is a big thing.
+
+111
+00:05:53,660 --> 00:05:54,860
+Communication breakdown.
+
+112
+00:05:55,400 --> 00:06:00,540
+One person, something doesn't get
+communicated to the other person.
+
+113
+00:06:01,980 --> 00:06:05,040
+There's a major, that can be a major cause
+of conflict.
+
+114
+00:06:05,220 --> 00:06:07,277
+That can be a major cause of disagreement.
+
+115
+00:06:07,360 --> 00:06:09,260
+Oh, I didn't know about the direction.
+
+116
+00:06:09,880 --> 00:06:12,080
+Nobody told me about, oh, there was a
+change.
+
+117
+00:06:12,360 --> 00:06:15,180
+There was a change in our policy.
+
+118
+00:06:15,480 --> 00:06:16,730
+I didn't know about that.
+
+119
+00:06:16,980 --> 00:06:18,840
+So that's a major cause of conflict.
+
+120
+00:06:19,620 --> 00:06:21,770
+Costs can also be a major cause of
+conflict.
+
+121
+00:06:22,160 --> 00:06:27,240
+So between buyer and seller, for example,
+naturally that can be, and depending on
+
+122
+00:06:27,241 --> 00:06:31,340
+the type of contract as well, in a
+separate video, right, in procurement
+
+123
+00:06:31,341 --> 00:06:35,140
+section, right, we are going to talk about
+the different types of contracts.
+
+124
+00:06:35,900 --> 00:06:39,137
+And so, you know, buyer and seller,
+depending on the type of contract,
+
+125
+00:06:39,220 --> 00:06:45,054
+that can be a major cause of conflict,
+right, between, you know, vendor and buyer.
+
+126
+00:06:45,640 --> 00:06:49,720
+And then on a project generally,
+these three, this last bullet point here,
+
+127
+00:06:50,000 --> 00:06:54,220
+on a project generally, schedule,
+priorities and resources, right,
+
+128
+00:06:54,380 --> 00:06:58,120
+these three account for 50% of all project
+conflicts, right?
+
+129
+00:06:58,240 --> 00:07:03,520
+Studies have been shown and these three
+account for 50% of all project conflicts.
+
+130
+00:07:04,140 --> 00:07:08,313
+So schedule, scheduling
+people, scheduling activities,
+
+131
+00:07:08,314 --> 00:07:11,021
+scheduling activities when
+people aren't available.
+
+132
+00:07:11,800 --> 00:07:14,150
+That's the major cause of conflict on a
+project.
+
+133
+00:07:14,860 --> 00:07:15,960
+scheduling activities.
+
+134
+00:07:16,780 --> 00:07:18,480
+Or just think of something simple.
+
+135
+00:07:18,920 --> 00:07:21,517
+Ever try to schedule a meeting with 10
+different people?
+
+136
+00:07:21,600 --> 00:07:23,317
+You know how difficult that can be.
+
+137
+00:07:23,400 --> 00:07:25,500
+And then people have scheduling conflicts.
+
+138
+00:07:26,120 --> 00:07:26,953
+Then priorities.
+
+139
+00:07:27,280 --> 00:07:30,480
+What's a priority to you might not be a
+priority to someone else.
+
+140
+00:07:30,980 --> 00:07:34,217
+So people are not attending your meetings
+because that's not the highest priority.
+
+141
+00:07:34,300 --> 00:07:37,980
+Or you're not getting the direction from
+senior management, right?
+
+142
+00:07:38,060 --> 00:07:41,540
+Because, you know, this project is not
+their highest priority.
+
+143
+00:07:41,560 --> 00:07:43,210
+That's a major cause of conflict.
+
+144
+00:07:43,640 --> 00:07:44,920
+And then resources.
+
+145
+00:07:45,800 --> 00:07:50,700
+First, not having enough resources,
+or secondly, pooling of resources.
+
+146
+00:07:51,620 --> 00:07:55,370
+Remember in a matrix organization,
+there's going to be pooling of resources.
+
+147
+00:07:55,900 --> 00:08:00,500
+So whether it's machines, people are using
+the same machines, people are fighting for
+
+148
+00:08:00,501 --> 00:08:05,920
+the same team members, that can be a major
+cause of conflict on a project.
+
+149
+00:08:06,700 --> 00:08:09,933
+And so that can lead to
+scheduling constraints and, you
+
+150
+00:08:09,934 --> 00:08:12,811
+know, people being double-booked
+and so on and so forth.
+
+151
+00:08:13,040 --> 00:08:16,680
+So these three then account for 50% of all
+project conflicts.
+
+152
+00:08:17,580 --> 00:08:22,320
+Okay, all right, so again, remember,
+conflict then is a difference in opinion.
+
+153
+00:08:23,020 --> 00:08:24,982
+In another video, then,
+we're going to talk about the
+
+154
+00:08:24,983 --> 00:08:27,440
+different types of conflict
+management techniques.
+

@@ -1,0 +1,435 @@
+﻿1
+00:00:05,920 --> 00:00:11,000
+Okay, so in this section, we're going to
+talk about two terms called Cost
+
+2
+00:00:11,001 --> 00:00:13,480
+Performance Index and Schedule Performance
+Index.
+
+3
+00:00:14,160 --> 00:00:16,580
+All right, so let's talk about each of
+these.
+
+4
+00:00:16,820 --> 00:00:20,180
+Now, both, cost performance index and
+schedule performance index.
+
+5
+00:00:20,900 --> 00:00:24,372
+Both of these represent
+the rate of performance,
+
+6
+00:00:24,373 --> 00:00:27,341
+but they'll look at them
+in slightly different ways.
+
+7
+00:00:28,120 --> 00:00:32,800
+So cost performance index really is
+looking at the rate of expenditure of your
+
+8
+00:00:32,801 --> 00:00:35,660
+funds, the rate of performance of your
+money.
+
+9
+00:00:36,380 --> 00:00:40,960
+And basically what it's saying is,
+for every dollar that I've spent,
+
+10
+00:00:41,740 --> 00:00:44,290
+how much dollars worth of work have I
+actually done?
+
+11
+00:00:44,880 --> 00:00:47,716
+So for every dollar that
+I've spent, how much
+
+12
+00:00:47,717 --> 00:00:50,294
+dollars worth of work
+have I actually done?
+
+13
+00:00:50,840 --> 00:00:55,680
+So if I spend one dollar, do I do one
+dollar's worth of work?
+
+14
+00:00:56,680 --> 00:00:59,014
+If that is a case, if I've
+spent one dollar and I've
+
+15
+00:00:59,015 --> 00:01:01,541
+done one dollar's worth
+of work, I'm right on budget.
+
+16
+00:01:02,060 --> 00:01:03,600
+That's where I'm expecting to be.
+
+17
+00:01:03,601 --> 00:01:09,400
+If, on the other hand, I spend $1 and I
+have done a dollar and $10 worth of work,
+
+18
+00:01:10,380 --> 00:01:13,082
+that means I have done more work than what
+
+19
+00:01:13,083 --> 00:01:15,780
+I have paid for, therefore
+I'm under budget.
+
+20
+00:01:16,320 --> 00:01:21,682
+If I spend $1 and I do
+less than a dollar's worth
+
+21
+00:01:21,683 --> 00:01:25,260
+of work, let's say I do
+$0.90 worth of work.
+
+22
+00:01:25,740 --> 00:01:29,620
+So for every dollar I spend, I've only
+done $0.90 worth of work.
+
+23
+00:01:29,820 --> 00:01:30,760
+That means I'm more of a budget.
+
+24
+00:01:30,761 --> 00:01:35,220
+Now, the formula then for CPI,
+right, for cost performance index,
+
+25
+00:01:35,400 --> 00:01:37,480
+is earned value over actual cost,
+right?
+
+26
+00:01:37,900 --> 00:01:40,840
+Now, the formula is very similar to cost
+variance.
+
+27
+00:01:41,620 --> 00:01:44,140
+Cost variance is earned value minus actual
+cost.
+
+28
+00:01:44,780 --> 00:01:47,560
+In this case, we're just dividing them,
+right?
+
+29
+00:01:47,880 --> 00:01:49,640
+That's your cost performance index.
+
+30
+00:01:50,500 --> 00:01:55,620
+So, in our example here, where we're doing
+a 10-week project, and we're five weeks
+
+31
+00:01:55,621 --> 00:01:57,952
+into this 10-week
+project, costing 100,000,
+
+32
+00:01:57,953 --> 00:02:00,580
+we're 40% complete, and we spent 60,000.
+
+33
+00:02:00,760 --> 00:02:01,593
+far.
+
+34
+00:02:02,400 --> 00:02:06,360
+So on previous videos then we had
+calculated our own value to be 40,000,
+
+35
+00:02:06,860 --> 00:02:08,240
+actual cost to be 60,000.
+
+36
+00:02:08,560 --> 00:02:11,420
+So when you divide them, you get 0.67.
+
+37
+00:02:12,540 --> 00:02:15,380
+So we have a cost performance index of
+0.67.
+
+38
+00:02:15,700 --> 00:02:16,980
+Is that good or bad?
+
+39
+00:02:18,140 --> 00:02:19,040
+That's really bad.
+
+40
+00:02:19,340 --> 00:02:20,173
+That's terrible.
+
+41
+00:02:20,700 --> 00:02:24,252
+I was basically saying
+for every dollar that I
+
+42
+00:02:24,253 --> 00:02:27,500
+spend, my team only
+does 67 cents worth of work.
+
+43
+00:02:28,600 --> 00:02:32,320
+My dollar is only working at a rate of 67
+cents to the dollar.
+
+44
+00:02:33,200 --> 00:02:36,188
+My rate of expenditure or
+funds, if you like, or my rate
+
+45
+00:02:36,189 --> 00:02:40,620
+of performance of my dollar
+is 67%, which is not good.
+
+46
+00:02:41,760 --> 00:02:44,260
+So it basically tells me that I am over
+budget.
+
+47
+00:02:45,120 --> 00:02:46,337
+I'm a cost performance index.
+
+48
+00:02:46,420 --> 00:02:49,600
+If it's less than one, it means that I'm
+over budget.
+
+49
+00:02:49,720 --> 00:02:54,080
+So this case, less than one in bad is bad,
+greater than one is good, right?
+
+50
+00:02:54,860 --> 00:02:58,220
+If I'm working at a rate greater than
+100%, then that's good.
+
+51
+00:02:59,260 --> 00:03:02,460
+Now, same with Schedule Performance Index,
+SPI.
+
+52
+00:03:03,280 --> 00:03:07,330
+Schedule Performance Index is looking at
+your rate performance of the actual work.
+
+53
+00:03:08,120 --> 00:03:10,040
+Have we worked at 100% rate so far?
+
+54
+00:03:10,880 --> 00:03:12,924
+So if we've been building this road, we
+
+55
+00:03:12,925 --> 00:03:15,240
+should have built five
+sections of the road.
+
+56
+00:03:15,640 --> 00:03:19,120
+If we had built five sections of the road,
+we worked at 100% rate.
+
+57
+00:03:19,600 --> 00:03:21,600
+That means our SPI will be one.
+
+58
+00:03:23,280 --> 00:03:26,760
+If our SPI is greater than one,
+right?
+
+59
+00:03:26,761 --> 00:03:31,260
+Basically, if we've worked at a 120% rate,
+then we're ahead of schedule.
+
+60
+00:03:32,420 --> 00:03:35,360
+If we've worked out a 90% rate,
+then we're behind schedule.
+
+61
+00:03:37,100 --> 00:03:42,060
+So the formula for SPI then is earned
+value over planned value.
+
+62
+00:03:42,760 --> 00:03:45,220
+Again, very similar to schedule variance.
+
+63
+00:03:46,060 --> 00:03:48,710
+Schedule variance is earned value minus
+planned value.
+
+64
+00:03:49,420 --> 00:03:51,340
+In this case, you're dividing them.
+
+65
+00:03:52,060 --> 00:03:56,040
+So basically it's saying the rate
+performance of the work achieved so far,
+
+66
+00:03:56,041 --> 00:04:01,480
+in this case then, our earned value is
+40,000, planned value was 50,000,
+
+67
+00:04:02,240 --> 00:04:04,190
+that we calculated in a previous video.
+
+68
+00:04:04,620 --> 00:04:06,060
+And so SPI then is 0.8.
+
+69
+00:04:06,500 --> 00:04:11,320
+Our rate of performance of the work that
+we've achieved so far is basically 80%.
+
+70
+00:04:11,321 --> 00:04:12,980
+Is that good or bad?
+
+71
+00:04:13,640 --> 00:04:14,890
+Again, that's really bad.
+
+72
+00:04:15,400 --> 00:04:17,580
+We've only worked at a rate of 80%.
+
+73
+00:04:17,581 --> 00:04:18,780
+That's not good.
+
+74
+00:04:19,600 --> 00:04:22,510
+So with either of these,
+the cost performance
+
+75
+00:04:22,511 --> 00:04:24,601
+index, our schedule performance index.
+
+76
+00:04:25,240 --> 00:04:27,720
+Any number that's less than one is not
+good.
+
+77
+00:04:28,160 --> 00:04:29,780
+Greater than one is good.
+
+78
+00:04:31,380 --> 00:04:35,640
+So in this case then, we've only worked at
+an 80% rate, which makes sense because
+
+79
+00:04:35,641 --> 00:04:38,120
+remember what the scenario is,
+right?
+
+80
+00:04:38,400 --> 00:04:41,050
+We should have built five sections of the
+road so far.
+
+81
+00:04:41,260 --> 00:04:43,357
+We've only built four sections of the
+road.
+
+82
+00:04:43,440 --> 00:04:45,400
+Four sections is 80% of five sections.
+
+83
+00:04:45,560 --> 00:04:47,417
+That's basically what we've calculated.
+
+84
+00:04:47,500 --> 00:04:50,040
+Five sections of the road is worth
+$50,000.
+
+85
+00:04:50,800 --> 00:04:53,420
+Four sections of the road is worth
+$40,000.
+
+86
+00:04:54,120 --> 00:04:56,400
+$40,000 is 80% of $50,000.
+
+87
+00:04:56,680 --> 00:04:58,880
+That is basically what we've calculated
+here.
+
+88
+00:04:59,280 --> 00:05:01,948
+Alright, so these are
+two of the indices, then,
+
+89
+00:05:01,949 --> 00:05:04,714
+two of the three indexes that I mentioned.
+
+90
+00:05:05,000 --> 00:05:08,940
+So these are then in terms of a 1,
+right, when you multiply by 100,
+
+91
+00:05:09,560 --> 00:05:11,340
+then you get a percentage.
+
+92
+00:05:12,440 --> 00:05:16,540
+And these are showing the actual rate of
+performance then, the rate of performance
+
+93
+00:05:16,541 --> 00:05:19,760
+of your dollar and the rate of performance
+of the actual work.
+

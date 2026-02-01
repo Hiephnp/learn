@@ -1,0 +1,957 @@
+﻿1
+00:00:05,920 --> 00:00:10,000
+Okay, so let's talk about training,
+pairing, and mentoring.
+
+2
+00:00:10,440 --> 00:00:14,000
+I really discuss a difference between the
+three of these terms.
+
+3
+00:00:15,520 --> 00:00:20,100
+Now, training refers to an individual team
+member gaining skill sets.
+
+4
+00:00:20,880 --> 00:00:24,300
+Right, so it's an individual team member
+gaining their skill sets.
+
+5
+00:00:24,640 --> 00:00:25,890
+That is what training is.
+
+6
+00:00:27,000 --> 00:00:29,200
+As opposed to team development.
+
+7
+00:00:30,320 --> 00:00:31,937
+Don't confuse that with team development.
+
+8
+00:00:32,020 --> 00:00:34,677
+Now, training is an important part of team
+development.
+
+9
+00:00:34,760 --> 00:00:35,593
+Absolutely is.
+
+10
+00:00:35,920 --> 00:00:42,280
+But team development itself refers to the
+team coming together as a whole,
+
+11
+00:00:42,540 --> 00:00:44,900
+team interaction, team building.
+
+12
+00:00:45,680 --> 00:00:47,980
+That's what team development refers to,
+right?
+
+13
+00:00:48,060 --> 00:00:51,246
+And training is one aspect
+of that is an individual
+
+14
+00:00:51,247 --> 00:00:53,994
+team member gaining their own skill sets.
+
+15
+00:00:54,440 --> 00:00:57,400
+Now, team members want to gain their skill
+sets, right?
+
+16
+00:00:57,860 --> 00:01:03,100
+So training can be to obviously fill in
+gaps.
+
+17
+00:01:03,780 --> 00:01:05,340
+That's what training is, right?
+
+18
+00:01:05,341 --> 00:01:07,712
+or individuals, they
+need to increase skill
+
+19
+00:01:07,713 --> 00:01:09,760
+sets because there's a
+training gap somewhere.
+
+20
+00:01:09,920 --> 00:01:11,945
+They don't have the
+appropriate technical skills
+
+21
+00:01:11,946 --> 00:01:14,494
+or management skills
+or whatever it is, right?
+
+22
+00:01:14,740 --> 00:01:19,080
+But also at the beginning of a project,
+the project manager themselves or the
+
+23
+00:01:19,081 --> 00:01:24,100
+team, right, or the team facilitator
+themselves can always determine if there
+
+24
+00:01:24,101 --> 00:01:27,860
+are any specific training needs for that
+particular project.
+
+25
+00:01:28,180 --> 00:01:31,943
+So in other words, all team
+members need to go on a particular
+
+26
+00:01:31,944 --> 00:01:34,397
+training before they can
+start working on this project.
+
+27
+00:01:34,480 --> 00:01:39,100
+So it might be a project-specific
+training, it might be company-specific
+
+28
+00:01:39,101 --> 00:01:42,200
+training, it might be client-specific
+training.
+
+29
+00:01:42,900 --> 00:01:47,940
+So, for example, training team members on
+the methodology for this project.
+
+30
+00:01:48,220 --> 00:01:51,700
+What are the procedure, the basic
+procedures for this new project?
+
+31
+00:01:52,280 --> 00:01:55,020
+Or client-specific methodology.
+
+32
+00:01:55,640 --> 00:02:00,580
+Before team members can roll onto an
+external client project, before they can
+
+33
+00:02:00,581 --> 00:02:05,140
+roll onto the client site, for example,
+they need to go on some specific training
+
+34
+00:02:05,141 --> 00:02:07,574
+to learn about the client, learn about the
+
+35
+00:02:07,575 --> 00:02:11,220
+procedures for the client
+that they're working for.
+
+36
+00:02:12,400 --> 00:02:17,960
+So there might be some specific training
+that all team members go on, but then
+
+37
+00:02:17,961 --> 00:02:22,680
+obviously there's going to be training
+involved where team members are lacking in
+
+38
+00:02:22,681 --> 00:02:25,120
+some skill sets, they need to gain skill
+sets.
+
+39
+00:02:27,120 --> 00:02:32,800
+Now, at the beginning of a project then,
+or beginning of a release, then team
+
+40
+00:02:32,801 --> 00:02:37,280
+members, project manager, team
+facilitator, agile coach, they need to
+
+41
+00:02:37,281 --> 00:02:41,600
+understand what training needs or they
+need to anticipate these training needs.
+
+42
+00:02:42,040 --> 00:02:44,240
+So there's going to be a training plan.
+
+43
+00:02:44,400 --> 00:02:46,000
+They may create a training plan.
+
+44
+00:02:46,100 --> 00:02:49,350
+And training plan can obviously be created
+throughout the project.
+
+45
+00:02:49,860 --> 00:02:52,080
+So training plan is a document.
+
+46
+00:02:52,280 --> 00:02:53,130
+It's an artifact.
+
+47
+00:02:53,380 --> 00:02:56,630
+And then they're going to be creating a
+training calendar as well.
+
+48
+00:02:56,900 --> 00:02:59,797
+And then the calendar is going to be
+showing the dates of the training,
+
+49
+00:02:59,880 --> 00:03:01,777
+location of the training and so and so
+forth.
+
+50
+00:03:01,860 --> 00:03:06,240
+So the first thing, though, is to identify
+the need for the training.
+
+51
+00:03:06,760 --> 00:03:08,810
+What is the actual need for the training?
+
+52
+00:03:09,360 --> 00:03:12,040
+So you need to identify
+the competencies and
+
+53
+00:03:12,041 --> 00:03:15,474
+skill sets that's required to do the work.
+
+54
+00:03:15,920 --> 00:03:18,120
+And then you need to identify any
+weaknesses.
+
+55
+00:03:18,380 --> 00:03:20,480
+You need to recognize any weaknesses
+there.
+
+56
+00:03:22,280 --> 00:03:27,720
+Now, this is not just the project manager
+or the team facilitator identifying that.
+
+57
+00:03:27,721 --> 00:03:34,373
+Individual team members will also identify
+their strengths and weaknesses, right?
+
+58
+00:03:34,460 --> 00:03:40,520
+Team members, they may themselves identify
+areas that they need to improve, right?
+
+59
+00:03:40,680 --> 00:03:44,160
+They themselves will want to go on
+additional training, right?
+
+60
+00:03:44,640 --> 00:03:51,640
+Now, this also will be as a result of an
+open air of communication, right?
+
+61
+00:03:51,920 --> 00:03:56,500
+So team members should not be considered,
+you know, something negative.
+
+62
+00:03:56,501 --> 00:04:00,720
+So it should not be considered negative
+that, oh, I don't have this skill set.
+
+63
+00:04:01,080 --> 00:04:03,300
+I better keep quiet about it, right?
+
+64
+00:04:03,760 --> 00:04:05,310
+No, you don't have a skill set.
+
+65
+00:04:05,740 --> 00:04:10,120
+Then you should be empowered to speak up
+and say, I don't have this skill set.
+
+66
+00:04:10,620 --> 00:04:12,220
+I need some additional training.
+
+67
+00:04:12,840 --> 00:04:15,520
+Otherwise, how are team members going to
+build trust?
+
+68
+00:04:15,640 --> 00:04:17,117
+How are they going to work together?
+
+69
+00:04:17,200 --> 00:04:19,777
+How are they going to build trust amongst
+one another?
+
+70
+00:04:19,860 --> 00:04:22,680
+Now, training does not necessarily mean,
+right?
+
+71
+00:04:22,681 --> 00:04:26,480
+It doesn't just necessarily mean that team
+members are taking days off work.
+
+72
+00:04:26,500 --> 00:04:28,880
+and sitting in a class, right?
+
+73
+00:04:29,040 --> 00:04:31,603
+I mean, that is obviously, you
+know, classroom is obviously
+
+74
+00:04:31,686 --> 00:04:33,648
+a type of training, but there's
+also, you know, you have
+
+75
+00:04:33,649 --> 00:04:36,234
+synchronous training
+and asynchronous training.
+
+76
+00:04:36,700 --> 00:04:39,974
+The training can also be
+coaching on the job training,
+
+77
+00:04:39,975 --> 00:04:44,580
+job shadowing, that's all
+part of synchronous training.
+
+78
+00:04:45,640 --> 00:04:49,057
+But then you could also have
+asynchronous training, video
+
+79
+00:04:49,058 --> 00:04:52,540
+on demand, or even just
+documentation reviews, for example.
+
+80
+00:04:53,380 --> 00:04:55,867
+Documentation review,
+meaning your learning
+
+81
+00:04:55,868 --> 00:04:58,914
+assistant assistant, by reading a manual.
+
+82
+00:04:59,200 --> 00:05:02,457
+You could just be reading the manual,
+following the instructions in the manual,
+
+83
+00:05:02,540 --> 00:05:06,317
+and then learning this particular system
+or learning this particular process.
+
+84
+00:05:06,400 --> 00:05:08,000
+That can also include training.
+
+85
+00:05:08,160 --> 00:05:12,840
+And obviously, you know, training is going
+to be different based on the industry and
+
+86
+00:05:12,841 --> 00:05:17,680
+the, you know, the type of project and the
+type of skill set and so on and so forth.
+
+87
+00:05:18,800 --> 00:05:22,300
+Now, one of the biggest things,
+though, regarding training, and a lot of
+
+88
+00:05:22,301 --> 00:05:27,660
+organizations do end up failing in this
+area is that training Training should be
+
+89
+00:05:27,661 --> 00:05:32,180
+given as close to the point of solution as
+it needed, right?
+
+90
+00:05:32,380 --> 00:05:35,103
+Close to the point where
+the skill set is actually going
+
+91
+00:05:35,104 --> 00:05:38,140
+to be used, is actually
+going to be utilized, right?
+
+92
+00:05:38,580 --> 00:05:40,320
+Not months and months in advance.
+
+93
+00:05:40,980 --> 00:05:44,200
+This happens all the time happens quite
+often.
+
+94
+00:05:44,700 --> 00:05:47,301
+Team member will go on
+training, but then they don't use
+
+95
+00:05:47,302 --> 00:05:50,360
+that skill set for another six
+months or another 10 months.
+
+96
+00:05:50,980 --> 00:05:53,580
+Well, they've forgotten what they've
+learned by then.
+
+97
+00:05:54,040 --> 00:05:56,480
+So it should always be as close.
+
+98
+00:05:56,500 --> 00:05:58,717
+those to the point of when it's actually
+needed.
+
+99
+00:05:58,800 --> 00:06:02,050
+So that can actually utilize those skill
+sets that they've learnt.
+
+100
+00:06:02,180 --> 00:06:06,980
+Now, of course, again, in reality,
+there's many, many factors that determine
+
+101
+00:06:06,981 --> 00:06:10,010
+the timeline of the training,
+when team members
+
+102
+00:06:10,011 --> 00:06:12,300
+are going on training and so and so forth.
+
+103
+00:06:12,620 --> 00:06:17,340
+Especially, you know, based on whether the
+instructor is internal to the organization
+
+104
+00:06:17,341 --> 00:06:20,060
+or external to the organization,
+right?
+
+105
+00:06:20,140 --> 00:06:23,074
+And then, you know,
+what other commitments,
+
+106
+00:06:23,075 --> 00:06:25,260
+team members have and so on and so forth.
+
+107
+00:06:25,261 --> 00:06:30,420
+right and you know you can you can only
+schedule like if it's a classroom training
+
+108
+00:06:30,421 --> 00:06:35,200
+you can only schedule it at certain points
+right you can't just have on-demand
+
+109
+00:06:35,201 --> 00:06:39,560
+classroom training right so in that case
+then they could have on-demand video
+
+110
+00:06:39,561 --> 00:06:45,880
+training right or documentation review and
+that kind of stuff but again the idea is
+
+111
+00:06:45,881 --> 00:06:53,180
+it should be as close to the point as
+needed okay now part of training then is
+
+112
+00:06:53,181 --> 00:06:59,080
+also going to include cost right training
+is not free right training is going to
+
+113
+00:06:59,081 --> 00:07:04,600
+cost and so training should be part of
+your project budget as well now if it's a
+
+114
+00:07:04,601 --> 00:07:10,280
+classroom training then you know books
+materials instructional costs right even
+
+115
+00:07:10,281 --> 00:07:14,860
+venues for example right so you're
+bringing in an external instructor that's
+
+116
+00:07:14,861 --> 00:07:19,980
+a very simple example let's say your team
+decides to go on p&p training and you
+
+117
+00:07:19,981 --> 00:07:23,660
+bring in an external PMP instructor,
+right?
+
+118
+00:07:23,840 --> 00:07:29,560
+So in-house, well, the availability of
+that instructor is going to determine,
+
+119
+00:07:29,740 --> 00:07:31,897
+you know, when you're going to have that
+training.
+
+120
+00:07:31,980 --> 00:07:35,220
+And then plus sometimes you might go to an
+external venue.
+
+121
+00:07:36,000 --> 00:07:40,080
+Just go to an external venue, right,
+a hotel conference room, for example.
+
+122
+00:07:40,460 --> 00:07:45,240
+Let's just get out of our office,
+have everybody out of the office so,
+
+123
+00:07:45,620 --> 00:07:49,940
+you know, they can think in a,
+you know, open mind, fresh mind,
+
+124
+00:07:50,360 --> 00:07:53,440
+they don't have to be worrying about work
+all the time, right?
+
+125
+00:07:53,700 --> 00:07:56,520
+So let's take them to an external training
+site.
+
+126
+00:07:57,060 --> 00:08:00,797
+So again, that all costs money and that's
+all going to be part of your budget.
+
+127
+00:08:00,880 --> 00:08:04,660
+So that's a consideration to make at the
+beginning of a project, right?
+
+128
+00:08:04,780 --> 00:08:09,100
+A consideration to make is what training
+do team members need to go on,
+
+129
+00:08:09,540 --> 00:08:14,560
+as in company-specific training,
+project-specific training, client-specific
+
+130
+00:08:14,561 --> 00:08:17,111
+training, that's all going to be part of
+the budget.
+
+131
+00:08:17,640 --> 00:08:22,860
+But then what happens if we identify need
+for additional training through,
+
+132
+00:08:23,200 --> 00:08:24,850
+say, halfway through the project?
+
+133
+00:08:25,340 --> 00:08:26,940
+What do we do in that situation?
+
+134
+00:08:27,540 --> 00:08:30,490
+So, you know, does that need to go through
+a change control?
+
+135
+00:08:31,160 --> 00:08:34,020
+Does a budget need to be approved and so
+on and so forth?
+
+136
+00:08:34,520 --> 00:08:34,620
+Right.
+
+137
+00:08:34,920 --> 00:08:37,261
+So additional training
+and throughout might need
+
+138
+00:08:37,262 --> 00:08:39,751
+to go through an integrated
+change control process.
+
+139
+00:08:40,540 --> 00:08:43,780
+Now, also something important to
+understand when we're talking about
+
+140
+00:08:43,781 --> 00:08:47,640
+training, training does not just mean team
+members.
+
+141
+00:08:48,720 --> 00:08:50,800
+Training can also be end users.
+
+142
+00:08:51,980 --> 00:08:53,520
+So we're developing a system.
+
+143
+00:08:54,140 --> 00:08:57,800
+We're implementing a brand new system or
+we're creating a machine.
+
+144
+00:08:58,400 --> 00:09:00,120
+We're installing a machine.
+
+145
+00:09:01,780 --> 00:09:03,797
+Well, end users need training on that
+machine.
+
+146
+00:09:03,880 --> 00:09:06,000
+End users need training on this system.
+
+147
+00:09:06,700 --> 00:09:10,580
+So again, all of these books,
+instructional costs and so and so forth.
+
+148
+00:09:11,200 --> 00:09:13,659
+So that's a consideration
+to make and that's
+
+149
+00:09:13,660 --> 00:09:16,334
+all going to be a direct
+cost to your project.
+
+150
+00:09:17,300 --> 00:09:19,217
+And it's going to be part of your budget.
+
+151
+00:09:19,300 --> 00:09:19,300
+Right.
+
+152
+00:09:19,580 --> 00:09:21,467
+So again, always remember
+that when we're talking
+
+153
+00:09:21,468 --> 00:09:23,914
+about training, it's not
+just team members.
+
+154
+00:09:24,100 --> 00:09:28,720
+It might be talking about stakeholders as
+well, other stakeholders like end users.
+
+155
+00:09:30,520 --> 00:09:33,920
+Now, what's the difference between pairing
+and mentoring then?
+
+156
+00:09:34,200 --> 00:09:39,100
+Now, in both cases, pairing and mentoring,
+the idea is to foster team collaboration,
+
+157
+00:09:39,760 --> 00:09:39,860
+right?
+
+158
+00:09:39,980 --> 00:09:43,820
+Team building, team collaboration,
+building trust amongst one another, right?
+
+159
+00:09:43,880 --> 00:09:46,980
+Because team members are working together
+in this case.
+
+160
+00:09:47,100 --> 00:09:49,200
+Or in this case, they're learning
+together.
+
+161
+00:09:49,860 --> 00:09:54,480
+So pairing is where two team members are
+learning from one another.
+
+162
+00:09:55,040 --> 00:09:59,160
+And typically what happens is,
+let's say, you have two new team members,
+
+163
+00:09:59,500 --> 00:10:00,333
+join the team.
+
+164
+00:10:00,500 --> 00:10:03,850
+And they, you know, the junior team
+members or the new team members,
+
+165
+00:10:04,000 --> 00:10:05,877
+they're learning about
+the project, the learning
+
+166
+00:10:05,878 --> 00:10:08,231
+about the team, the learning
+about the organization.
+
+167
+00:10:08,580 --> 00:10:10,280
+Well, they learn from one another.
+
+168
+00:10:10,480 --> 00:10:10,600
+Right.
+
+169
+00:10:10,680 --> 00:10:11,580
+So that's pairing.
+
+170
+00:10:11,800 --> 00:10:13,677
+Two team members learning from one
+another.
+
+171
+00:10:13,760 --> 00:10:15,480
+Whereas mentoring is specific.
+
+172
+00:10:15,500 --> 00:10:20,340
+an experienced team member, coaching a
+less experienced team member.
+
+173
+00:10:21,200 --> 00:10:24,800
+And in both cases, it's going to foster
+building, right, team building,
+
+174
+00:10:25,440 --> 00:10:28,090
+collaboration, and building trust amongst
+one another.
+
+175
+00:10:29,920 --> 00:10:35,749
+Now, there's also, there's
+no point in sending team
+
+176
+00:10:35,750 --> 00:10:39,521
+members to training if they're
+not going to learn anything.
+
+177
+00:10:40,100 --> 00:10:42,200
+So we need to measure the training
+outcome.
+
+178
+00:10:42,640 --> 00:10:43,820
+What have they actually learned?
+
+179
+00:10:43,821 --> 00:10:48,860
+So during training, you may have a
+pre-assessment and a post-assessment test.
+
+180
+00:10:49,600 --> 00:10:54,440
+So a pre-assessment, before they start the
+training, what do these team members know?
+
+181
+00:10:55,120 --> 00:10:58,820
+And most of the time you expect the
+pre-assessment scores to be really low.
+
+182
+00:10:59,480 --> 00:11:03,060
+But then immediately after the training,
+you may create a baseline now.
+
+183
+00:11:03,540 --> 00:11:06,040
+What do you have a post-assessment test?
+
+184
+00:11:06,440 --> 00:11:09,060
+So what have team members gained?
+
+185
+00:11:09,560 --> 00:11:10,140
+What have the learned?
+
+186
+00:11:10,240 --> 00:11:13,737
+So the post-assessment, hopefully,
+is they're going to score much higher.
+
+187
+00:11:13,820 --> 00:11:15,517
+what did it in the pre-assessment.
+
+188
+00:11:15,600 --> 00:11:18,540
+And either of those could be known as a
+training baseline.
+
+189
+00:11:19,040 --> 00:11:20,962
+Either the pre-assessment
+could be a training baseline
+
+190
+00:11:20,963 --> 00:11:23,431
+or the post-assessment
+could be the training baseline.
+
+191
+00:11:23,740 --> 00:11:27,077
+And then from the
+post-assessment then, team members
+
+192
+00:11:27,078 --> 00:11:30,380
+need to demonstrate how
+well they actually understood.
+
+193
+00:11:30,820 --> 00:11:33,340
+They need to apply the knowledge that they
+learned.
+
+194
+00:11:34,060 --> 00:11:37,040
+So that's how you'd measure
+the training outcome by
+
+195
+00:11:37,041 --> 00:11:40,440
+demonstrating how well they're
+actually performing now, right?
+
+196
+00:11:40,640 --> 00:11:43,737
+Demonstrating how well they're applying
+the knowledge that they learned.
+
+197
+00:11:43,820 --> 00:11:44,820
+during the training.
+
+198
+00:11:45,500 --> 00:11:48,820
+So this section then, as I said,
+we talked about training.
+
+199
+00:11:49,460 --> 00:11:52,220
+Training, a very important aspect of team
+development.
+
+200
+00:11:53,020 --> 00:11:57,080
+So is mentoring, so is pairing and
+coaching.
+
+201
+00:11:57,820 --> 00:11:59,920
+All important aspects of team development.
+

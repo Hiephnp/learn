@@ -1,0 +1,667 @@
+﻿1
+00:00:05,820 --> 00:00:09,080
+Okay, so in this video then, let's talk
+about EAC.
+
+2
+00:00:09,480 --> 00:00:11,860
+Now EAC is estimate at completion.
+
+3
+00:00:12,480 --> 00:00:15,980
+An estimate at completion is your
+forecasted budget.
+
+4
+00:00:17,360 --> 00:00:21,660
+Now, there are four formulas that you need
+to know for EAC, right?
+
+5
+00:00:21,860 --> 00:00:23,960
+And these are the four different formulas.
+
+6
+00:00:24,360 --> 00:00:25,897
+Now, why are they four formulas?
+
+7
+00:00:25,980 --> 00:00:28,157
+Well, in reality, there's actually many,
+many more.
+
+8
+00:00:28,240 --> 00:00:30,420
+There's many, many more formulas for EAC.
+
+9
+00:00:30,900 --> 00:00:33,800
+But these are just the four that you need
+for the PMP exam.
+
+10
+00:00:34,460 --> 00:00:35,800
+Now, what is EAC?
+
+11
+00:00:35,801 --> 00:00:36,634
+right.
+
+12
+00:00:36,800 --> 00:00:37,700
+Forecasted budget.
+
+13
+00:00:38,780 --> 00:00:43,520
+The BAC budget at completion, that is our
+original budget.
+
+14
+00:00:44,600 --> 00:00:46,800
+That's our original baseline budget.
+
+15
+00:00:47,820 --> 00:00:50,480
+Now, are we always going to meet that
+original budget?
+
+16
+00:00:51,820 --> 00:00:52,760
+Maybe, maybe not.
+
+17
+00:00:53,700 --> 00:00:55,550
+So what's our forecasted budget then?
+
+18
+00:00:55,700 --> 00:00:58,643
+If we've overspent or
+underspent so far, then what's
+
+19
+00:00:58,644 --> 00:01:01,174
+our projection now for
+the end of the project?
+
+20
+00:01:01,320 --> 00:01:03,080
+That is our forecasted budget.
+
+21
+00:01:04,060 --> 00:01:08,180
+And so there's, And the reason why there's
+different ways of calculating that is
+
+22
+00:01:08,181 --> 00:01:11,281
+because there's different assumptions that
+you could be making.
+
+23
+00:01:11,520 --> 00:01:14,820
+What's our rate of performance,
+right, for the rest of the project?
+
+24
+00:01:15,080 --> 00:01:17,980
+We're at a certain point in the project,
+right, so in this scenario that we've been
+
+25
+00:01:17,981 --> 00:01:22,400
+using, we are halfway through the project,
+we are 50% of the way through the project,
+
+26
+00:01:22,720 --> 00:01:25,765
+well, we still have the
+other 50% of the project to go
+
+27
+00:01:25,766 --> 00:01:28,640
+through, right, or the
+other 50% of the project left.
+
+28
+00:01:28,920 --> 00:01:33,080
+Well, what's our, what's our expectation
+or what's our assumption for how we're
+
+29
+00:01:33,081 --> 00:01:35,281
+going to perform for the rest of the
+project?
+
+30
+00:01:35,480 --> 00:01:37,057
+Are we going to work at the same rate?
+
+31
+00:01:37,140 --> 00:01:38,497
+Are we going to work at a different rate?
+
+32
+00:01:38,580 --> 00:01:40,397
+Are we going to improve our performance?
+
+33
+00:01:40,480 --> 00:01:42,680
+It takes all of that into consideration.
+
+34
+00:01:43,420 --> 00:01:45,970
+And that's why there's four different
+formulas here.
+
+35
+00:01:47,020 --> 00:01:50,380
+Now, I'm going to go through each of these
+formulas, right?
+
+36
+00:01:50,500 --> 00:01:55,160
+But really, it's these middle two that
+usually come up more on the exam.
+
+37
+00:01:55,760 --> 00:01:58,040
+These are the ones that are more popular
+ones.
+
+38
+00:01:58,620 --> 00:02:02,640
+So I'm going to talk about one and four
+just to get them out of the way and then
+
+39
+00:02:02,641 --> 00:02:05,900
+the next slide we will do some
+calculations on these middle two.
+
+40
+00:02:07,020 --> 00:02:11,260
+Now you need to know these formulas,
+you also need to know when to use them.
+
+41
+00:02:12,080 --> 00:02:16,017
+So in the exam, if they say, if they give
+you a bunch of numbers and they'll say,
+
+42
+00:02:16,100 --> 00:02:19,920
+calculate EAC, well there's four different
+EAC formulas, which one do we use?
+
+43
+00:02:20,800 --> 00:02:20,920
+Right.
+
+44
+00:02:21,300 --> 00:02:24,100
+So you need to know when to use them,
+right?
+
+45
+00:02:24,880 --> 00:02:26,997
+All right, so you would use the first one,
+right?
+
+46
+00:02:27,080 --> 00:02:29,080
+The first one is AC plus bottom up ETC.
+
+47
+00:02:29,420 --> 00:02:32,860
+It could also say new ETC, right,
+but generally bottom-up ETC.
+
+48
+00:02:33,460 --> 00:02:35,714
+You're going to use this if
+somewhere in the question it says
+
+49
+00:02:35,715 --> 00:02:38,561
+a new estimate is required, a
+new cost estimate is required.
+
+50
+00:02:39,060 --> 00:02:41,020
+Original estimates were wrong,
+right?
+
+51
+00:02:41,100 --> 00:02:43,560
+Or the original estimates were too high
+level.
+
+52
+00:02:44,880 --> 00:02:48,060
+Remember, bottom-up means a very detailed
+estimate, right?
+
+53
+00:02:48,220 --> 00:02:50,640
+So that's when he'd use this first one,
+right?
+
+54
+00:02:50,740 --> 00:02:54,257
+For somewhere in the question it says the
+original estimate is required.
+
+55
+00:02:54,340 --> 00:02:56,240
+You do this fourth one, right?
+
+56
+00:02:56,460 --> 00:02:59,757
+If it says, somewhere in the question,
+it says, poor cost performance,
+
+57
+00:02:59,840 --> 00:03:04,420
+you have to hit firm completion date,
+Right, and then spend the schedule is
+
+58
+00:03:04,421 --> 00:03:07,100
+going to impact the cost, I know,
+that kind of thing.
+
+59
+00:03:07,480 --> 00:03:09,450
+So that's when you
+use this formula, AC plus
+
+60
+00:03:09,451 --> 00:03:12,800
+B, A, C, minus E, V,
+divided by CPI times SPI.
+
+61
+00:03:13,380 --> 00:03:16,757
+Right, your schedule performance is going
+to impact your cost performance.
+
+62
+00:03:16,840 --> 00:03:19,190
+Right, so that's when you'd use this
+fourth one.
+
+63
+00:03:19,300 --> 00:03:23,160
+Again, number one and number four,
+not as likely to come up.
+
+64
+00:03:23,660 --> 00:03:26,940
+Not that it won't come up, but it's not as
+common.
+
+65
+00:03:27,640 --> 00:03:29,340
+By far, it's number two and three.
+
+66
+00:03:29,520 --> 00:03:31,620
+So let's go through the calculations on
+these.
+
+67
+00:03:31,640 --> 00:03:32,900
+on those two.
+
+68
+00:03:34,460 --> 00:03:36,620
+Now, remember our scenario here then,
+right?
+
+69
+00:03:36,740 --> 00:03:40,640
+We're five weeks into the 10-week project,
+costing $100,000 and $40% complete,
+
+70
+00:03:40,820 --> 00:03:42,800
+and we've spent $60,000 so far.
+
+71
+00:03:43,160 --> 00:03:49,440
+Now, the second EAC formula then,
+which is AC plus BAC minus EV, right?
+
+72
+00:03:49,800 --> 00:03:52,613
+You're going to use this if
+somewhere in the question, it
+
+73
+00:03:52,614 --> 00:03:55,900
+says future spending will
+be at the budgeted rate, right?
+
+74
+00:03:55,940 --> 00:03:58,190
+They'll mention something about budgeted
+rate.
+
+75
+00:03:58,360 --> 00:04:03,900
+Either spending continues at the budgeted
+rate, right, or work continues at the
+
+76
+00:04:03,901 --> 00:04:06,679
+budgeted rate, or it
+could say variances are
+
+77
+00:04:06,680 --> 00:04:10,700
+atypical, variances are
+not going to continue, right?
+
+78
+00:04:11,160 --> 00:04:14,480
+Then you'd use this second EAC formula.
+
+79
+00:04:15,500 --> 00:04:20,580
+Now, BAC remember, is the original budget,
+original baseline budget.
+
+80
+00:04:20,780 --> 00:04:23,700
+The original baseline budget for our
+project is $100,000.
+
+81
+00:04:25,240 --> 00:04:29,320
+All right, so these are the metrics that
+we have so far, right?
+
+82
+00:04:29,321 --> 00:04:33,720
+from, you know, previous calculations on
+previous videos, right?
+
+83
+00:04:33,860 --> 00:04:36,660
+We've got our actual cost of $60,000,
+right?
+
+84
+00:04:36,700 --> 00:04:38,437
+So we've got our budget given to us.
+
+85
+00:04:38,520 --> 00:04:41,377
+In fact, the actual cost is also given to
+us in the question.
+
+86
+00:04:41,460 --> 00:04:46,200
+The original budget given to us $100,000
+and the earned value $40,000.
+
+87
+00:04:46,460 --> 00:04:47,960
+That's what we've done so far.
+
+88
+00:04:48,200 --> 00:04:51,160
+So plug the numbers in, and we get
+$120,000.
+
+89
+00:04:52,300 --> 00:04:53,760
+Now, let's talk about this.
+
+90
+00:04:53,840 --> 00:04:54,840
+What does this mean?
+
+91
+00:04:54,940 --> 00:04:57,205
+Future spending will be
+at the budgeted rate, or
+
+92
+00:04:57,206 --> 00:05:00,440
+variances will, what are
+atypical, will not continue.
+
+93
+00:05:01,340 --> 00:05:08,693
+What this is saying is that whatever
+variances we have experienced, that's it.
+
+94
+00:05:09,120 --> 00:05:12,260
+We're not going to go any further over
+budget or any further behind schedule.
+
+95
+00:05:12,340 --> 00:05:14,497
+In this case, we're talking about the
+budget.
+
+96
+00:05:14,580 --> 00:05:20,620
+So however much over budget we have gone
+or under budget, you know, that's it.
+
+97
+00:05:20,960 --> 00:05:21,960
+It will just remain.
+
+98
+00:05:22,300 --> 00:05:24,990
+So whatever the reason
+was for these variances,
+
+99
+00:05:24,991 --> 00:05:27,554
+the atypical, they will not continue.
+
+100
+00:05:27,880 --> 00:05:31,501
+So my road example, We
+went, you know, our cost
+
+101
+00:05:31,502 --> 00:05:35,580
+variance we calculated was
+$20,000 or negative $20,000.
+
+102
+00:05:36,000 --> 00:05:40,020
+So in other words, we've gone $20,000 over
+budget so far, right?
+
+103
+00:05:40,380 --> 00:05:44,600
+And the assumption is that we will just
+remain $20,000 over budget.
+
+104
+00:05:45,280 --> 00:05:47,530
+We're not going to go any further over
+budget.
+
+105
+00:05:48,020 --> 00:05:50,362
+And if that's the case,
+our original budget is
+
+106
+00:05:50,363 --> 00:05:53,260
+$100,000, our project
+will finish up at $120,000.
+
+107
+00:05:53,760 --> 00:05:54,593
+Right.
+
+108
+00:05:55,000 --> 00:05:58,140
+So that is using this assumption,
+right?
+
+109
+00:05:58,420 --> 00:06:01,360
+And it's to say it's going to work every
+time, right?
+
+110
+00:06:01,620 --> 00:06:03,820
+That calculation is going to work every
+time.
+
+111
+00:06:04,460 --> 00:06:04,560
+Right.
+
+112
+00:06:04,940 --> 00:06:07,697
+So what I had just said, right,
+you could, you know, plug the numbers in.
+
+113
+00:06:07,780 --> 00:06:10,389
+It's basically saying that,
+you know, future spending will
+
+114
+00:06:10,390 --> 00:06:13,780
+be at the budgeted rate or
+variances will not continue.
+
+115
+00:06:14,700 --> 00:06:17,550
+However over budget or under budget we've
+gone, that's it.
+
+116
+00:06:17,860 --> 00:06:18,960
+That will just remain.
+
+117
+00:06:19,600 --> 00:06:24,880
+Now, what if we decide that, you know
+what, we've been working really
+
+118
+00:06:24,881 --> 00:06:28,006
+inefficiently so far,
+or inefficiently, and we
+
+119
+00:06:28,007 --> 00:06:31,380
+will just continue working
+at the exact same rate.
+
+120
+00:06:32,160 --> 00:06:36,460
+So, in other words, spending will continue
+at the current rate, or current cost
+
+121
+00:06:36,461 --> 00:06:40,300
+performance index will continue,
+we'll be working at the same rate.
+
+122
+00:06:41,480 --> 00:06:45,020
+Variances are typical, variances will
+continue.
+
+123
+00:06:46,080 --> 00:06:48,600
+Then we use this formula, BAC divided by
+CPS.
+
+124
+00:06:48,620 --> 00:06:52,560
+right because we're going to be working at
+the same rate and this case you know the
+
+125
+00:06:52,561 --> 00:06:58,560
+the ESE is always talking about in terms
+of the cost right so whatever cost we've
+
+126
+00:06:58,561 --> 00:07:02,180
+been increasing right we've been working
+really inefficiently so far we'll just
+
+127
+00:07:02,181 --> 00:07:06,060
+continue working at the same inefficient
+rate right all we've been working
+
+128
+00:07:06,061 --> 00:07:10,060
+efficiently so far we'll continue working
+at the same efficient rate so in our
+
+129
+00:07:10,061 --> 00:07:15,680
+example right of building this road we've
+been working inefficiently our CPI that we
+
+130
+00:07:15,681 --> 00:07:18,740
+calculated in previous video is only 0.67,
+right?
+
+131
+00:07:18,880 --> 00:07:21,334
+So our BSE original
+budget, right, budget at
+
+132
+00:07:21,335 --> 00:07:25,540
+completion 100,000, divided
+by 0.67, we get 150,000.
+
+133
+00:07:26,360 --> 00:07:30,520
+So in other words, if we continue working
+at the same rate that we've been working
+
+134
+00:07:30,521 --> 00:07:33,840
+at so far, our project will finish up at
+150,000.
+
+135
+00:07:34,860 --> 00:07:40,140
+If we can go back to the budgeted rate,
+right, if what we've experienced so far,
+
+136
+00:07:40,260 --> 00:07:44,060
+we've gone over budget, $20,000,
+if we don't go any further over budget,
+
+137
+00:07:44,240 --> 00:07:45,940
+our project will finish up at 120.
+
+138
+00:07:46,240 --> 00:07:50,320
+But if we continue working at the same
+rate, our project will finish about 150,
+
+139
+00:07:50,500 --> 00:07:51,340
+$150,000.
+
+140
+00:07:51,880 --> 00:07:55,520
+So that's the basic difference between
+these two ESE formulas.
+

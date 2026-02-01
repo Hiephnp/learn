@@ -1,0 +1,716 @@
+﻿1
+00:00:06,610 --> 00:00:08,666
+Okay, so in this video, we are going to
+
+2
+00:00:08,667 --> 00:00:11,754
+introduce the concept of
+earned value management.
+
+3
+00:00:12,820 --> 00:00:18,194
+An earned value management is a
+methodology or approach to cost management.
+
+4
+00:00:18,660 --> 00:00:22,720
+Now, there are many different ways of
+valuing your project.
+
+5
+00:00:23,720 --> 00:00:26,240
+Different industries value projects
+differently, right?
+
+6
+00:00:26,320 --> 00:00:28,058
+They use different math,
+different convention,
+
+7
+00:00:28,141 --> 00:00:29,877
+different formulas, and so and so forth.
+
+8
+00:00:29,960 --> 00:00:33,640
+An IT project, for example, is valued very
+differently to a construction project.
+
+9
+00:00:33,641 --> 00:00:39,120
+So there's many different methodologies
+and conventions out there, but the one
+
+10
+00:00:39,121 --> 00:00:41,353
+that you need to know
+for the exam is this one
+
+11
+00:00:41,354 --> 00:00:43,954
+called Earned Value,
+Earned Value Management.
+
+12
+00:00:44,220 --> 00:00:47,900
+So in this video, we're going to be
+discussing these three terms, right?
+
+13
+00:00:47,980 --> 00:00:52,220
+These are the three basic earned value
+terms, planned value, earned value,
+
+14
+00:00:52,520 --> 00:00:53,353
+actual cost.
+
+15
+00:00:55,460 --> 00:01:00,040
+Now, the whole principle behind earned
+value management is that everything is
+
+16
+00:01:00,041 --> 00:01:03,860
+calculated in terms of dollars worth of
+work.
+
+17
+00:01:04,440 --> 00:01:07,100
+Even for example, the schedule.
+
+18
+00:01:07,860 --> 00:01:11,413
+So in an earned value
+environment, you will not say
+
+19
+00:01:11,414 --> 00:01:14,180
+we are three weeks behind
+schedule, for example.
+
+20
+00:01:15,120 --> 00:01:19,070
+Instead, you'll say something like we're
+$100,000 worth of work behind schedule.
+
+21
+00:01:19,700 --> 00:01:23,661
+So the way they have
+the formulas is everything
+
+22
+00:01:23,662 --> 00:01:26,814
+is basically converted
+into a dollar value.
+
+23
+00:01:27,560 --> 00:01:30,060
+Everything is converted into a monetary
+value.
+
+24
+00:01:31,320 --> 00:01:36,840
+And that's why the first time you look at
+earned value, it can be a little
+
+25
+00:01:36,841 --> 00:01:41,320
+challenging, right, because you're
+converting your schedule into a dollar.
+
+26
+00:01:41,900 --> 00:01:44,120
+And so it can be a little confusing at
+first.
+
+27
+00:01:44,600 --> 00:01:46,717
+I mean, just remember, time is money,
+right?
+
+28
+00:01:46,800 --> 00:01:48,250
+So just think of it that way.
+
+29
+00:01:48,880 --> 00:01:52,240
+So we're going to go through these three
+basic terms, right?
+
+30
+00:01:52,340 --> 00:01:53,940
+These are the three basic terms.
+
+31
+00:01:54,060 --> 00:01:56,008
+And then in subsequent videos, we're going
+
+32
+00:01:56,009 --> 00:01:58,220
+to cover all of the
+additional terms as well.
+
+33
+00:01:58,420 --> 00:02:03,240
+And if you understand these three terms,
+planned value, earned value, actual cost,
+
+34
+00:02:03,640 --> 00:02:05,290
+right, this is a good foundation.
+
+35
+00:02:05,660 --> 00:02:08,333
+If you understand these
+terms, then some of the other
+
+36
+00:02:08,334 --> 00:02:11,440
+terms, some of the other
+formulas are fall into place.
+
+37
+00:02:12,180 --> 00:02:12,340
+All right.
+
+38
+00:02:12,480 --> 00:02:13,997
+So let's go through each of these.
+
+39
+00:02:14,080 --> 00:02:17,900
+So first one then, planned value,
+PV, planned value.
+
+40
+00:02:18,500 --> 00:02:21,514
+Planned value is saying, at this point in
+
+41
+00:02:21,515 --> 00:02:25,214
+time, how much work
+should have been completed?
+
+42
+00:02:25,600 --> 00:02:29,840
+right, how much dollars worth of work
+should we have done at this point in time?
+
+43
+00:02:30,940 --> 00:02:33,330
+So here's a typical
+scenario, right, that you
+
+44
+00:02:33,331 --> 00:02:35,640
+could get, very simple
+typical scenario, right?
+
+45
+00:02:35,780 --> 00:02:39,480
+So it says you're five weeks into a
+10-week project costing $100,000,
+
+46
+00:02:39,860 --> 00:02:43,000
+you're 40% complete and you've spent
+$60,000 so far.
+
+47
+00:02:43,920 --> 00:02:44,260
+All right.
+
+48
+00:02:44,800 --> 00:02:48,984
+So if we are five weeks into
+a 10-week project, then our
+
+49
+00:02:48,985 --> 00:02:53,900
+plan value is that we should
+have completed 50% of the work.
+
+50
+00:02:55,100 --> 00:02:57,740
+Now, let me just take a little sidebar
+here.
+
+51
+00:02:58,840 --> 00:03:02,980
+For the purpose of the PMP exam and only
+the PNP exam, it doesn't work in reality,
+
+52
+00:03:03,280 --> 00:03:03,360
+right?
+
+53
+00:03:03,820 --> 00:03:06,716
+You always assume
+that your planned value is
+
+54
+00:03:06,717 --> 00:03:10,194
+going to be spread
+across your project linearly.
+
+55
+00:03:10,640 --> 00:03:14,080
+It's always a straight line relationship,
+right?
+
+56
+00:03:14,440 --> 00:03:19,140
+So it's not necessary, so in reality it's
+going to be an S curve, right?
+
+57
+00:03:19,141 --> 00:03:23,560
+But for the purpose of the PMP exam,
+right, you always assume that when they're
+
+58
+00:03:23,561 --> 00:03:27,100
+asking you about planned value, it's
+going to be spread across your project.
+
+59
+00:03:27,280 --> 00:03:29,830
+Line, it's going to be a straight line
+relationship.
+
+60
+00:03:29,960 --> 00:03:32,953
+They're just testing your
+knowledge and understanding
+
+61
+00:03:32,954 --> 00:03:35,481
+of the terms and formula
+more than anything else.
+
+62
+00:03:36,040 --> 00:03:40,340
+If we're on a 10-week project,
+each week we should have completed
+
+63
+00:03:40,341 --> 00:03:43,600
+one-tenth of the work and spent one-tenth
+of the budget.
+
+64
+00:03:44,380 --> 00:03:47,960
+If we're on a one-year project,
+each month, we should have completed
+
+65
+00:03:47,961 --> 00:03:50,411
+1-12th of the work and spent 1-12th of the
+budget.
+
+66
+00:03:51,120 --> 00:03:54,240
+So in this case, then, it's a 10-week
+project costing $100,000.
+
+67
+00:03:55,100 --> 00:03:59,580
+So each week we should be doing $10,000
+worth of work, right?
+
+68
+00:04:00,580 --> 00:04:05,120
+So basically doing one-tenth of the work
+and spending $10,000 a week.
+
+69
+00:04:05,900 --> 00:04:11,660
+So if we are five weeks into a 10-week
+project, then what would our plan value be?
+
+70
+00:04:12,080 --> 00:04:13,300
+Simply $50,000.
+
+71
+00:04:13,840 --> 00:04:15,380
+Right, we have five weeks.
+
+72
+00:04:15,381 --> 00:04:17,403
+So we're five-tenths
+of the way through the
+
+73
+00:04:17,404 --> 00:04:20,280
+project, 50% of the way
+through the project, right?
+
+74
+00:04:20,320 --> 00:04:22,180
+So a plan value is $50,000.
+
+75
+00:04:22,800 --> 00:04:23,320
+Right?
+
+76
+00:04:23,340 --> 00:04:25,017
+So that would be our plan value here.
+
+77
+00:04:25,100 --> 00:04:27,603
+or another way of
+looking at this, each week
+
+78
+00:04:27,604 --> 00:04:30,514
+we should be doing $10,000 worth of work.
+
+79
+00:04:30,680 --> 00:04:34,520
+So five weeks time $10,000, $50,000.
+
+80
+00:04:35,440 --> 00:04:37,190
+So that's what we should have done.
+
+81
+00:04:37,720 --> 00:04:38,820
+That's our plan value.
+
+82
+00:04:39,700 --> 00:04:43,940
+Earned value, on the other hand,
+is at the same point in time, where we are
+
+83
+00:04:43,941 --> 00:04:48,120
+right now, how much dollars worth of work
+have we actually done?
+
+84
+00:04:48,660 --> 00:04:51,980
+What have we actually accomplished at this
+point in time?
+
+85
+00:04:53,400 --> 00:04:57,320
+So it says here in our, question that we
+are 40% complete.
+
+86
+00:04:57,740 --> 00:04:59,820
+We should be 50% complete.
+
+87
+00:05:00,100 --> 00:05:02,250
+We should be five weeks and 10 week
+project.
+
+88
+00:05:02,500 --> 00:05:04,400
+But let's say we're only 40% complete.
+
+89
+00:05:04,940 --> 00:05:05,360
+Right.
+
+90
+00:05:05,460 --> 00:05:08,860
+So we have done 40% of the entire project.
+
+91
+00:05:09,000 --> 00:05:10,920
+The entire project is costing 100,000.
+
+92
+00:05:11,180 --> 00:05:12,780
+We've done 40%.
+
+93
+00:05:12,781 --> 00:05:16,200
+So earned value is simply 40% of 100,000.
+
+94
+00:05:17,280 --> 00:05:22,300
+Now, if we look at these two terms,
+plan value, earned value, just as a side
+
+95
+00:05:22,301 --> 00:05:26,440
+note, we should have completed $50,000
+worth of work.
+
+96
+00:05:26,600 --> 00:05:27,700
+That's our plan value.
+
+97
+00:05:28,040 --> 00:05:30,640
+We should have completed $50,000 worth of
+work.
+
+98
+00:05:31,280 --> 00:05:36,000
+But our earned value says we have actually
+completed $40,000 worth of work.
+
+99
+00:05:36,600 --> 00:05:38,920
+What does this tell you about your
+project?
+
+100
+00:05:39,680 --> 00:05:42,526
+Just by looking at the
+numbers, we should have done
+
+101
+00:05:42,527 --> 00:05:46,600
+50,000, we've actually done
+40,000, we're behind schedule.
+
+102
+00:05:47,340 --> 00:05:49,090
+And in fact, we're behind schedule.
+
+103
+00:05:49,200 --> 00:05:52,877
+If we compare the number, where they're
+actually behind schedule by $10,000.
+
+104
+00:05:52,960 --> 00:05:54,407
+That's something called Schedule Variance,
+
+105
+00:05:54,408 --> 00:05:57,094
+which we're going to
+cover in another video.
+
+106
+00:05:58,180 --> 00:06:01,780
+So basically, by understanding,
+just by looking at, and understanding
+
+107
+00:06:01,781 --> 00:06:05,980
+these terms, looking at these numbers,
+you can, and the key is understanding,
+
+108
+00:06:06,640 --> 00:06:08,980
+you can see that we are behind schedule.
+
+109
+00:06:11,340 --> 00:06:15,900
+Now, actual cost, actual cost is how much
+have we actually spent so far?
+
+110
+00:06:17,180 --> 00:06:19,340
+So we have spent $60,000.
+
+111
+00:06:19,341 --> 00:06:20,741
+It tells us in the question.
+
+112
+00:06:21,480 --> 00:06:24,617
+In this case, it tells us in the question
+we have spent $60,000.
+
+113
+00:06:24,700 --> 00:06:26,000
+So now let's look at this.
+
+114
+00:06:26,660 --> 00:06:31,380
+Earned value is saying that we are 40%
+complete, right?
+
+115
+00:06:31,400 --> 00:06:32,260
+That's our earned value.
+
+116
+00:06:32,340 --> 00:06:33,380
+We are 40% complete.
+
+117
+00:06:34,360 --> 00:06:39,620
+So if we are 40% complete, we should have
+done $40,000 worth of work.
+
+118
+00:06:40,180 --> 00:06:46,080
+Our actual cost here is saying that we
+have spent $60,000, right?
+
+119
+00:06:46,120 --> 00:06:49,280
+So in our scenario, it says we spent
+$60,000.
+
+120
+00:06:49,340 --> 00:06:50,700
+so far.
+
+121
+00:06:51,120 --> 00:06:54,100
+In doing $40,000 worth of work.
+
+122
+00:06:55,040 --> 00:06:58,760
+So what we have accomplished so far is we
+are 40% complete.
+
+123
+00:06:58,940 --> 00:07:01,020
+We have done $40,000 worth of work.
+
+124
+00:07:01,100 --> 00:07:02,650
+Okay, so we're behind schedule.
+
+125
+00:07:03,060 --> 00:07:04,160
+We've understood that.
+
+126
+00:07:04,560 --> 00:07:09,360
+But in doing $40,000 worth of work,
+we should have spent $40,000.
+
+127
+00:07:10,140 --> 00:07:11,220
+But we haven't.
+
+128
+00:07:11,440 --> 00:07:13,180
+We have spent $60,000.
+
+129
+00:07:14,440 --> 00:07:17,290
+By looking at these two numbers,
+what are that telling us?
+
+130
+00:07:17,580 --> 00:07:19,257
+It's telling us we're over-budget.
+
+131
+00:07:19,340 --> 00:07:20,173
+Right.
+
+132
+00:07:20,580 --> 00:07:23,160
+And in this case, we should have spent
+40,000.
+
+133
+00:07:23,480 --> 00:07:24,880
+We've actually spent 60,000.
+
+134
+00:07:25,320 --> 00:07:27,920
+It's showing us that we're $20,000 over
+budget.
+
+135
+00:07:28,740 --> 00:07:30,620
+That is actually another formula.
+
+136
+00:07:30,820 --> 00:07:32,920
+That's a formula called schedule variance.
+
+137
+00:07:33,100 --> 00:07:36,260
+Again, schedule variance is covered in
+another video.
+
+138
+00:07:37,300 --> 00:07:41,150
+But just by looking at these two numbers,
+you can see that we are over budget.
+
+139
+00:07:41,460 --> 00:07:44,607
+So looking between the plan
+value and earned value, plan
+
+140
+00:07:44,608 --> 00:07:47,317
+value is what we should
+have done at this point in time.
+
+141
+00:07:47,400 --> 00:07:50,860
+Earned value is what we've actually done
+at this point in time, the difference is
+
+142
+00:07:50,861 --> 00:07:53,861
+showing how much ahead of schedule or
+behind schedule we are.
+
+143
+00:07:54,880 --> 00:07:58,780
+With earned value and the actual cost,
+when you're comparing these two numbers,
+
+144
+00:07:59,480 --> 00:08:02,109
+earned value is this is what
+we've actually accomplished,
+
+145
+00:08:02,110 --> 00:08:04,411
+and therefore that's what
+we should have spent.
+
+146
+00:08:04,900 --> 00:08:06,950
+Actual cost is what we've actually spent.
+
+147
+00:08:07,600 --> 00:08:09,922
+So the difference in these
+two then is going to be
+
+148
+00:08:09,923 --> 00:08:12,577
+showing you how much over
+budget or under budget we are.
+
+149
+00:08:12,660 --> 00:08:14,620
+Again, at this point in time.
+
+150
+00:08:15,380 --> 00:08:19,500
+Okay, So these are the three basic terms
+here, right?
+
+151
+00:08:19,760 --> 00:08:21,520
+So three basic earned value terms.
+
+152
+00:08:22,060 --> 00:08:23,910
+Plan value, earned value actual cost.
+
+153
+00:08:24,180 --> 00:08:26,538
+If you understand these
+three basic terms, some
+
+154
+00:08:26,539 --> 00:08:29,234
+of those other terms
+start falling into place.
+

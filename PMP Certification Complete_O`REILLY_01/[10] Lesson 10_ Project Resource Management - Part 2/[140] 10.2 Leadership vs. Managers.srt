@@ -1,0 +1,558 @@
+﻿1
+00:00:06,010 --> 00:00:10,770
+Okay, so let's talk about the differences
+then between leaders and managers.
+
+2
+00:00:12,750 --> 00:00:16,570
+Now, before we actually talk about the
+differences, right, understand that the
+
+3
+00:00:16,571 --> 00:00:20,390
+project manager is the visionary leader
+for the project.
+
+4
+00:00:21,090 --> 00:00:24,850
+Right, so project manager in a predictive
+project, right?
+
+5
+00:00:25,090 --> 00:00:28,770
+Remember, they are the command and control
+project manager.
+
+6
+00:00:29,450 --> 00:00:33,970
+They are the ones that are accountable for
+all the work that goes on the project.
+
+7
+00:00:33,971 --> 00:00:36,810
+They are the ones that are leading the
+team.
+
+8
+00:00:37,310 --> 00:00:38,760
+They are leading the project.
+
+9
+00:00:39,130 --> 00:00:41,730
+So they are the visionary leaders of the
+project.
+
+10
+00:00:42,210 --> 00:00:44,530
+They promote the direction of the project.
+
+11
+00:00:45,210 --> 00:00:47,841
+They are the ones that collaborate with
+
+12
+00:00:47,842 --> 00:00:51,010
+team members, collaborate
+with stakeholders.
+
+13
+00:00:52,030 --> 00:00:54,180
+They're making sure things are moving
+along.
+
+14
+00:00:54,410 --> 00:00:56,360
+They're performing all of the planning.
+
+15
+00:00:56,630 --> 00:00:57,787
+They're doing all of the planning.
+
+16
+00:00:57,870 --> 00:01:01,610
+And with team members, of course, with
+other stakeholders and other team members.
+
+17
+00:01:01,710 --> 00:01:03,950
+So again, they are collaborating with
+other.
+
+18
+00:01:03,970 --> 00:01:08,130
+other team members and other stakeholders,
+right, removing any issues, removing any
+
+19
+00:01:08,131 --> 00:01:11,410
+impediments to success and so and so
+forth, right?
+
+20
+00:01:11,510 --> 00:01:14,410
+So they are the visionary leader of the
+project.
+
+21
+00:01:14,550 --> 00:01:19,790
+They're making sure the project is moving
+along and it is meeting the strategic
+
+22
+00:01:19,791 --> 00:01:22,310
+direction of the organization,
+right?
+
+23
+00:01:22,410 --> 00:01:26,430
+The project is in line with the strategic
+direction of the organization and the
+
+24
+00:01:26,431 --> 00:01:29,950
+project is in line with the original scope
+of the project.
+
+25
+00:01:30,370 --> 00:01:33,650
+The project is not going off on a tangent
+somewhere, right?
+
+26
+00:01:33,730 --> 00:01:35,775
+We're not having runaway costs and, you
+
+27
+00:01:35,776 --> 00:01:39,104
+know, runaway timelines
+and so and so forth.
+
+28
+00:01:39,410 --> 00:01:43,170
+On an agile project, it's a team that is
+responsible for the leadership.
+
+29
+00:01:44,010 --> 00:01:48,466
+So, the team as a whole,
+whereas in a predictive
+
+30
+00:01:48,467 --> 00:01:51,921
+project, the project managers
+and that's responsible.
+
+31
+00:01:54,230 --> 00:01:58,630
+Now, let's talk about then the basic
+differences between leaders and managers.
+
+32
+00:01:59,290 --> 00:02:04,570
+There are many, many, many types of
+leaders, many, many types of managers.
+
+33
+00:02:05,330 --> 00:02:11,090
+So you can spend an entire class just
+discussing the differences between leaders
+
+34
+00:02:11,091 --> 00:02:13,403
+and managers and
+all the different styles of
+
+35
+00:02:13,404 --> 00:02:15,710
+leadership and all the
+different styles of management.
+
+36
+00:02:16,130 --> 00:02:18,110
+That's an entire topic by itself.
+
+37
+00:02:18,950 --> 00:02:23,190
+You obviously don't need that level of
+detail for the PMP exam, but you just need
+
+38
+00:02:23,191 --> 00:02:26,870
+to know the basic differences between
+leaders and managers.
+
+39
+00:02:27,370 --> 00:02:30,736
+So overall, the basic
+differences, right, managers
+
+40
+00:02:30,737 --> 00:02:34,010
+generally would be
+considered more taskmasters.
+
+41
+00:02:34,170 --> 00:02:39,590
+They are basically making sure that tasks
+are being done, things are moving along,
+
+42
+00:02:40,370 --> 00:02:43,735
+they're focused on
+satisfying stakeholders needs,
+
+43
+00:02:43,736 --> 00:02:46,824
+so they're more short-term
+tactical decision-making.
+
+44
+00:02:47,370 --> 00:02:48,810
+They have a goal.
+
+45
+00:02:49,190 --> 00:02:52,850
+Managers always have their goal and that's
+what they're focused on.
+
+46
+00:02:53,410 --> 00:02:58,010
+They're not looking at the overall
+organization or how this goal fits in with
+
+47
+00:02:58,011 --> 00:03:00,950
+the overall organization, this is their
+goal.
+
+48
+00:03:01,630 --> 00:03:04,470
+And a manager then is more in a delegating
+role.
+
+49
+00:03:04,850 --> 00:03:08,050
+A manager will say, you do this,
+you do this, you do this.
+
+50
+00:03:09,110 --> 00:03:15,370
+A leader, on the other hand, they still
+want all of those tasks to be complete,
+
+51
+00:03:16,450 --> 00:03:21,590
+but a leader is looking more long-term
+strategic decision-making.
+
+52
+00:03:21,630 --> 00:03:25,990
+They are looking at more the long-term
+strategic vision of the organisation,
+
+53
+00:03:26,150 --> 00:03:30,690
+and making long-term strategic decisions
+about the organisation.
+
+54
+00:03:31,070 --> 00:03:33,776
+So they're not just looking
+at one piece, manager,
+
+55
+00:03:33,777 --> 00:03:36,550
+they're just looking at
+their one portion, one piece.
+
+56
+00:03:36,650 --> 00:03:38,500
+That's what they're concentrating on.
+
+57
+00:03:38,590 --> 00:03:42,510
+Whereas leaders are looking at the entire
+organisation as a whole.
+
+58
+00:03:43,070 --> 00:03:46,003
+They're looking at how
+this piece impacts the
+
+59
+00:03:46,004 --> 00:03:49,041
+organisation, how this piece
+impacts the organisation.
+
+60
+00:03:49,490 --> 00:03:50,987
+They're looking at it overall.
+
+61
+00:03:51,070 --> 00:03:53,333
+Whereas a manager is
+more in a delegating role,
+
+62
+00:03:53,416 --> 00:03:55,823
+like you do this, you
+do this, you do this.
+
+63
+00:03:56,130 --> 00:03:59,090
+leader, right, will not say you do this,
+you do this.
+
+64
+00:03:59,170 --> 00:04:02,970
+A leader will be more a case of saying,
+well, what do you think we should do?
+
+65
+00:04:03,630 --> 00:04:05,580
+And why do you think we should do that?
+
+66
+00:04:06,150 --> 00:04:08,810
+And then based on that, they make a
+decision.
+
+67
+00:04:09,230 --> 00:04:11,690
+They make a strategic decision about the
+project.
+
+68
+00:04:12,870 --> 00:04:17,370
+So managers then are more short-term
+tactical decision-making, right,
+
+69
+00:04:17,490 --> 00:04:20,470
+leaders are more long-term vision,
+right?
+
+70
+00:04:21,110 --> 00:04:24,670
+So a leader will say, this is where we
+need to get to.
+
+71
+00:04:25,930 --> 00:04:31,924
+So a manager, on the other hand, we'll
+be figuring out how do we get to that?
+
+72
+00:04:32,390 --> 00:04:35,330
+They're more short-term tactical
+decision-making.
+
+73
+00:04:36,150 --> 00:04:38,650
+Leaders are more, like I said,
+long-term strategic.
+
+74
+00:04:39,710 --> 00:04:43,930
+So that's a basic, high-level basic
+difference in leaders and managers.
+
+75
+00:04:44,230 --> 00:04:47,880
+So managers then are going to maintain,
+right, because they're looking at,
+
+76
+00:04:48,110 --> 00:04:50,070
+you know, their own piece.
+
+77
+00:04:50,470 --> 00:04:52,690
+So they're more short-term
+decision-making.
+
+78
+00:04:52,910 --> 00:04:56,067
+So managers are going to
+maintain, leaders develop,
+
+79
+00:04:56,068 --> 00:04:58,521
+right, because they're
+looking more long-term.
+
+80
+00:04:58,890 --> 00:05:00,250
+Managers administrate, right?
+
+81
+00:05:00,310 --> 00:05:01,510
+They follow a procedure.
+
+82
+00:05:01,950 --> 00:05:02,890
+Leaders innovate.
+
+83
+00:05:03,410 --> 00:05:05,960
+They create those procedures, right,
+if you're like.
+
+84
+00:05:06,550 --> 00:05:08,981
+Managers are going to ask how and when,
+
+85
+00:05:08,982 --> 00:05:12,130
+whereas leaders are
+going to ask what and why.
+
+86
+00:05:12,490 --> 00:05:14,190
+So what do you think we should do?
+
+87
+00:05:14,370 --> 00:05:16,120
+Why do you think we should do that?
+
+88
+00:05:16,290 --> 00:05:19,150
+A leader is going to say, we need to get
+to this point.
+
+89
+00:05:19,710 --> 00:05:24,990
+a manager is going to figure out how do we
+get to that point and when do we get to
+
+90
+00:05:24,991 --> 00:05:30,330
+that point managers generally will accept
+the status quo not always I mean as a
+
+91
+00:05:30,331 --> 00:05:34,950
+general rule whereas leaders will always
+challenge the status quo we need to do
+
+92
+00:05:34,951 --> 00:05:39,430
+something better whereas a manager might
+say you know if it's not broken don't fix
+
+93
+00:05:39,431 --> 00:05:43,804
+it a leader will say let's
+improve it and that's all about
+
+94
+00:05:43,805 --> 00:05:46,950
+innovation so managers rely on
+control and following procedures
+
+95
+00:05:46,970 --> 00:05:49,983
+that's what they're
+going to be doing Right.
+
+96
+00:05:50,250 --> 00:05:53,850
+So a good manager will always follow the
+procedures for the organisation,
+
+97
+00:05:53,970 --> 00:05:56,920
+whereas leaders are going to be developing
+those procedures.
+
+98
+00:05:57,030 --> 00:05:59,190
+So leaders are going to be inspiring
+trust.
+
+99
+00:05:59,470 --> 00:06:00,447
+They are based on trust.
+
+100
+00:06:00,530 --> 00:06:02,630
+People follow them because they trust
+them.
+
+101
+00:06:02,870 --> 00:06:05,130
+Managers, as I mentioned, they delegate.
+
+102
+00:06:05,930 --> 00:06:07,150
+They delegate.
+
+103
+00:06:07,450 --> 00:06:07,850
+You do this.
+
+104
+00:06:08,070 --> 00:06:08,430
+You do this.
+
+105
+00:06:08,590 --> 00:06:08,990
+You do this.
+
+106
+00:06:09,270 --> 00:06:12,170
+Whereas leaders will be more influencing
+and guiding.
+
+107
+00:06:12,550 --> 00:06:13,927
+What do you think we should do?
+
+108
+00:06:14,010 --> 00:06:15,607
+Why do you think we should do that?
+
+109
+00:06:15,690 --> 00:06:19,130
+They want to understand the other people.
+
+110
+00:06:19,131 --> 00:06:23,350
+people's point of view, and then based on
+that, they will make a decision.
+
+111
+00:06:24,830 --> 00:06:27,085
+Now that says there's
+many, many different types
+
+112
+00:06:27,086 --> 00:06:29,804
+of leaders, many different
+types of managers.
+
+113
+00:06:29,890 --> 00:06:32,987
+And there's other basic differences
+between leaders and managers as well,
+
+114
+00:06:33,070 --> 00:06:37,270
+which, you know, I'm sure you know,
+or you can always look up.
+
+115
+00:06:37,410 --> 00:06:39,627
+But this is kind of like the high level
+basic difference.
+
+116
+00:06:39,710 --> 00:06:42,025
+So about as much as what you
+need to know about as much as
+
+117
+00:06:42,026 --> 00:06:46,130
+what you need to understand
+when it comes to the PMP exam.
+

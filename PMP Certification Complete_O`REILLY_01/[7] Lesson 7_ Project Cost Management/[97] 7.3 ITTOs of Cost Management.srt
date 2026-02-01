@@ -1,0 +1,656 @@
+﻿1
+00:00:05,920 --> 00:00:09,475
+Okay, so in this video
+then, we will just briefly
+
+2
+00:00:09,476 --> 00:00:12,680
+talk about some of the
+ITTOs of cost management.
+
+3
+00:00:13,700 --> 00:00:18,600
+Again, just want to remind you,
+don't try to memorize all of these ITTOs,
+
+4
+00:00:19,060 --> 00:00:21,720
+just have a decent understanding of them,
+right?
+
+5
+00:00:22,420 --> 00:00:25,738
+You know, you don't need to
+memorize them, just make sure
+
+6
+00:00:25,758 --> 00:00:28,940
+that you just have a, you know,
+just a relative understanding.
+
+7
+00:00:29,120 --> 00:00:33,900
+Also, as a review, remember, an output is
+some form of artifact usually.
+
+8
+00:00:33,901 --> 00:00:38,380
+this is the project document, the artifact
+that we are trying to create.
+
+9
+00:00:39,300 --> 00:00:46,160
+An input is an artifact that we are
+reviewing, right?
+
+10
+00:00:46,161 --> 00:00:49,140
+We are considering we are reviewing a
+starting point.
+
+11
+00:00:49,740 --> 00:00:51,557
+It doesn't always have to be an artifact.
+
+12
+00:00:51,640 --> 00:00:55,940
+For example, most of the inputs will see
+are EFs, Enterprise Environmental Factors.
+
+13
+00:00:56,580 --> 00:00:59,080
+Not all EFs are artifacts, right?
+
+14
+00:00:59,300 --> 00:01:01,302
+But this is something that
+we're going to be considering
+
+15
+00:01:01,303 --> 00:01:03,020
+or something that we're
+going to be reviewing.
+
+16
+00:01:03,021 --> 00:01:07,020
+And then a tool and technique is,
+this is what we need to utilize.
+
+17
+00:01:07,800 --> 00:01:09,480
+This is what we need to do.
+
+18
+00:01:10,000 --> 00:01:12,450
+Tool and technique is usually some form of
+action.
+
+19
+00:01:12,820 --> 00:01:16,314
+This is what we're going to do, some
+kind of task that we're going to perform.
+
+20
+00:01:16,540 --> 00:01:19,369
+And if it is a document, it's
+a document that we're going
+
+21
+00:01:19,409 --> 00:01:22,560
+to utilize, right, in order to
+create our output artifact.
+
+22
+00:01:23,820 --> 00:01:27,960
+All right, now, just like every process
+that I've been mentioning, right,
+
+23
+00:01:27,980 --> 00:01:33,000
+or every knowledge area from scope
+management downwards, right, in the process.
+
+24
+00:01:33,020 --> 00:01:38,920
+process grid, right, the first process is
+always plan knowledge area management,
+
+25
+00:01:39,440 --> 00:01:39,440
+right?
+
+26
+00:01:39,540 --> 00:01:42,437
+So in this case, we're talking about the
+cost management, right?
+
+27
+00:01:42,520 --> 00:01:49,034
+So cost management knowledge area, so
+plan cost management is the first process.
+
+28
+00:01:49,400 --> 00:01:51,080
+And what are we creating?
+
+29
+00:01:51,300 --> 00:01:54,240
+What artifact are we creating in plan cost
+management?
+
+30
+00:01:54,760 --> 00:01:57,520
+We're creating the cost management plan,
+right?
+
+31
+00:01:57,860 --> 00:02:00,820
+The cost management plan is documenting
+how, right?
+
+32
+00:02:00,821 --> 00:02:04,354
+In any of these first, you
+know, the first processes,
+
+33
+00:02:04,355 --> 00:02:08,220
+plan management processes,
+we're documenting procedures.
+
+34
+00:02:08,380 --> 00:02:11,940
+We're documenting in this case,
+how costs are going to be estimated and
+
+35
+00:02:11,941 --> 00:02:14,051
+monitored and controlled,
+what formulas are we
+
+36
+00:02:14,052 --> 00:02:16,494
+going to use, what
+conventions are we going to use?
+
+37
+00:02:17,060 --> 00:02:20,020
+And that's all documented in the cost
+management plan.
+
+38
+00:02:20,240 --> 00:02:22,920
+Again, covered in a separate video,
+right?
+
+39
+00:02:22,980 --> 00:02:26,027
+So all of these key
+artifacts and tools and
+
+40
+00:02:26,028 --> 00:02:29,254
+techniques, they're all
+covered in a separate video.
+
+41
+00:02:30,140 --> 00:02:36,480
+Now, estimating costs, this process called
+estimate cost, refers to estimating costs
+
+42
+00:02:36,481 --> 00:02:42,580
+of individual activities, or it could be
+work packages, right, cost of individual
+
+43
+00:02:42,581 --> 00:02:47,940
+activities, work packages, or even just
+individual components of the project.
+
+44
+00:02:48,560 --> 00:02:53,040
+So we need to understand the cost of each
+individual component of the project,
+
+45
+00:02:53,580 --> 00:02:56,520
+right, before we can come up with the
+overall budget, right?
+
+46
+00:02:56,521 --> 00:02:59,020
+So we can aggregate all of these costs to
+come up with.
+
+47
+00:02:59,040 --> 00:03:00,740
+the overall budget, right?
+
+48
+00:03:01,800 --> 00:03:07,860
+We don't just first come up with a budget
+and then work backwards in order to figure
+
+49
+00:03:07,861 --> 00:03:10,261
+out what individual components are going
+to cost.
+
+50
+00:03:10,980 --> 00:03:14,140
+In reality, a lot of time that is what
+happens, right?
+
+51
+00:03:14,220 --> 00:03:18,152
+A lot of times in reality, your
+senior management will just
+
+52
+00:03:18,153 --> 00:03:21,760
+set a budget for the project
+and a deadline for the project.
+
+53
+00:03:22,380 --> 00:03:25,620
+And it'll be some unrealistic budget,
+some unrealistic deadline.
+
+54
+00:03:26,820 --> 00:03:31,094
+And, you know, as a project manager, you're
+kind of like, what are they thinking?
+
+55
+00:03:31,440 --> 00:03:33,440
+We're not going to be able to meet this.
+
+56
+00:03:34,520 --> 00:03:37,440
+And that's exactly why PMI is setting the
+standard here.
+
+57
+00:03:38,560 --> 00:03:41,189
+PMI is stating that you don't just take
+
+58
+00:03:41,229 --> 00:03:43,880
+your senior management's
+word for it, right?
+
+59
+00:03:44,340 --> 00:03:47,495
+When they're setting some
+budget or timeline, what
+
+60
+00:03:47,496 --> 00:03:52,000
+you have to do is you
+utilize subject matter experts.
+
+61
+00:03:52,001 --> 00:03:54,795
+right, the people that are
+performing the work should
+
+62
+00:03:54,796 --> 00:03:57,520
+be the ones that are
+estimating the work, right?
+
+63
+00:03:57,720 --> 00:04:03,440
+So, utilize those subject matter experts
+to come up with a budget and the timeline.
+
+64
+00:04:04,340 --> 00:04:05,990
+And so that's a correct approach.
+
+65
+00:04:06,760 --> 00:04:10,680
+So the correct approach is first to
+estimate the cost of individual activities
+
+66
+00:04:10,681 --> 00:04:13,855
+and individual components
+of the project and then
+
+67
+00:04:13,856 --> 00:04:16,691
+aggregate those to come
+up with the overall budget.
+
+68
+00:04:16,880 --> 00:04:19,920
+And that's what this estimate cost process
+refers to.
+
+69
+00:04:20,620 --> 00:04:22,900
+So, cost of individual estimates.
+
+70
+00:04:23,660 --> 00:04:26,817
+So that's what the cost estimate,
+the output then, so the output then,
+
+71
+00:04:26,900 --> 00:04:29,820
+this is the artifact we're creating is the
+cost estimate.
+
+72
+00:04:30,960 --> 00:04:34,780
+Basis of estimate is basically how we came
+up with that cost estimate, right,
+
+73
+00:04:34,860 --> 00:04:39,120
+and then the starting point, right,
+our input, our starting point,
+
+74
+00:04:39,300 --> 00:04:40,837
+what do we need to review, right?
+
+75
+00:04:40,920 --> 00:04:44,637
+Well, we need to review the procedures,
+right, the cost management procedures,
+
+76
+00:04:44,720 --> 00:04:47,739
+how will we going to estimate
+the cost, and then also,
+
+77
+00:04:47,740 --> 00:04:49,900
+you know, factors that's
+going to impact the cost.
+
+78
+00:04:49,920 --> 00:04:51,100
+such as quality.
+
+79
+00:04:51,520 --> 00:04:53,940
+Quality is a direct cost to your project,
+right?
+
+80
+00:04:54,340 --> 00:04:57,240
+Resources are a direct cost to your
+project, right?
+
+81
+00:04:57,420 --> 00:05:00,520
+And as a schedule, direct cost to your
+project.
+
+82
+00:05:01,300 --> 00:05:03,678
+So again, all the important artifacts and
+
+83
+00:05:03,679 --> 00:05:06,180
+tools we have separate
+videos in each of these.
+
+84
+00:05:06,580 --> 00:05:09,540
+And then these are the different tools and
+techniques.
+
+85
+00:05:09,980 --> 00:05:14,080
+Notice these tools and techniques are also
+shared with schedule management.
+
+86
+00:05:14,680 --> 00:05:17,045
+So again, each of these
+tools and techniques
+
+87
+00:05:17,046 --> 00:05:19,660
+we're going to be
+discussing in separate videos.
+
+88
+00:05:21,020 --> 00:05:25,560
+Now, once we have identified or we've
+estimated the cost of each individual
+
+89
+00:05:25,561 --> 00:05:30,500
+component on the project, now we can
+aggregate those to come up with the
+
+90
+00:05:30,501 --> 00:05:34,101
+overall budget, and that's what this
+process refers to, determine budget.
+
+91
+00:05:34,720 --> 00:05:38,200
+And the budget for the project,
+the project manager's budget, is something
+
+92
+00:05:38,201 --> 00:05:43,080
+called the cost baseline, that again
+covered in a separate video, and then
+
+93
+00:05:43,081 --> 00:05:45,253
+funding requirements
+at each of various points
+
+94
+00:05:45,254 --> 00:05:48,034
+along the project, what funding is needed.
+
+95
+00:05:48,340 --> 00:05:52,760
+Notice one of the key tools and
+techniques, cost aggregation.
+
+96
+00:05:52,920 --> 00:05:54,620
+That's what I just mentioned here.
+
+97
+00:05:54,780 --> 00:06:01,220
+You need to aggregate, add up all of the
+cost to come up with the overall budget.
+
+98
+00:06:01,760 --> 00:06:04,507
+Now, cost aggregation also
+goes one step further in the sense
+
+99
+00:06:04,508 --> 00:06:07,760
+that it rolls up each layer of
+the work breakdown structure.
+
+100
+00:06:08,160 --> 00:06:10,160
+Again, we have separate videos on those.
+
+101
+00:06:10,360 --> 00:06:13,480
+We'll talk about contingency reserves,
+risk reserves.
+
+102
+00:06:14,440 --> 00:06:17,520
+Contingency reserves are also a direct
+cost to your project.
+
+103
+00:06:17,540 --> 00:06:22,480
+So we'll talk about those in separate
+videos as well.
+
+104
+00:06:22,580 --> 00:06:23,413
+Right.
+
+105
+00:06:23,840 --> 00:06:26,700
+And then the last process is control cost.
+
+106
+00:06:27,280 --> 00:06:29,830
+Control cost basically means monitoring
+controlling.
+
+107
+00:06:30,100 --> 00:06:32,150
+This is a monitoring controlling process.
+
+108
+00:06:32,600 --> 00:06:35,750
+As with all monitoring controlling
+processes, what are we doing?
+
+109
+00:06:35,840 --> 00:06:38,860
+We are comparing actual results with our
+plan.
+
+110
+00:06:39,400 --> 00:06:43,700
+Our actual results is workforce data,
+raw observation.
+
+111
+00:06:44,420 --> 00:06:48,620
+We're comparing it with our plan and to
+come up with our work performance
+
+112
+00:06:48,621 --> 00:06:51,600
+information, right, which is the
+interpretation.
+
+113
+00:06:52,460 --> 00:06:53,960
+So this is what it means.
+
+114
+00:06:54,540 --> 00:06:54,620
+Right.
+
+115
+00:06:54,680 --> 00:06:56,537
+So in this case, we're talking about the
+cost.
+
+116
+00:06:56,620 --> 00:06:58,138
+So the work performance information means
+
+117
+00:06:58,139 --> 00:07:01,114
+how much over budget
+or under budget we are.
+
+118
+00:07:01,300 --> 00:07:05,660
+So our work performance data is our raw
+observation actual result.
+
+119
+00:07:06,140 --> 00:07:06,200
+Right.
+
+120
+00:07:06,420 --> 00:07:11,760
+So in an example, workforce data could be,
+you know, $20,000.
+
+121
+00:07:12,020 --> 00:07:16,340
+So we have spent $20,000, right,
+doing this activity.
+
+122
+00:07:17,540 --> 00:07:20,060
+That's my raw observation, right?
+
+123
+00:07:20,320 --> 00:07:21,717
+How much should I have spent?
+
+124
+00:07:21,800 --> 00:07:23,840
+I should have spent $18,000.
+
+125
+00:07:24,380 --> 00:07:25,213
+That's my plan.
+
+126
+00:07:25,680 --> 00:07:29,320
+So my work performance information tells
+me I'm $2,000 over budget.
+
+127
+00:07:29,980 --> 00:07:31,620
+I went $2,000 over budget.
+
+128
+00:07:32,160 --> 00:07:35,060
+And that's what workforce information is,
+right?
+
+129
+00:07:35,440 --> 00:07:38,440
+And all these earned value formulas,
+right, which are covered in separate
+
+130
+00:07:38,441 --> 00:07:42,040
+videos, right, they all relate to work
+performance information.
+
+131
+00:07:42,560 --> 00:07:46,620
+Remember, information is always,
+right, this is what it means, you're
+
+132
+00:07:46,621 --> 00:07:51,200
+comparing, actually, results, which is the
+workforce as data from executing.
+
+133
+00:07:51,700 --> 00:07:54,850
+Workformist data always comes from
+executing the actual results.
+
+134
+00:07:55,440 --> 00:07:58,680
+You're comparing it with your plan to get
+your interpretation.
+
+135
+00:07:58,960 --> 00:08:00,310
+What does it actually mean?
+
+136
+00:08:01,000 --> 00:08:04,592
+Alright, so these are
+then, there's just a brief
+
+137
+00:08:04,635 --> 00:08:08,041
+summary then of the
+ITTOs of cost management.
+

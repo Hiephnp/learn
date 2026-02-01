@@ -1,0 +1,1100 @@
+﻿1
+00:00:05,820 --> 00:00:10,400
+Okay, so let's talk about some of the
+roles then on a project.
+
+2
+00:00:11,100 --> 00:00:13,482
+Okay, so we're going to
+be talking about roles for a
+
+3
+00:00:13,483 --> 00:00:16,340
+predictive project and then
+roles on an agile project.
+
+4
+00:00:16,900 --> 00:00:20,160
+Alright, so we'll talk about predictive
+projects first.
+
+5
+00:00:20,780 --> 00:00:24,420
+So on a predictive project, you have a
+project manager.
+
+6
+00:00:25,300 --> 00:00:28,570
+So project manager,
+they are accountable for all
+
+7
+00:00:28,571 --> 00:00:31,654
+the work that needs to
+be done on the project.
+
+8
+00:00:31,840 --> 00:00:33,980
+They're accountable, responsible for the
+team.
+
+9
+00:00:33,981 --> 00:00:40,900
+they plan the work and then they delegate
+the work to the team so they are managing
+
+10
+00:00:40,901 --> 00:00:45,300
+and coordinating the entire work all of
+the work from beginning to the end
+
+11
+00:00:45,301 --> 00:00:49,820
+throughout the entire project they're
+accountable for everything and one of the
+
+12
+00:00:49,821 --> 00:00:54,720
+key things is they are delegating they're
+planning the work then they're delegating
+
+13
+00:00:54,721 --> 00:00:59,980
+to appropriate team members and team
+members are essentially reporting to the
+
+14
+00:00:59,981 --> 00:01:05,720
+project manager during that project The
+project manager then is ensuring,
+
+15
+00:01:05,900 --> 00:01:08,260
+making sure all the work is getting done.
+
+16
+00:01:09,600 --> 00:01:13,000
+They're the ones that are also looking at
+the metrics of the project.
+
+17
+00:01:13,220 --> 00:01:15,119
+We head a schedule, behind schedule, over
+
+18
+00:01:15,120 --> 00:01:17,974
+budget, under budget,
+and so on and so forth.
+
+19
+00:01:18,200 --> 00:01:23,514
+So they're seeing how our project is
+progressing, you know, compared to the plan.
+
+20
+00:01:24,160 --> 00:01:26,560
+Another role then is the business analyst.
+
+21
+00:01:27,260 --> 00:01:31,380
+So business analyst is one of the team
+members typically on a predictive project.
+
+22
+00:01:31,880 --> 00:01:34,874
+And one of the
+responsibilities then of the
+
+23
+00:01:34,875 --> 00:01:37,754
+business analyst is
+collecting requirements.
+
+24
+00:01:38,240 --> 00:01:41,934
+It's understanding the requirements,
+defining the requirements,
+
+25
+00:01:41,935 --> 00:01:45,020
+working with the customer
+to collect requirements.
+
+26
+00:01:45,740 --> 00:01:49,240
+So business analysts has knowledge about
+the business and the customer.
+
+27
+00:01:49,360 --> 00:01:51,557
+They work with the customer to collect
+their requirements.
+
+28
+00:01:51,640 --> 00:01:54,481
+They're almost like a
+go-between, between the customer,
+
+29
+00:01:54,482 --> 00:01:56,981
+between the business,
+between the technical teams.
+
+30
+00:01:57,340 --> 00:02:00,280
+So business analysts need to be able to
+communicate, right?
+
+31
+00:02:00,281 --> 00:02:02,420
+at all levels.
+
+32
+00:02:03,340 --> 00:02:08,300
+So just as a high-level general
+difference, a business analyst defines
+
+33
+00:02:08,301 --> 00:02:12,752
+what the deliverable will be,
+whereas a project manager
+
+34
+00:02:12,753 --> 00:02:15,811
+is going to define how to
+achieve that deliverable.
+
+35
+00:02:16,680 --> 00:02:20,220
+So the business analysts will collect the
+requirements.
+
+36
+00:02:20,380 --> 00:02:22,597
+They'll tell them, all right, these are
+the requirements.
+
+37
+00:02:22,680 --> 00:02:26,220
+The project manager then is going to
+decide, all right, how are we going to
+
+38
+00:02:26,221 --> 00:02:29,880
+convert these requirements into a
+deliverable?
+
+39
+00:02:30,280 --> 00:02:31,113
+Okay.
+
+40
+00:02:32,600 --> 00:02:34,860
+Now, other roles then on a predictive
+project?
+
+41
+00:02:35,340 --> 00:02:38,160
+The project team, actually, for a project
+team.
+
+42
+00:02:38,720 --> 00:02:42,900
+So the project team basically is everybody
+involved on the project.
+
+43
+00:02:44,000 --> 00:02:47,060
+So they are responsible then for
+performing the work.
+
+44
+00:02:47,920 --> 00:02:50,870
+So the project manager is going to be
+working with the team.
+
+45
+00:02:51,200 --> 00:02:55,240
+The project team are also subject matter
+experts as well.
+
+46
+00:02:55,460 --> 00:02:59,280
+So remember, the project manager is not
+necessarily a technical expert.
+
+47
+00:02:59,940 --> 00:03:03,840
+The project manager is someone that can
+get things moving along.
+
+48
+00:03:04,480 --> 00:03:07,180
+The project manager has communication
+skills.
+
+49
+00:03:07,740 --> 00:03:11,090
+The project manager is somebody that can
+get teams working together.
+
+50
+00:03:11,740 --> 00:03:15,540
+The project team are the ones that's
+actually physically performing the work.
+
+51
+00:03:15,980 --> 00:03:20,480
+So the work with the project manager to
+plan the work, then they will be executing
+
+52
+00:03:20,481 --> 00:03:24,060
+the work, delivering the actual work
+product itself.
+
+53
+00:03:24,440 --> 00:03:28,847
+And they are, essentially,
+essentially for the purpose
+
+54
+00:03:28,848 --> 00:03:32,600
+of the project, they're
+reporting to the project manager.
+
+55
+00:03:33,840 --> 00:03:39,200
+Now, the project team, though,
+also includes, right?
+
+56
+00:03:39,280 --> 00:03:41,580
+It's not just individual team members.
+
+57
+00:03:42,260 --> 00:03:45,610
+So it's not just the individual team
+that's performed with the work.
+
+58
+00:03:45,820 --> 00:03:51,120
+It is them, but it also includes the
+project manager, the management group,
+
+59
+00:03:51,360 --> 00:03:55,140
+if they're part of the project,
+the project leadership team, key
+
+60
+00:03:55,141 --> 00:03:57,441
+stakeholders that have sign off
+responsibility.
+
+61
+00:03:58,120 --> 00:04:00,673
+So let's talk about the project leadership
+
+62
+00:04:00,674 --> 00:04:03,660
+team then on this
+next bullet point, right?
+
+63
+00:04:03,960 --> 00:04:07,500
+So another role on a project, on a
+predictive project, is the project
+
+64
+00:04:07,501 --> 00:04:11,400
+management team, also known as the project
+leadership team.
+
+65
+00:04:12,300 --> 00:04:16,380
+And as the name suggests, they provide
+leadership for the project.
+
+66
+00:04:16,620 --> 00:04:19,560
+They're the ones that are signing off on
+the deliverables.
+
+67
+00:04:19,980 --> 00:04:23,157
+They're the ones that's given the initial
+direction of the project.
+
+68
+00:04:23,240 --> 00:04:25,018
+They're the ones
+that's saying this is what
+
+69
+00:04:25,019 --> 00:04:26,760
+the project is about
+and so on and so forth.
+
+70
+00:04:26,761 --> 00:04:32,100
+The RIS subset of the project team,
+as the project team includes the project
+
+71
+00:04:32,101 --> 00:04:36,240
+management team, and the project
+management team then, they are there to
+
+72
+00:04:36,241 --> 00:04:38,500
+make strategic decisions about the
+project.
+
+73
+00:04:40,760 --> 00:04:43,731
+Now, in an agile environment, in an agile
+
+74
+00:04:43,732 --> 00:04:47,194
+environment, one of the
+roles is the product owner.
+
+75
+00:04:47,980 --> 00:04:52,880
+And the product owner represents,
+if you like, the voice of the customer.
+
+76
+00:04:53,280 --> 00:04:56,240
+The product owner represents the customer.
+
+77
+00:04:57,000 --> 00:04:59,560
+The customer is giving requirements.
+
+78
+00:05:00,060 --> 00:05:05,460
+The product owner is making sure those
+requirements then are going to be delivered.
+
+79
+00:05:06,560 --> 00:05:10,600
+So they're the ones then, once those
+requirements, once they've collected the
+
+80
+00:05:10,601 --> 00:05:12,423
+requirements, remember
+in an agile environment
+
+81
+00:05:12,424 --> 00:05:15,000
+group, the requirements
+are known as user stories.
+
+82
+00:05:15,740 --> 00:05:17,377
+So they're collecting user stories.
+
+83
+00:05:17,460 --> 00:05:18,666
+They're working with the team, with the
+
+84
+00:05:18,667 --> 00:05:20,794
+agile team as well,
+collect the user stories.
+
+85
+00:05:21,160 --> 00:05:24,283
+But the product owner
+is going to be prioritizing
+
+86
+00:05:24,284 --> 00:05:27,220
+those user stories to
+create the product backlog.
+
+87
+00:05:27,980 --> 00:05:29,720
+That's their responsibility.
+
+88
+00:05:30,080 --> 00:05:32,437
+Again, they're going to be working with
+the team, right?
+
+89
+00:05:32,520 --> 00:05:35,940
+They don't, the product owner doesn't just
+do it by him or herself.
+
+90
+00:05:36,520 --> 00:05:38,660
+They work with the team as well,
+right?
+
+91
+00:05:38,980 --> 00:05:43,480
+But they are responsible then for
+prioritizing these backlog items.
+
+92
+00:05:44,920 --> 00:05:48,880
+And they represent the, they represent the
+customer.
+
+93
+00:05:50,320 --> 00:05:55,025
+Now also, the ultimate
+accountability for all of the work
+
+94
+00:05:55,026 --> 00:05:58,700
+on the project actually
+falls with the product owner.
+
+95
+00:05:59,180 --> 00:06:01,244
+The product owner has the ultimate
+
+96
+00:06:01,245 --> 00:06:04,974
+accountability, right,
+on an on an agile project.
+
+97
+00:06:05,680 --> 00:06:11,440
+The project team is going to be performing
+all of the work, but the product owner is
+
+98
+00:06:11,441 --> 00:06:13,977
+the one that's going to be signing off on
+all of the work.
+
+99
+00:06:14,060 --> 00:06:18,940
+The product owner is going to be
+determining this product or this,
+
+100
+00:06:19,500 --> 00:06:22,292
+you know, whatever the
+team is delivering at the end
+
+101
+00:06:22,293 --> 00:06:25,660
+of the sprint, is this meeting
+our definition of done?
+
+102
+00:06:26,020 --> 00:06:29,200
+It's a product owner that's signing off on
+that.
+
+103
+00:06:29,680 --> 00:06:32,820
+So they actually have the ultimate
+accountability.
+
+104
+00:06:33,060 --> 00:06:35,839
+As far as the customer is
+concerned, they have the
+
+105
+00:06:35,840 --> 00:06:38,720
+ultimate accountability for
+the work that is delivered.
+
+106
+00:06:40,380 --> 00:06:44,131
+The team facilitator,
+the team facilitator is the
+
+107
+00:06:44,132 --> 00:06:47,460
+closest thing to the
+quote-unquote project manager.
+
+108
+00:06:47,980 --> 00:06:50,781
+In a predictive environment,
+the project manager
+
+109
+00:06:50,782 --> 00:06:53,080
+is the command and
+control project manager.
+
+110
+00:06:53,081 --> 00:06:56,460
+or they are known as a command and control
+project manager.
+
+111
+00:06:57,060 --> 00:06:58,037
+They are responsible.
+
+112
+00:06:58,120 --> 00:07:01,370
+They are accountable for all the work that
+goes on in the project.
+
+113
+00:07:01,800 --> 00:07:03,871
+They are responsible for
+the planning and the executing
+
+114
+00:07:03,872 --> 00:07:06,411
+and the monitoring controlling
+and so on and so forth.
+
+115
+00:07:07,100 --> 00:07:11,300
+The team facilitator, though, is a servant
+leader.
+
+116
+00:07:11,820 --> 00:07:13,570
+They are known as a servant leader.
+
+117
+00:07:14,200 --> 00:07:18,600
+As a servant leader, they are there to
+basically collaborate.
+
+118
+00:07:19,220 --> 00:07:21,180
+One of the key things is collaboration.
+
+119
+00:07:21,181 --> 00:07:25,359
+they collaborate with the
+team to make sure work is
+
+120
+00:07:25,360 --> 00:07:29,900
+getting done, to make sure
+things are moving along, right?
+
+121
+00:07:30,120 --> 00:07:33,460
+And that's one of the key, one of the key
+things there regarding the team
+
+122
+00:07:33,461 --> 00:07:36,600
+facilitator, they are in a collaborative,
+right?
+
+123
+00:07:36,720 --> 00:07:40,420
+So a team facilitator does not delegate
+any work.
+
+124
+00:07:40,800 --> 00:07:45,460
+The team themselves are the ones that are
+determining what work needs to be done.
+
+125
+00:07:46,580 --> 00:07:51,000
+In a predictive environment, the project
+manager delegates the work, but in an
+
+126
+00:07:51,001 --> 00:07:55,700
+agile environment, the team facilitator
+does not delegate any work.
+
+127
+00:07:56,660 --> 00:07:59,940
+It's a team that's determining the work
+that needs to be done.
+
+128
+00:08:00,520 --> 00:08:03,080
+The team facilitator is making sure that
+happens.
+
+129
+00:08:03,900 --> 00:08:07,769
+So the team facilitator is
+making sure then that the
+
+130
+00:08:07,770 --> 00:08:11,520
+team has all of the tools
+necessary to do their work.
+
+131
+00:08:12,140 --> 00:08:14,280
+They've got everything at their disposal.
+
+132
+00:08:14,820 --> 00:08:17,400
+They need additional data, they need
+information.
+
+133
+00:08:17,920 --> 00:08:18,820
+They have the information.
+
+134
+00:08:18,821 --> 00:08:22,720
+They need certain tools, they have those
+appropriate tools.
+
+135
+00:08:23,500 --> 00:08:27,609
+So the team facilitators
+making sure that the team has all
+
+136
+00:08:27,610 --> 00:08:30,981
+the necessary items for the
+team to actually perform the work.
+
+137
+00:08:31,220 --> 00:08:34,560
+And they are there to remove any
+obstacles, any impediments.
+
+138
+00:08:35,300 --> 00:08:37,680
+So anything that's slowing
+down the team, the team
+
+139
+00:08:37,681 --> 00:08:40,194
+facilitator is going to
+be taking care of that.
+
+140
+00:08:40,420 --> 00:08:44,600
+So just as a simple example, let's say,
+you know, beginning of a sprint,
+
+141
+00:08:45,060 --> 00:08:49,920
+senior management, decide, you know,
+to, or senior, management approach one of
+
+142
+00:08:49,921 --> 00:08:53,160
+the team members and
+ask them to run daily status
+
+143
+00:08:53,161 --> 00:08:56,154
+reports, or can you just
+run these reports for us?
+
+144
+00:08:56,460 --> 00:08:59,110
+And these reports are taking time out of
+their sprint.
+
+145
+00:08:59,500 --> 00:09:01,720
+So that's an impediment.
+
+146
+00:09:02,200 --> 00:09:04,660
+That's an impediment to the work of the
+team.
+
+147
+00:09:05,380 --> 00:09:08,780
+So the team facilitator then will be
+taking care of that.
+
+148
+00:09:09,400 --> 00:09:14,040
+So either the team facilitator will be
+running the report themselves, right?
+
+149
+00:09:14,480 --> 00:09:18,480
+Or, you know, they can negotiate with the
+stakeholder.
+
+150
+00:09:18,860 --> 00:09:21,130
+Do you really need these
+reports and how often
+
+151
+00:09:21,131 --> 00:09:23,200
+do you need these reports
+and so on and so forth?
+
+152
+00:09:23,600 --> 00:09:26,836
+But it's a team facilitator
+then that will be removing
+
+153
+00:09:26,837 --> 00:09:29,431
+that impediment from that
+particular team member.
+
+154
+00:09:30,420 --> 00:09:34,380
+So again, don't ever, ever get this
+confused on the exam.
+
+155
+00:09:35,240 --> 00:09:37,440
+The project manager can delegate the work.
+
+156
+00:09:37,820 --> 00:09:41,320
+Team facilitator in an agile project never
+delegates.
+
+157
+00:09:42,060 --> 00:09:42,800
+Work is not.
+
+158
+00:09:42,820 --> 00:09:45,080
+delegated on an Agile project.
+
+159
+00:09:45,860 --> 00:09:49,900
+Again, you know, these are scenarios you
+have to look out for on the PMP exam.
+
+160
+00:09:50,620 --> 00:09:52,160
+Then the Agile team, right?
+
+161
+00:09:52,340 --> 00:09:54,563
+So the Agile team,
+they're the ones that are
+
+162
+00:09:54,564 --> 00:09:57,221
+responsible for performing
+the work during the sprint.
+
+163
+00:09:57,720 --> 00:10:01,740
+They are the ones that are going to be
+determining the size of the work,
+
+164
+00:10:01,960 --> 00:10:02,960
+the level of effort.
+
+165
+00:10:03,460 --> 00:10:08,120
+So they're going to be doing the relative
+estimating of all of the work.
+
+166
+00:10:08,640 --> 00:10:13,560
+During each sprint, they're going to
+prioritize the user stories Now,
+
+167
+00:10:14,220 --> 00:10:19,680
+the Agile team, though, are made up of
+developers, designers, testers.
+
+168
+00:10:20,520 --> 00:10:22,780
+The Agile team are not just developers.
+
+169
+00:10:23,420 --> 00:10:27,960
+Agile team are, you know, there's going to
+be several people on Agile team,
+
+170
+00:10:28,760 --> 00:10:29,810
+right, several roles.
+
+171
+00:10:30,060 --> 00:10:31,860
+The Agile team themselves are small.
+
+172
+00:10:32,060 --> 00:10:33,437
+They're generally small teams.
+
+173
+00:10:33,520 --> 00:10:37,240
+But they're going to be made up of
+developers, business analysts,
+
+174
+00:10:37,620 --> 00:10:40,380
+testers, designers, and so on and so
+forth.
+
+175
+00:10:40,480 --> 00:10:42,340
+Plus, you know, any other additional role.
+
+176
+00:10:42,360 --> 00:10:46,020
+and they are known as a generalizing
+specialists.
+
+177
+00:10:46,700 --> 00:10:50,460
+We're going to be talking about T-shaped
+skills in one of our videos.
+
+178
+00:10:51,460 --> 00:10:58,060
+And T-shaped skill basically means then
+that you have detailed knowledge of one
+
+179
+00:10:58,061 --> 00:11:00,927
+particular area, detail
+skills, but then you
+
+180
+00:11:00,928 --> 00:11:03,620
+can spread your skills
+across several areas.
+
+181
+00:11:03,940 --> 00:11:06,090
+So that's what a generalizing specialist
+is.
+
+182
+00:11:06,640 --> 00:11:11,480
+And so the agile team is going to be made
+up of these generalizing specialists.
+
+183
+00:11:12,360 --> 00:11:14,360
+And then you have the Agile Coach.
+
+184
+00:11:14,520 --> 00:11:16,320
+Now, the Agile Coach is an optional.
+
+185
+00:11:16,720 --> 00:11:19,800
+It's an optional role in an Agile Project.
+
+186
+00:11:20,540 --> 00:11:23,840
+And as a name suggests, they are there to
+coach and train the team.
+
+187
+00:11:23,980 --> 00:11:26,100
+They could be internal to the
+organization.
+
+188
+00:11:26,460 --> 00:11:30,097
+They could be external or internal to the
+project or external to the project.
+
+189
+00:11:30,180 --> 00:11:34,420
+A lot of times, the actual team
+facilitator will work as the Agile Coach.
+
+190
+00:11:34,940 --> 00:11:38,620
+But if it's an inexperienced team
+facilitator, inexperience meaning,
+
+191
+00:11:39,080 --> 00:11:43,680
+I mean, they obviously have had to have an
+of an Agile project in order to be a team
+
+192
+00:11:43,681 --> 00:11:47,880
+facilitator, but they may not have been a
+team facilitator for a long time,
+
+193
+00:11:47,881 --> 00:11:52,360
+in which case then they may bring in an
+Agile coach, a separate agile coach.
+
+194
+00:11:53,560 --> 00:11:58,520
+But as I said, the Agile Coach is an
+optional role, but they are there
+
+195
+00:11:58,521 --> 00:12:01,440
+essentially to coach and train the Agile
+team.
+
+196
+00:12:02,900 --> 00:12:07,320
+Now, just a couple of additional roles I
+want to mention, the project sponsor.
+
+197
+00:12:07,660 --> 00:12:11,260
+Sponsor is for both the Agile project as
+well as a predictive project.
+
+198
+00:12:11,360 --> 00:12:16,620
+the main purpose of the project sponsor is
+to provide funding for the project.
+
+199
+00:12:17,440 --> 00:12:20,090
+They're going to be providing funding for
+the project.
+
+200
+00:12:20,200 --> 00:12:22,450
+And they also sign off on the project
+charter.
+
+201
+00:12:22,700 --> 00:12:26,900
+Remember, the project charter is a formal
+authorization for the project to begin.
+
+202
+00:12:27,880 --> 00:12:31,380
+And the sponsor then is going to be
+signing off on the project charter.
+
+203
+00:12:32,440 --> 00:12:36,190
+And then another role that I just want to
+mention is the functional manager.
+
+204
+00:12:36,660 --> 00:12:40,760
+Now, the functional manager is not really
+a role on a project, right?
+
+205
+00:12:42,040 --> 00:12:47,560
+In many organizations, especially matrix
+organizations, team members report to a
+
+206
+00:12:47,561 --> 00:12:51,840
+functional manager, but then they may be
+working on one or two additional projects.
+
+207
+00:12:52,600 --> 00:12:58,074
+This mostly happens in a predictive, so
+we're mostly talking about predictive here.
+
+208
+00:12:58,300 --> 00:13:01,020
+So the functional manager then,
+although they're not part of the project
+
+209
+00:13:01,021 --> 00:13:04,189
+team or really anything to
+do with the project per se,
+
+210
+00:13:04,190 --> 00:13:07,101
+but they're the ones that
+are providing those resources.
+
+211
+00:13:07,620 --> 00:13:10,220
+They're the ones that are providing the
+team members.
+
+212
+00:13:11,280 --> 00:13:14,580
+So on a predictive project, right,
+you're in a matrix organization,
+
+213
+00:13:15,780 --> 00:13:18,917
+you're the project manager, you're the
+command and control project manager.
+
+214
+00:13:19,000 --> 00:13:20,600
+Where are your team coming from?
+
+215
+00:13:20,840 --> 00:13:23,890
+They might be coming from different areas
+of the organization.
+
+216
+00:13:24,640 --> 00:13:27,440
+Those team members are reporting to a
+functional manager.
+
+217
+00:13:27,880 --> 00:13:31,980
+Those functional managers are releasing
+those team members to work on your project.
+
+218
+00:13:32,280 --> 00:13:34,744
+So they're going to be
+approving the work, or
+
+219
+00:13:34,745 --> 00:13:36,980
+rather they're going to be
+approving their response.
+
+220
+00:13:37,000 --> 00:13:39,205
+responsibilities, they're
+going to be approving,
+
+221
+00:13:39,206 --> 00:13:41,740
+their start date and end
+dates on your project.
+
+222
+00:13:41,860 --> 00:13:45,120
+Right, what date they're going to be
+rolling onto your project, what date
+
+223
+00:13:45,121 --> 00:13:47,471
+they're going to be rolling off on your
+project.
+
+224
+00:13:48,020 --> 00:13:49,974
+So these are just some
+of these significant roles
+
+225
+00:13:49,975 --> 00:13:53,480
+that you need to know about
+for the PMP exam, right?
+
+226
+00:13:54,420 --> 00:13:59,880
+And we will be talking about all of these
+roles in future videos as well,
+
+227
+00:14:00,020 --> 00:14:01,070
+in subsequent videos.
+

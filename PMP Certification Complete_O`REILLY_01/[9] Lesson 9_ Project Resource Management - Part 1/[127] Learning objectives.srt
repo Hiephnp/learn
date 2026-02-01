@@ -1,0 +1,163 @@
+﻿1
+00:00:05,630 --> 00:00:08,690
+Lesson nine is resource management.
+
+2
+00:00:09,330 --> 00:00:12,730
+So these are some of the learning
+objectives for resource management.
+
+3
+00:00:13,850 --> 00:00:17,470
+However, resource management is also
+another huge topic.
+
+4
+00:00:18,150 --> 00:00:21,590
+This is something that PMI have really
+expanded for the new exam.
+
+5
+00:00:22,350 --> 00:00:25,530
+So we've divided this up into two parts as
+well.
+
+6
+00:00:26,050 --> 00:00:29,767
+So lesson nine is resource
+management part one, and
+
+7
+00:00:29,768 --> 00:00:33,410
+then lesson 10 will be
+resource management part two.
+
+8
+00:00:33,411 --> 00:00:37,490
+All right, so learning objectives then for
+part one, right?
+
+9
+00:00:38,110 --> 00:00:42,264
+We want to understand the difference between
+physical resources and team resources.
+
+10
+00:00:42,590 --> 00:00:46,690
+Resources on your project include things
+like equipment, supplies, labor,
+
+11
+00:00:46,910 --> 00:00:47,743
+raw materials.
+
+12
+00:00:48,470 --> 00:00:50,930
+So which one of those are physical
+resources?
+
+13
+00:00:51,150 --> 00:00:53,050
+Which one of those are team resources?
+
+14
+00:00:53,250 --> 00:00:53,950
+And what's the difference?
+
+15
+00:00:54,150 --> 00:00:56,850
+Why do you want to have these two
+different categories?
+
+16
+00:00:57,030 --> 00:00:58,280
+We'll be discussing that.
+
+17
+00:00:58,590 --> 00:01:02,770
+You also need to identify the different
+roles on a project, very important.
+
+18
+00:01:02,771 --> 00:01:03,604
+Right?
+
+19
+00:01:04,250 --> 00:01:05,430
+PMI have several roles.
+
+20
+00:01:06,430 --> 00:01:08,870
+You want to understand what all the roles
+are.
+
+21
+00:01:09,550 --> 00:01:12,187
+And because the roles are
+different based on whether
+
+22
+00:01:12,188 --> 00:01:14,610
+it's a predictive project
+and an agile project.
+
+23
+00:01:15,170 --> 00:01:17,820
+So you need to be able to distinguish
+between the two.
+
+24
+00:01:18,150 --> 00:01:20,179
+Also, one of the important
+artifacts we're going to be
+
+25
+00:01:20,180 --> 00:01:22,631
+talking about is this one
+here called the team charter.
+
+26
+00:01:23,550 --> 00:01:27,990
+The team charter, we have a separate video
+on the team charter.
+
+27
+00:01:28,570 --> 00:01:31,420
+It's a very important document,
+a very important artifact.
+
+28
+00:01:31,530 --> 00:01:33,630
+You need to understand the purpose of
+that.
+
+29
+00:01:33,890 --> 00:01:35,990
+Appreciate the purpose of the team
+charter.
+
+30
+00:01:36,690 --> 00:01:39,310
+And then in Agile, we
+talk about two types of
+
+31
+00:01:39,311 --> 00:01:42,170
+skills called T-shaped
+skills and I-shaped skills.
+
+32
+00:01:42,670 --> 00:01:45,398
+So you want to understand
+then, what are the difference
+
+33
+00:01:45,399 --> 00:01:47,687
+in the T-shaped skills
+and the I-shaped skills?
+
+34
+00:01:47,770 --> 00:01:51,990
+And which one of those skills will be
+relevant for Agile projects.
+

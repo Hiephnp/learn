@@ -1,0 +1,341 @@
+﻿1
+00:00:05,920 --> 00:00:09,448
+Okay, so let's talk
+about the five levels of
+
+2
+00:00:09,449 --> 00:00:13,120
+conflict that is identified
+for an agile project.
+
+3
+00:00:14,040 --> 00:00:19,120
+Okay, so the five levels of conflict then
+are problem solving, disagreement,
+
+4
+00:00:20,180 --> 00:00:23,880
+contest, Crusade and World War.
+
+5
+00:00:25,140 --> 00:00:28,480
+And seriously, they are called Crusade and
+World War, all right?
+
+6
+00:00:28,900 --> 00:00:31,020
+More about that in just second.
+
+7
+00:00:32,000 --> 00:00:34,260
+Let's talk about each one of these in
+turn.
+
+8
+00:00:34,261 --> 00:00:36,180
+So first one, then, problem solving.
+
+9
+00:00:36,420 --> 00:00:40,560
+Level one, level one conflict is problem
+solving.
+
+10
+00:00:41,540 --> 00:00:46,220
+And as their name suggests, team members
+come together, they have an issue,
+
+11
+00:00:46,440 --> 00:00:50,640
+they have a problem, they have a
+disagreement, and they resolve it.
+
+12
+00:00:51,120 --> 00:00:53,820
+So team members collaborate to resolve the
+issue.
+
+13
+00:00:54,540 --> 00:00:58,440
+So whatever the issue is, and in this
+case, it's not going to be a major issue.
+
+14
+00:00:58,680 --> 00:01:01,661
+It's going to be, let's
+say, for example, you're
+
+15
+00:01:01,662 --> 00:01:04,554
+looking at relative
+estimating of user stories.
+
+16
+00:01:05,800 --> 00:01:08,357
+So one team member is saying this is a
+large user story.
+
+17
+00:01:08,440 --> 00:01:10,857
+Another team member is saying it's a small
+user story.
+
+18
+00:01:10,940 --> 00:01:11,000
+Right.
+
+19
+00:01:11,100 --> 00:01:12,357
+Well, there's a disagreement.
+
+20
+00:01:12,440 --> 00:01:14,290
+However, that can easily be resolved.
+
+21
+00:01:14,660 --> 00:01:16,920
+Team members are going to work together.
+
+22
+00:01:17,120 --> 00:01:19,680
+They're going to collaborate to resolve
+that issue.
+
+23
+00:01:21,320 --> 00:01:27,360
+Now, the level two then, the next level of
+agile conflict is known as a disagreement.
+
+24
+00:01:28,040 --> 00:01:33,360
+In a disagreement now, the key here is
+team members are now becoming opinionated.
+
+25
+00:01:33,980 --> 00:01:37,860
+So they're not really working together as
+such now, right?
+
+26
+00:01:37,861 --> 00:01:39,840
+They're becoming opinionated, right?
+
+27
+00:01:39,900 --> 00:01:42,960
+It's my way or the highway type of thing,
+right?
+
+28
+00:01:43,280 --> 00:01:48,220
+So each person believes that only their
+solution is going to work, right?
+
+29
+00:01:48,221 --> 00:01:50,771
+So the other person's opinion doesn't
+really matter.
+
+30
+00:01:51,340 --> 00:01:53,560
+They just believe, oh, it's only my work.
+
+31
+00:01:53,920 --> 00:01:56,360
+This is the only way it's going to work,
+right?
+
+32
+00:01:56,440 --> 00:01:58,540
+So that's what disagreement is now.
+
+33
+00:01:59,760 --> 00:02:03,060
+Then the next level, level three,
+something called contest.
+
+34
+00:02:03,980 --> 00:02:10,360
+And contest now is, now team members are
+taking sides, right?
+
+35
+00:02:10,480 --> 00:02:12,530
+Team members are beginning to take sides.
+
+36
+00:02:13,300 --> 00:02:17,088
+And the focus now is
+on winning, right, rather
+
+37
+00:02:17,089 --> 00:02:20,320
+than what the actual
+solution really should be.
+
+38
+00:02:20,940 --> 00:02:23,500
+So, beginning to form clicks, for example.
+
+39
+00:02:24,260 --> 00:02:26,904
+Some team members are going on this side,
+
+40
+00:02:26,905 --> 00:02:29,820
+some people are
+supporting the other person.
+
+41
+00:02:30,180 --> 00:02:33,640
+So just like any kind of contest,
+right, think of a sports game.
+
+42
+00:02:33,980 --> 00:02:35,120
+You've got two teams.
+
+43
+00:02:35,420 --> 00:02:36,080
+What's the focus?
+
+44
+00:02:36,280 --> 00:02:37,860
+They need to win, right?
+
+45
+00:02:37,900 --> 00:02:41,814
+They need to score as many goals as
+possible or, you know, whatever the game is.
+
+46
+00:02:42,880 --> 00:02:44,980
+And they need to win, right?
+
+47
+00:02:45,380 --> 00:02:49,320
+And so that's what the, that's what this
+is analogous to.
+
+48
+00:02:50,860 --> 00:02:54,220
+Now, level four then is known as a
+crusade.
+
+49
+00:02:55,300 --> 00:02:58,240
+And a crusade now, teams are polarized.
+
+50
+00:02:59,120 --> 00:03:00,220
+I teams are polarized.
+
+51
+00:03:00,940 --> 00:03:03,748
+And again, the goal
+is simply to win without
+
+52
+00:03:03,749 --> 00:03:06,434
+considering what the correct solution is.
+
+53
+00:03:07,000 --> 00:03:10,040
+Team members, that's what they're focused
+on, right?
+
+54
+00:03:10,220 --> 00:03:13,240
+And it's focused on protecting your own
+team members.
+
+55
+00:03:14,120 --> 00:03:18,400
+So this side and this side, you're just
+focused on protecting, you know,
+
+56
+00:03:18,820 --> 00:03:22,180
+so that's really what the focus is,
+right?
+
+57
+00:03:22,181 --> 00:03:24,376
+Not on what the solution is going to be,
+
+58
+00:03:24,377 --> 00:03:27,834
+right, but who's going
+to win in this case?
+
+59
+00:03:28,820 --> 00:03:33,400
+And then you have level five, which is
+World War, and World War basically.
+
+60
+00:03:33,520 --> 00:03:35,660
+means, teams are not talking to each
+other.
+
+61
+00:03:36,100 --> 00:03:38,431
+Team members are just
+not talking to one another,
+
+62
+00:03:38,432 --> 00:03:40,880
+they're not listening to
+anyone else's solutions.
+
+63
+00:03:41,580 --> 00:03:45,960
+They don't care about the other person or
+the other group, the other team.
+
+64
+00:03:46,800 --> 00:03:50,048
+So it's just, you know,
+like I said, team members
+
+65
+00:03:50,049 --> 00:03:52,614
+are just not talking
+to one another at all.
+
+66
+00:03:53,120 --> 00:03:54,870
+That would be considered World War.
+
+67
+00:03:56,340 --> 00:03:59,380
+Now make sure you know what these five
+conflict levels are.
+
+68
+00:03:59,940 --> 00:04:01,400
+It's always easy to remember.
+
+69
+00:04:01,660 --> 00:04:03,887
+I mean, everybody remembers four in five,
+
+70
+00:04:03,987 --> 00:04:07,020
+everyone remembers
+Crusade and World War, right?
+
+71
+00:04:07,100 --> 00:04:12,120
+It's the first three that, you know,
+you can, you can forget, right?
+
+72
+00:04:12,260 --> 00:04:15,680
+So make sure you remember, remember the
+first three as well, right?
+
+73
+00:04:15,820 --> 00:04:21,080
+So it's problem solving, disagreement,
+contest, and then Crusade and World War.
+

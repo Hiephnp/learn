@@ -1,0 +1,574 @@
+﻿1
+00:00:06,520 --> 00:00:09,800
+In this video, we're going to be covering
+cost of quality.
+
+2
+00:00:10,340 --> 00:00:16,220
+In an early video, we discussed the five
+increasing levels of quality management.
+
+3
+00:00:17,160 --> 00:00:22,740
+I remember the most expensive approach to
+quality management then is the customer,
+
+4
+00:00:22,920 --> 00:00:24,770
+letting the customer find the defect.
+
+5
+00:00:25,540 --> 00:00:27,620
+So this is related really to that.
+
+6
+00:00:28,240 --> 00:00:31,000
+So there's two types then of cost of
+quality.
+
+7
+00:00:31,660 --> 00:00:34,387
+We have the cost of
+conformance, and then on the
+
+8
+00:00:34,388 --> 00:00:38,140
+next slide, we have have
+the cost of non-conformance.
+
+9
+00:00:38,760 --> 00:00:41,510
+It says cost of conformance and cost of
+non-conformance.
+
+10
+00:00:41,640 --> 00:00:43,890
+So let's talk about cost of conformance
+first.
+
+11
+00:00:44,300 --> 00:00:47,360
+And cost of conformance is all the costs
+
+12
+00:00:47,361 --> 00:00:51,194
+required to build
+quality into your product.
+
+13
+00:00:51,420 --> 00:00:53,520
+Now what's all the cost required for that?
+
+14
+00:00:53,820 --> 00:00:56,820
+And this is broken up into two further
+subcategories.
+
+15
+00:00:57,560 --> 00:01:00,520
+We have prevention cost and an appraisal
+cost.
+
+16
+00:01:01,380 --> 00:01:05,931
+So a prevention cost, these
+are all costs, as the name
+
+17
+00:01:05,932 --> 00:01:09,061
+suggests, to prevent
+issues from occurring, right?
+
+18
+00:01:09,180 --> 00:01:12,720
+Preventive actions, to try and prevent an
+issue from occurring.
+
+19
+00:01:13,600 --> 00:01:17,680
+So, for example, regular maintenance of
+your machines, right, you're trying to
+
+20
+00:01:17,681 --> 00:01:21,360
+prevent a corrective action, trying to
+prevent an issue from occurring.
+
+21
+00:01:22,100 --> 00:01:26,580
+Using good quality of raw materials,
+again, you're trying to prevent a defect,
+
+22
+00:01:26,720 --> 00:01:30,500
+you're trying to prevent an issue from
+occurring, training team members,
+
+23
+00:01:30,520 --> 00:01:34,060
+sending team member at the right training
+at the right time.
+
+24
+00:01:34,500 --> 00:01:37,120
+Are you trying to prevent human errors?
+
+25
+00:01:37,560 --> 00:01:41,880
+The whole idea of prevention costs is try
+and prevent human errors, system errors,
+
+26
+00:01:42,160 --> 00:01:43,897
+machine errors, any kind of barriers.
+
+27
+00:01:43,980 --> 00:01:47,137
+It's trying to prevent an issue from
+occurring in the first place.
+
+28
+00:01:47,220 --> 00:01:50,120
+Documenting procedures, for example,
+documenting processes.
+
+29
+00:01:50,860 --> 00:01:59,340
+So people can follow the procedures and,
+you know, reduce potential human error.
+
+30
+00:01:59,341 --> 00:02:02,700
+also having the right equipment for the
+right job.
+
+31
+00:02:03,660 --> 00:02:09,520
+So, again, reducing wastage and increasing
+productivity and so and so forth.
+
+32
+00:02:10,480 --> 00:02:15,940
+And even just spending the time to do it
+right in the first place, rather than
+
+33
+00:02:15,941 --> 00:02:18,724
+fixing issues afterwards,
+we should spend the time
+
+34
+00:02:18,725 --> 00:02:21,680
+right now to try and prevent
+issues from occurring.
+
+35
+00:02:22,480 --> 00:02:24,917
+I'm sure you can think of a whole bunch of
+others.
+
+36
+00:02:25,000 --> 00:02:29,100
+You know, every industry, every
+organization is going to have their own,
+
+37
+00:02:29,340 --> 00:02:35,600
+ideas of what is a prevention cost or the
+whole they're going to come up with their
+
+38
+00:02:35,601 --> 00:02:40,580
+own procedures regarding preventing issues
+from occurring in the first place so the
+
+39
+00:02:40,581 --> 00:02:45,920
+list is endless these are just some
+examples whenever you see this term
+
+40
+00:02:45,921 --> 00:02:53,160
+appraisal cost an appraisal cost always
+refers to testing any kind of testing
+
+41
+00:02:53,161 --> 00:02:58,760
+you're testing the product testing the
+process I think of all the different tests
+
+42
+00:02:58,761 --> 00:03:05,800
+that you do and your teams do, right, they
+all fall under an appraisal cost, right?
+
+43
+00:03:06,120 --> 00:03:11,654
+So unit testing, regression testing, so
+these are just a couple of IT-type testing.
+
+44
+00:03:12,880 --> 00:03:14,677
+But, you know, there's many, many tests.
+
+45
+00:03:14,760 --> 00:03:16,246
+So think of all the
+different tests that you
+
+46
+00:03:16,247 --> 00:03:18,334
+do, even things like
+destructive testing losses.
+
+47
+00:03:19,140 --> 00:03:22,080
+You're building the product or you're
+testing the product to see if it
+
+48
+00:03:22,081 --> 00:03:26,660
+withstands a certain amount of force, such
+as, for example, crash testing in cars.
+
+49
+00:03:27,200 --> 00:03:32,220
+I mean, you have to destroy the whole car,
+but that is an appraisal cost because you
+
+50
+00:03:32,221 --> 00:03:35,660
+want to make sure it's conforming to a
+particular standard.
+
+51
+00:03:37,060 --> 00:03:41,180
+Inspecting raw materials before they go
+into the machine, right, to make sure that
+
+52
+00:03:41,181 --> 00:03:44,340
+the right grade and quality, again,
+it's an appraisal cost.
+
+53
+00:03:44,660 --> 00:03:49,300
+So any kind of testing falls under an
+appraisal cost.
+
+54
+00:03:50,200 --> 00:03:53,500
+So these fall under cost of conformance,
+right?
+
+55
+00:03:53,501 --> 00:03:54,997
+You're trying to build quality.
+
+56
+00:03:55,080 --> 00:03:55,220
+in.
+
+57
+00:03:55,600 --> 00:03:58,320
+So I want to prevent issues from
+occurring, right?
+
+58
+00:03:58,620 --> 00:03:59,870
+And then we want to test.
+
+59
+00:04:00,100 --> 00:04:03,700
+Make sure that you're testing the process
+as well as testing the product.
+
+60
+00:04:05,200 --> 00:04:07,529
+Now, the other type
+of cost of quality then,
+
+61
+00:04:07,530 --> 00:04:10,020
+and the next slide is
+cost of non-conformance.
+
+62
+00:04:10,660 --> 00:04:15,500
+And the cost of non-conformance then are
+the cost of issues, defects, problems,
+
+63
+00:04:15,940 --> 00:04:18,840
+failures, and all the costs associated
+with that.
+
+64
+00:04:19,340 --> 00:04:20,640
+And so there's two types.
+
+65
+00:04:20,700 --> 00:04:23,840
+You have an internal failure cost and an
+external failure cost.
+
+66
+00:04:24,200 --> 00:04:32,720
+An internal, failure cost, costs
+associated with the non-conformance of
+
+67
+00:04:32,721 --> 00:04:38,020
+products or issues with the process during
+the project.
+
+68
+00:04:38,800 --> 00:04:42,340
+That's an internal fairly cost,
+such as, for example, you're testing a
+
+69
+00:04:42,341 --> 00:04:45,520
+product, it's not doing what it's supposed
+to be doing, right?
+
+70
+00:04:45,720 --> 00:04:46,553
+It's a defect.
+
+71
+00:04:46,700 --> 00:04:47,600
+We have to fix it.
+
+72
+00:04:48,060 --> 00:04:53,820
+So, rework, defect repair, rework,
+that's a internal failure cost.
+
+73
+00:04:53,980 --> 00:04:56,017
+It's not doing what it's supposed to,
+we do.
+
+74
+00:04:56,100 --> 00:04:58,480
+Or we have to get rid of it all together.
+
+75
+00:04:58,960 --> 00:04:59,793
+Scrap.
+
+76
+00:05:01,560 --> 00:05:03,960
+Or even downtime, unplanned downtime.
+
+77
+00:05:04,420 --> 00:05:05,670
+Machine suddenly crashes.
+
+78
+00:05:05,960 --> 00:05:07,110
+No one can do any work.
+
+79
+00:05:07,700 --> 00:05:09,450
+So now we need to fix that machine.
+
+80
+00:05:10,520 --> 00:05:11,570
+That's going to cost.
+
+81
+00:05:11,780 --> 00:05:13,900
+And then plus the unplanned downtime.
+
+82
+00:05:14,700 --> 00:05:16,950
+All of that would be an internal failure
+cost.
+
+83
+00:05:18,300 --> 00:05:21,440
+Internal failure costs can also be things
+like low team morale.
+
+84
+00:05:22,260 --> 00:05:26,600
+Team members are not enjoying what they're
+doing right there's low morale in in the
+
+85
+00:05:26,601 --> 00:05:31,820
+team right so that would be an internal
+failure cost and again i'm sure i can
+
+86
+00:05:31,821 --> 00:05:35,920
+think of a whole bunch of others but an
+internal failure cost specifically refers
+
+87
+00:05:35,921 --> 00:05:40,740
+to while we are working on the project any
+failures that we're seeing during the
+
+88
+00:05:40,741 --> 00:05:46,360
+project that would be an internal failure
+cost and an external failure cost is once
+
+89
+00:05:46,361 --> 00:05:53,940
+the product has reached the customer and
+now the customer is finding problems that
+
+90
+00:05:53,960 --> 00:06:00,980
+now is an external failure cost and all
+the costs associated with that such as as
+
+91
+00:06:00,981 --> 00:06:06,740
+it says here liability warranty work
+litigation claims loss of reputation loss
+
+92
+00:06:06,741 --> 00:06:12,160
+of business recalls these would all be an
+external fairly cost because now the
+
+93
+00:06:12,161 --> 00:06:16,440
+customer has found the problem the
+customer is finding this year and remember
+
+94
+00:06:16,441 --> 00:06:22,760
+that is the highest cost of quality by
+letting the customer find it now be
+
+95
+00:06:22,761 --> 00:06:26,100
+careful with internal and external failure
+cost, right?
+
+96
+00:06:26,580 --> 00:06:31,480
+An external failure cost is once a product
+has been delivered to the customer,
+
+97
+00:06:32,560 --> 00:06:32,680
+right?
+
+98
+00:06:33,380 --> 00:06:39,360
+Sometimes, well, or rather in a lot of
+projects, before a product is officially
+
+99
+00:06:39,361 --> 00:06:43,420
+delivered to the customer, the customer is
+going to test the product, right?
+
+100
+00:06:43,840 --> 00:06:46,140
+Sometimes they call it user acceptance
+testing.
+
+101
+00:06:46,760 --> 00:06:49,660
+At that point, if they've found issues.
+
+102
+00:06:50,520 --> 00:06:52,646
+At that point, that would
+still be considered an
+
+103
+00:06:52,647 --> 00:06:55,600
+internal failure cost because
+the project is not closed.
+
+104
+00:06:56,300 --> 00:06:57,780
+The project is still open.
+
+105
+00:06:59,520 --> 00:07:02,340
+It's just that the customer is now doing
+their testing.
+
+106
+00:07:02,540 --> 00:07:06,600
+So we've built the product, we meaning our
+team, we've built the product.
+
+107
+00:07:07,620 --> 00:07:11,160
+And now we've tested the product as part
+of call to control.
+
+108
+00:07:11,440 --> 00:07:12,880
+We as a team, we've tested the product.
+
+109
+00:07:12,881 --> 00:07:18,840
+now we've given it to the customer for
+their sign-off, right, for their acceptance.
+
+110
+00:07:19,080 --> 00:07:21,180
+So now the customer is going to be
+testing.
+
+111
+00:07:22,380 --> 00:07:25,339
+If they find any issues at
+that point, then it's still an
+
+112
+00:07:25,340 --> 00:07:29,180
+internal failure cost because
+the project is still open.
+
+113
+00:07:29,960 --> 00:07:36,160
+Once the project is closed and now,
+once we deliver the final product to the
+
+114
+00:07:36,161 --> 00:07:41,300
+customer, and now the finding problems,
+now the finding issues, at that point,
+
+115
+00:07:42,060 --> 00:07:42,860
+that would be an extra.
+
+116
+00:07:42,880 --> 00:07:47,560
+external failure cost, which is the
+highest cost of quality.
+
+117
+00:07:48,540 --> 00:07:51,540
+So these are the two major headings then
+of cost of quality.
+
+118
+00:07:52,100 --> 00:07:54,940
+You have cost of conformance, cost of
+non-conformance.
+
+119
+00:07:55,720 --> 00:07:59,220
+In the cost of conformance, you have
+prevention costs, appraisal cost,
+
+120
+00:07:59,860 --> 00:08:04,440
+cost of non-conformance, internal failure
+cost and an external failure cost.
+

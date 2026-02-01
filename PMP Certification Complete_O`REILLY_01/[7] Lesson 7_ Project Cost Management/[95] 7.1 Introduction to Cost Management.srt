@@ -1,0 +1,491 @@
+﻿1
+00:00:06,390 --> 00:00:09,785
+Okay, so in this video,
+we are going to just
+
+2
+00:00:09,786 --> 00:00:12,884
+introduce the concept of cost management.
+
+3
+00:00:13,190 --> 00:00:17,770
+Now, cost management then, as I mean
+suggests, it's about estimating all of the
+
+4
+00:00:17,771 --> 00:00:21,850
+costs on your project and coming up with
+the budget for the overall project.
+
+5
+00:00:22,850 --> 00:00:26,550
+And so we need to estimate all of the
+costs on our project, cost of all
+
+6
+00:00:26,551 --> 00:00:31,450
+resources, cost of equipment, supplies,
+cost of labour, cost of raw materials,
+
+7
+00:00:31,890 --> 00:00:34,590
+and plus any additional expenses as well.
+
+8
+00:00:34,591 --> 00:00:38,470
+So we need to figure out all of these
+costs on our project.
+
+9
+00:00:39,170 --> 00:00:43,390
+And, you know, first, we need to come up
+with the costs of individual activities,
+
+10
+00:00:44,270 --> 00:00:47,910
+individual components of the project,
+right before we can aggregate all of the
+
+11
+00:00:47,911 --> 00:00:50,711
+costs to come up with the overall budget
+for the project.
+
+12
+00:00:52,490 --> 00:00:56,490
+Now, there are four basic categories of
+costs that you need to be aware of.
+
+13
+00:00:57,050 --> 00:01:00,570
+You have direct costs and indirect costs.
+
+14
+00:01:01,170 --> 00:01:03,410
+You have variable costs and fixed costs.
+
+15
+00:01:03,411 --> 00:01:05,730
+So direct costs first.
+
+16
+00:01:06,530 --> 00:01:09,978
+Direct costs, these are
+costs that are directly
+
+17
+00:01:09,979 --> 00:01:14,050
+attributable to your project
+as a result of your project.
+
+18
+00:01:14,750 --> 00:01:16,350
+You have to have these expenses.
+
+19
+00:01:17,290 --> 00:01:22,710
+So all of the expenses of your resources,
+equipment, supplies, raw materials,
+
+20
+00:01:23,590 --> 00:01:24,590
+team members, labor.
+
+21
+00:01:25,330 --> 00:01:27,230
+You have to have these expenses.
+
+22
+00:01:28,070 --> 00:01:31,570
+If you don't have these expenses,
+you can't do your project.
+
+23
+00:01:31,571 --> 00:01:36,970
+If you don't have raw materials,
+you have to purchase those raw materials.
+
+24
+00:01:37,590 --> 00:01:40,790
+If you don't have those raw materials,
+you can't do your project.
+
+25
+00:01:41,170 --> 00:01:43,090
+You need labour on your project.
+
+26
+00:01:43,510 --> 00:01:45,830
+You need team members to perform the work.
+
+27
+00:01:46,370 --> 00:01:48,120
+You need to pay those team members.
+
+28
+00:01:48,490 --> 00:01:52,970
+If you don't have team members,
+if you don't hire team members to work on
+
+29
+00:01:52,971 --> 00:01:55,930
+your project, you won't be able to do your
+project.
+
+30
+00:01:56,790 --> 00:02:01,550
+So direct costs then, these are directly
+attributable to your project.
+
+31
+00:02:01,570 --> 00:02:03,926
+and it's purely and simply as a result of
+
+32
+00:02:03,927 --> 00:02:07,184
+your project, you have
+to have these expenses.
+
+33
+00:02:08,050 --> 00:02:09,850
+Then you have indirect costs.
+
+34
+00:02:10,510 --> 00:02:15,010
+And these are generally costs that are
+shared amongst different teams,
+
+35
+00:02:15,510 --> 00:02:19,110
+different business units, different
+departments within your organisation.
+
+36
+00:02:19,710 --> 00:02:24,510
+This will be considered an indirect cost,
+such as, for example, overheads,
+
+37
+00:02:25,090 --> 00:02:25,923
+utilities.
+
+38
+00:02:26,610 --> 00:02:32,410
+So these are all shared amongst different
+teams, amongst different departments.
+
+39
+00:02:34,110 --> 00:02:35,670
+Then you have variable costs.
+
+40
+00:02:36,510 --> 00:02:42,190
+Variable costs then, these vary with the
+amount of usage, such as, for example,
+
+41
+00:02:42,710 --> 00:02:43,543
+travel expenses.
+
+42
+00:02:44,390 --> 00:02:45,890
+That would be a variable cost.
+
+43
+00:02:46,290 --> 00:02:51,110
+Or you are bringing in some hourly
+consultants or hourly labor.
+
+44
+00:02:52,030 --> 00:02:56,070
+Depending on how many hours they work,
+that would be a variable cost.
+
+45
+00:02:56,970 --> 00:02:58,710
+Then you have fixed costs.
+
+46
+00:02:59,670 --> 00:03:03,950
+And fixed costs, then these are fixed over
+a certain time period.
+
+47
+00:03:04,210 --> 00:03:09,010
+So, for example, rent, you're paying the
+same monthly amount in rent, right?
+
+48
+00:03:09,430 --> 00:03:15,990
+Or let's say, um, leases, equipment
+leases, you're paying the same monthly
+
+49
+00:03:15,991 --> 00:03:18,450
+amount to lease this equipment,
+right?
+
+50
+00:03:18,451 --> 00:03:19,707
+Or even the same weekly amount.
+
+51
+00:03:19,790 --> 00:03:21,408
+It doesn't have to be monthly, but we're
+
+52
+00:03:21,409 --> 00:03:23,624
+paying the same amount
+over a certain period.
+
+53
+00:03:24,030 --> 00:03:25,467
+It could be quarterly, for example.
+
+54
+00:03:25,550 --> 00:03:27,700
+You're paying the same amount every
+quarter.
+
+55
+00:03:28,050 --> 00:03:30,830
+Also, for example, um, insurance premium.
+
+56
+00:03:30,850 --> 00:03:33,871
+Again, you're paying the
+same monthly amount for
+
+57
+00:03:33,872 --> 00:03:36,891
+insurance premiums, that
+would be considered a fixed cost.
+
+58
+00:03:37,850 --> 00:03:43,770
+So you can have direct fixed costs,
+direct variable costs.
+
+59
+00:03:44,270 --> 00:03:48,650
+You can have indirect fixed costs,
+indirect variable costs.
+
+60
+00:03:49,710 --> 00:03:54,170
+But the most significant
+costs on your project, direct
+
+61
+00:03:54,171 --> 00:03:57,510
+costs, whatever is a
+direct cost to your project.
+
+62
+00:03:57,511 --> 00:04:01,210
+because those are the most significant
+costs, right?
+
+63
+00:04:01,290 --> 00:04:04,530
+That's a maximum cost that you will have
+on your project.
+
+64
+00:04:05,470 --> 00:04:07,350
+Equipment, supplies, labor.
+
+65
+00:04:07,710 --> 00:04:10,330
+Labor is a huge expense on any project.
+
+66
+00:04:10,930 --> 00:04:13,480
+That's going to be the maximum cost on
+your project.
+
+67
+00:04:14,250 --> 00:04:18,250
+So those are going to be the most
+significant cost, any direct cost.
+
+68
+00:04:19,150 --> 00:04:23,256
+Now, also with direct costs, as a project
+
+69
+00:04:23,257 --> 00:04:27,430
+manager, you have the
+most control over direct.
+
+70
+00:04:27,510 --> 00:04:28,343
+costs.
+
+71
+00:04:28,510 --> 00:04:30,960
+You don't always have control over
+indirect costs.
+
+72
+00:04:31,670 --> 00:04:35,558
+A lot of times, many organizations,
+senior management will
+
+73
+00:04:35,559 --> 00:04:39,130
+just apportion a part of
+the overhead to your project.
+
+74
+00:04:39,690 --> 00:04:41,287
+You don't always have control over that.
+
+75
+00:04:41,370 --> 00:04:45,590
+Now obviously that all depends on the
+organization and the industry and so and
+
+76
+00:04:45,591 --> 00:04:47,970
+so forth, but I'm just talking general
+terms.
+
+77
+00:04:48,390 --> 00:04:50,770
+Now, you don't always
+have control over that,
+
+78
+00:04:50,771 --> 00:04:53,264
+but you have more
+control over direct costs.
+
+79
+00:04:53,630 --> 00:04:57,090
+You definitely, definitely have control
+over the direct costs.
+
+80
+00:04:58,210 --> 00:05:01,670
+So you can have direct variable costs,
+right?
+
+81
+00:05:01,830 --> 00:05:02,807
+And direct fixed cost.
+
+82
+00:05:02,890 --> 00:05:07,770
+So a direct fixed cost, for example,
+could be, say, insurance premiums.
+
+83
+00:05:07,771 --> 00:05:11,950
+You're buying insurance just for this
+project, right?
+
+84
+00:05:12,030 --> 00:05:14,030
+It's purely and simply for this project.
+
+85
+00:05:14,630 --> 00:05:15,830
+Well, it's a fixed cost.
+
+86
+00:05:15,930 --> 00:05:17,830
+You're paying the same monthly amount.
+
+87
+00:05:18,470 --> 00:05:21,720
+But it's a direct cost because it's
+specifically for this project.
+
+88
+00:05:22,070 --> 00:05:25,990
+Or you can have a direct variable cost
+such as travel expenses.
+
+89
+00:05:26,550 --> 00:05:31,337
+We need to travel specifically
+for this project, but the
+
+90
+00:05:31,338 --> 00:05:35,430
+amount of travelling that we
+do, it's going to be variable.
+
+91
+00:05:35,470 --> 00:05:37,127
+We don't know how much it's going to be.
+
+92
+00:05:37,210 --> 00:05:41,390
+We're not paying the same amount,
+same monthly amount, right, to have
+
+93
+00:05:41,391 --> 00:05:47,950
+enough, as we all know, flights and hotel
+costs vary throughout the year.
+
+94
+00:05:49,330 --> 00:05:54,010
+But these are all different costs,
+or these are the four basic categories of
+
+95
+00:05:54,011 --> 00:05:59,084
+costs that you need to know about, that
+you need to be aware of for the PMP exam.
+
+96
+00:06:00,230 --> 00:06:04,190
+And you need to consider all of these
+costs on our project.
+
+97
+00:06:04,910 --> 00:06:08,664
+So first, as I said earlier,
+we first have to figure
+
+98
+00:06:08,665 --> 00:06:12,030
+out the costs of individual
+components on the project.
+
+99
+00:06:12,710 --> 00:06:14,845
+Once we've figured
+out the cost of individual
+
+100
+00:06:14,846 --> 00:06:17,730
+components, right, so it
+could be at an activity level.
+
+101
+00:06:17,910 --> 00:06:19,560
+It could be a work package level.
+
+102
+00:06:19,890 --> 00:06:23,890
+But once we know the cost of individual
+components, then we can aggregate those.
+
+103
+00:06:23,891 --> 00:06:25,808
+that can add up all of the costs to come
+
+104
+00:06:25,809 --> 00:06:28,704
+up with the overall
+budget for the project.
+
+105
+00:06:28,850 --> 00:06:34,010
+And that's really what the whole cost
+management knowledge area refers to.
+

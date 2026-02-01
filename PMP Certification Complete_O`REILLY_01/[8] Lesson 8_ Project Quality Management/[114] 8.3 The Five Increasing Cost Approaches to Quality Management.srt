@@ -1,0 +1,463 @@
+﻿1
+00:00:06,460 --> 00:00:11,240
+Okay, so let's talk about the increasing
+approaches to quality management, right?
+
+2
+00:00:11,320 --> 00:00:15,720
+What's the most expensive approach versus
+the least expensive approach to quality?
+
+3
+00:00:16,820 --> 00:00:20,257
+Now, the most expensive
+approach then to quality is naturally
+
+4
+00:00:20,258 --> 00:00:23,740
+going to be letting the
+customer find the defect, right?
+
+5
+00:00:24,040 --> 00:00:25,817
+That is going to be the most expensive
+approach.
+
+6
+00:00:25,900 --> 00:00:27,200
+A customer finds a defect.
+
+7
+00:00:27,880 --> 00:00:30,160
+So all the costs associated with that,
+right?
+
+8
+00:00:30,220 --> 00:00:32,134
+You've built the product,
+you deliver it to the
+
+9
+00:00:32,135 --> 00:00:34,474
+customer, now they're
+finding all these issues.
+
+10
+00:00:34,900 --> 00:00:36,850
+So let's think about some of the costs.
+
+11
+00:00:37,100 --> 00:00:44,000
+Warranty work, loss of reputation, loss
+of business, liabilities, recalls, right?
+
+12
+00:00:44,060 --> 00:00:46,360
+You have to recall the product.
+
+13
+00:00:47,300 --> 00:00:48,450
+That's a major expense.
+
+14
+00:00:49,160 --> 00:00:50,760
+Potential litigation claims.
+
+15
+00:00:51,560 --> 00:00:52,910
+And again, a major expense.
+
+16
+00:00:53,380 --> 00:00:56,540
+So that is a most expensive approach to
+quality.
+
+17
+00:00:56,800 --> 00:00:58,537
+To letting the customer find a defect.
+
+18
+00:00:58,620 --> 00:01:00,620
+We should find the defect beforehand.
+
+19
+00:01:01,200 --> 00:01:03,257
+We don't want the customer to find the
+issues.
+
+20
+00:01:03,340 --> 00:01:05,177
+We want to find the issues beforehand.
+
+21
+00:01:05,260 --> 00:01:07,410
+Before it gets to the hands of the
+customer.
+
+22
+00:01:08,100 --> 00:01:12,020
+But customer finding the issues,
+customer finding the defects, customer
+
+23
+00:01:12,021 --> 00:01:14,820
+finding the problems, we now have to fix
+that, right?
+
+24
+00:01:14,900 --> 00:01:16,800
+We now have to fix our own reputation.
+
+25
+00:01:17,000 --> 00:01:23,214
+We now have to fix a bit of, try and
+potentially overcome some loss of business.
+
+26
+00:01:23,940 --> 00:01:26,820
+That is all known as an external failure
+cost.
+
+27
+00:01:27,320 --> 00:01:29,170
+And that is an external failure cost.
+
+28
+00:01:30,240 --> 00:01:35,620
+Now, a better approach then, right,
+is for us to find the defects first.
+
+29
+00:01:35,900 --> 00:01:38,760
+So, focusing on quality control.
+
+30
+00:01:40,080 --> 00:01:42,927
+So, we, before we
+deliver the product to the
+
+31
+00:01:42,928 --> 00:01:46,214
+customer, we test it
+to see if it's working.
+
+32
+00:01:46,360 --> 00:01:49,700
+So we correct the defects before it's sent
+to the customer.
+
+33
+00:01:50,340 --> 00:01:56,200
+However, quality control, or rather
+focusing on quality control, is also an
+
+34
+00:01:56,201 --> 00:02:00,940
+expensive approach because what we're
+doing in quality control, we are building
+
+35
+00:02:00,941 --> 00:02:05,080
+the product, we're testing it,
+seeing seeing if it works.
+
+36
+00:02:05,660 --> 00:02:07,760
+If it doesn't work, we go back and fix it.
+
+37
+00:02:08,280 --> 00:02:09,730
+That's an expensive approach.
+
+38
+00:02:10,260 --> 00:02:14,180
+If the product isn't working, that is
+known as an internal failure cost.
+
+39
+00:02:14,420 --> 00:02:16,537
+This is before it gets sent to the
+customer.
+
+40
+00:02:16,620 --> 00:02:18,570
+It's known as an internal failure cost.
+
+41
+00:02:19,300 --> 00:02:25,274
+So a better approach than
+that is to focus on the process,
+
+42
+00:02:25,275 --> 00:02:29,530
+looking at the output of each
+individual process, making sure the
+
+43
+00:02:29,531 --> 00:02:32,494
+output of each process
+is working correctly.
+
+44
+00:02:32,820 --> 00:02:36,900
+So focusing on quality assurance,
+managing your quality.
+
+45
+00:02:37,560 --> 00:02:40,780
+There's one of the PIMBOP processes is
+called manage quality.
+
+46
+00:02:41,380 --> 00:02:45,980
+A managed quality refers to quality
+assurance, refers to the process.
+
+47
+00:02:47,020 --> 00:02:50,400
+So making sure then
+that we are systematically
+
+48
+00:02:50,401 --> 00:02:52,600
+removing any issues from the process.
+
+49
+00:02:52,880 --> 00:02:55,680
+So the output of each process is going to
+be defect-free.
+
+50
+00:02:55,940 --> 00:02:57,777
+So again, think of a production line.
+
+51
+00:02:57,860 --> 00:02:59,680
+I go all these machines, right?
+
+52
+00:02:59,920 --> 00:03:04,640
+So the first raw materials goes into the
+first machine is producing a component.
+
+53
+00:03:05,280 --> 00:03:06,730
+We're testing that component.
+
+54
+00:03:07,000 --> 00:03:08,637
+Is it doing what it's supposed to be
+doing?
+
+55
+00:03:08,720 --> 00:03:12,260
+Then it goes into the next machine and so
+and so forth.
+
+56
+00:03:12,820 --> 00:03:17,020
+So if the machines are working correctly,
+if the process is working correctly,
+
+57
+00:03:17,560 --> 00:03:20,420
+then the output of each process should be
+defect-free.
+
+58
+00:03:20,920 --> 00:03:24,314
+So that's a much better
+approach than just focusing
+
+59
+00:03:24,315 --> 00:03:27,520
+on, you know, just
+focusing on quality control.
+
+60
+00:03:27,920 --> 00:03:30,270
+Now that doesn't mean we ignore quality
+control.
+
+61
+00:03:30,460 --> 00:03:31,297
+No, absolutely not.
+
+62
+00:03:31,380 --> 00:03:33,030
+No, you have to test the product.
+
+63
+00:03:33,700 --> 00:03:36,320
+But we should also be looking at the
+process as well.
+
+64
+00:03:36,600 --> 00:03:38,850
+We're trying to prevent issues from
+occurring.
+
+65
+00:03:39,500 --> 00:03:41,160
+So that's a much better approach.
+
+66
+00:03:41,720 --> 00:03:46,268
+But then an even better
+approach is to plan quality
+
+67
+00:03:46,269 --> 00:03:49,520
+right at the beginning
+throughout the project.
+
+68
+00:03:50,820 --> 00:03:54,600
+So have a quality management process,
+a good quality management process,
+
+69
+00:03:55,460 --> 00:04:00,153
+plan your quality management
+process right at the
+
+70
+00:04:00,154 --> 00:04:04,140
+beginning, right, and utilize
+that throughout the project.
+
+71
+00:04:05,840 --> 00:04:08,870
+So basically, anticipate
+what potential issues
+
+72
+00:04:08,871 --> 00:04:12,240
+could occur and have
+a process to deal with it.
+
+73
+00:04:12,540 --> 00:04:17,040
+So that overlaps then also with risk
+management.
+
+74
+00:04:18,660 --> 00:04:24,034
+In risk management, we're trying to
+identify potential issues that could occur.
+
+75
+00:04:24,400 --> 00:04:26,637
+When we get to risk, we'll talk about what
+is risk.
+
+76
+00:04:26,720 --> 00:04:29,520
+A risk is an uncertainty.
+
+77
+00:04:29,820 --> 00:04:31,300
+It may or may not happen.
+
+78
+00:04:32,020 --> 00:04:34,480
+So we're trying to identify any potential
+issues.
+
+79
+00:04:34,660 --> 00:04:36,540
+A potential issue is a risk.
+
+80
+00:04:36,720 --> 00:04:37,970
+It may or may not happen.
+
+81
+00:04:38,560 --> 00:04:41,740
+So risk and quality go hand in hand.
+
+82
+00:04:42,140 --> 00:04:45,940
+If you have a good risk management process
+in place and generally you have a good
+
+83
+00:04:45,941 --> 00:04:50,800
+quality management process in place
+because you're identifying any potential
+
+84
+00:04:50,801 --> 00:04:57,540
+issues that may occur and you have a plan
+to either prevent those issues from
+
+85
+00:04:57,541 --> 00:05:02,900
+occurring or have a plan to deal with
+those issues if they do occur.
+
+86
+00:05:04,540 --> 00:05:09,440
+So we want to plan our quality management
+process right at the beginning.
+
+87
+00:05:09,600 --> 00:05:12,680
+We need to have a good quality management
+plan in place.
+
+88
+00:05:13,440 --> 00:05:18,268
+And then an even better approach
+than that is to have basically
+
+89
+00:05:18,269 --> 00:05:22,860
+incorporate a culture of quality
+into the entire organization.
+
+90
+00:05:23,680 --> 00:05:27,884
+Not every organization gets
+to this, but the organization's
+
+91
+00:05:27,885 --> 00:05:31,820
+culture should have an awareness
+and commitment to quality.
+
+92
+00:05:32,420 --> 00:05:38,756
+So constantly then looking
+for potential issues and quality
+
+93
+00:05:38,757 --> 00:05:42,640
+is drummed into them as part
+of the organization's culture.
+
+94
+00:05:43,220 --> 00:05:46,720
+So these are the five increasing
+approaches.
+
+95
+00:05:46,780 --> 00:05:51,140
+to cost of quality, cost of quality
+management.
+
+96
+00:05:51,540 --> 00:05:55,140
+I said the most expensive approach,
+letting the customer find the defect,
+
+97
+00:05:55,400 --> 00:05:57,886
+the least expensive
+approach, we actually have
+
+98
+00:05:57,928 --> 00:06:00,401
+a culture of quality
+within the organisation.
+

@@ -1,0 +1,653 @@
+﻿1
+00:00:06,010 --> 00:00:09,910
+Okay, so on this video we're going to
+discuss the cost baseline.
+
+2
+00:00:10,630 --> 00:00:12,770
+So remember, there are four baselines.
+
+3
+00:00:13,630 --> 00:00:17,230
+You have the scope baseline, schedule
+baseline, and the cost baseline.
+
+4
+00:00:18,030 --> 00:00:19,632
+And then the three of these put together
+
+5
+00:00:19,633 --> 00:00:22,304
+make up the performance
+measurement baseline.
+
+6
+00:00:22,750 --> 00:00:26,970
+And each of these baselines then are a
+component of the project management plan.
+
+7
+00:00:27,790 --> 00:00:31,340
+So in this video then we're going to be
+talking about the cost baseline.
+
+8
+00:00:31,510 --> 00:00:35,990
+Now the cost baseline is the approved
+version of the cost.
+
+9
+00:00:35,991 --> 00:00:38,150
+the approved version of the budget.
+
+10
+00:00:38,830 --> 00:00:42,247
+So this is the budget,
+right, or the portion of the
+
+11
+00:00:42,248 --> 00:00:45,450
+budget that does not
+include management reserves.
+
+12
+00:00:46,030 --> 00:00:50,030
+So this is the budget that the project
+manager is responsible for.
+
+13
+00:00:50,390 --> 00:00:52,850
+It includes contingency reserves,
+right?
+
+14
+00:00:52,970 --> 00:00:56,870
+So it's all of the planned costs on the
+project plus a contingency reserve,
+
+15
+00:00:57,210 --> 00:00:59,467
+but it doesn't include the management
+reserves.
+
+16
+00:00:59,550 --> 00:01:03,570
+So this is what you would call, if you
+like, your project manager's budget.
+
+17
+00:01:04,170 --> 00:01:09,210
+Now, the budget also, whenever you're
+coming up with a budget, you don't just
+
+18
+00:01:09,211 --> 00:01:12,550
+come up with one final budget at the end
+of the project, right?
+
+19
+00:01:13,290 --> 00:01:16,190
+You have various performance levels
+throughout the project.
+
+20
+00:01:16,570 --> 00:01:23,030
+So your cost baseline then is your time
+phased budget throughout the project.
+
+21
+00:01:24,030 --> 00:01:28,730
+And your baseline budget is also known as
+the budget at completion.
+
+22
+00:01:29,210 --> 00:01:32,910
+And we have a separate video on these,
+right, separate videos on end value.
+
+23
+00:01:33,030 --> 00:01:35,950
+That's where we introduce this term,
+budget at completion.
+
+24
+00:01:36,490 --> 00:01:38,490
+So BAC is budget at completion.
+
+25
+00:01:38,930 --> 00:01:41,274
+There's also another
+term we'll be discussing
+
+26
+00:01:41,275 --> 00:01:43,724
+which is the EAC estimate at completion.
+
+27
+00:01:44,350 --> 00:01:47,100
+So anyway, we'll talk about that in just a
+little while.
+
+28
+00:01:47,290 --> 00:01:52,096
+But the cost baseline is
+your time phased budget,
+
+29
+00:01:52,097 --> 00:01:55,761
+not just one final budget
+at the end of the project.
+
+30
+00:01:56,350 --> 00:02:00,330
+And it's usually shown as an S curve like
+this.
+
+31
+00:02:00,690 --> 00:02:02,090
+It's usually shown as an S curve.
+
+32
+00:02:02,091 --> 00:02:03,991
+All right, so let's explain this then.
+
+33
+00:02:05,530 --> 00:02:08,430
+So on the y-axis, we have the cost,
+right?
+
+34
+00:02:08,790 --> 00:02:10,390
+On the x-axis, we have timeline.
+
+35
+00:02:11,090 --> 00:02:14,890
+So we have beginning of the project all
+the way until the end of the project,
+
+36
+00:02:15,010 --> 00:02:15,110
+right?
+
+37
+00:02:15,190 --> 00:02:19,150
+And then in between, right, these
+increments here could either represent
+
+38
+00:02:19,151 --> 00:02:23,390
+phases or it could represent timeline,
+like an actual time, days, weeks,
+
+39
+00:02:23,570 --> 00:02:25,270
+months, that kind of thing, years.
+
+40
+00:02:25,810 --> 00:02:28,650
+So that's why I've purposely left this
+blank, right?
+
+41
+00:02:28,750 --> 00:02:31,810
+Because, you know, this could have,
+you know, several meanings.
+
+42
+00:02:31,811 --> 00:02:34,811
+Like I said, each one of these could be a
+phase on a project.
+
+43
+00:02:35,230 --> 00:02:38,150
+And here we're talking about predictive
+projects, right?
+
+44
+00:02:38,250 --> 00:02:41,100
+We're specifically talking about
+predictive projects here.
+
+45
+00:02:41,890 --> 00:02:43,867
+So you have beginning of the project,
+end of the project.
+
+46
+00:02:43,950 --> 00:02:46,327
+And then on the y-axis,
+you have the cost, and these
+
+47
+00:02:46,410 --> 00:02:48,630
+could be going in, you
+know, in any increments.
+
+48
+00:02:49,470 --> 00:02:56,690
+Now, this curved line here, or the
+S-curve, right, in the dark-colored line
+
+49
+00:02:56,691 --> 00:03:00,936
+here, this is your rate of
+expenditure, or your planned
+
+50
+00:03:00,937 --> 00:03:04,130
+rate of, of expenditure
+throughout your project, right?
+
+51
+00:03:04,330 --> 00:03:07,650
+So this is what is your cost baseline for
+your project.
+
+52
+00:03:09,170 --> 00:03:11,576
+So at the beginning
+of a project, your rate
+
+53
+00:03:11,577 --> 00:03:14,084
+of expenditure is not
+going to be really high.
+
+54
+00:03:14,370 --> 00:03:16,450
+You don't have too many people on your
+project, right?
+
+55
+00:03:16,490 --> 00:03:18,690
+You're just doing some initial planning
+work.
+
+56
+00:03:19,670 --> 00:03:23,590
+You're not going to be using too many raw
+materials or anything like that.
+
+57
+00:03:23,670 --> 00:03:27,220
+So your rate expenditure is going to be,
+it's not going to be very high.
+
+58
+00:03:27,330 --> 00:03:33,010
+Now, as time progressed through the
+project team members are rolling onto your
+
+59
+00:03:33,011 --> 00:03:37,270
+project right you're ordering raw
+materials machine supplies you need all of
+
+60
+00:03:37,271 --> 00:03:42,110
+these to do your project your rate of
+expenditure is going to increase right and
+
+61
+00:03:42,111 --> 00:03:46,310
+that as you're going towards the end of
+the project the work has been completed
+
+62
+00:03:46,311 --> 00:03:51,490
+right some team members can roll off the
+project right plus you're not using as
+
+63
+00:03:51,491 --> 00:03:57,410
+many raw materials raw materials are done
+supplies we don't need as many supplies we
+
+64
+00:03:57,411 --> 00:03:59,610
+don't need as much
+equipment, so the rate of
+
+65
+00:03:59,611 --> 00:04:02,584
+expenditure is going to flatten out again.
+
+66
+00:04:02,670 --> 00:04:06,250
+And so that's why we have this,
+you know, so-called S-curve.
+
+67
+00:04:07,110 --> 00:04:10,110
+So this dark line here is our planned
+expenditure.
+
+68
+00:04:10,630 --> 00:04:14,190
+And this is our BAC, so at the end,
+so this is the end of the project,
+
+69
+00:04:14,690 --> 00:04:16,470
+that is our budget at completion.
+
+70
+00:04:16,970 --> 00:04:19,020
+That's known as our budget at completion.
+
+71
+00:04:20,050 --> 00:04:21,876
+And so our cost baseline is our time phase
+
+72
+00:04:21,877 --> 00:04:24,624
+budget at various
+points along the project.
+
+73
+00:04:25,410 --> 00:04:30,910
+right and then what this red line here is
+showing this is our actual expenditure
+
+74
+00:04:30,911 --> 00:04:35,570
+right so at this point in time say we're
+down here we're at this point in on the
+
+75
+00:04:35,571 --> 00:04:39,830
+project so this has been our actual
+expenditure so far and then the difference
+
+76
+00:04:39,831 --> 00:04:44,110
+is showing how much over budget or under
+budget we might be at this point in time
+
+77
+00:04:44,111 --> 00:04:48,070
+right so right now at this you know if
+we're looking at this particular say
+
+78
+00:04:48,071 --> 00:04:53,670
+snapshot point in time this is how much we
+should have spent this is our planned cost
+
+79
+00:04:54,310 --> 00:04:58,970
+this is how much we actually spent that's
+our actual cost and so then the difference
+
+80
+00:04:58,971 --> 00:05:04,330
+between the two will show us how much
+we're over budget right now right and then
+
+81
+00:05:04,331 --> 00:05:08,970
+at this point in time like let's say we're
+right here at this point in time right so
+
+82
+00:05:08,971 --> 00:05:13,790
+this is what our actual expenditure has
+been so far so again the difference will
+
+83
+00:05:13,791 --> 00:05:18,390
+be how much over budget we are at this
+point in time and then based on this right
+
+84
+00:05:18,391 --> 00:05:23,590
+notice this arrow here we can extrapolate
+right we can you know use some kind of
+
+85
+00:05:23,591 --> 00:05:27,110
+extrapolation to determine, well,
+how much over budget do you think we might
+
+86
+00:05:27,111 --> 00:05:29,470
+end up being by the end of the project,
+right?
+
+87
+00:05:29,970 --> 00:05:33,090
+EAC refers to a term called estimate at
+completion.
+
+88
+00:05:33,730 --> 00:05:36,470
+An estimate at completion is your
+forecasted budget.
+
+89
+00:05:37,350 --> 00:05:40,310
+And we'll talk about that on a separate
+video.
+
+90
+00:05:40,990 --> 00:05:43,090
+So that's known as your forecasted budget.
+
+91
+00:05:43,290 --> 00:05:45,040
+That's your estimate at completion.
+
+92
+00:05:45,950 --> 00:05:49,970
+So this line then here is basically your
+cost baseline.
+
+93
+00:05:50,310 --> 00:05:54,350
+Remember the cost baseline then is your
+time-phased budget, right?
+
+94
+00:05:54,770 --> 00:05:57,990
+That includes contingency reserves,
+but not management reserves.
+
+95
+00:05:58,170 --> 00:06:02,090
+So this is what the project manager is
+responsible for, right?
+
+96
+00:06:03,610 --> 00:06:08,590
+Now, some additional terms, or a couple of
+additional terms I just want to mention
+
+97
+00:06:08,591 --> 00:06:11,130
+just in case they come up on the exam,
+right?
+
+98
+00:06:11,290 --> 00:06:12,627
+A couple of cost considerations.
+
+99
+00:06:12,710 --> 00:06:13,543
+Financing.
+
+100
+00:06:14,050 --> 00:06:17,550
+Right, so financing user comes from
+outside of the organization, right?
+
+101
+00:06:17,650 --> 00:06:19,700
+You know, bank loans as a simple example.
+
+102
+00:06:20,650 --> 00:06:25,770
+Now interest on the bank loan then can be
+a cost consideration for your project.
+
+103
+00:06:26,430 --> 00:06:32,470
+So if you are, if your organization is
+taken a loan specifically to finance your
+
+104
+00:06:32,471 --> 00:06:36,890
+project, then the interest on that loan
+will be a direct cost to your project.
+
+105
+00:06:37,910 --> 00:06:44,150
+But if the organization is just taken a
+loan to finance many activities,
+
+106
+00:06:44,890 --> 00:06:47,394
+and one of those activities
+is your project, right,
+
+107
+00:06:47,395 --> 00:06:51,850
+then that might be
+considered a an indirect cost.
+
+108
+00:06:52,430 --> 00:06:55,090
+It's still a cost consideration for your
+project.
+
+109
+00:06:56,510 --> 00:06:58,610
+And then this other term lifecycle
+costing.
+
+110
+00:06:59,270 --> 00:07:03,270
+Life cycle costing refers to the full life
+of the product or the service.
+
+111
+00:07:03,890 --> 00:07:08,170
+It's not just the cost of installation or
+implementation, right?
+
+112
+00:07:08,330 --> 00:07:10,770
+It's also looking at the entire life,
+right?
+
+113
+00:07:11,290 --> 00:07:15,830
+Maintenance and, you know, upgrades and so
+and so forth.
+
+114
+00:07:16,730 --> 00:07:23,990
+So as a very simple example, when you're
+purchasing a car, you may have a few cars
+
+115
+00:07:23,991 --> 00:07:26,650
+in mind, right, a few options here and
+there.
+
+116
+00:07:28,430 --> 00:07:34,310
+Well, you're not just looking at the
+bottom line, what the final dollar amount
+
+117
+00:07:34,311 --> 00:07:36,740
+is for me to purchase
+this car, you know, bring
+
+118
+00:07:36,741 --> 00:07:39,530
+it out of the showroom
+into my house, right?
+
+119
+00:07:39,950 --> 00:07:43,370
+You're not just looking at the bottom line
+just at final price.
+
+120
+00:07:43,630 --> 00:07:47,390
+You're also going to consider,
+you know, things like fuel efficiency,
+
+121
+00:07:47,850 --> 00:07:50,500
+maintenance expenses, and, you know,
+and other things.
+
+122
+00:07:51,090 --> 00:07:55,870
+So granted, you don't necessarily do a
+three-year or five-year projection,
+
+123
+00:07:56,430 --> 00:07:59,627
+right, about how much,
+you know, your car is going
+
+124
+00:07:59,647 --> 00:08:02,350
+to cost over, you know,
+over a period of time.
+
+125
+00:08:03,630 --> 00:08:06,290
+But for life cycle costing, you do,
+right?
+
+126
+00:08:06,310 --> 00:08:08,550
+You do a full projection, right?
+
+127
+00:08:08,630 --> 00:08:12,490
+So you look at, say, you know,
+obviously the cost of installation,
+
+128
+00:08:12,810 --> 00:08:16,107
+cost of implementation, how long are we
+going to keep this product?
+
+129
+00:08:16,190 --> 00:08:17,530
+What's a salvage cost?
+
+130
+00:08:17,531 --> 00:08:21,530
+What's the depreciation expenses,
+right, then how much does it cost to
+
+131
+00:08:21,531 --> 00:08:25,730
+maintain an upgrade right before we
+finally get rid of it?
+
+132
+00:08:25,810 --> 00:08:29,670
+So what is the actual full life of this
+product going to cost us?
+
+133
+00:08:29,930 --> 00:08:32,530
+So that is what is referred to as life
+cycle costing.
+
+134
+00:08:33,450 --> 00:08:33,530
+Okay.
+
+135
+00:08:33,970 --> 00:08:37,970
+So these are just a couple of additional
+side terms that you need to be aware of.
+

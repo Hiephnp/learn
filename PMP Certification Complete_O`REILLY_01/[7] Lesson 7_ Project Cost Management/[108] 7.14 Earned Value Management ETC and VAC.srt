@@ -1,0 +1,452 @@
+﻿1
+00:00:06,010 --> 00:00:10,610
+Okay, so in this video then, we are going
+to talk about two more earned value
+
+2
+00:00:10,611 --> 00:00:16,530
+management terms, right, ETC, which is
+estimate to complete, and VAC,
+
+3
+00:00:17,050 --> 00:00:18,670
+which is variance at completion.
+
+4
+00:00:20,810 --> 00:00:24,510
+Okay, so let's look at these two terms
+then, right, estimate to complete.
+
+5
+00:00:25,210 --> 00:00:28,194
+Now, estimate to complete,
+one that basically refers
+
+6
+00:00:28,195 --> 00:00:30,981
+to is essentially what's
+left to spend on the project.
+
+7
+00:00:31,230 --> 00:00:35,390
+How much more money do we need to put
+down, right, to finish up the project?
+
+8
+00:00:35,530 --> 00:00:35,990
+What's the first?
+
+9
+00:00:36,010 --> 00:00:40,930
+funding required essentially to finish up
+the project between now and the end of the
+
+10
+00:00:40,931 --> 00:00:46,070
+project and that would be our estimate to
+complete so let me ask you a very very
+
+11
+00:00:46,071 --> 00:00:49,970
+simple question right before we move on to
+this just think of a very very simple
+
+12
+00:00:49,971 --> 00:00:54,130
+question let's say we're buying a car
+we're purchasing a car and let's say we're
+
+13
+00:00:54,131 --> 00:01:01,570
+just paying cash and this car is going to
+cost $20,000 right and um you put down
+
+14
+00:01:01,571 --> 00:01:07,530
+$2,000 as a deposit and I ask you what's
+left for you to buy that car?
+
+15
+00:01:07,670 --> 00:01:08,720
+What's left to spend?
+
+16
+00:01:09,310 --> 00:01:10,667
+Well, what are you going to say?
+
+17
+00:01:10,750 --> 00:01:12,510
+$18,000, right?
+
+18
+00:01:13,630 --> 00:01:17,730
+That $18,000 is your ETC, your estimate to
+complete.
+
+19
+00:01:18,670 --> 00:01:20,670
+Estimate to complete is what's left?
+
+20
+00:01:20,830 --> 00:01:21,880
+What's left to spend?
+
+21
+00:01:22,630 --> 00:01:26,810
+You put down $2,000 as a deposit,
+the car's costing 20,000.
+
+22
+00:01:27,430 --> 00:01:28,890
+What's left, 18,000?
+
+23
+00:01:29,470 --> 00:01:32,830
+And that is exactly what ETC is,
+right?
+
+24
+00:01:33,110 --> 00:01:36,770
+It's what is left to spend on your
+project, right, between now and the rest
+
+25
+00:01:36,771 --> 00:01:40,771
+of the project, how much more money do we
+need to put down in order to finish up?
+
+26
+00:01:41,450 --> 00:01:43,150
+So, what do we need to know?
+
+27
+00:01:43,310 --> 00:01:48,890
+We need to know how much money we've put
+down so far, right, which is actual cost.
+
+28
+00:01:49,450 --> 00:01:51,690
+That's our actual cost, right?
+
+29
+00:01:51,990 --> 00:01:55,485
+And what our budget is,
+what the project is actually
+
+30
+00:01:55,486 --> 00:01:58,141
+going to cost us now
+at the end of the project.
+
+31
+00:01:58,230 --> 00:02:00,209
+Not what our original
+budget is, but what our
+
+32
+00:02:00,210 --> 00:02:02,690
+project is actually
+going to cost us, right?
+
+33
+00:02:02,691 --> 00:02:04,207
+Because they might end up going over
+budget.
+
+34
+00:02:04,290 --> 00:02:06,540
+I mean, normally you end up going over
+budget.
+
+35
+00:02:07,050 --> 00:02:07,110
+Right.
+
+36
+00:02:07,410 --> 00:02:09,410
+So what's our forecasted budget?
+
+37
+00:02:09,850 --> 00:02:10,683
+Our EAC.
+
+38
+00:02:11,650 --> 00:02:15,550
+So in our example that we've been using,
+right?
+
+39
+00:02:15,750 --> 00:02:18,710
+So in the previous slide, we calculated
+EAC.
+
+40
+00:02:18,910 --> 00:02:21,490
+Remember, there are four EAC formulas,
+right?
+
+41
+00:02:21,810 --> 00:02:24,568
+But we really covered two
+in more detail because those
+
+42
+00:02:24,569 --> 00:02:27,450
+are the two that are the more
+common ones on the exam.
+
+43
+00:02:28,170 --> 00:02:28,270
+Right.
+
+44
+00:02:28,350 --> 00:02:32,530
+So let's just assume we are using that
+second EAC formula assumption.
+
+45
+00:02:32,750 --> 00:02:33,130
+Right.
+
+46
+00:02:33,210 --> 00:02:36,730
+So another, other words, spending will
+continue at the budgeted rate.
+
+47
+00:02:37,010 --> 00:02:39,650
+So we will not be going any further over
+budget.
+
+48
+00:02:40,350 --> 00:02:44,170
+So right now, we are estimating our budget
+to be $120,000.
+
+49
+00:02:44,350 --> 00:02:51,010
+We've spent $20,000 so far, or rather, we
+have been over budget by $20,000 so far.
+
+50
+00:02:51,250 --> 00:02:52,500
+That's our cost variance.
+
+51
+00:02:52,930 --> 00:02:55,734
+We're $20,000 over
+budget so far, and we're
+
+52
+00:02:55,735 --> 00:02:58,030
+just going to remain a
+$20,000 over budget.
+
+53
+00:02:58,150 --> 00:03:00,750
+We're not going to go any further of a
+budget, right?
+
+54
+00:03:01,050 --> 00:03:05,430
+So in that case then, our EAC,
+as we figured out before, was 120,000.
+
+55
+00:03:06,110 --> 00:03:08,260
+So that's going to be our forecasted
+budget.
+
+56
+00:03:09,510 --> 00:03:11,410
+We've spent $60,000 so far.
+
+57
+00:03:12,250 --> 00:03:13,610
+So what's left to spend?
+
+58
+00:03:14,570 --> 00:03:15,870
+Another 60,000.
+
+59
+00:03:16,750 --> 00:03:16,810
+Right.
+
+60
+00:03:17,170 --> 00:03:22,090
+So simply the formula for ETC is,
+is EACC minus AC.
+
+61
+00:03:23,170 --> 00:03:24,370
+EAC.C minus AC.
+
+62
+00:03:25,230 --> 00:03:29,570
+If our EAC happened to be 130,000,
+right, because of some of the assumption
+
+63
+00:03:29,571 --> 00:03:35,270
+that we make, right, then our ETC would be
+70,000 in that case.
+
+64
+00:03:36,050 --> 00:03:39,538
+So ETC is what is left to
+spend, right, what funding
+
+65
+00:03:39,539 --> 00:03:42,131
+we need between now
+and the rest of the project.
+
+66
+00:03:43,670 --> 00:03:45,990
+VAC on the other hand, variance at
+completion.
+
+67
+00:03:46,890 --> 00:03:49,484
+That is basically how much
+over budget or under budget
+
+68
+00:03:49,485 --> 00:03:52,350
+we're expecting to be by
+the end of the project, right?
+
+69
+00:03:52,610 --> 00:03:55,610
+How much over budget or under budget are
+we expecting to be.
+
+70
+00:03:56,690 --> 00:03:58,640
+And that, again, all
+of these formulas, all
+
+71
+00:03:58,641 --> 00:04:01,644
+of these terms are a
+snapshot point in time.
+
+72
+00:04:01,850 --> 00:04:03,300
+So, how do we calculate that?
+
+73
+00:04:04,170 --> 00:04:06,270
+Well, we need to know our original budget.
+
+74
+00:04:06,970 --> 00:04:08,947
+We need to know our forecast the budget.
+
+75
+00:04:09,030 --> 00:04:11,624
+And so the difference is how
+much over budget or under budget
+
+76
+00:04:11,707 --> 00:04:14,350
+we're going to be, you know,
+by the end of the project.
+
+77
+00:04:14,690 --> 00:04:17,170
+So our original budget is 100,000.
+
+78
+00:04:18,050 --> 00:04:23,490
+Our forecasted budget, right, using the
+assumption, you're using that assumption
+
+79
+00:04:23,491 --> 00:04:25,837
+that we're going to work
+at the budgeted rate, or
+
+80
+00:04:25,838 --> 00:04:28,590
+work will continue at
+the budgeted rate, right?
+
+81
+00:04:28,710 --> 00:04:31,410
+So with the EAC of 120,000, right?
+
+82
+00:04:31,550 --> 00:04:34,650
+So how much over budget or under budget
+are we expecting to be?
+
+83
+00:04:35,010 --> 00:04:35,843
+$20,000.
+
+84
+00:04:36,830 --> 00:04:39,920
+And so the simple
+formula is just BAC minus
+
+85
+00:04:39,921 --> 00:04:42,531
+EAC, original budget
+minus forecasted budget.
+
+86
+00:04:43,170 --> 00:04:49,770
+If we use the third EAC formula,
+right, remember spending will continue at
+
+87
+00:04:49,771 --> 00:04:54,630
+the current rate, right we will just
+continue working at the same rate right
+
+88
+00:04:54,631 --> 00:05:01,250
+our forecasted budget was 150,000 in which
+case then our VAC variance that completion
+
+89
+00:05:01,251 --> 00:05:06,270
+would be you know we're expecting to be
+$50,000 over budget by then right but
+
+90
+00:05:06,271 --> 00:05:09,830
+we're using this assumption looks like
+we're going to be $20,000 over budget
+
+91
+00:05:09,831 --> 00:05:14,750
+again negative negative is not good a
+negative number it means that we're
+
+92
+00:05:14,751 --> 00:05:20,250
+basically over budget right we're going to
+be over budget by $20,000 by the end of
+
+93
+00:05:20,251 --> 00:05:23,930
+the project That's not saying we're
+$20,000 over budget right now.
+
+94
+00:05:24,690 --> 00:05:27,382
+It's saying based on our
+expectations, it looks like
+
+95
+00:05:27,383 --> 00:05:31,130
+we're going to end up
+being $20,000 over budget.
+
+96
+00:05:31,750 --> 00:05:33,630
+Right, by the end of the project.
+

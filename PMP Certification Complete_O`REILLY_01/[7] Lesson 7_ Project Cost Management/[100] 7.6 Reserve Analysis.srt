@@ -1,0 +1,615 @@
+﻿1
+00:00:05,920 --> 00:00:11,200
+Okay, so in this video then, we are going
+to cover another very, very important
+
+2
+00:00:11,201 --> 00:00:15,480
+tool, another very important term called
+reserve analysis.
+
+3
+00:00:16,280 --> 00:00:19,380
+Okay, so let's go straight into reserve
+analysis.
+
+4
+00:00:21,080 --> 00:00:24,040
+Now reserve analysis is actually a risk
+management term.
+
+5
+00:00:24,540 --> 00:00:28,390
+This is covered in risk management,
+but even before we get to risk management,
+
+6
+00:00:29,340 --> 00:00:33,580
+this is a term or this is a tool that is
+impacting several areas.
+
+7
+00:00:33,780 --> 00:00:37,680
+It's impacting the cost, it's impacting
+the schedule, it's impacting resources.
+
+8
+00:00:38,440 --> 00:00:41,020
+Remember, a risk is
+a major constraint on a
+
+9
+00:00:41,021 --> 00:00:44,494
+project and it impacts
+every area of the project.
+
+10
+00:00:44,820 --> 00:00:47,392
+And this particular term then, or this
+
+11
+00:00:47,393 --> 00:00:50,580
+particular tool is known
+as reserve analysis.
+
+12
+00:00:51,340 --> 00:00:53,590
+All right, so let's talk about this in
+detail.
+
+13
+00:00:53,980 --> 00:00:57,720
+So there's two types of risk reserves that
+you need to be aware of.
+
+14
+00:00:58,140 --> 00:01:00,356
+You've got something
+called the contingency
+
+15
+00:01:00,357 --> 00:01:03,040
+reserve, something called
+the management reserve.
+
+16
+00:01:04,540 --> 00:01:07,806
+Contingency reserves basically relate to
+
+17
+00:01:07,807 --> 00:01:12,294
+money that you have
+set aside for known risks.
+
+18
+00:01:13,100 --> 00:01:14,380
+Known risks.
+
+19
+00:01:15,640 --> 00:01:17,420
+And a risk is an unknown.
+
+20
+00:01:18,300 --> 00:01:20,140
+A risk is it may or may not happen.
+
+21
+00:01:21,040 --> 00:01:24,400
+So that's where you get this term called
+known unknowns.
+
+22
+00:01:24,860 --> 00:01:26,310
+It's a known unknown unknown.
+
+23
+00:01:26,660 --> 00:01:30,540
+We've identified that it could happen but
+we don't know if it will happen.
+
+24
+00:01:30,541 --> 00:01:35,240
+And so we as project managers are
+responsible for that.
+
+25
+00:01:36,700 --> 00:01:40,920
+Senior management, on the other hand,
+are going to look at the project overall,
+
+26
+00:01:41,360 --> 00:01:45,360
+determine this is a high-risk project,
+medium risk, low-risk, that kind of thing.
+
+27
+00:01:45,800 --> 00:01:50,440
+And they're going to put some money aside
+for complete unknown eventualities.
+
+28
+00:01:51,500 --> 00:01:52,540
+Unknown risks.
+
+29
+00:01:54,140 --> 00:01:55,180
+Unknown unknowns.
+
+30
+00:01:56,020 --> 00:01:57,400
+Again, a risk is an unknown.
+
+31
+00:01:57,401 --> 00:01:58,234
+own.
+
+32
+00:01:58,700 --> 00:02:01,240
+And that is management's responsibility.
+
+33
+00:02:02,320 --> 00:02:06,080
+So project managers are responsible for
+contingency reserves.
+
+34
+00:02:06,660 --> 00:02:09,920
+They are not responsible for management
+reserves.
+
+35
+00:02:10,480 --> 00:02:10,480
+Okay.
+
+36
+00:02:11,020 --> 00:02:14,070
+All right, so let's just give you a very
+simple example there.
+
+37
+00:02:15,220 --> 00:02:20,980
+So let's say there's the, there is a risk
+that material prices may increase,
+
+38
+00:02:21,240 --> 00:02:21,300
+right?
+
+39
+00:02:21,380 --> 00:02:25,920
+We're, you know, reading the news or we're
+looking at the news and seeing that,
+
+40
+00:02:25,980 --> 00:02:30,360
+you know, something is happening and
+material prices may start increasing.
+
+41
+00:02:31,120 --> 00:02:33,340
+It may happen, it may not happen.
+
+42
+00:02:34,000 --> 00:02:36,240
+We don't know if it will happen.
+
+43
+00:02:36,780 --> 00:02:39,454
+We don't know if material
+prices will start increasing,
+
+44
+00:02:39,455 --> 00:02:41,861
+but we've heard that
+they might start increasing.
+
+45
+00:02:42,540 --> 00:02:44,956
+So we've identified this, so it's known,
+
+46
+00:02:44,957 --> 00:02:47,380
+but we don't know if
+it will happen or not.
+
+47
+00:02:47,480 --> 00:02:49,780
+So it's a known risk, it's a known
+unknown.
+
+48
+00:02:50,740 --> 00:02:54,580
+So if material prices
+start increasing, then that's
+
+49
+00:02:54,581 --> 00:02:57,500
+going to have a financial
+impact on our project.
+
+50
+00:02:58,080 --> 00:03:02,980
+So we've identified that we, meaning the
+project manager, we as project managers
+
+51
+00:03:02,981 --> 00:03:08,860
+have identified that this is a potential
+for something to happen on our project.
+
+52
+00:03:08,980 --> 00:03:10,480
+This is a risk in our project.
+
+53
+00:03:10,960 --> 00:03:12,610
+It may happen, it may not happen.
+
+54
+00:03:12,900 --> 00:03:15,659
+We might end up having
+to spend more money on
+
+55
+00:03:15,660 --> 00:03:18,994
+materials, right, because
+of the price increase.
+
+56
+00:03:19,160 --> 00:03:22,157
+So we're going to determine what's the
+probability of that happening,
+
+57
+00:03:22,240 --> 00:03:24,890
+what's impact of it
+happening, again, which
+
+58
+00:03:24,891 --> 00:03:27,191
+we'll cover in the risk
+management section.
+
+59
+00:03:27,500 --> 00:03:29,784
+And then we're going
+to put some money aside
+
+60
+00:03:29,785 --> 00:03:32,754
+in contingency reserves
+in case that happens.
+
+61
+00:03:33,280 --> 00:03:34,842
+But we don't know
+if it will, but we've got
+
+62
+00:03:34,843 --> 00:03:37,580
+some money in contingency
+reserves just in case.
+
+63
+00:03:39,020 --> 00:03:42,020
+So that is a known risk, a known unknown.
+
+64
+00:03:42,800 --> 00:03:44,900
+And we as project managers are
+responsible.
+
+65
+00:03:46,160 --> 00:03:50,520
+Now, senior management then are going to
+be looking at this project overall.
+
+66
+00:03:50,521 --> 00:03:57,400
+and they're going to determine high risk,
+medium risk, low risk what happens if just
+
+67
+00:03:57,401 --> 00:04:03,260
+something happens and it's beyond
+anybody's control so they may set some
+
+68
+00:04:03,261 --> 00:04:07,880
+money aside in what's known as management
+reserves for complete unknown
+
+69
+00:04:07,881 --> 00:04:14,740
+eventualities we didn't identify it we
+couldn't have identified it so it's an
+
+70
+00:04:14,741 --> 00:04:19,940
+unknown risk or an unknown unknown and
+that's senior management's responsibility
+
+71
+00:04:21,480 --> 00:04:25,340
+So as a very simple example, this whole
+COVID situation.
+
+72
+00:04:26,220 --> 00:04:26,220
+Right.
+
+73
+00:04:26,540 --> 00:04:31,980
+So at the beginning of 2020, we didn't
+know about the COVID situation.
+
+74
+00:04:32,460 --> 00:04:35,260
+We didn't know how it was going to be
+impacted.
+
+75
+00:04:36,120 --> 00:04:41,940
+So all of a sudden though, it impacted the
+whole world.
+
+76
+00:04:42,800 --> 00:04:45,550
+Pretty much the whole world almost came to
+a standstill.
+
+77
+00:04:46,280 --> 00:04:48,400
+Impacted many, many projects.
+
+78
+00:04:49,160 --> 00:04:54,600
+now project managers wouldn't have been
+responsible for identifying that the
+
+79
+00:04:54,601 --> 00:04:58,500
+project manager couldn't identify that
+that's just something that happened we had
+
+80
+00:04:58,501 --> 00:05:04,340
+no control over it that's just something
+that happened so any projects that got put
+
+81
+00:05:04,341 --> 00:05:09,380
+on hold any projects where the cost
+suddenly increased right or projects
+
+82
+00:05:09,381 --> 00:05:14,360
+obviously failed many projects failed at
+that point right because because of the
+
+83
+00:05:14,361 --> 00:05:18,431
+whole COVID that's not the
+project manager's responsibility
+
+84
+00:05:18,432 --> 00:05:21,031
+that would be senior
+management's responsibility.
+
+85
+00:05:21,620 --> 00:05:24,970
+So any money from that would have come
+from the management reserves.
+
+86
+00:05:25,580 --> 00:05:28,840
+Unknown risks or complete unknown
+unknowns.
+
+87
+00:05:29,660 --> 00:05:34,114
+And best way to think of management reserves
+is, think of it as a rainy day fund.
+
+88
+00:05:34,240 --> 00:05:37,120
+We're not going to touch it unless we
+absolutely have to.
+
+89
+00:05:38,720 --> 00:05:42,320
+Now, senior management are responsible for
+management reserves.
+
+90
+00:05:43,180 --> 00:05:46,280
+The project manager is not responsible for
+management reserves.
+
+91
+00:05:46,281 --> 00:05:50,431
+Most of the time, project managers have no
+idea how much is the management reserves,
+
+92
+00:05:50,640 --> 00:05:50,800
+right?
+
+93
+00:05:51,180 --> 00:05:54,140
+They are only responsible for contingency
+reserve.
+
+94
+00:05:54,960 --> 00:05:59,560
+And so the cost baseline, right,
+which is covered in a separate video,
+
+95
+00:05:59,740 --> 00:06:04,077
+but the cost baseline,
+which is the project manager's
+
+96
+00:06:04,078 --> 00:06:07,100
+budget, that includes
+the contingency reserve.
+
+97
+00:06:07,440 --> 00:06:10,300
+That does not include the management
+reserves.
+
+98
+00:06:10,920 --> 00:06:11,753
+Okay.
+
+99
+00:06:12,980 --> 00:06:19,140
+Now, these contingency and management
+reserves is not just in terms of cost.
+
+100
+00:06:20,100 --> 00:06:22,740
+Remember, risks impact all areas of the
+project.
+
+101
+00:06:23,240 --> 00:06:25,990
+It could also be in terms of, for example,
+the schedule.
+
+102
+00:06:26,740 --> 00:06:32,014
+So we've identified a risk, let's say,
+vendor may delay shipment of raw materials.
+
+103
+00:06:32,280 --> 00:06:34,197
+It may or may not have a financial impact.
+
+104
+00:06:34,280 --> 00:06:36,157
+If it has a financial
+impact, we're going to
+
+105
+00:06:36,158 --> 00:06:38,080
+put some money aside
+in contingency reserves.
+
+106
+00:06:38,440 --> 00:06:42,800
+Right, but it may not have financial
+impact or additionally there may be a
+
+107
+00:06:42,801 --> 00:06:47,140
+scheduling impact it may delay the if
+they're delay in shipment of raw materials
+
+108
+00:06:47,141 --> 00:06:52,160
+that may have a scheduling impact on our
+project so if we've identified this in
+
+109
+00:06:52,161 --> 00:06:59,020
+advance we might put in some duration
+buffers right into our schedule right and
+
+110
+00:06:59,021 --> 00:07:03,880
+the management themselves they may extend
+the timeline based on some complete
+
+111
+00:07:03,881 --> 00:07:09,440
+unknowns again because this COVID
+situation many projects were put on hold
+
+112
+00:07:09,560 --> 00:07:11,159
+They might not have been cancelled, but
+
+113
+00:07:11,160 --> 00:07:13,614
+they've been put on
+hold until a future date.
+
+114
+00:07:15,400 --> 00:07:18,950
+So project managers wouldn't have been
+responsible for identifying that.
+
+115
+00:07:19,460 --> 00:07:22,000
+Senior management would be responsible for
+that.
+
+116
+00:07:23,200 --> 00:07:25,220
+So again, reserve analysis then.
+
+117
+00:07:26,200 --> 00:07:27,557
+It could be in terms of cost.
+
+118
+00:07:27,640 --> 00:07:29,300
+It could be in terms of schedule.
+
+119
+00:07:29,860 --> 00:07:32,151
+It could also be in terms of resources
+
+120
+00:07:32,152 --> 00:07:35,634
+because it impacts many
+areas of your project.
+
+121
+00:07:35,800 --> 00:07:39,460
+Now, if they ever ask you to do any
+calculations on reserve analysis,
+
+122
+00:07:39,560 --> 00:07:42,038
+and we are going to be
+covering some calculations
+
+123
+00:07:42,039 --> 00:07:44,020
+on this in the risk management section.
+
+124
+00:07:44,540 --> 00:07:48,140
+We're going to be covering EMV,
+expected monetary value.
+
+125
+00:07:48,840 --> 00:07:51,880
+So if they're ever asking
+you to do any calculations,
+
+126
+00:07:51,881 --> 00:07:54,880
+then generally it will be
+from a monetary perspective.
+
+127
+00:07:55,580 --> 00:07:58,670
+But just no contingency
+reserves could be from a
+
+128
+00:07:58,671 --> 00:08:01,331
+monetary perspective or
+a scheduling perspective.
+
+129
+00:08:01,760 --> 00:08:05,720
+It could even be from a resource
+perspective as well.
+

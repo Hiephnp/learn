@@ -1,0 +1,852 @@
+﻿1
+00:00:05,920 --> 00:00:10,860
+Okay, in this video then, we're going to
+talk about the skill sets, or at least
+
+2
+00:00:10,861 --> 00:00:13,600
+some of the skill sets required for a
+project manager.
+
+3
+00:00:14,100 --> 00:00:16,481
+And actually, also, we're
+going to include some of
+
+4
+00:00:16,482 --> 00:00:18,874
+the skill sets required
+for team members as well.
+
+5
+00:00:19,520 --> 00:00:24,520
+Now, the number one job skill,
+as we've mentioned several times,
+
+6
+00:00:25,080 --> 00:00:28,360
+number one job skill for a project manager
+is communication.
+
+7
+00:00:29,080 --> 00:00:32,580
+That is why you hire a project manager to
+communicate.
+
+8
+00:00:32,581 --> 00:00:35,400
+A project manager is a good communicator.
+
+9
+00:00:36,020 --> 00:00:39,422
+A project manager is
+someone that can get tasks
+
+10
+00:00:39,423 --> 00:00:42,480
+moving along and team
+members working together.
+
+11
+00:00:43,020 --> 00:00:44,940
+That is what makes a project manager.
+
+12
+00:00:45,640 --> 00:00:47,740
+Not necessarily they have technical
+skills.
+
+13
+00:00:48,200 --> 00:00:51,320
+Project manager, and far as PMI is
+concerned, a project manager does not
+
+14
+00:00:51,321 --> 00:00:54,240
+necessarily need to have deep technical
+skills.
+
+15
+00:00:54,380 --> 00:00:56,997
+They need to know a thing or two about
+what they're managing, obviously,
+
+16
+00:00:57,080 --> 00:00:59,237
+but they don't have to be a technical
+expert.
+
+17
+00:00:59,320 --> 00:01:02,560
+They have to be able to manage.
+
+18
+00:01:02,580 --> 00:01:03,700
+technical experts.
+
+19
+00:01:04,280 --> 00:01:08,860
+They're going to be hiring technical
+experts and making sure then things are
+
+20
+00:01:08,861 --> 00:01:11,960
+moving along and basically managing these
+technical experts.
+
+21
+00:01:12,320 --> 00:01:16,480
+So communication then is the number one
+job skill for a project manager.
+
+22
+00:01:16,940 --> 00:01:19,590
+And there's an entire knowledge area on
+communication.
+
+23
+00:01:20,160 --> 00:01:23,260
+Entire set of videos, entire lesson on
+communication managers.
+
+24
+00:01:23,460 --> 00:01:24,293
+Right.
+
+25
+00:01:25,120 --> 00:01:27,900
+Now also along with this then,
+right?
+
+26
+00:01:28,540 --> 00:01:32,497
+There's going to be conflicts where we're
+going to have conflicts, disagreements,
+
+27
+00:01:32,580 --> 00:01:35,440
+So a project manager is
+someone that can manage
+
+28
+00:01:35,441 --> 00:01:38,460
+these conflicts, not
+necessarily resolve conflicts.
+
+29
+00:01:38,720 --> 00:01:41,637
+There's a difference doing conflict
+resolution and conflict management.
+
+30
+00:01:41,720 --> 00:01:46,560
+You can't always resolve a conflict,
+but certainly you can manage a conflict so
+
+31
+00:01:46,561 --> 00:01:49,140
+it doesn't have a negative impact on the
+project.
+
+32
+00:01:49,580 --> 00:01:51,697
+And that's really what conflict management
+refers to.
+
+33
+00:01:51,780 --> 00:01:54,400
+So that's a key skill to have for a
+project manager.
+
+34
+00:01:55,180 --> 00:01:58,360
+And there's a separate video altogether on
+conflict management.
+
+35
+00:01:58,361 --> 00:02:03,460
+Also, cultural awareness, political
+differences, cultural differences,
+
+36
+00:02:03,700 --> 00:02:06,819
+personal differences,
+this is going to play
+
+37
+00:02:06,820 --> 00:02:09,700
+a huge part, right, as managing your team.
+
+38
+00:02:10,180 --> 00:02:12,480
+You've got team members in different
+countries.
+
+39
+00:02:13,760 --> 00:02:19,180
+So, you know, being aware of cultural
+differences, being aware of personal
+
+40
+00:02:19,181 --> 00:02:22,060
+differences and political differences as
+well.
+
+41
+00:02:22,280 --> 00:02:23,982
+Now, when we're talking
+about political differences,
+
+42
+00:02:23,983 --> 00:02:26,580
+we're talking about
+office politics here, right?
+
+43
+00:02:26,581 --> 00:02:31,820
+So, again, a project manager is someone
+that can communicate at all levels.
+
+44
+00:02:32,160 --> 00:02:35,880
+They can communicate with all different
+stakeholders and take all of these into
+
+45
+00:02:35,881 --> 00:02:39,560
+consideration and adjust a communication
+style accordingly.
+
+46
+00:02:40,360 --> 00:02:45,400
+So cultural differences also then includes
+things like diversity, diversity and
+
+47
+00:02:45,401 --> 00:02:48,880
+inclusion, making sure that nobody is left
+out.
+
+48
+00:02:49,280 --> 00:02:52,880
+And again, this goes to all the different
+types of differences, cultural,
+
+49
+00:02:53,300 --> 00:02:56,560
+political, personal differences,
+and so on and so forth.
+
+50
+00:02:56,580 --> 00:03:00,680
+So a project manager is someone,
+you know, you have to have these skill
+
+51
+00:03:00,681 --> 00:03:05,680
+sets to be able to navigate through all of
+these, you know, all of all the
+
+52
+00:03:05,681 --> 00:03:08,840
+stakeholders, you know, all the different
+types of stakeholders.
+
+53
+00:03:10,060 --> 00:03:11,960
+And obviously decision making,
+right.
+
+54
+00:03:12,140 --> 00:03:14,640
+So that's a major skill set for a project
+manager.
+
+55
+00:03:14,760 --> 00:03:15,877
+You have to make decisions.
+
+56
+00:03:15,960 --> 00:03:20,260
+A project, remember a project for a
+project manager, for a command and control
+
+57
+00:03:20,261 --> 00:03:22,911
+project manager, they are accountable for
+the project.
+
+58
+00:03:23,060 --> 00:03:25,180
+So they need to be able to make decisions
+on that project.
+
+59
+00:03:25,181 --> 00:03:31,360
+They are one of the major decision makers,
+you know, on the actual project.
+
+60
+00:03:31,860 --> 00:03:35,210
+Tactical decision making, not necessarily
+strategic decision making.
+
+61
+00:03:35,540 --> 00:03:39,900
+Strategic decision making rests with the
+project leadership team.
+
+62
+00:03:40,660 --> 00:03:42,429
+But day-to-day, tactical decision-making,
+
+63
+00:03:42,430 --> 00:03:45,334
+that's going to come
+with the project manager.
+
+64
+00:03:46,080 --> 00:03:52,040
+And because there are so many stakeholders
+involved, there's going to be meetings and
+
+65
+00:03:52,041 --> 00:03:57,260
+focus groups and workshops and
+brainstorming sessions.
+
+66
+00:03:58,240 --> 00:03:59,840
+Who's facilitating all of those?
+
+67
+00:04:00,260 --> 00:04:01,260
+The project manager.
+
+68
+00:04:01,760 --> 00:04:04,760
+Project manager is going to be
+facilitating all of these different
+
+69
+00:04:04,761 --> 00:04:07,180
+meetings and focus groups and so and so
+forth.
+
+70
+00:04:07,280 --> 00:04:11,280
+So you need to have facilitation skills,
+meeting management, and so and so forth.
+
+71
+00:04:11,560 --> 00:04:13,510
+Of course, leadership is a major skill.
+
+72
+00:04:14,140 --> 00:04:16,190
+Part of leadership is also collaboration.
+
+73
+00:04:17,040 --> 00:04:19,640
+You are managing people.
+
+74
+00:04:20,320 --> 00:04:22,400
+So managing people involves leadership.
+
+75
+00:04:22,401 --> 00:04:28,620
+And this whole section is about the people
+domain, which really is leadership.
+
+76
+00:04:29,480 --> 00:04:35,260
+And part of being a leader is also
+negotiating, negotiating contracts,
+
+77
+00:04:35,620 --> 00:04:39,120
+negotiating work, negotiating
+service level agreements,
+
+78
+00:04:39,121 --> 00:04:42,040
+again, all major skill
+sets for a project manager.
+
+79
+00:04:42,220 --> 00:04:44,480
+And this also overlaps with procurement.
+
+80
+00:04:44,720 --> 00:04:49,060
+We'll be covering negotiation again in
+procurement management as well.
+
+81
+00:04:49,240 --> 00:04:51,780
+Because, again, you might be negotiating
+contracts.
+
+82
+00:04:52,400 --> 00:04:55,173
+but certainly negotiating the
+work for team members and
+
+83
+00:04:55,174 --> 00:04:57,751
+service level agreements
+and so and so and so forth.
+
+84
+00:04:58,160 --> 00:05:04,220
+In the Agile world, it's the court-unquote
+project manager, right?
+
+85
+00:05:04,480 --> 00:05:05,757
+Not really a project manager.
+
+86
+00:05:05,840 --> 00:05:10,260
+They are known as a team facilitator and
+they are not the command and control.
+
+87
+00:05:10,620 --> 00:05:12,020
+They are the servant leader.
+
+88
+00:05:12,480 --> 00:05:16,620
+So servant leadership is very important
+and actually servant leadership,
+
+89
+00:05:17,000 --> 00:05:22,040
+although it is required in Agile,
+I mean technically servant leadership is
+
+90
+00:05:22,041 --> 00:05:25,960
+also a part of a project manager skill set
+anyway.
+
+91
+00:05:26,440 --> 00:05:29,164
+Basically supporting
+the team, making sure the
+
+92
+00:05:29,165 --> 00:05:31,661
+team has the tools to
+actually perform the work.
+
+93
+00:05:31,820 --> 00:05:38,460
+At the same time, you're removing any
+barriers, any impediments, any blockers,
+
+94
+00:05:40,040 --> 00:05:41,000
+right, to progress.
+
+95
+00:05:41,960 --> 00:05:44,510
+So project manager has to have those
+skills as well.
+
+96
+00:05:45,580 --> 00:05:49,000
+Something that we mentioned on a prior
+video, team building.
+
+97
+00:05:49,800 --> 00:05:52,060
+Your project is only as good as your team.
+
+98
+00:05:52,960 --> 00:05:55,880
+So you want your team members to get to
+know one another.
+
+99
+00:05:56,040 --> 00:05:58,740
+You want your team members to work
+cohesively together.
+
+100
+00:05:59,440 --> 00:06:01,090
+That's all part of team building.
+
+101
+00:06:01,520 --> 00:06:04,340
+So that's a skill set for a project
+manager as well.
+
+102
+00:06:04,520 --> 00:06:08,480
+And there's going to be different skill
+sets required or different procedures
+
+103
+00:06:08,481 --> 00:06:13,122
+required for team building
+based on whether team members
+
+104
+00:06:13,123 --> 00:06:16,017
+are face to face or whether
+they're working remotely.
+
+105
+00:06:16,100 --> 00:06:20,040
+And of course, also being able to appraise
+your team members.
+
+106
+00:06:20,960 --> 00:06:25,700
+So that's a major skill set, team skill
+appraisal, evaluating team members.
+
+107
+00:06:26,180 --> 00:06:30,520
+So on a separate video, we're going to be
+covering the strengths and weaknesses.
+
+108
+00:06:30,760 --> 00:06:36,520
+We're going to be covering SWAT analysis
+as it pertains to your team.
+
+109
+00:06:37,080 --> 00:06:41,400
+But as a project manager, you need to be
+able to identify, or rather you need to be
+
+110
+00:06:41,401 --> 00:06:46,200
+able to help the team identify their
+strengths and weaknesses.
+
+111
+00:06:47,440 --> 00:06:50,890
+So we're going to cover that in a bit more
+detail on a separate video.
+
+112
+00:06:51,020 --> 00:06:53,762
+But the whole idea also
+behind this is to build trust
+
+113
+00:06:53,763 --> 00:06:57,040
+amongst team members so
+that they can collaborate, right?
+
+114
+00:06:57,440 --> 00:07:02,180
+So, you know, part of team building is
+building trust amongst team members.
+
+115
+00:07:02,660 --> 00:07:04,896
+As a general rule, when
+team members get to know one
+
+116
+00:07:04,897 --> 00:07:07,660
+another, they easily work
+a lot better together, right?
+
+117
+00:07:08,500 --> 00:07:14,400
+And then also strengths and weaknesses,
+weaknesses refers to improvement.
+
+118
+00:07:14,700 --> 00:07:15,980
+opportunities, right?
+
+119
+00:07:16,280 --> 00:07:17,380
+Training, for example.
+
+120
+00:07:17,980 --> 00:07:21,160
+And training doesn't have to be,
+you know, they take in a day off or two
+
+121
+00:07:21,161 --> 00:07:25,120
+days off and sitting in a class,
+but training could be on the job training,
+
+122
+00:07:26,200 --> 00:07:29,344
+job shadowing, or even
+just reading a manual, you
+
+123
+00:07:29,345 --> 00:07:32,341
+know, and following the
+manual and so and and so forth.
+
+124
+00:07:32,560 --> 00:07:36,720
+But again, they need to improve,
+right, need to improve their skill sets.
+
+125
+00:07:37,480 --> 00:07:41,800
+And then also team member preferences and
+aspirations, right?
+
+126
+00:07:41,940 --> 00:07:45,640
+That's something that often gets
+overlooked in in many organizations,
+
+127
+00:07:46,020 --> 00:07:47,520
+especially at a project level.
+
+128
+00:07:47,840 --> 00:07:54,640
+Remember, the number one success factor on
+a project is stakeholder engagement.
+
+129
+00:07:55,120 --> 00:07:58,100
+Again, your team members are stakeholders
+on your project.
+
+130
+00:07:59,060 --> 00:08:02,360
+And so you want to get the best out of
+your team.
+
+131
+00:08:02,540 --> 00:08:04,060
+You want to engage your team.
+
+132
+00:08:05,360 --> 00:08:11,300
+So you want to place your team members on
+the right role.
+
+133
+00:08:11,580 --> 00:08:14,280
+So you want to identify what their
+preference is in aspirational.
+
+134
+00:08:14,300 --> 00:08:15,133
+are.
+
+135
+00:08:15,700 --> 00:08:17,748
+If they're not happy in a particular role,
+
+136
+00:08:17,749 --> 00:08:20,020
+then they're not going
+to excel in that role.
+
+137
+00:08:20,500 --> 00:08:22,700
+They're not going to be engaged in that
+role.
+
+138
+00:08:23,040 --> 00:08:27,400
+So part of being a project manager,
+you know, one of your skill sets is to be
+
+139
+00:08:27,401 --> 00:08:29,741
+able to, again, work
+with your team members,
+
+140
+00:08:29,742 --> 00:08:32,440
+right, collaborate with your team, right?
+
+141
+00:08:32,760 --> 00:08:35,081
+Put them in the position,
+put them in, you know,
+
+142
+00:08:35,082 --> 00:08:38,520
+give them the tasks
+that they are engaged in.
+
+143
+00:08:39,960 --> 00:08:42,086
+Now, talking of which then, let's briefly
+
+144
+00:08:42,087 --> 00:08:45,154
+talk about some skill
+sets for team members.
+
+145
+00:08:45,400 --> 00:08:51,314
+So these are a couple of terms, two terms
+that you will come across on the exam.
+
+146
+00:08:51,700 --> 00:08:54,860
+Definitely you need to know T-shaped
+skills and I-shaped skills.
+
+147
+00:08:55,700 --> 00:08:55,740
+Right.
+
+148
+00:08:56,260 --> 00:09:00,880
+So, and this really is kind of like the
+T-shaped is really preferred for agile
+
+149
+00:09:00,881 --> 00:09:03,540
+team, but let's talk about what the
+difference is.
+
+150
+00:09:04,180 --> 00:09:05,860
+Let's talk about I-shaped first.
+
+151
+00:09:06,700 --> 00:09:11,400
+I-shaped skills basically means that you
+have depths of knowledge in one area.
+
+152
+00:09:12,320 --> 00:09:15,860
+You are a subject matter expert in this
+one area.
+
+153
+00:09:16,500 --> 00:09:18,550
+And that's really what you're focused on.
+
+154
+00:09:19,100 --> 00:09:22,888
+Any other skill sets or anything
+else you really don't know
+
+155
+00:09:22,889 --> 00:09:26,560
+much about, but you're a subject
+matter expert in this one area.
+
+156
+00:09:27,400 --> 00:09:31,868
+Whereas with T-shaped skills,
+you have brets of knowledge,
+
+157
+00:09:31,869 --> 00:09:34,880
+or rather you have depth
+of knowledge in one area.
+
+158
+00:09:35,580 --> 00:09:38,804
+So you are a technical
+expert in one area, but you also
+
+159
+00:09:38,805 --> 00:09:42,220
+have some breadth of
+knowledge in other areas as well.
+
+160
+00:09:44,540 --> 00:09:51,040
+And some of these other areas then could
+include, for example, management skills,
+
+161
+00:09:51,400 --> 00:09:55,480
+leadership skills as well as you have
+these technical skills as well.
+
+162
+00:09:56,180 --> 00:10:01,280
+And it's T-shaped skills that is preferred
+in an agile team.
+
+163
+00:10:01,700 --> 00:10:06,520
+In an agile team, remember, there you are
+what's known as a self-organizing team.
+
+164
+00:10:07,600 --> 00:10:09,680
+So you're a self-organizing team.
+
+165
+00:10:10,060 --> 00:10:15,020
+The team themselves are responsible for
+the leadership, right, in an agile and an
+
+166
+00:10:15,021 --> 00:10:18,700
+agile project, the team themselves
+are responsible for the leadership, right?
+
+167
+00:10:19,060 --> 00:10:22,980
+In a predictive project, it's a project
+manager that's responsible, but in an
+
+168
+00:10:22,981 --> 00:10:25,700
+agile project, the entire team is
+responsible.
+
+169
+00:10:27,500 --> 00:10:31,520
+And so they have, they are what's known as
+a self-organizing team.
+
+170
+00:10:31,880 --> 00:10:34,771
+And in order to be a
+self-organizing team, right,
+
+171
+00:10:34,772 --> 00:10:37,960
+then you need to have
+these T-shaped skills, right?
+
+172
+00:10:38,120 --> 00:10:41,700
+So you have skills in one area,
+right, deep skills in one area,
+
+173
+00:10:41,880 --> 00:10:43,460
+but then you can diversify.
+
+174
+00:10:44,380 --> 00:10:48,740
+And so you can work in other areas as
+well.
+
+175
+00:10:49,160 --> 00:10:53,480
+And that's why, or rather, that's how
+agile teams work together.
+
+176
+00:10:54,320 --> 00:10:58,480
+So that's the basic difference in between
+T-shaped skills and I-shaped skills.
+
+177
+00:10:59,220 --> 00:11:04,000
+So a couple of skill sets required for
+team members.
+

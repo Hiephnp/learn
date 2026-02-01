@@ -1,0 +1,609 @@
+﻿1
+00:00:06,790 --> 00:00:07,623
+Welcome back.
+
+2
+00:00:08,430 --> 00:00:09,280
+This is Kimberly.
+
+3
+00:00:10,150 --> 00:00:14,610
+You haven't seen me in a little while,
+but you're not going to see me now either.
+
+4
+00:00:15,710 --> 00:00:20,230
+The focus is on the slides right now.
+
+5
+00:00:21,470 --> 00:00:24,610
+All right, so you will not see my video in
+these.
+
+6
+00:00:26,850 --> 00:00:35,870
+So Assad just covered what our points are
+for earned value.
+
+7
+00:00:36,010 --> 00:00:44,050
+So we can calculate budget at completion,
+planned value, actual costs, earned value,
+
+8
+00:00:44,750 --> 00:00:45,750
+and then forecast.
+
+9
+00:00:46,830 --> 00:00:47,050
+All right.
+
+10
+00:00:47,430 --> 00:00:50,110
+So based on these, let's look at the next
+slide.
+
+11
+00:00:51,130 --> 00:00:52,030
+Here's an example.
+
+12
+00:00:52,610 --> 00:00:56,070
+You need to be able to pull out those
+points.
+
+13
+00:00:57,530 --> 00:00:59,647
+So you're remodeling a small office
+building.
+
+14
+00:00:59,730 --> 00:01:03,130
+Renovations include bathroom upgrades,
+replacing carpet in the halls,
+
+15
+00:01:03,570 --> 00:01:05,170
+upgrading lighting on 10 floors.
+
+16
+00:01:06,010 --> 00:01:07,150
+We have 10 floors.
+
+17
+00:01:08,430 --> 00:01:11,930
+Each floor is expected to take one week.
+
+18
+00:01:12,590 --> 00:01:14,810
+So how long will the whole project take
+us?
+
+19
+00:01:15,350 --> 00:01:16,183
+10 weeks.
+
+20
+00:01:17,330 --> 00:01:20,590
+Each floor is expected to cost 60,000.
+
+21
+00:01:21,730 --> 00:01:25,090
+So how much will the whole project cost
+us?
+
+22
+00:01:25,650 --> 00:01:29,530
+Budget at completion, 10 times the 60,000.
+
+23
+00:01:30,410 --> 00:01:35,230
+So I need you to be able to see these and
+pull this information out.
+
+24
+00:01:35,231 --> 00:01:43,910
+the project is four weeks in so at week
+four we're doing a performance review this
+
+25
+00:01:43,911 --> 00:01:52,870
+will be our planned value at week four how
+much work did we plan to get done and of
+
+26
+00:01:52,871 --> 00:02:00,610
+course we had to pay for it so four times
+sixty thousand that's what i want you to
+
+27
+00:02:00,611 --> 00:02:09,210
+see that's our planned value at week four
+costs are 280,000 to date these are your
+
+28
+00:02:09,211 --> 00:02:16,070
+actual costs so that was given and then
+we're told we have 4.5 floors that have
+
+29
+00:02:16,071 --> 00:02:24,890
+been completed that is your earned value
+so what have we completed the work we've
+
+30
+00:02:24,891 --> 00:02:34,250
+completed 4.5 times 60,000 so those are
+what I need you to be able to pull out of
+
+31
+00:02:34,270 --> 00:02:39,850
+a scenario all right and then we'll look
+at this last one this will be used for
+
+32
+00:02:39,851 --> 00:02:45,330
+forecasting so we'll assume future
+performance would be typical of the past
+
+33
+00:02:45,331 --> 00:02:53,310
+so let's look at the actual formulas so we
+have budget at completion we have the 10
+
+34
+00:02:53,311 --> 00:02:59,836
+floors times the 60,000
+per week okay so we plan
+
+35
+00:02:59,837 --> 00:03:05,210
+expect the entire project
+to cost us $600,000.
+
+36
+00:03:07,370 --> 00:03:13,264
+That is our entire cost baseline, all our
+estimated costs plus contingency reserves.
+
+37
+00:03:14,990 --> 00:03:15,823
+Planned value.
+
+38
+00:03:15,990 --> 00:03:17,470
+Again, we're at week four.
+
+39
+00:03:18,690 --> 00:03:23,390
+60,000 per week per floor is $240,000.
+
+40
+00:03:24,630 --> 00:03:29,330
+Our actual cost, $280,000 that was given.
+
+41
+00:03:30,650 --> 00:03:34,110
+Earned value, 4.5 floors we've completed.
+
+42
+00:03:34,111 --> 00:03:34,250
+We've completed.
+
+43
+00:03:34,270 --> 00:03:36,950
+at the 60,000.
+
+44
+00:03:37,770 --> 00:03:40,830
+So we've completed 270,000 worth of work.
+
+45
+00:03:41,550 --> 00:03:43,100
+Think the work we've completed.
+
+46
+00:03:43,970 --> 00:03:47,370
+You're going to see everything is compared
+to earned value.
+
+47
+00:03:47,970 --> 00:03:48,803
+Everything.
+
+48
+00:03:49,270 --> 00:03:51,670
+Earned value compared to planned value.
+
+49
+00:03:52,010 --> 00:03:52,843
+Think time.
+
+50
+00:03:53,750 --> 00:03:56,730
+Earned value compared to your actual
+costs.
+
+51
+00:03:57,390 --> 00:03:59,430
+Think costs, of course.
+
+52
+00:04:01,210 --> 00:04:10,880
+Okay, so again, everything is compared to
+earned value if earned value is higher in
+
+53
+00:04:10,881 --> 00:04:22,240
+one of the other points we are happy if it
+is lower we are not happy I'm using my
+
+54
+00:04:22,241 --> 00:04:28,442
+mouse so excuse the the scribble
+all right so earn value compared
+
+55
+00:04:28,443 --> 00:04:33,062
+to our plan value time so we've
+completed 270,000 words of
+
+56
+00:04:33,063 --> 00:04:38,960
+work we planned expected
+to complete 240,000.
+
+57
+00:04:39,580 --> 00:04:42,500
+So we are happy with our time.
+
+58
+00:04:43,620 --> 00:04:51,280
+We've completed 270,000 worth of work
+compared to we have spent 280,000.
+
+59
+00:04:51,880 --> 00:04:54,060
+So with our costs, we're not happy.
+
+60
+00:04:55,760 --> 00:04:57,340
+Always know that first.
+
+61
+00:04:57,960 --> 00:04:59,520
+Then we'll calculate.
+
+62
+00:05:00,940 --> 00:05:03,540
+So I know Asad already mentioned the
+formulas.
+
+63
+00:05:03,880 --> 00:05:07,780
+We're going to jump right in them based on
+what we know.
+
+64
+00:05:07,940 --> 00:05:09,440
+We're happy with our schedule.
+
+65
+00:05:09,720 --> 00:05:11,270
+We're not happy with our costs.
+
+66
+00:05:11,680 --> 00:05:15,320
+So our cost variance earned value minus
+actual costs.
+
+67
+00:05:15,780 --> 00:05:17,060
+Our variance is negative.
+
+68
+00:05:17,700 --> 00:05:19,240
+Confirming we're not happy.
+
+69
+00:05:20,160 --> 00:05:22,560
+So our variance is negative 10,000.
+
+70
+00:05:22,920 --> 00:05:24,840
+That's exactly how far off we are.
+
+71
+00:05:25,540 --> 00:05:27,340
+We're 10,000 over budget.
+
+72
+00:05:28,040 --> 00:05:32,180
+Our cost performance index earned value
+over your actual costs.
+
+73
+00:05:32,520 --> 00:05:35,460
+We're performing at 96%.
+
+74
+00:05:35,461 --> 00:05:38,880
+We know we are not happy with our costs.
+
+75
+00:05:39,000 --> 00:05:40,020
+So this confirms it.
+
+76
+00:05:41,240 --> 00:05:45,806
+Now, you have to be
+able to describe to your
+
+77
+00:05:45,807 --> 00:05:50,160
+stakeholders what a cost
+performance index means.
+
+78
+00:05:50,620 --> 00:05:51,453
+They don't know.
+
+79
+00:05:52,060 --> 00:05:58,309
+So you have to be able to
+translate that and say, this means
+
+80
+00:05:58,310 --> 00:06:02,100
+we are earning 96 cents for
+every dollar we're spending.
+
+81
+00:06:02,700 --> 00:06:03,850
+So that's not horrible.
+
+82
+00:06:04,680 --> 00:06:07,280
+So we can probably correct this,
+okay?
+
+83
+00:06:08,600 --> 00:06:14,460
+But this is our performance confirming
+we're not happy with our schedule.
+
+84
+00:06:15,680 --> 00:06:17,130
+Let's look at the next slide.
+
+85
+00:06:17,320 --> 00:06:20,620
+Our schedule variants, we know we were
+happy with our schedule.
+
+86
+00:06:21,000 --> 00:06:25,760
+So our schedule variance earned value
+minus plan value of course is positive.
+
+87
+00:06:26,820 --> 00:06:30,300
+We've completed 30,000 more than we
+planned.
+
+88
+00:06:31,000 --> 00:06:32,580
+At the this point in time.
+
+89
+00:06:33,240 --> 00:06:37,240
+Our schedule performance index earned
+value over plan value.
+
+90
+00:06:38,520 --> 00:06:40,660
+We know we're happy with our schedule.
+
+91
+00:06:41,180 --> 00:06:43,820
+We know we're performing it over 100%.
+
+92
+00:06:43,821 --> 00:06:45,920
+So this confirms it.
+
+93
+00:06:46,640 --> 00:06:49,860
+With our schedule, we're performing at
+112%.
+
+94
+00:06:49,861 --> 00:06:53,120
+So we're 12% ahead of schedule.
+
+95
+00:06:54,260 --> 00:06:55,400
+Based on this.
+
+96
+00:06:56,200 --> 00:06:59,215
+And again, going back
+to that original slide,
+
+97
+00:06:59,216 --> 00:07:01,700
+assume future performance will be typical.
+
+98
+00:07:01,760 --> 00:07:03,300
+similar of the past.
+
+99
+00:07:04,200 --> 00:07:06,800
+So we will forecast estimate at
+completion.
+
+100
+00:07:07,940 --> 00:07:13,620
+How much is the whole project going to cost
+us based on our performance continuing?
+
+101
+00:07:14,760 --> 00:07:18,540
+So you have budget at completion over your
+cost performance index.
+
+102
+00:07:19,240 --> 00:07:24,620
+Of course it will cost us more to do all
+the work because our cost performance has
+
+103
+00:07:24,621 --> 00:07:27,220
+not been good and we expect that to
+continue.
+
+104
+00:07:27,900 --> 00:07:32,000
+So our estimate at completion will be
+625,000.
+
+105
+00:07:33,560 --> 00:07:36,489
+Estimate to complete ETC, how much is it
+
+106
+00:07:36,490 --> 00:07:40,834
+going to cost us to
+finish the remaining work?
+
+107
+00:07:41,220 --> 00:07:45,120
+So we have our new forecast estimate at
+completion minus actual costs.
+
+108
+00:07:45,740 --> 00:07:50,760
+So to complete the rest of the work,
+it's going to cost us $345,000.
+
+109
+00:07:51,720 --> 00:07:53,858
+Variance at completion
+is the difference between
+
+110
+00:07:53,859 --> 00:07:58,380
+our original budget at
+completion and our forecast.
+
+111
+00:07:59,980 --> 00:08:02,812
+So, of course, it's going
+to be negative because
+
+112
+00:08:02,813 --> 00:08:05,820
+our costs have been
+performance has been negative.
+
+113
+00:08:07,540 --> 00:08:11,460
+So negative 25,000 over budget.
+
+114
+00:08:12,960 --> 00:08:17,020
+And last but not least, TCPI to complete
+performance index.
+
+115
+00:08:17,640 --> 00:08:20,890
+How well do we have
+to perform from this point
+
+116
+00:08:20,891 --> 00:08:24,094
+forward to meet our original
+budget at completion?
+
+117
+00:08:25,240 --> 00:08:29,680
+So that's budget at completion minus
+certain value over budget at completion.
+
+118
+00:08:29,700 --> 00:08:31,520
+completion minus your actual cost.
+
+119
+00:08:32,260 --> 00:08:35,700
+So from this point forward, we're at week
+four.
+
+120
+00:08:36,580 --> 00:08:42,255
+From here forward, we have
+to perform at 103% to be able
+
+121
+00:08:42,256 --> 00:08:47,600
+to meet our original budget
+at completion of 600,000.
+
+122
+00:08:48,140 --> 00:08:54,280
+So you have to be able to know what these
+answers mean.
+
+123
+00:08:54,300 --> 00:08:56,340
+You might not actually have to calculate.
+
+124
+00:08:56,341 --> 00:09:00,480
+So are we performing well with our
+schedule?
+
+125
+00:09:01,120 --> 00:09:01,953
+Sure, we are.
+
+126
+00:09:02,440 --> 00:09:03,640
+We're ahead of schedule.
+
+127
+00:09:04,020 --> 00:09:06,900
+Are we performing well with our costs?
+
+128
+00:09:07,280 --> 00:09:08,113
+Nope.
+
+129
+00:09:08,200 --> 00:09:10,150
+Again, this is confirming what we know.
+
+130
+00:09:11,440 --> 00:09:15,340
+So our cost performance is not good.
+
+131
+00:09:15,980 --> 00:09:18,745
+All right, so those are
+the big things you have
+
+132
+00:09:18,746 --> 00:09:21,914
+to be able to pull out
+if you see an example.
+
+133
+00:09:22,540 --> 00:09:26,200
+Is our project performance healthy with
+our costs?
+
+134
+00:09:26,340 --> 00:09:27,440
+and with our schedule.
+

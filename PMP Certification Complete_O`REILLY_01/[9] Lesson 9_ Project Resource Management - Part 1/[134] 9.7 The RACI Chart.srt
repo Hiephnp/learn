@@ -1,0 +1,491 @@
+﻿1
+00:00:06,400 --> 00:00:08,708
+Okay, so let's discuss the RACI chart now,
+
+2
+00:00:08,709 --> 00:00:11,914
+or the RAC chart, as
+it's sometimes called.
+
+3
+00:00:12,600 --> 00:00:17,500
+Now, I'm sure many of you have come across
+an RACI chart before, right, at least some
+
+4
+00:00:17,501 --> 00:00:21,720
+variation of one is very commonly used,
+but of course, some of you may not have
+
+5
+00:00:21,721 --> 00:00:25,160
+come across an RACI chart or a RAC chart
+before.
+
+6
+00:00:25,560 --> 00:00:27,431
+So I'm just going to
+go through just some of
+
+7
+00:00:27,432 --> 00:00:30,134
+the very basics that you
+need for the PMP exam.
+
+8
+00:00:31,140 --> 00:00:35,800
+Now, whenever anybody is performing any
+work on a project, right, the performing,
+
+9
+00:00:35,820 --> 00:00:39,260
+a task, they need to have some
+accountability, right?
+
+10
+00:00:39,300 --> 00:00:43,960
+There needs to be, you know, some
+knowledge of team members need to know who
+
+11
+00:00:43,961 --> 00:00:46,503
+is working on a particular task, right, or
+
+12
+00:00:46,504 --> 00:00:48,740
+who is accountable for a particular task.
+
+13
+00:00:48,860 --> 00:00:50,900
+That all needs to be documented,
+right?
+
+14
+00:00:50,901 --> 00:00:55,420
+Because, you know, if there is a problem,
+then, you know, we can identify very
+
+15
+00:00:55,421 --> 00:00:59,120
+simply who or very quickly, we can
+identify, all right, who worked on this
+
+16
+00:00:59,121 --> 00:01:04,060
+task and or who is accountable for this
+task or, you know, who's responsible for
+
+17
+00:01:04,061 --> 00:01:06,411
+performing this task and so and so and so
+forth.
+
+18
+00:01:06,560 --> 00:01:11,220
+And that really is what the RACI chart of
+the RAC chart is capturing.
+
+19
+00:01:12,140 --> 00:01:17,480
+Now, what RAC stands for is responsible,
+accountable, consult and inform.
+
+20
+00:01:18,080 --> 00:01:18,440
+Right.
+
+21
+00:01:18,580 --> 00:01:20,080
+So R is obviously responsible.
+
+22
+00:01:20,300 --> 00:01:22,740
+A is accountable, C is consult and I is
+informed.
+
+23
+00:01:23,480 --> 00:01:28,620
+And essentially what you're doing is
+across the top here, you are listing out
+
+24
+00:01:28,621 --> 00:01:30,537
+all of your different roles on your
+project.
+
+25
+00:01:30,620 --> 00:01:33,137
+And this is obviously a very simple little
+example here.
+
+26
+00:01:33,220 --> 00:01:35,900
+Right, you list out all of the different
+roles on the project.
+
+27
+00:01:35,940 --> 00:01:38,340
+We've got the PMO who would be a key
+stakeholder.
+
+28
+00:01:38,460 --> 00:01:41,810
+We've got the project manager,
+business analyst, solution architect,
+
+29
+00:01:42,380 --> 00:01:42,880
+developers, right?
+
+30
+00:01:43,120 --> 00:01:46,380
+These are all, say, the different roles on
+your project.
+
+31
+00:01:47,080 --> 00:01:49,960
+And then down the side here on the left
+and side, you're going to list out all of
+
+32
+00:01:49,961 --> 00:01:53,960
+your different activities, right, activity
+one or task one, task two, task three.
+
+33
+00:01:54,060 --> 00:01:55,157
+I mean, whatever they are.
+
+34
+00:01:55,240 --> 00:01:55,360
+Right.
+
+35
+00:01:55,480 --> 00:02:00,040
+So there could be individual activities,
+right, down to the granular level.
+
+36
+00:02:00,060 --> 00:02:02,820
+or they could be the work package level,
+right?
+
+37
+00:02:02,900 --> 00:02:05,850
+So these could be work packages or they
+could be activities.
+
+38
+00:02:06,560 --> 00:02:12,440
+And then for each item, each activity,
+in this case, each task, you're going to
+
+39
+00:02:12,441 --> 00:02:19,240
+list out who is responsible for performing
+the work, who is accountable for the work,
+
+40
+00:02:20,200 --> 00:02:20,300
+right?
+
+41
+00:02:20,700 --> 00:02:24,920
+Who needs to be consulted and who needs to
+be informed?
+
+42
+00:02:25,820 --> 00:02:26,420
+All right.
+
+43
+00:02:26,580 --> 00:02:27,730
+So what does that mean?
+
+44
+00:02:28,140 --> 00:02:30,240
+All right, so let's talk about
+responsible.
+
+45
+00:02:30,600 --> 00:02:35,580
+Responsible is basically the person who is
+going to be performing the work.
+
+46
+00:02:37,060 --> 00:02:39,210
+Responsible means that they are
+responsible.
+
+47
+00:02:39,480 --> 00:02:42,297
+They are basically going to be performing
+the actual work.
+
+48
+00:02:42,380 --> 00:02:43,930
+That is what responsible means.
+
+49
+00:02:44,300 --> 00:02:48,668
+Whereas accountable
+is basically, who has to
+
+50
+00:02:48,669 --> 00:02:51,934
+explain to senior
+management what went wrong?
+
+51
+00:02:52,520 --> 00:02:56,720
+Just as a nutshell, that's kind of what it
+means in reality.
+
+52
+00:02:56,721 --> 00:02:57,740
+That's what it ends up meaning.
+
+53
+00:02:57,741 --> 00:03:00,780
+So as a very, very simple example,
+right?
+
+54
+00:03:01,120 --> 00:03:05,560
+You have a junior analyst that's going to
+be responsible for performing the work.
+
+55
+00:03:06,200 --> 00:03:09,080
+But the team lead is going to be
+accountable.
+
+56
+00:03:10,040 --> 00:03:14,694
+If that junior analyst messes up, the
+team lead has to explain what went wrong.
+
+57
+00:03:15,260 --> 00:03:18,780
+It's just like when, you know,
+you're doing some work, your manager
+
+58
+00:03:18,781 --> 00:03:22,680
+delegates work to you, you are responsible
+for performing the work, right?
+
+59
+00:03:22,840 --> 00:03:27,340
+But it's your manager who is accountable
+for the work that you do.
+
+60
+00:03:27,920 --> 00:03:32,680
+If you mess up, it's a manager that has to
+explain to senior management, you know,
+
+61
+00:03:33,000 --> 00:03:33,833
+what went wrong?
+
+62
+00:03:35,060 --> 00:03:38,060
+So that's the difference between
+responsible and accountable.
+
+63
+00:03:38,680 --> 00:03:41,420
+Consult means we need input from this
+person.
+
+64
+00:03:41,940 --> 00:03:46,090
+So this person is either a subject matter
+expert or this person is a decision maker,
+
+65
+00:03:46,740 --> 00:03:46,880
+right?
+
+66
+00:03:47,500 --> 00:03:49,177
+You know, this person is knowledgeable.
+
+67
+00:03:49,260 --> 00:03:51,560
+We need to say invite this person to a
+meeting.
+
+68
+00:03:52,040 --> 00:03:54,600
+So we need input from this person.
+
+69
+00:03:55,520 --> 00:03:56,780
+And that I means inform.
+
+70
+00:03:57,740 --> 00:03:59,740
+this person needs to be communicated to.
+
+71
+00:03:59,920 --> 00:04:01,170
+They need to be informed.
+
+72
+00:04:01,280 --> 00:04:06,400
+So either before the task is performed or
+during or while the task is in progress or
+
+73
+00:04:06,401 --> 00:04:09,740
+after the task is complete, they need to
+be informed in some way.
+
+74
+00:04:09,940 --> 00:04:13,480
+So in this very simple example here,
+right, and again, very, very high level
+
+75
+00:04:13,481 --> 00:04:19,280
+example, right, we can see here then that
+for task three, right, or let's just look
+
+76
+00:04:19,281 --> 00:04:24,440
+at task four here, solution architect is
+responsible for performing task four,
+
+77
+00:04:24,820 --> 00:04:27,170
+whereas the project manager here is
+accountable.
+
+78
+00:04:27,480 --> 00:04:29,217
+So the project manager is accountable.
+
+79
+00:04:29,300 --> 00:04:31,075
+Project manager has to
+explain what went wrong
+
+80
+00:04:31,076 --> 00:04:33,474
+if the solution architect made a mistake.
+
+81
+00:04:34,320 --> 00:04:36,800
+The PMO needs to be consulted,
+right?
+
+82
+00:04:36,900 --> 00:04:40,900
+If there's any changes to task for or we
+need to make any updates or of any kind,
+
+83
+00:04:41,400 --> 00:04:44,680
+right, we need to consult with the PMO,
+right?
+
+84
+00:04:45,220 --> 00:04:48,800
+And then the business analysts and
+developers need to be informed.
+
+85
+00:04:49,180 --> 00:04:50,940
+Just as a very simple example,
+right?
+
+86
+00:04:51,020 --> 00:04:53,760
+There's just a very, very, obviously,
+a very high level simple example.
+
+87
+00:04:53,761 --> 00:04:58,700
+Now, basic rules, basic rules regarding
+the RACI chart.
+
+88
+00:04:59,440 --> 00:05:04,460
+First of all, every activity needs to have
+at least one person responsible.
+
+89
+00:05:05,900 --> 00:05:07,320
+You may have more than one.
+
+90
+00:05:07,580 --> 00:05:13,540
+Now here, only one activity is showing an
+R, but only one person can be responsible.
+
+91
+00:05:13,920 --> 00:05:16,437
+The person responsible can also be the
+person accountable.
+
+92
+00:05:16,520 --> 00:05:18,505
+So you can have two, as in task one, the
+
+93
+00:05:18,506 --> 00:05:20,860
+project manager is
+accountable and responsible.
+
+94
+00:05:20,861 --> 00:05:26,700
+right but every activity needs to have at
+least one person responsible you may have
+
+95
+00:05:26,701 --> 00:05:30,000
+more than one person responsible i mean
+essentially if you don't have somebody
+
+96
+00:05:30,001 --> 00:05:34,060
+responsible who's going to do the work
+it's not going to get done but every
+
+97
+00:05:34,061 --> 00:05:39,700
+activity needs to have only one a only one
+person can be accountable and that's a
+
+98
+00:05:39,701 --> 00:05:44,720
+basic rule not every activity needs to
+have a c a consult not every activity
+
+99
+00:05:44,721 --> 00:05:50,580
+needs to have an i and inform i mean they
+can do but that's not necessary and you
+
+100
+00:05:50,581 --> 00:05:54,800
+know This example, the showing every
+activity with a C and an I, but not
+
+101
+00:05:54,801 --> 00:05:58,600
+necessarily every activity needs to have a
+C and a I.
+
+102
+00:05:59,360 --> 00:06:04,300
+But every activity needs to have at least
+one R and only one A.
+
+103
+00:06:05,580 --> 00:06:08,660
+And that's the basic principle behind the
+RACI chart.
+

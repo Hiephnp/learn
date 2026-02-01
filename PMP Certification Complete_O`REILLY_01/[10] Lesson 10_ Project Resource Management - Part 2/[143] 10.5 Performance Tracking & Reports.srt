@@ -1,0 +1,430 @@
+﻿1
+00:00:06,480 --> 00:00:12,300
+Okay, let's talk about a few common tools
+used to track performance of your work.
+
+2
+00:00:12,640 --> 00:00:16,620
+So performance tracking and we'll talk
+about a couple of reports as well.
+
+3
+00:00:17,000 --> 00:00:20,357
+Now one of the tools I'm going to talk
+about is this one called the Canban Board.
+
+4
+00:00:20,440 --> 00:00:23,620
+And in fact, we actually have a separate
+video on Canban boards.
+
+5
+00:00:23,960 --> 00:00:27,340
+So we'll talk about canban boards
+separately in the separate video.
+
+6
+00:00:27,780 --> 00:00:29,680
+But it is a performance tracking tool.
+
+7
+00:00:30,160 --> 00:00:32,260
+So that's why we wanted to mention it
+here.
+
+8
+00:00:32,620 --> 00:00:36,440
+Now another tool that you might use is
+something known as a throughput metrics
+
+9
+00:00:36,441 --> 00:00:42,120
+and a throughput metric basically
+calculates you know the amount of work
+
+10
+00:00:42,121 --> 00:00:46,440
+that the team has done over time right so
+it basically for example the average
+
+11
+00:00:46,441 --> 00:00:51,680
+number of tasks that are being completed
+in a week right or you know the number of
+
+12
+00:00:51,681 --> 00:00:57,560
+tasks that we performed you know in an
+iteration for example right so that's what
+
+13
+00:00:57,561 --> 00:01:01,660
+throughput metric refers to right the
+calculation of the team's work right the
+
+14
+00:01:01,661 --> 00:01:07,480
+entire work performed by the team over a
+particular period of time Cycle time,
+
+15
+00:01:07,740 --> 00:01:10,025
+right, is a term that's
+basically looking at
+
+16
+00:01:10,026 --> 00:01:13,154
+the progression of the
+work from start to end.
+
+17
+00:01:13,720 --> 00:01:18,279
+So, how long has it taken from
+the time the work was actually
+
+18
+00:01:18,280 --> 00:01:21,940
+started to the work it was,
+to the time it was finished?
+
+19
+00:01:22,680 --> 00:01:24,480
+Right, how long has that time taken?
+
+20
+00:01:24,680 --> 00:01:29,320
+Essentially, how long has it been a
+working process or a work in progress?
+
+21
+00:01:30,400 --> 00:01:35,380
+So it's going to include, for example,
+stoppage time, like, so you stop this
+
+22
+00:01:35,381 --> 00:01:37,643
+activity, and then you start
+working on something else,
+
+23
+00:01:37,644 --> 00:01:40,500
+and you come back to this
+one, come back to this activity.
+
+24
+00:01:40,660 --> 00:01:43,410
+It's not looking at the level of effort
+that it's taken.
+
+25
+00:01:43,620 --> 00:01:45,744
+It's looking at the
+entire time, including,
+
+26
+00:01:45,745 --> 00:01:47,954
+like I said, including the stoppage time.
+
+27
+00:01:48,280 --> 00:01:50,880
+We started on this date, we finished it on
+this date.
+
+28
+00:01:51,180 --> 00:01:53,580
+Now, in between, we might have been
+working on other things as well,
+
+29
+00:01:53,660 --> 00:01:59,260
+so we weren't working 100% on this
+particular activity, but how long has it
+
+30
+00:01:59,261 --> 00:02:03,760
+taken to basically complete that activity
+from start to finish?
+
+31
+00:02:04,820 --> 00:02:07,160
+That's what the cycle time refers to.
+
+32
+00:02:07,240 --> 00:02:09,720
+How long it's been actually a work in
+progress?
+
+33
+00:02:11,460 --> 00:02:14,720
+Then you'll come across this term here
+called earned value.
+
+34
+00:02:15,400 --> 00:02:19,840
+Earned value are those formulas that we've
+covered in the cost management section.
+
+35
+00:02:20,540 --> 00:02:23,300
+So schedule variance, cost variance,
+all of those.
+
+36
+00:02:23,780 --> 00:02:27,680
+So earned value is essentially showing you
+the health of a project.
+
+37
+00:02:27,820 --> 00:02:29,877
+And you'll be creating earned value
+reports.
+
+38
+00:02:29,960 --> 00:02:32,341
+So all of the metrics
+from the earned value
+
+39
+00:02:32,342 --> 00:02:35,280
+calculations, You might
+create them in a report.
+
+40
+00:02:36,120 --> 00:02:39,960
+A Gant chart is another type of report,
+another type of performance report looking
+
+41
+00:02:39,961 --> 00:02:43,261
+at the schedule, whereas earned value is
+generally looking at cost.
+
+42
+00:02:43,500 --> 00:02:46,420
+But of course, you've got a schedule variance
+as well, which looks at the schedule.
+
+43
+00:02:46,660 --> 00:02:51,280
+But the Gant chart is purely and simply
+looking at the schedule, right,
+
+44
+00:02:51,700 --> 00:02:53,000
+progress of your schedule.
+
+45
+00:02:53,160 --> 00:02:56,777
+Now, this other term then, you might come
+across this term called velocity,
+
+46
+00:02:56,860 --> 00:03:01,340
+which refers to the total speed of an
+iteration or the total speed of an activity.
+
+47
+00:03:01,760 --> 00:03:06,660
+And what velocity really is looking at is
+the amount of completed level of effort,
+
+48
+00:03:07,200 --> 00:03:12,900
+how long this activity has taken in terms
+of level of effort, such as man hours,
+
+49
+00:03:13,240 --> 00:03:14,073
+for example.
+
+50
+00:03:14,340 --> 00:03:16,680
+So that's what velocity is referring to.
+
+51
+00:03:17,280 --> 00:03:20,000
+Right now, it sounds very similar to
+throughput.
+
+52
+00:03:20,900 --> 00:03:24,320
+So in the previous slide, we talked about
+throughput metric, right?
+
+53
+00:03:24,440 --> 00:03:27,780
+So velocity sounds very similar,
+but the basic difference is with
+
+54
+00:03:27,781 --> 00:03:30,923
+throughput, throughput
+metrics, it's looking at
+
+55
+00:03:30,924 --> 00:03:33,420
+actual number of tasks
+that have been completed.
+
+56
+00:03:33,440 --> 00:03:39,540
+over time, whereas velocity is looking at
+more of the level of effort that's been
+
+57
+00:03:39,541 --> 00:03:43,820
+taken over time, such as, you know,
+hours, level of effort in terms of hours,
+
+58
+00:03:44,000 --> 00:03:45,550
+man hours, and so and so forth.
+
+59
+00:03:47,220 --> 00:03:50,100
+Then a couple of other reports,
+right, you might come across this one
+
+60
+00:03:50,101 --> 00:03:54,340
+called the Quality Report, and this
+obviously is looking at the quality,
+
+61
+00:03:55,120 --> 00:03:58,870
+right, so tracking defects and accepted
+deliverables and so on and so forth.
+
+62
+00:03:59,460 --> 00:04:01,496
+And then you have this term called Value
+
+63
+00:04:01,497 --> 00:04:04,954
+Streamer Now, value
+stream map is more of a lean.
+
+64
+00:04:05,460 --> 00:04:07,400
+Some of that's using lean technique.
+
+65
+00:04:08,060 --> 00:04:09,940
+It's a type of flow chart.
+
+66
+00:04:10,320 --> 00:04:13,900
+It's basically used for process
+improvement.
+
+67
+00:04:14,260 --> 00:04:15,820
+Identifying inefficiencies.
+
+68
+00:04:16,660 --> 00:04:18,160
+Inefficiencies in the process.
+
+69
+00:04:18,880 --> 00:04:21,222
+For example, in a
+manufacturing environment,
+
+70
+00:04:21,223 --> 00:04:23,591
+you have your raw
+materials that are delivered.
+
+71
+00:04:24,080 --> 00:04:27,215
+These raw materials now go through several
+
+72
+00:04:27,216 --> 00:04:31,394
+processes before it gets
+delivered to the customer.
+
+73
+00:04:31,840 --> 00:04:34,220
+So what are all the steps involved?
+
+74
+00:04:35,120 --> 00:04:40,364
+So in a flowchart, you'll
+show all the steps involved
+
+75
+00:04:40,365 --> 00:04:45,340
+from this raw material
+being delivered to you, right?
+
+76
+00:04:45,520 --> 00:04:50,720
+Once we've received the raw materials,
+all the different steps involved in order
+
+77
+00:04:50,721 --> 00:04:55,500
+to create the final product when it's
+shipped out to the customer.
+
+78
+00:04:55,940 --> 00:05:00,840
+So the value stream map then is going to
+show all of the different procedures.
+
+79
+00:05:01,140 --> 00:05:06,140
+different processes and then from there
+you can see which processes need to be
+
+80
+00:05:06,141 --> 00:05:11,140
+improved right which processes where are
+we finding bottlenecks and inefficiencies
+
+81
+00:05:11,141 --> 00:05:15,560
+that can be proved about right and then
+each process then is going to be
+
+82
+00:05:15,561 --> 00:05:20,060
+identifying how long it's taking this
+process how long does this process take
+
+83
+00:05:20,061 --> 00:05:26,840
+process B how long will that take and then
+you know do we have any downtime that says
+
+84
+00:05:26,841 --> 00:05:31,720
+some downtime before we start process C
+and so and so and so forth right so it's
+
+85
+00:05:31,721 --> 00:05:36,480
+going to include then leads and lags and
+so and so forth so so value stream map
+
+86
+00:05:36,481 --> 00:05:41,440
+then is looking at the whole process from
+start to end and then you're trying to
+
+87
+00:05:41,441 --> 00:05:47,460
+identify inefficiencies to improve
+processes okay so these are just a couple
+
+88
+00:05:47,461 --> 00:05:49,576
+of the common tools and
+reports when it comes to
+
+89
+00:05:49,577 --> 00:05:53,800
+performance right performance
+tracking and reporting
+

@@ -1,0 +1,111 @@
+﻿1
+00:00:06,460 --> 00:00:08,820
+Lesson 8 is quality management.
+
+2
+00:00:09,520 --> 00:00:12,060
+So these are the learning objectives for
+quality.
+
+3
+00:00:13,140 --> 00:00:15,560
+First of all, we want to define quality.
+
+4
+00:00:15,860 --> 00:00:17,060
+Exactly what is quality.
+
+5
+00:00:17,520 --> 00:00:21,320
+There are different definitions of
+quality, but for the purpose of the PMP
+
+6
+00:00:21,321 --> 00:00:25,121
+exam, there's one definition that you need
+to know, so we'll talk about that.
+
+7
+00:00:25,340 --> 00:00:29,580
+We'll also talk about how it differs from
+another term called grade.
+
+8
+00:00:29,980 --> 00:00:32,337
+So what's the difference between grade and
+quality?
+
+9
+00:00:32,420 --> 00:00:33,670
+We'll be discussing that.
+
+10
+00:00:33,880 --> 00:00:38,600
+You also need to understand or recognize
+the cost of quality, right?
+
+11
+00:00:38,860 --> 00:00:43,914
+So quality or the cost,
+like to either build quality in
+
+12
+00:00:43,915 --> 00:00:47,440
+or the cost of failures is a
+direct cost to your project.
+
+13
+00:00:48,020 --> 00:00:52,594
+So we'll be talking about that, all the
+different categories of cost of quality.
+
+14
+00:00:53,160 --> 00:00:59,480
+And then plus, what's the highest level of
+cost when it comes to quality?
+
+15
+00:00:59,740 --> 00:01:02,380
+What are the increasing levels of quality
+costs?
+
+16
+00:01:02,460 --> 00:01:08,420
+So we'll discuss that as well plus the
+basic agile approach to quality management
+
+17
+00:01:08,421 --> 00:01:11,740
+right and plus other different approaches
+to quality management so we'll be talking
+
+18
+00:01:11,741 --> 00:01:15,780
+about some of the tools and techniques and
+of course you also need to understand and
+
+19
+00:01:15,781 --> 00:01:19,980
+recognize what are some of the artifacts
+right some of the documents right
+
+20
+00:01:19,981 --> 00:01:24,280
+regarding quality right and for both
+quality control and quality assurance so
+
+21
+00:01:24,281 --> 00:01:28,140
+we'll also be defining then with the
+difference and between quality control and
+
+22
+00:01:28,141 --> 00:01:32,360
+quality assurance and then some of the
+tools that are required and some of the
+
+23
+00:01:32,361 --> 00:01:35,311
+artifacts and the documents that we're
+going to be creating.
+

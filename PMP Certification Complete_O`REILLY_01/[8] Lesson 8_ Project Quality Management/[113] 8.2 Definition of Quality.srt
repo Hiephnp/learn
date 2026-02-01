@@ -1,0 +1,644 @@
+﻿1
+00:00:05,820 --> 00:00:08,920
+Okay, so let's define quality.
+
+2
+00:00:09,400 --> 00:00:13,520
+It's very important to understand what the
+definition of quality is.
+
+3
+00:00:14,340 --> 00:00:19,100
+Now, there are several definitions of
+quality out there, but there's one
+
+4
+00:00:19,101 --> 00:00:21,551
+definition that you need to know for the
+PMP exam.
+
+5
+00:00:21,880 --> 00:00:27,800
+This is a definition that PMI have adopted,
+which is taken directly from ISO 9,000.
+
+6
+00:00:28,360 --> 00:00:31,951
+The definition states, quality
+is the degree to which a
+
+7
+00:00:31,952 --> 00:00:35,640
+set of inherent characteristics
+fulfills requirements.
+
+8
+00:00:36,200 --> 00:00:41,000
+So this is a definition that PMI have
+chosen to adopt, taken directly from ISO
+
+9
+00:00:41,001 --> 00:00:45,300
+9,000, and this is a definition of quality
+that is mentioned in PIMBOC.
+
+10
+00:00:45,660 --> 00:00:51,000
+It's a degree to which a set of inherent
+characteristics fulfills requirements.
+
+11
+00:00:51,200 --> 00:00:54,700
+The degree to which your product meets
+requirements.
+
+12
+00:00:55,680 --> 00:00:59,940
+And notice, the focus is on the word
+requirement.
+
+13
+00:01:00,980 --> 00:01:03,873
+Notice there's nothing
+in the definition that
+
+14
+00:01:03,874 --> 00:01:07,214
+states that the product
+actually has to work.
+
+15
+00:01:07,500 --> 00:01:12,200
+All right, so let's explain this,
+because this might be something different
+
+16
+00:01:12,201 --> 00:01:15,560
+to what you might have experienced or what
+you are experiencing.
+
+17
+00:01:17,160 --> 00:01:23,900
+So a defect, a defect is that the product
+does not meet requirements.
+
+18
+00:01:24,860 --> 00:01:28,100
+A defect is not the product doesn't work.
+
+19
+00:01:29,240 --> 00:01:31,540
+So let me give you an example here.
+
+20
+00:01:32,020 --> 00:01:35,720
+So let's say I'm in a room, So,
+of course, there's four walls in this
+
+21
+00:01:35,721 --> 00:01:40,200
+room, and let's say, I'm your customer,
+and I've hired you to paint this room.
+
+22
+00:01:41,320 --> 00:01:43,570
+And I give you a whole bunch of weird
+colours.
+
+23
+00:01:43,980 --> 00:01:46,948
+I tell you, I want this wall bright
+pink, this wall bright yellow,
+
+24
+00:01:46,949 --> 00:01:50,046
+I want this wall green, this
+wall blue, I want the ceilings
+
+25
+00:01:50,047 --> 00:01:53,414
+purple, I want the
+floors, and bright white.
+
+26
+00:01:54,000 --> 00:01:55,717
+And you say, are you sure about that?
+
+27
+00:01:55,800 --> 00:01:58,860
+I say, yep, this is exactly how I want my
+room painted.
+
+28
+00:01:59,340 --> 00:02:03,120
+So you come along with all these color
+swatches, and I sign off on them all.
+
+29
+00:02:04,060 --> 00:02:05,680
+those are my requirements.
+
+30
+00:02:05,860 --> 00:02:07,260
+I've signed off on them all.
+
+31
+00:02:07,500 --> 00:02:11,860
+So, you come along, you paint this room
+exactly according to those requirements.
+
+32
+00:02:12,440 --> 00:02:16,360
+I walk in, I look around, and I think,
+this is disgusting.
+
+33
+00:02:17,160 --> 00:02:18,460
+These colours don't work.
+
+34
+00:02:19,380 --> 00:02:23,430
+Now, I can't turn around to you at that
+point and say, you did a poor quality job.
+
+35
+00:02:24,060 --> 00:02:26,020
+No, you followed my requirements.
+
+36
+00:02:26,520 --> 00:02:27,857
+You followed my instructions.
+
+37
+00:02:27,940 --> 00:02:29,140
+You met my requirements.
+
+38
+00:02:29,200 --> 00:02:32,080
+You painted the room exactly according to
+the requirements I gave you.
+
+39
+00:02:32,081 --> 00:02:34,371
+So I can't turn around
+to you and say you did a
+
+40
+00:02:34,372 --> 00:02:36,751
+poor quality job there,
+these colours don't work.
+
+41
+00:02:37,620 --> 00:02:41,914
+I also can't turn around to you and say
+this is a defect, these colours don't work.
+
+42
+00:02:42,340 --> 00:02:45,140
+No, because you followed my requirements.
+
+43
+00:02:46,700 --> 00:02:51,160
+So that is not a reflection on you doing a
+poor quality job, if anything,
+
+44
+00:02:51,900 --> 00:02:55,000
+that's a reflection on me giving you a bad
+set of requirements.
+
+45
+00:02:56,220 --> 00:03:01,080
+So quality always refers to whether or not
+the product meets requirements
+
+46
+00:03:01,081 --> 00:03:05,040
+requirements, not whether or not the
+product works.
+
+47
+00:03:06,520 --> 00:03:11,320
+So quality always refers to a defect,
+always refers to the product meeting
+
+48
+00:03:11,321 --> 00:03:14,040
+requirements, not whether or not the
+product works.
+
+49
+00:03:15,520 --> 00:03:20,400
+On the flip side of that, let's say you
+delivered a perfectly working product,
+
+50
+00:03:21,140 --> 00:03:23,160
+but it doesn't meet the requirements.
+
+51
+00:03:24,520 --> 00:03:25,670
+That would be a defect.
+
+52
+00:03:26,360 --> 00:03:29,536
+So in the same example,
+you've completely ignored all of
+
+53
+00:03:29,537 --> 00:03:33,760
+my colors and you painted it
+one neutral color, that works.
+
+54
+00:03:34,540 --> 00:03:36,390
+But that didn't meet my requirements.
+
+55
+00:03:37,120 --> 00:03:39,500
+So that would be considered a defect.
+
+56
+00:03:40,440 --> 00:03:46,500
+So as another example then, let's say you
+delivered a perfectly working car,
+
+57
+00:03:46,940 --> 00:03:49,440
+perfectly working car to a racing company.
+
+58
+00:03:50,240 --> 00:03:52,800
+It has everything in there, right?
+
+59
+00:03:53,380 --> 00:03:58,860
+It accelerates really well, handles really
+well, really high top speed.
+
+60
+00:03:59,040 --> 00:04:00,180
+You deliver it to this race.
+
+61
+00:04:00,200 --> 00:04:04,300
+racing company, except they asked for a
+motorcycle.
+
+62
+00:04:06,520 --> 00:04:10,880
+Even though you've delivered a perfectly
+working vehicle, a perfectly working
+
+63
+00:04:10,881 --> 00:04:14,020
+product, they asked for a motorcycle,
+not a car.
+
+64
+00:04:16,030 --> 00:04:17,240
+That would be a defect.
+
+65
+00:04:19,030 --> 00:04:22,300
+So always watch out for that in the PMP
+exam.
+
+66
+00:04:24,520 --> 00:04:29,400
+It's not uncommon for you to get several
+questions around this one definition.
+
+67
+00:04:30,700 --> 00:04:34,700
+always look at the word requirement or the
+word that describes a requirement.
+
+68
+00:04:35,840 --> 00:04:41,040
+So even if they say, even if they throw a
+curveball at you, let's say they say the
+
+69
+00:04:41,041 --> 00:04:43,520
+customer accepted it, you
+deliver this product's not
+
+70
+00:04:43,603 --> 00:04:45,970
+meeting their requirements,
+but they accepted it.
+
+71
+00:04:46,700 --> 00:04:49,720
+Well, it's still a defect, even though
+they've accepted it.
+
+72
+00:04:50,400 --> 00:04:52,497
+I mean, for a start, you don't know why
+they've accepted it.
+
+73
+00:04:52,580 --> 00:04:54,544
+They might have just have
+accepted it to get rid of you
+
+74
+00:04:54,545 --> 00:04:56,760
+and now they're going to
+bring in someone else to fix it.
+
+75
+00:04:56,761 --> 00:04:57,600
+Right?
+
+76
+00:04:58,520 --> 00:05:00,370
+So always, always watch out for that.
+
+77
+00:05:00,740 --> 00:05:03,834
+So quality is always whether
+or not the product meets
+
+78
+00:05:03,835 --> 00:05:06,951
+requirements, not whether or
+not the product actually works.
+
+79
+00:05:07,700 --> 00:05:11,980
+Now, along with this, there's another
+definition, or rather another term that's
+
+80
+00:05:11,981 --> 00:05:16,200
+often used interchangeably with quality,
+and that's this term called grade.
+
+81
+00:05:17,680 --> 00:05:21,600
+And so you need to know the difference
+between grade and quality, right?
+
+82
+00:05:21,740 --> 00:05:25,100
+I mean, like I said, in reality,
+we use those terms or we might use those
+
+83
+00:05:25,101 --> 00:05:27,900
+terms interchangeably, but There is a
+subtle difference, right?
+
+84
+00:05:27,960 --> 00:05:30,000
+There is a difference between them.
+
+85
+00:05:31,060 --> 00:05:36,787
+And you also need to be
+aware of the quality pioneer that
+
+86
+00:05:36,788 --> 00:05:41,140
+really promoted this term,
+and this guy, Joseph Joran.
+
+87
+00:05:41,700 --> 00:05:45,260
+So he really promoted the difference
+between grade and quality.
+
+88
+00:05:46,360 --> 00:05:47,760
+All right, so let's explain.
+
+89
+00:05:48,340 --> 00:05:51,890
+And the best way to explain this is really
+to give you a little example.
+
+90
+00:05:52,380 --> 00:05:56,360
+So grade refers to things like the number.
+
+91
+00:05:56,380 --> 00:05:58,637
+of feature the product has, the type of
+
+92
+00:05:58,638 --> 00:06:01,634
+feature the product
+has, customer perception.
+
+93
+00:06:02,300 --> 00:06:07,980
+So essentially, it's same functional use,
+but different characteristics.
+
+94
+00:06:08,500 --> 00:06:12,240
+So it's a number of features, a type of
+features, customer perception,
+
+95
+00:06:12,500 --> 00:06:13,080
+and so and so forth.
+
+96
+00:06:13,320 --> 00:06:16,320
+The best way to explain this is to give
+you an example.
+
+97
+00:06:16,680 --> 00:06:19,080
+They've got a perfect example here.
+
+98
+00:06:19,880 --> 00:06:21,057
+So let's think of a car.
+
+99
+00:06:21,140 --> 00:06:24,600
+You've got a Toyota Camry versus an
+expensive car like a Bentley.
+
+100
+00:06:24,601 --> 00:06:31,900
+So you purchase this really expensive car
+like a Bentley and you know, it could last
+
+101
+00:06:31,901 --> 00:06:35,760
+you 10, 15 years without any problem or a
+car like that.
+
+102
+00:06:36,140 --> 00:06:39,502
+But then you could also buy
+Toyota Camry and that could
+
+103
+00:06:39,503 --> 00:06:42,271
+last you 10 or 15 years as
+well without any problem.
+
+104
+00:06:42,760 --> 00:06:44,900
+So which is a better quality car?
+
+105
+00:06:46,020 --> 00:06:50,880
+So what you would say is this Bentley is a
+high grade vehicle.
+
+106
+00:06:51,880 --> 00:06:56,060
+It's a high grade vehicle, has all the
+bells and whistles, right?
+
+107
+00:06:56,160 --> 00:06:58,100
+It has all the luxury item.
+
+108
+00:06:58,220 --> 00:07:00,940
+And that's usually the best way to think
+of grade.
+
+109
+00:07:01,300 --> 00:07:02,800
+Think of luxury items.
+
+110
+00:07:03,800 --> 00:07:06,850
+Whereas quality is, does actually do what
+it's supposed to do.
+
+111
+00:07:07,640 --> 00:07:11,780
+So if you purchased this really expensive
+Bentley and it kept breaking down,
+
+112
+00:07:12,800 --> 00:07:14,150
+that would be poor quality.
+
+113
+00:07:15,040 --> 00:07:20,920
+So in this case, then, this Bentley would
+be a high grade, but poor quality.
+
+114
+00:07:21,880 --> 00:07:23,460
+Whereas, you could, you could.
+
+115
+00:07:23,480 --> 00:07:27,840
+could purchase a car like her to a Camry,
+which would be considered lower grade,
+
+116
+00:07:28,320 --> 00:07:30,788
+you know, compared to a
+Bentley, it would be considered
+
+117
+00:07:30,871 --> 00:07:33,410
+a lower grade, right, but
+it could last you forever.
+
+118
+00:07:33,980 --> 00:07:35,330
+That would be good quality.
+
+119
+00:07:35,920 --> 00:07:40,020
+So that's the basic difference in between
+grade and quality, right?
+
+120
+00:07:40,060 --> 00:07:43,980
+Grade is a number of features,
+a type of features and customer perception
+
+121
+00:07:43,981 --> 00:07:48,900
+as well, whereas quality is, does it
+actually do what it's supposed to do?
+
+122
+00:07:49,580 --> 00:07:52,560
+So one of the things, and amongst many,
+many things, but one of the things that
+
+123
+00:07:52,561 --> 00:07:56,428
+Joseph Gerand was advocating
+here when it came to grade and
+
+124
+00:07:56,429 --> 00:07:59,940
+quality, there's nothing wrong
+in having a low-grade product.
+
+125
+00:08:00,520 --> 00:08:02,427
+All you're doing with
+a low-grade product is
+
+126
+00:08:02,428 --> 00:08:04,300
+marketing it to a
+different set of customers.
+
+127
+00:08:04,640 --> 00:08:09,200
+So grade just really refers to,
+you know, essentially your customer base.
+
+128
+00:08:10,080 --> 00:08:14,680
+The more number of features the product
+has, the higher the grade.
+
+129
+00:08:15,540 --> 00:08:17,982
+But the more number of feature the product
+
+130
+00:08:17,983 --> 00:08:21,534
+has, there's more for
+things to break down.
+
+131
+00:08:21,740 --> 00:08:25,880
+and so poor quality is never going to be
+acceptable.
+
+132
+00:08:26,980 --> 00:08:30,320
+So you should be focusing on quality
+rather than grade.
+
+133
+00:08:31,240 --> 00:08:34,237
+So that's just one of the
+things then that Joseph
+
+134
+00:08:34,238 --> 00:08:38,220
+Gerang was advocating,
+amongst many, many things.
+
+135
+00:08:38,860 --> 00:08:41,160
+But just make sure,
+though, you do understand
+
+136
+00:08:41,161 --> 00:08:43,780
+the difference between grade and quality.
+

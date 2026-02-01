@@ -1,0 +1,395 @@
+﻿1
+00:00:06,110 --> 00:00:09,678
+Okay, so let's talk about the PIMBOC guide
+
+2
+00:00:09,679 --> 00:00:13,584
+processes as it relates
+to resource management.
+
+3
+00:00:14,210 --> 00:00:20,110
+And of course, remember, this is talking
+about PIMBock Guide, PIMBORTION 6.
+
+4
+00:00:20,650 --> 00:00:25,054
+Now, so in PIMBoc then,
+in PIMBF version 6, there
+
+5
+00:00:25,055 --> 00:00:28,491
+are six processes altogether
+in resource management.
+
+6
+00:00:28,910 --> 00:00:31,870
+And this is one of the areas where PMI
+have really expanded.
+
+7
+00:00:32,370 --> 00:00:36,090
+Right, so for the new exam, for the 2021
+ECO, right?
+
+8
+00:00:36,110 --> 00:00:40,630
+like the new exam content outline,
+they've really, really expanded this area.
+
+9
+00:00:41,150 --> 00:00:47,350
+So this area, a lot of it refers to
+leadership, right, the leadership section
+
+10
+00:00:47,351 --> 00:00:52,830
+or the people management section,
+rather the people domain section.
+
+11
+00:00:54,950 --> 00:00:58,250
+And so this is the area they've really,
+really expanded.
+
+12
+00:00:58,730 --> 00:01:04,290
+Now, resource management refers to both
+physical resources as well as team
+
+13
+00:01:04,291 --> 00:01:08,370
+resources, Physical resources refers to
+things like equipment, supplies,
+
+14
+00:01:08,650 --> 00:01:12,910
+raw materials, facilities, and then team
+resources refers to your team,
+
+15
+00:01:13,290 --> 00:01:14,440
+right, human resources.
+
+16
+00:01:14,790 --> 00:01:18,610
+So essentially, physical resources are
+anything but humans, right?
+
+17
+00:01:18,950 --> 00:01:23,190
+Resource management really refers to both,
+right, equipment supplies, raw materials.
+
+18
+00:01:23,470 --> 00:01:28,610
+These are all resources on your project,
+as well as team members as well.
+
+19
+00:01:30,170 --> 00:01:33,780
+Now, for the new exam,
+though, much of resource
+
+20
+00:01:33,781 --> 00:01:36,570
+management really is focused on the team.
+
+21
+00:01:37,070 --> 00:01:40,087
+Now, that doesn't mean they're
+not focused on, or that doesn't
+
+22
+00:01:40,088 --> 00:01:43,730
+mean they're not referring
+to physical resources at all.
+
+23
+00:01:43,850 --> 00:01:44,683
+No, no, no.
+
+24
+00:01:44,790 --> 00:01:48,770
+You still refer, I mean, you know,
+we still have the physical resources.
+
+25
+00:01:49,010 --> 00:01:52,360
+We still talk about equipment and raw
+materials and so and so forth.
+
+26
+00:01:52,750 --> 00:01:58,510
+But because, you know, much of the exam is
+the people domain and people domain then.
+
+27
+00:01:58,610 --> 00:02:03,530
+refers to leadership and leadership of
+your team members, stakeholders,
+
+28
+00:02:04,510 --> 00:02:06,760
+and, you know, much of that is resources
+here.
+
+29
+00:02:07,430 --> 00:02:10,930
+So anyway, these are the processes then,
+the six processes that fall under
+
+30
+00:02:10,931 --> 00:02:13,981
+planning, executing and monitoring,
+controlling, respectively.
+
+31
+00:02:14,830 --> 00:02:17,570
+First process, plan resource management,
+right?
+
+32
+00:02:17,770 --> 00:02:22,530
+Just like any, just like all of the
+knowledge areas in Pinbox six,
+
+33
+00:02:22,770 --> 00:02:26,990
+in the Pinbox six guide, the very first
+process in each knowledge area is plan
+
+34
+00:02:26,991 --> 00:02:30,810
+something management and the output is
+that management plan, right?
+
+35
+00:02:30,970 --> 00:02:35,070
+So the output of plan resource management
+is the resource management plan.
+
+36
+00:02:36,290 --> 00:02:40,297
+And resource management
+plan then is documenting how, you
+
+37
+00:02:40,298 --> 00:02:43,730
+know, we're going to identify
+resources and so and so forth.
+
+38
+00:02:43,970 --> 00:02:45,120
+Separate video on that.
+
+39
+00:02:45,350 --> 00:02:48,850
+Now, along with that then, there's also
+another output, right, another,
+
+40
+00:02:49,590 --> 00:02:52,052
+or what, you know, what PMI
+calls the output, which is really
+
+41
+00:02:52,135 --> 00:02:54,927
+just an artifact, it's just a
+document that we're creating.
+
+42
+00:02:55,010 --> 00:02:58,210
+So another output is something called the
+team charter.
+
+43
+00:02:58,890 --> 00:03:01,494
+The team charter then is
+documenting the team agreement
+
+44
+00:03:01,495 --> 00:03:04,371
+and the do's and don'ts of
+the team and that kind of thing.
+
+45
+00:03:04,590 --> 00:03:07,770
+Again, we're covering all of this in a
+separate video.
+
+46
+00:03:09,310 --> 00:03:14,130
+One of the other processes then in
+planning is estimate activity resources.
+
+47
+00:03:14,670 --> 00:03:17,185
+So basically for each
+activity, what equipment
+
+48
+00:03:17,186 --> 00:03:19,470
+supplies, labor or materials are required.
+
+49
+00:03:20,090 --> 00:03:23,859
+And then the output, if you like, of that
+
+50
+00:03:23,860 --> 00:03:27,550
+process was the activity
+resource estimate.
+
+51
+00:03:27,690 --> 00:03:28,647
+That's the way it was called.
+
+52
+00:03:28,730 --> 00:03:30,330
+At least the main output.
+
+53
+00:03:31,270 --> 00:03:33,670
+And executing, we have acquire resources.
+
+54
+00:03:34,430 --> 00:03:37,407
+So basically, in planning, you're planning
+what resources we need.
+
+55
+00:03:37,490 --> 00:03:40,767
+In acquire resources, we're actually
+physically going out and collecting,
+
+56
+00:03:40,850 --> 00:03:44,970
+physically going out and getting those
+resources, whether it's internal to the
+
+57
+00:03:44,971 --> 00:03:47,171
+organization or external to the
+organization.
+
+58
+00:03:47,470 --> 00:03:51,050
+If it's external to the organization,
+then that refers to procurement.
+
+59
+00:03:51,690 --> 00:03:53,873
+which again is a completely
+separate knowledge area,
+
+60
+00:03:53,874 --> 00:03:57,170
+which we're going to cover
+in a separate set of videos.
+
+61
+00:03:58,370 --> 00:04:02,850
+But acquire resources basically means,
+you know, like basically getting your raw
+
+62
+00:04:02,851 --> 00:04:08,070
+materials, physically getting your
+equipment, ordering your equipment or
+
+63
+00:04:08,071 --> 00:04:13,495
+basically booking your
+equipment if it's internal, scheduling
+
+64
+00:04:13,496 --> 00:04:16,587
+your equipment and raw
+materials and so and so forth.
+
+65
+00:04:16,670 --> 00:04:21,050
+And then plus team members as well,
+identifying team members, adding a name to
+
+66
+00:04:21,051 --> 00:04:24,010
+a role, That's really what Acquire
+Resources refers to.
+
+67
+00:04:24,590 --> 00:04:28,070
+And then you have developed team and
+managed team, right?
+
+68
+00:04:28,230 --> 00:04:33,270
+So these two processes then are the areas
+that PMI have really expanded.
+
+69
+00:04:34,130 --> 00:04:39,850
+And so, you know, we have many videos on
+leadership.
+
+70
+00:04:41,210 --> 00:04:43,010
+And then you have control resources.
+
+71
+00:04:43,470 --> 00:04:45,881
+And control resources
+then refers to monitoring,
+
+72
+00:04:45,882 --> 00:04:48,051
+controlling, all of the
+different resources.
+
+73
+00:04:48,270 --> 00:04:52,990
+Now, for PMI's purposes, though,
+for PinBox, six guide purposes.
+
+74
+00:04:53,510 --> 00:04:56,038
+Control resources
+specifically refer to monitoring
+
+75
+00:04:56,039 --> 00:04:59,210
+and controlling physical resources, right?
+
+76
+00:04:59,490 --> 00:05:05,250
+So equipment, supplies, raw materials,
+facilities, machines.
+
+77
+00:05:05,550 --> 00:05:07,187
+These are all physical resources.
+
+78
+00:05:07,270 --> 00:05:09,743
+So control resources always referred to
+
+79
+00:05:09,744 --> 00:05:13,344
+monitoring and controlling
+the physical resources.
+
+80
+00:05:14,150 --> 00:05:14,250
+Okay.
+
+81
+00:05:14,670 --> 00:05:21,110
+So these were the six processes then that
+are part of the PIMBOC guide.
+
+82
+00:05:21,470 --> 00:05:25,490
+right, the six PIMBOT guide processes of
+resource management.
+

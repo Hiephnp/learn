@@ -1,0 +1,615 @@
+﻿1
+00:00:06,480 --> 00:00:10,540
+Okay, so let's talk about some conflict
+management techniques now in this video.
+
+2
+00:00:11,720 --> 00:00:15,180
+Now remember, you cannot always resolve a
+conflict.
+
+3
+00:00:16,240 --> 00:00:19,020
+So these are conflict management
+techniques, right?
+
+4
+00:00:19,160 --> 00:00:21,660
+I mean, if you can resolve them,
+yes, that's great.
+
+5
+00:00:22,060 --> 00:00:25,200
+So I mean, these technically are conflict
+resolution techniques as well,
+
+6
+00:00:25,260 --> 00:00:31,380
+but you cannot always resolve a conflict,
+right, but you can certainly manage them
+
+7
+00:00:31,381 --> 00:00:34,280
+so they don't have a negative impact on
+your project.
+
+8
+00:00:35,380 --> 00:00:38,160
+Now, there's five conflict
+management techniques
+
+9
+00:00:38,161 --> 00:00:41,500
+that you need to know
+about for the PNP exam, right?
+
+10
+00:00:41,540 --> 00:00:44,380
+In reality, there might be some more, but
+these are the five that you need to know.
+
+11
+00:00:44,820 --> 00:00:49,560
+So you've got withdrawal or avoid,
+smooth or accommodate, force or direct,
+
+12
+00:00:50,640 --> 00:00:52,758
+then you've got compromise
+and reconcile, and
+
+13
+00:00:52,759 --> 00:00:54,940
+then this one, collaborate
+and problem solve.
+
+14
+00:00:55,480 --> 00:00:56,877
+Now, it's always considered.
+
+15
+00:00:56,960 --> 00:01:00,160
+Collaborate problem solve is generally
+considered the best form.
+
+16
+00:01:00,620 --> 00:01:01,940
+It's a win-win scenario.
+
+17
+00:01:01,941 --> 00:01:05,560
+With Collaborate Problem Solve,
+you get to the root cause of what the
+
+18
+00:01:05,561 --> 00:01:10,340
+problem is, you confront the issue,
+and then you fix it and you move on.
+
+19
+00:01:10,760 --> 00:01:12,580
+Come to a consensus, for example.
+
+20
+00:01:13,100 --> 00:01:15,580
+And that is always regarded as a win-win
+scenario.
+
+21
+00:01:15,740 --> 00:01:17,840
+However, there's these other ones as well.
+
+22
+00:01:17,960 --> 00:01:19,451
+So let me come back to Collaborate Problem
+
+23
+00:01:19,452 --> 00:01:22,134
+Solver, talk about
+this in a bit more detail.
+
+24
+00:01:22,340 --> 00:01:23,997
+But let's talk about the others first.
+
+25
+00:01:24,080 --> 00:01:25,930
+So first one then, withdraw or avoid.
+
+26
+00:01:26,460 --> 00:01:29,900
+And withdraw or avoid literally means walk
+away.
+
+27
+00:01:30,240 --> 00:01:31,100
+Ignore the issue.
+
+28
+00:01:31,101 --> 00:01:32,260
+Ignore the conflict.
+
+29
+00:01:32,860 --> 00:01:34,160
+Run away from the problem.
+
+30
+00:01:34,840 --> 00:01:36,380
+That is withdraw or avoid.
+
+31
+00:01:36,940 --> 00:01:39,007
+So you're in disagreement with someone and
+
+32
+00:01:39,008 --> 00:01:40,940
+you're just like, all
+right, you know what?
+
+33
+00:01:41,060 --> 00:01:42,557
+I don't want to deal with this.
+
+34
+00:01:42,640 --> 00:01:44,490
+Or you just ignore them all together.
+
+35
+00:01:44,920 --> 00:01:46,340
+So you run away.
+
+36
+00:01:46,960 --> 00:01:47,920
+A type of thing.
+
+37
+00:01:49,140 --> 00:01:50,877
+So that's what withdraw or avoid is.
+
+38
+00:01:50,960 --> 00:01:52,197
+You're ignoring the conflict.
+
+39
+00:01:52,280 --> 00:01:54,340
+You're retreating from the conflict and
+that kind of thing.
+
+40
+00:01:54,400 --> 00:01:56,080
+And that is a lose-lose scenario.
+
+41
+00:01:56,600 --> 00:01:58,780
+Because the conflict is still going to be
+there.
+
+42
+00:01:58,781 --> 00:02:01,460
+the problem is still going to be there,
+right?
+
+43
+00:02:01,620 --> 00:02:04,270
+Just running away from it, it's not going
+to solve it.
+
+44
+00:02:04,560 --> 00:02:06,610
+Then you have smoothing or accommodating.
+
+45
+00:02:07,400 --> 00:02:08,700
+Smoothen or accommodating.
+
+46
+00:02:08,900 --> 00:02:12,040
+Now, whenever it comes to smoothing or
+accommodating, right?
+
+47
+00:02:12,460 --> 00:02:15,173
+The best way I always
+like to think of, right,
+
+48
+00:02:15,174 --> 00:02:17,900
+smooth and accommodating
+is think of a politician.
+
+49
+00:02:18,940 --> 00:02:21,480
+Now, I'm not denigrating a politician or
+anything like that.
+
+50
+00:02:21,560 --> 00:02:23,880
+Don't get me wrong, but think of a
+politician, right?
+
+51
+00:02:23,940 --> 00:02:28,760
+Whenever you ask a politician a question,
+they never answer that question.
+
+52
+00:02:29,480 --> 00:02:33,027
+You ask them a question,
+they might address the question,
+
+53
+00:02:33,028 --> 00:02:36,520
+they'll talk around it, but
+they'll never get to the point.
+
+54
+00:02:37,080 --> 00:02:40,160
+And that's exactly what smoothing or
+accommodating is.
+
+55
+00:02:40,700 --> 00:02:43,120
+You've got this problem, you've got this
+issue, right?
+
+56
+00:02:43,180 --> 00:02:44,430
+You've got this conflict.
+
+57
+00:02:44,940 --> 00:02:47,980
+And you're talking around that conflict,
+right?
+
+58
+00:02:48,000 --> 00:02:50,501
+You're addressing it,
+but you're just talking
+
+59
+00:02:50,502 --> 00:02:52,620
+around it, you never get to the problem.
+
+60
+00:02:53,120 --> 00:02:55,580
+You never get to the point, right?
+
+61
+00:02:55,581 --> 00:02:58,380
+You never get to the true issue,
+what the real true issue is.
+
+62
+00:02:58,381 --> 00:03:00,440
+Again, you're talking around it.
+
+63
+00:03:01,160 --> 00:03:04,880
+You're maybe saying something just to
+maintain relationships, right?
+
+64
+00:03:04,940 --> 00:03:07,740
+You don't want to upset the other person.
+
+65
+00:03:08,640 --> 00:03:10,921
+And so what you're not
+doing really is you're not
+
+66
+00:03:10,922 --> 00:03:13,980
+addressing the elephant
+in the room type of thing.
+
+67
+00:03:14,780 --> 00:03:16,820
+That's what smooth and accommodating is.
+
+68
+00:03:17,380 --> 00:03:20,720
+So think of it as a temporary fix,
+a Band-Aid type of thing.
+
+69
+00:03:21,240 --> 00:03:26,020
+Or you tell somebody, just tell someone
+what they want to hear.
+
+70
+00:03:26,021 --> 00:03:28,181
+right, you just tell them
+what they want to hear
+
+71
+00:03:28,264 --> 00:03:30,520
+just so that, you know,
+they'll remain quiet.
+
+72
+00:03:31,360 --> 00:03:33,277
+So that's what smooth and accommodating
+is.
+
+73
+00:03:33,360 --> 00:03:37,057
+I mean, you know, you're addressing it,
+but, you know, it's a temporary fix.
+
+74
+00:03:37,140 --> 00:03:39,060
+You never get into their root cause.
+
+75
+00:03:40,540 --> 00:03:42,176
+And that's also a
+lose-lose scenario as well,
+
+76
+00:03:42,177 --> 00:03:44,481
+because, again, the issue
+is always going to be there.
+
+77
+00:03:45,320 --> 00:03:48,700
+Then got this one forcing or directing,
+right?
+
+78
+00:03:48,840 --> 00:03:50,040
+My way are the highway.
+
+79
+00:03:50,880 --> 00:03:54,520
+One person pushing their viewpoint at the
+expense of someone else.
+
+80
+00:03:54,521 --> 00:03:56,720
+and that's a win-lose scenario.
+
+81
+00:03:57,080 --> 00:03:59,637
+The fourth thing, one person wins the
+other person loses.
+
+82
+00:03:59,720 --> 00:04:01,120
+That is a win-lose scenario.
+
+83
+00:04:02,180 --> 00:04:04,180
+Then you have compromise or reconcile.
+
+84
+00:04:05,020 --> 00:04:07,126
+Now, compromise or reconcile is always
+
+85
+00:04:07,127 --> 00:04:11,114
+considered that each
+party gives something up.
+
+86
+00:04:11,640 --> 00:04:12,790
+They give something up.
+
+87
+00:04:12,880 --> 00:04:13,980
+So I've got two ideas.
+
+88
+00:04:14,300 --> 00:04:15,350
+You've got two ideas.
+
+89
+00:04:15,680 --> 00:04:19,480
+You get rid of one of yours, I'll get rid
+of one of mine, we'll meet halfway.
+
+90
+00:04:20,060 --> 00:04:21,520
+That was a compromise.
+
+91
+00:04:22,580 --> 00:04:27,837
+Whereas with a collaborate
+we will pool all four ideas
+
+92
+00:04:27,838 --> 00:04:32,120
+together and come up with a
+solution that we all agree to.
+
+93
+00:04:33,120 --> 00:04:36,170
+That's a basic difference when a
+compromise and a collaborate.
+
+94
+00:04:36,940 --> 00:04:40,260
+In a compromise, each party gives
+something up.
+
+95
+00:04:41,200 --> 00:04:46,400
+Whereas in a collaborate, all ideas are
+pulled together, all ideas are considered,
+
+96
+00:04:47,000 --> 00:04:50,060
+and you come up with a solution that you
+all agree to.
+
+97
+00:04:51,280 --> 00:04:56,340
+Now, the other basic difference between a
+compromise and a reconcile is that in a
+
+98
+00:04:56,341 --> 00:05:02,020
+compromise each party is focused on what
+they lost right they're focused on what
+
+99
+00:05:02,021 --> 00:05:06,040
+they lost i mean you know they're also
+focused on what they've gained but they
+
+100
+00:05:06,041 --> 00:05:09,200
+really are you know focused on what
+they've lost as well that's what they
+
+101
+00:05:09,201 --> 00:05:14,620
+really consider and each party generally
+walks away and happy whereas in a
+
+102
+00:05:14,621 --> 00:05:20,600
+collaborate each party you come to a
+consensus each party walks away happy
+
+103
+00:05:20,601 --> 00:05:24,609
+right they walk away
+content so A compromise
+
+104
+00:05:24,610 --> 00:05:28,020
+is more of a lose-lose scenario, right?
+
+105
+00:05:28,180 --> 00:05:31,260
+Lose to some extent because each party has
+lost something.
+
+106
+00:05:32,300 --> 00:05:36,140
+Whereas in a Collaborate, it's a win-win,
+right?
+
+107
+00:05:36,640 --> 00:05:39,480
+Both parties felt like they've gained
+something.
+
+108
+00:05:39,840 --> 00:05:41,440
+They've basically they've won.
+
+109
+00:05:42,340 --> 00:05:45,457
+Now even in Collaborate, there might be a
+little bit of give and take as well.
+
+110
+00:05:45,540 --> 00:05:47,890
+In a Collaborate, there's give and take as
+well.
+
+111
+00:05:48,020 --> 00:05:51,969
+But the big difference is in
+a collaborate, you're focused
+
+112
+00:05:51,970 --> 00:05:54,820
+on what you've gained,
+rather than what you've lost.
+
+113
+00:05:55,100 --> 00:05:59,780
+In a compromise, you'll be thinking,
+you'll be worried about what you've lost.
+
+114
+00:05:59,920 --> 00:06:01,820
+So you're focused on what you've lost.
+
+115
+00:06:02,780 --> 00:06:06,860
+Now, generally, a collaborate,
+since it's a win-win, is generally
+
+116
+00:06:06,861 --> 00:06:11,260
+considered the best conflict management
+technique, right?
+
+117
+00:06:11,360 --> 00:06:14,760
+And in fact, that resolves a conflict,
+that is a conflict resolution.
+
+118
+00:06:15,840 --> 00:06:19,320
+However, any of these could be appropriate
+in the right situation.
+
+119
+00:06:20,040 --> 00:06:22,640
+Any of them could be appropriate,
+right?
+
+120
+00:06:22,641 --> 00:06:26,720
+So even, if I go back, even withdraw and
+avoid.
+
+121
+00:06:28,100 --> 00:06:31,080
+Sometimes it's, you need to walk away,
+right?
+
+122
+00:06:31,240 --> 00:06:33,500
+Just to postpone the issue, right?
+
+123
+00:06:33,600 --> 00:06:36,100
+Or, you know, cooling down period,
+for example.
+
+124
+00:06:36,980 --> 00:06:38,537
+Right, sometimes that's perfectly fine.
+
+125
+00:06:38,620 --> 00:06:39,957
+Or even smoother accommodating.
+
+126
+00:06:40,040 --> 00:06:42,294
+Sometimes you have to
+tell somebody, you know, I
+
+127
+00:06:42,295 --> 00:06:44,537
+mean, sometimes you
+have to put in a temporary fix.
+
+128
+00:06:44,620 --> 00:06:46,120
+We can't resolve it right now.
+
+129
+00:06:46,460 --> 00:06:48,237
+Right, so let's put in a temporary fix.
+
+130
+00:06:48,320 --> 00:06:50,620
+So let's, you know, then we'll come back
+to it.
+
+131
+00:06:51,080 --> 00:06:54,869
+So any of these could be
+appropriate in the right situation,
+
+132
+00:06:54,870 --> 00:06:57,511
+okay, any of these conflict
+management techniques.
+

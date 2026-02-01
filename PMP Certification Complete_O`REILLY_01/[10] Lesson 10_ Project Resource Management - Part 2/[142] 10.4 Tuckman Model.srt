@@ -1,0 +1,869 @@
+﻿1
+00:00:06,630 --> 00:00:10,250
+Okay, so in this video then we're going to
+talk about the Tuckman model.
+
+2
+00:00:11,810 --> 00:00:17,310
+Now the Tuckman model then was a model of
+team development, five stages of team
+
+3
+00:00:17,311 --> 00:00:20,470
+development, and it was developed by Bruce
+Tuckman.
+
+4
+00:00:21,390 --> 00:00:23,528
+Now it's called either the Tuckman model,
+
+5
+00:00:23,529 --> 00:00:27,024
+sometimes it's referred
+to as the Tuckman Ladder.
+
+6
+00:00:27,650 --> 00:00:31,730
+And he basically developed
+this theory and he's basically
+
+7
+00:00:31,731 --> 00:00:35,430
+talking about the different
+stages of team development, right?
+
+8
+00:00:35,570 --> 00:00:38,242
+These are the five
+basic stages that a team
+
+9
+00:00:38,243 --> 00:00:41,044
+is going to go through
+in their development.
+
+10
+00:00:41,570 --> 00:00:45,770
+Now, don't necessarily think of this just
+as a team in an office environment.
+
+11
+00:00:45,910 --> 00:00:50,630
+I mean, it does include that, but it can
+also include a group of team members,
+
+12
+00:00:50,790 --> 00:00:54,047
+a group of people, they've come together,
+they don't know one another, right?
+
+13
+00:00:54,130 --> 00:00:58,530
+There are a group of strangers and even in
+the middle of nowhere, right?
+
+14
+00:00:58,531 --> 00:01:01,280
+And these are the five
+basic stages that the
+
+15
+00:01:01,281 --> 00:01:03,490
+team that the group
+is going to go through.
+
+16
+00:01:03,491 --> 00:01:08,310
+So the stages are forming, storming,
+norming, performing, and adjourning.
+
+17
+00:01:09,210 --> 00:01:11,687
+All right, so let's talk about each of
+these stages.
+
+18
+00:01:11,770 --> 00:01:13,920
+So let's talk about the forming stage
+first.
+
+19
+00:01:14,890 --> 00:01:18,910
+Now, the forming stage is a temporary
+stage at the beginning, right?
+
+20
+00:01:19,170 --> 00:01:22,020
+And think of it as more of a meet and
+greet type of stage.
+
+21
+00:01:22,550 --> 00:01:23,887
+A brief period right at the beginning.
+
+22
+00:01:23,970 --> 00:01:25,490
+People don't know one another.
+
+23
+00:01:26,090 --> 00:01:28,670
+So this team is just, as the name
+suggests, forming.
+
+24
+00:01:29,250 --> 00:01:30,590
+People don't know one another.
+
+25
+00:01:30,591 --> 00:01:32,530
+people are introducing themselves.
+
+26
+00:01:33,410 --> 00:01:36,230
+Roles are completely unclear in this team.
+
+27
+00:01:36,830 --> 00:01:39,530
+You don't know what skill sets other team
+members have.
+
+28
+00:01:40,050 --> 00:01:42,100
+They don't know what skill sets you have.
+
+29
+00:01:42,830 --> 00:01:46,512
+You don't know exactly
+which of your skill sets
+
+30
+00:01:46,513 --> 00:01:50,524
+is going to play a
+major part on this team.
+
+31
+00:01:50,850 --> 00:01:52,500
+And as I said, roles are unclear.
+
+32
+00:01:52,710 --> 00:01:55,730
+There might not be a lot of interaction
+either.
+
+33
+00:01:56,330 --> 00:01:59,390
+Some people might be shy and not really
+interacting.
+
+34
+00:01:59,391 --> 00:02:02,970
+So it's not really a cohesive team at this
+point.
+
+35
+00:02:03,410 --> 00:02:06,210
+Now, there's a high dependence on the
+leader, right?
+
+36
+00:02:06,330 --> 00:02:10,870
+So the team leader has been assigned and
+everybody's focused on the leader.
+
+37
+00:02:11,390 --> 00:02:15,290
+The leader is giving instructions and
+people are following those instructions.
+
+38
+00:02:15,990 --> 00:02:18,510
+People are asking questions of the leader,
+right?
+
+39
+00:02:18,530 --> 00:02:23,863
+So they're relying on the leader for
+guidance and direction, right, at this point.
+
+40
+00:02:24,350 --> 00:02:28,770
+Now, in an office environment,
+then you're learning about the project,
+
+41
+00:02:28,771 --> 00:02:31,458
+you're learning about
+your roles and about the
+
+42
+00:02:31,459 --> 00:02:33,941
+roles that you're going
+to be interacting with.
+
+43
+00:02:34,450 --> 00:02:37,130
+So that's at the beginning, that's a
+forming stage.
+
+44
+00:02:37,510 --> 00:02:39,853
+A certain amount of time goes by, the team
+
+45
+00:02:39,854 --> 00:02:42,490
+goes from the forming
+to the storming stage.
+
+46
+00:02:43,270 --> 00:02:46,506
+And the key regarding the
+storming stage is that team
+
+47
+00:02:46,507 --> 00:02:49,790
+members are trying to
+establish themselves on the team.
+
+48
+00:02:50,190 --> 00:02:51,940
+They're trying to vie for position.
+
+49
+00:02:52,550 --> 00:02:58,310
+And your beginning, the team is beginning
+to address the direction of the work.
+
+50
+00:02:58,770 --> 00:03:02,330
+the beginning to address the direction of
+the team.
+
+51
+00:03:02,950 --> 00:03:06,870
+And at this stage now, there's a lot of
+discussion going on.
+
+52
+00:03:06,970 --> 00:03:10,770
+There's a lot of health of discussion and
+a lot of disagreements as well.
+
+53
+00:03:11,090 --> 00:03:12,287
+There might be a lot of conflicts.
+
+54
+00:03:12,370 --> 00:03:13,920
+Everyone's got their own ideas.
+
+55
+00:03:14,430 --> 00:03:16,280
+I think we should take this approach.
+
+56
+00:03:16,470 --> 00:03:18,170
+No, we need to take this approach.
+
+57
+00:03:18,330 --> 00:03:21,627
+Someone else comes along and says,
+no, we need to take this other approach.
+
+58
+00:03:21,710 --> 00:03:25,050
+So we're all discussing ideas in the
+storming stage.
+
+59
+00:03:25,470 --> 00:03:26,910
+The team is discussing ideas.
+
+60
+00:03:26,990 --> 00:03:29,907
+We've all got their own different ideas,
+the different approaches.
+
+61
+00:03:29,990 --> 00:03:33,240
+So there's going to be a lot of
+disagreements, a lot of conflicts.
+
+62
+00:03:33,350 --> 00:03:36,007
+There might even be some fighting and
+arguing in breaking out.
+
+63
+00:03:36,090 --> 00:03:37,841
+And in fact, sometimes the storming stage
+
+64
+00:03:37,842 --> 00:03:40,764
+might be referred to
+as the conflict stage.
+
+65
+00:03:40,890 --> 00:03:42,740
+There's going to be some competition.
+
+66
+00:03:42,850 --> 00:03:45,747
+Maybe, you know, a healthy competition
+between team members, right?
+
+67
+00:03:45,830 --> 00:03:48,450
+But there's a lot of discussion about the
+direction.
+
+68
+00:03:49,950 --> 00:03:52,550
+Now, a certain amount
+of time goes by, the team
+
+69
+00:03:52,551 --> 00:03:55,071
+then goes from the
+storming to the norming stage.
+
+70
+00:03:55,450 --> 00:04:01,110
+And the key here now is that the team,
+or the project stabilises.
+
+71
+00:04:01,670 --> 00:04:04,470
+Team members are beginning to work
+together.
+
+72
+00:04:05,210 --> 00:04:07,760
+That is the biggest key regarding the
+norming stage.
+
+73
+00:04:07,850 --> 00:04:09,650
+They are beginning to work together.
+
+74
+00:04:10,590 --> 00:04:12,140
+Those arguments have died down.
+
+75
+00:04:12,570 --> 00:04:14,470
+Team members have come to a consensus.
+
+76
+00:04:15,270 --> 00:04:18,370
+They've all agreed, all right,
+this is a direction of the work.
+
+77
+00:04:18,530 --> 00:04:22,350
+Everyone has agreed to that, all this is
+what we are working towards now.
+
+78
+00:04:22,730 --> 00:04:26,780
+All those discussions have died down and,
+you know, you've come to this consensus.
+
+79
+00:04:27,130 --> 00:04:30,190
+Also, roles and responsibilities are a lot
+clearer now.
+
+80
+00:04:30,610 --> 00:04:32,510
+The clearer they've been accepted.
+
+81
+00:04:32,810 --> 00:04:36,460
+So you know exactly what decisions you can
+make, at least small decisions,
+
+82
+00:04:36,990 --> 00:04:38,340
+you know what you can make.
+
+83
+00:04:38,490 --> 00:04:41,950
+Larger decisions, you're either going to
+be careful to bring the whole group
+
+84
+00:04:41,951 --> 00:04:44,378
+together or at least bring subsections of
+
+85
+00:04:44,379 --> 00:04:47,624
+the group together to
+make a larger decision.
+
+86
+00:04:47,710 --> 00:04:51,410
+So at this stage now, you are
+beginning to make decisions on
+
+87
+00:04:51,411 --> 00:04:54,407
+what's best for the project as
+opposed to what's best for you.
+
+88
+00:04:54,490 --> 00:04:57,750
+And because you're working together,
+you basically sussed everyone out now.
+
+89
+00:04:57,790 --> 00:05:01,547
+You know who your friends are on the team,
+you know who your enemies are on the team,
+
+90
+00:05:01,630 --> 00:05:03,907
+you know who you can trust, who you can't
+trust.
+
+91
+00:05:03,990 --> 00:05:05,940
+This is kind of like the norming stage.
+
+92
+00:05:06,210 --> 00:05:09,783
+And then the team goes from
+the norming to the performing stage
+
+93
+00:05:09,784 --> 00:05:13,510
+and the performing stage
+now it's a well functioning unit.
+
+94
+00:05:14,230 --> 00:05:17,330
+Well functioning team roles are completely
+clear.
+
+95
+00:05:17,730 --> 00:05:20,790
+You know exactly what decisions other
+people can be making.
+
+96
+00:05:21,150 --> 00:05:22,550
+You're all working together.
+
+97
+00:05:22,850 --> 00:05:27,350
+You all understand each other's working
+habits, team members are making decisions
+
+98
+00:05:27,351 --> 00:05:31,290
+on what's best for their team,
+what's best for the project, not
+
+99
+00:05:31,291 --> 00:05:33,541
+necessarily what's best for them
+individually.
+
+100
+00:05:34,530 --> 00:05:38,490
+And team members again are working
+together as a productive team.
+
+101
+00:05:39,110 --> 00:05:42,449
+If there's one team member or
+one team that's falling behind,
+
+102
+00:05:42,450 --> 00:05:45,050
+you've got the other team
+that's pulling them back up.
+
+103
+00:05:45,090 --> 00:05:49,170
+It's like they all saying, we either fail
+as a team or we succeed as a team.
+
+104
+00:05:49,430 --> 00:05:51,774
+So people are not
+looking out for themselves,
+
+105
+00:05:51,775 --> 00:05:54,224
+are looking out for the team as a whole.
+
+106
+00:05:54,790 --> 00:05:56,510
+So that's the performing stage.
+
+107
+00:05:57,590 --> 00:06:01,090
+And then you have the adjourning stage,
+which is a breakup of the team.
+
+108
+00:06:01,190 --> 00:06:04,390
+So the project has been, the goals have
+been accomplished.
+
+109
+00:06:05,170 --> 00:06:06,627
+Or they haven't been accomplished.
+
+110
+00:06:06,710 --> 00:06:07,370
+It might have been cancelled.
+
+111
+00:06:07,550 --> 00:06:09,359
+Project might be cancelled, but it's a
+
+112
+00:06:09,360 --> 00:06:11,630
+breakup of the team and
+the team now moves on.
+
+113
+00:06:11,910 --> 00:06:16,610
+So those are the five basic stages then of
+the Tuckman model.
+
+114
+00:06:17,590 --> 00:06:24,410
+Now one very common aspect of this,
+or one very very common question that's
+
+115
+00:06:24,411 --> 00:06:27,111
+often asked is what happens if a new team
+member joins?
+
+116
+00:06:27,210 --> 00:06:31,070
+Well, regardless of where you are,
+the team could be in the performing stage.
+
+117
+00:06:31,810 --> 00:06:34,491
+If a new team member
+joins, the entire team
+
+118
+00:06:34,492 --> 00:06:37,784
+is going to go back to the forming stage.
+
+119
+00:06:38,130 --> 00:06:40,123
+The whole team is going
+to go back to forming
+
+120
+00:06:40,124 --> 00:06:41,910
+and then go through those stages again.
+
+121
+00:06:42,270 --> 00:06:44,730
+Of course, the timeline is going to be a
+lot less, right?
+
+122
+00:06:44,770 --> 00:06:48,930
+It might only be, you know, a few days or
+a few hours even, right?
+
+123
+00:06:48,931 --> 00:06:50,767
+A couple of days or a few hours,
+right?
+
+124
+00:06:50,850 --> 00:06:53,823
+But the entire team is going
+to go back to the forming
+
+125
+00:06:53,824 --> 00:06:56,491
+stage and then go through
+all of these stages again.
+
+126
+00:06:57,330 --> 00:06:59,450
+Now, something to bear in mind with this.
+
+127
+00:06:59,850 --> 00:07:02,284
+When we're talking about the
+team going back to the forming
+
+128
+00:07:02,285 --> 00:07:04,727
+stage because of the new
+team member joining, right?
+
+129
+00:07:04,810 --> 00:07:08,153
+This isn't referring to
+things like, you know, the
+
+130
+00:07:08,154 --> 00:07:11,090
+work needs to be redistributed
+or anything like that.
+
+131
+00:07:11,210 --> 00:07:12,810
+It's not talking about the work.
+
+132
+00:07:13,310 --> 00:07:15,687
+Team members are doing the work that they
+need to do.
+
+133
+00:07:15,770 --> 00:07:17,130
+They're still doing all of that work.
+
+134
+00:07:17,131 --> 00:07:18,831
+That's not what it's referring to.
+
+135
+00:07:19,110 --> 00:07:21,360
+What this is referring to is team
+interaction.
+
+136
+00:07:22,310 --> 00:07:24,614
+The entire team is going to go back to the
+
+137
+00:07:24,615 --> 00:07:26,930
+forming stage because
+of this new team member.
+
+138
+00:07:27,050 --> 00:07:28,850
+It's talking about team interaction.
+
+139
+00:07:29,110 --> 00:07:29,960
+Think about this.
+
+140
+00:07:30,190 --> 00:07:32,898
+Just one team member, the
+addition of one team member,
+
+141
+00:07:32,899 --> 00:07:35,721
+can completely change the
+dynamics of the team sometimes.
+
+142
+00:07:36,350 --> 00:07:40,407
+So, you know, let's say you've got a team,
+you know, they're at the performing stage.
+
+143
+00:07:40,490 --> 00:07:41,323
+They're working.
+
+144
+00:07:41,690 --> 00:07:41,810
+Right?
+
+145
+00:07:41,850 --> 00:07:44,487
+There might not be, you know, they're
+interacting with each other.
+
+146
+00:07:44,570 --> 00:07:45,567
+They're working well.
+
+147
+00:07:45,650 --> 00:07:47,110
+You know, the team is performing.
+
+148
+00:07:47,130 --> 00:07:48,867
+They're performing well,
+they're within budget on
+
+149
+00:07:48,868 --> 00:07:51,087
+timeline, they're doing the
+work that they need to do.
+
+150
+00:07:51,170 --> 00:07:53,142
+But there's not a huge
+amount of, you know,
+
+151
+00:07:53,143 --> 00:07:55,524
+say, social interaction
+between team members.
+
+152
+00:07:55,830 --> 00:07:57,480
+Now, they're just doing the work.
+
+153
+00:07:57,590 --> 00:07:58,790
+A new team member joins.
+
+154
+00:07:59,630 --> 00:08:02,392
+A new team member comes in, you know, very
+
+155
+00:08:02,393 --> 00:08:05,764
+sociable and just brings
+everybody together.
+
+156
+00:08:06,030 --> 00:08:08,850
+And now the team, the entire team is now
+working.
+
+157
+00:08:09,330 --> 00:08:13,080
+The entire team is now socializing,
+whereas they weren't socializing before.
+
+158
+00:08:13,750 --> 00:08:15,730
+That's just a very, very simple example.
+
+159
+00:08:15,731 --> 00:08:20,330
+You know, one team member can completely
+change the entire dynamics of the team.
+
+160
+00:08:21,210 --> 00:08:24,670
+So, regardless of where you are,
+the addition of a new team member,
+
+161
+00:08:25,550 --> 00:08:27,419
+the entire team goes
+back to the forming stage
+
+162
+00:08:27,420 --> 00:08:29,804
+and then goes through
+all of these stages again.
+
+163
+00:08:30,790 --> 00:08:36,130
+Also, another consideration to make when
+we're talking about projects, remember a
+
+164
+00:08:36,131 --> 00:08:39,450
+project by definition is a beginning and
+an end.
+
+165
+00:08:40,190 --> 00:08:44,090
+And on a project, especially on a
+predictive project, you don't have
+
+166
+00:08:44,091 --> 00:08:47,276
+necessarily your entire
+team from the beginning of
+
+167
+00:08:47,277 --> 00:08:50,161
+the project all the way
+until the end of the project.
+
+168
+00:08:50,450 --> 00:08:53,170
+Team members are coming and going as and
+when required.
+
+169
+00:08:54,370 --> 00:08:56,607
+So you're constantly going through these
+stages.
+
+170
+00:08:56,690 --> 00:08:58,840
+A new team member joins because they
+needed.
+
+171
+00:08:59,290 --> 00:09:01,450
+At this point, they roll onto the project.
+
+172
+00:09:01,850 --> 00:09:03,500
+You go back to the forming stage.
+
+173
+00:09:03,630 --> 00:09:03,650
+Right.
+
+174
+00:09:03,770 --> 00:09:04,620
+They do the work.
+
+175
+00:09:05,110 --> 00:09:06,087
+Another team member leaves.
+
+176
+00:09:06,170 --> 00:09:07,470
+Another team member joins.
+
+177
+00:09:07,770 --> 00:09:09,347
+Again, you're going through the stages.
+
+178
+00:09:09,430 --> 00:09:11,147
+Then you suddenly go back to forming
+again.
+
+179
+00:09:11,230 --> 00:09:14,630
+So you don't always have to get to the
+performing stage.
+
+180
+00:09:15,050 --> 00:09:15,710
+Not every team member.
+
+181
+00:09:15,730 --> 00:09:18,370
+will always always get to the performing
+stage.
+
+182
+00:09:18,550 --> 00:09:20,800
+You might be stuck in one of the other
+stages.
+
+183
+00:09:21,610 --> 00:09:24,130
+So that's another consideration to make.
+
+184
+00:09:24,690 --> 00:09:30,466
+So this was then the basic
+principles, regarding the Tuckman
+
+185
+00:09:30,467 --> 00:09:33,581
+model, or the Tuckman
+Ladder, as it's sometimes called.
+

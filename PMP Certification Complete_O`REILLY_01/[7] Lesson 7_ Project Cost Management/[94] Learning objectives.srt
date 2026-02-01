@@ -1,0 +1,58 @@
+﻿1
+00:00:06,760 --> 00:00:08,640
+Lesson seven is cost management.
+
+2
+00:00:09,260 --> 00:00:12,440
+And so these are the learning objectives
+for cost management.
+
+3
+00:00:13,440 --> 00:00:15,478
+First of all, you want
+to understand exactly
+
+4
+00:00:15,479 --> 00:00:17,794
+what is cost, the principles
+of cost management.
+
+5
+00:00:18,240 --> 00:00:23,300
+So we'll talk about the different types of
+cost and how that impacts your project.
+
+6
+00:00:24,100 --> 00:00:26,920
+You need to appreciate the value of
+managing costs.
+
+7
+00:00:27,820 --> 00:00:30,180
+So you don't want to be going over budget.
+
+8
+00:00:31,260 --> 00:00:35,700
+And of course, we want to learn all the
+common tools, the common tools and the
+
+9
+00:00:35,701 --> 00:00:41,920
+common tools and artifacts used for cost
+management and then one of the major
+
+10
+00:00:41,921 --> 00:00:45,680
+sections then is going to be learning
+about earned value right earned value
+
+11
+00:00:45,681 --> 00:00:50,660
+management and you know there's a whole
+section on formulas right so you really
+
+12
+00:00:50,661 --> 00:00:54,300
+need to understand and learn these earned
+value management formulas
+

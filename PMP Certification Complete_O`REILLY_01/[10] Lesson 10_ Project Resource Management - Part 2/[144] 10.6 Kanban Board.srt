@@ -1,0 +1,445 @@
+﻿1
+00:00:05,920 --> 00:00:09,877
+Okay, so one of the common
+tools used for performance
+
+2
+00:00:09,878 --> 00:00:12,894
+reporting is this one
+called a Canban board.
+
+3
+00:00:13,320 --> 00:00:18,000
+And especially in an agile environment,
+canband boards are used a lot,
+
+4
+00:00:18,160 --> 00:00:19,510
+also known as a task board.
+
+5
+00:00:20,220 --> 00:00:24,220
+Now, it doesn't have to be used in Agile,
+it could be really used in any kind of
+
+6
+00:00:24,221 --> 00:00:29,200
+project, but at a glance it's showing the
+performance, like where we're at,
+
+7
+00:00:29,340 --> 00:00:34,200
+what work has been started, what work is
+left to start, what work is being
+
+8
+00:00:34,201 --> 00:00:39,100
+completed and so and so forth and it can
+be used as a type of information radiator
+
+9
+00:00:39,101 --> 00:00:43,600
+as well as one of the charts that you
+would use as part of your information
+
+10
+00:00:43,601 --> 00:00:48,800
+radiator along with other charts to show
+the progress of your team to show your
+
+11
+00:00:48,801 --> 00:00:53,100
+stakeholders the progress of your team
+right and then this could be located in a
+
+12
+00:00:53,101 --> 00:00:57,580
+prominent part of you know where your team
+is located where your team is working
+
+13
+00:00:57,581 --> 00:01:01,800
+right if you're in in the office
+environment or if team members are working
+
+14
+00:01:01,801 --> 00:01:05,440
+remotely then it would be part of a
+dashboard somewhere, right?
+
+15
+00:01:05,580 --> 00:01:10,000
+So any stakeholder can identify,
+they can see, okay, so this is a progress,
+
+16
+00:01:10,680 --> 00:01:13,700
+this is a status, this is how the team is
+it is progressing.
+
+17
+00:01:14,740 --> 00:01:16,344
+And so one of those
+charts and this one known as
+
+18
+00:01:16,345 --> 00:01:20,040
+a Canban board, also
+known as a task board, right?
+
+19
+00:01:20,440 --> 00:01:22,240
+You could see either of those terms.
+
+20
+00:01:23,460 --> 00:01:28,300
+So this is a very simple example then of a
+Canban board or a task board.
+
+21
+00:01:29,160 --> 00:01:30,860
+And basically, you can see it's very
+visual.
+
+22
+00:01:30,861 --> 00:01:34,408
+at a glance is showing all
+the work that has started,
+
+23
+00:01:34,409 --> 00:01:37,640
+all the work that needs to
+be done, and so and so forth.
+
+24
+00:01:37,920 --> 00:01:40,800
+And you can see these are all kind of like
+post-it notes.
+
+25
+00:01:41,060 --> 00:01:42,137
+You can have post-it notes.
+
+26
+00:01:42,220 --> 00:01:44,780
+They can have many different ways of doing
+this, right?
+
+27
+00:01:44,860 --> 00:01:46,210
+Sometimes it's just a list.
+
+28
+00:01:46,300 --> 00:01:49,140
+If it's electronic, then obviously it'll
+just be a list.
+
+29
+00:01:49,280 --> 00:01:51,217
+You won't necessarily have post-it notes.
+
+30
+00:01:51,300 --> 00:01:55,880
+But if it's something physical,
+you may have post-it notes showing the
+
+31
+00:01:55,881 --> 00:02:00,780
+tasks that have started and what's left to
+do, what's been completed.
+
+32
+00:02:00,860 --> 00:02:01,860
+and so and so forth.
+
+33
+00:02:02,100 --> 00:02:04,037
+That's a very simple example here then.
+
+34
+00:02:04,120 --> 00:02:05,377
+This is an agile environment.
+
+35
+00:02:05,460 --> 00:02:06,810
+You'd have your user story.
+
+36
+00:02:07,180 --> 00:02:09,940
+What are all the tasks to make up this
+user story?
+
+37
+00:02:10,380 --> 00:02:11,480
+So you have the to-do.
+
+38
+00:02:12,040 --> 00:02:13,690
+These tasks have not started yet.
+
+39
+00:02:14,280 --> 00:02:14,400
+Right.
+
+40
+00:02:14,540 --> 00:02:16,897
+So we can see, these are all the ones that
+are outstanding.
+
+41
+00:02:16,980 --> 00:02:18,677
+They have not even been started yet.
+
+42
+00:02:18,760 --> 00:02:21,220
+These are the tasks that are in progress,
+right?
+
+43
+00:02:21,300 --> 00:02:22,400
+This work in progress.
+
+44
+00:02:22,660 --> 00:02:25,017
+So this is what the team is working on
+right now.
+
+45
+00:02:25,100 --> 00:02:27,450
+They're working on all of these different
+tasks.
+
+46
+00:02:27,780 --> 00:02:29,780
+So these tasks have almost been done.
+
+47
+00:02:30,080 --> 00:02:31,797
+They just need to be tested, right?
+
+48
+00:02:31,880 --> 00:02:33,930
+So there's another column here to verify.
+
+49
+00:02:34,420 --> 00:02:38,140
+We need to make sure then these tasks,
+we've basically completed them,
+
+50
+00:02:38,420 --> 00:02:40,570
+but they're just kind of in a testing
+phase.
+
+51
+00:02:40,960 --> 00:02:44,060
+We're just testing them, making sure that
+it's completely done.
+
+52
+00:02:44,580 --> 00:02:49,260
+So whoever needs to verify, a sign off,
+then that's really what that refers to.
+
+53
+00:02:49,760 --> 00:02:51,640
+And then the last column, done.
+
+54
+00:02:52,640 --> 00:02:54,420
+So these tasks have been complete.
+
+55
+00:02:54,880 --> 00:02:59,080
+These tasks meet the definition of done,
+and so they are now complete.
+
+56
+00:02:59,640 --> 00:03:03,080
+So at a glance now, at
+a glance, any state code
+
+57
+00:03:03,081 --> 00:03:05,754
+that can look at the
+status of this project.
+
+58
+00:03:06,320 --> 00:03:08,417
+They can look at the, or in this case,
+a sprint.
+
+59
+00:03:08,500 --> 00:03:12,560
+They can look at the status of this sprint
+and see, okay, so these are the chasts
+
+60
+00:03:12,561 --> 00:03:15,757
+that still need to be started or they're
+working on all of these.
+
+61
+00:03:15,840 --> 00:03:16,990
+These are all complete.
+
+62
+00:03:17,620 --> 00:03:22,020
+Now, also, though, one of the other
+important things about Canban,
+
+63
+00:03:22,520 --> 00:03:24,493
+Camban board, and one of the other lean
+
+64
+00:03:24,494 --> 00:03:27,580
+principles as well, which
+is also utilising agile.
+
+65
+00:03:27,581 --> 00:03:32,780
+and that is you don't want to have too
+many tasks that are work in progress you
+
+66
+00:03:32,781 --> 00:03:37,560
+don't want to have too many tasks open at
+the same time otherwise they'll never get
+
+67
+00:03:37,561 --> 00:03:43,860
+done so you want to basically have an
+optimum number of tasks that your team is
+
+68
+00:03:43,861 --> 00:03:48,200
+going to be working on so you may have
+another column that's showing the cap
+
+69
+00:03:48,201 --> 00:03:54,080
+right so the work in progress cap right
+this is a maximum number of activities
+
+70
+00:03:54,081 --> 00:03:59,380
+that maximum number of tasks that we can
+have open So let's just say, for example,
+
+71
+00:03:59,560 --> 00:04:02,068
+sake of argument four,
+right, we cannot have
+
+72
+00:04:02,069 --> 00:04:05,060
+more than four activities
+open at once, right?
+
+73
+00:04:05,360 --> 00:04:08,560
+Otherwise, if we start having six,
+seven, eight, ten activities that we're
+
+74
+00:04:08,561 --> 00:04:11,761
+all working on at the same time,
+when are they going to get done?
+
+75
+00:04:12,440 --> 00:04:16,580
+You're going to end up having tons and
+tons of activities that are in progress
+
+76
+00:04:16,581 --> 00:04:19,640
+and then nothing that's in the complete
+stage.
+
+77
+00:04:20,240 --> 00:04:22,000
+So that's not very efficient.
+
+78
+00:04:22,400 --> 00:04:27,500
+So you want to make sure then that you
+only have a certain number of tasks open.
+
+79
+00:04:28,000 --> 00:04:29,357
+So you're going to have a cap.
+
+80
+00:04:29,440 --> 00:04:30,937
+This is a maximum that you want.
+
+81
+00:04:31,020 --> 00:04:33,036
+But at the same time, at the
+other end of the scale, you
+
+82
+00:04:33,037 --> 00:04:36,040
+don't just want to be working
+on one task at a time either.
+
+83
+00:04:36,680 --> 00:04:38,637
+If you're just working on one task, once
+
+84
+00:04:38,638 --> 00:04:41,314
+that's complete, then
+we'll start another task.
+
+85
+00:04:41,860 --> 00:04:44,760
+Well, there might be a lot of
+inefficiencies there as well.
+
+86
+00:04:44,980 --> 00:04:49,213
+There might be a lot of
+time wastage there that
+
+87
+00:04:49,214 --> 00:04:52,940
+you can alleviate by
+starting another task.
+
+88
+00:04:52,941 --> 00:04:59,860
+right so you want to strike a balance so
+during release planning your team your or
+
+89
+00:04:59,861 --> 00:05:05,220
+rather the agile team the team facilitator
+the product owner will be discussing
+
+90
+00:05:05,221 --> 00:05:09,640
+amongst themselves they'll they'll agree
+what is a maximum number of tasks that we
+
+91
+00:05:09,641 --> 00:05:13,380
+can have open and that will be our cap
+right we're not going to have any more
+
+92
+00:05:13,381 --> 00:05:17,120
+tasks open than that so anyway so this is
+an example of a canband board then so
+
+93
+00:05:17,121 --> 00:05:21,600
+again at a glance anybody can look at this
+any stakeholder we'll look at this and
+
+94
+00:05:21,601 --> 00:05:24,380
+have a good understanding of the progress
+of the team.
+

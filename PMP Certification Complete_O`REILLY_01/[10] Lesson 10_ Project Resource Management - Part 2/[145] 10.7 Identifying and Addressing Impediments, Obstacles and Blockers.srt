@@ -1,0 +1,617 @@
+﻿1
+00:00:05,820 --> 00:00:09,300
+Okay, so in this video then,
+we are going to just basically
+
+2
+00:00:09,301 --> 00:00:13,260
+talk about addressing some
+impediments, obstacles and blockers.
+
+3
+00:00:14,540 --> 00:00:17,546
+Now these three terms,
+impediment, obstacle
+
+4
+00:00:17,547 --> 00:00:20,574
+and blockers, they're
+generally synonymous.
+
+5
+00:00:21,160 --> 00:00:24,120
+They usually, I mean, they basically mean
+the same thing, they're generally
+
+6
+00:00:24,121 --> 00:00:27,337
+synonymous, and PMI will
+actually, most of the time,
+
+7
+00:00:27,338 --> 00:00:30,760
+you know, generally just
+use them synonymously.
+
+8
+00:00:31,440 --> 00:00:35,380
+However, there are one or two little
+subtle differences.
+
+9
+00:00:35,640 --> 00:00:39,480
+There's very, very subtle differences,
+right, that I just want to explain,
+
+10
+00:00:39,640 --> 00:00:40,690
+just want to mention.
+
+11
+00:00:41,480 --> 00:00:47,280
+An impediment generally is something,
+some action that slows down progress,
+
+12
+00:00:47,740 --> 00:00:51,000
+right, hinders progress,
+whereas an obstacle and
+
+13
+00:00:51,001 --> 00:00:54,460
+a blocker is actually
+going to stop the work.
+
+14
+00:00:54,860 --> 00:00:57,060
+That's going to stop the progress
+altogether.
+
+15
+00:00:57,300 --> 00:01:00,740
+Obstacles and blockers, right, they
+call stoppages, whereas an impediment.
+
+16
+00:01:00,760 --> 00:01:04,640
+slows down the progress, it just hinders
+the progress.
+
+17
+00:01:05,440 --> 00:01:08,192
+So that's the basic difference between an
+
+18
+00:01:08,193 --> 00:01:10,920
+impediment and then
+an obstacle and a blocker.
+
+19
+00:01:11,380 --> 00:01:15,660
+Now, difference in an obstacle and a
+blocker, just at a very, very high level.
+
+20
+00:01:16,320 --> 00:01:19,680
+And again, generally these terms are used
+interchangeably.
+
+21
+00:01:20,840 --> 00:01:23,640
+But, you know, there are these little
+subtle differences.
+
+22
+00:01:24,240 --> 00:01:27,980
+So an obstacle will be something that
+prevents the work from starting in the
+
+23
+00:01:27,981 --> 00:01:31,780
+first place, whereas the blocker will be
+stopping the work altogether.
+
+24
+00:01:32,620 --> 00:01:35,020
+So as a simple example, then, an
+impediment here.
+
+25
+00:01:35,500 --> 00:01:39,280
+So an impediment, remember, it slows down,
+hinders the progress.
+
+26
+00:01:40,180 --> 00:01:42,680
+For example, a team not coming to a quick
+decision.
+
+27
+00:01:43,120 --> 00:01:45,700
+That's going to slow the slow down
+decision making.
+
+28
+00:01:45,900 --> 00:01:46,640
+That's going to slow down.
+
+29
+00:01:46,700 --> 00:01:49,000
+The entire team can't come to a quick
+decision.
+
+30
+00:01:49,320 --> 00:01:50,858
+I mean, they're going
+to come to a decision
+
+31
+00:01:50,859 --> 00:01:53,100
+eventually, but that's
+to slow down progress.
+
+32
+00:01:53,660 --> 00:01:55,360
+Obstacle on the other hand, right?
+
+33
+00:01:55,560 --> 00:02:00,200
+It basically it prevents a work from being
+started, for example, in the first place,
+
+34
+00:02:00,320 --> 00:02:00,860
+right?
+
+35
+00:02:00,960 --> 00:02:03,080
+So, for example, we can't get a permit.
+
+36
+00:02:04,000 --> 00:02:07,000
+So we work cannot start until we get a
+permit.
+
+37
+00:02:07,960 --> 00:02:10,310
+So that's prevented the work from even
+starting.
+
+38
+00:02:10,860 --> 00:02:15,620
+Whereas a blocker is something that is
+going to cause a stoppage.
+
+39
+00:02:15,760 --> 00:02:18,960
+A work's already started, but now the work
+suddenly stopped.
+
+40
+00:02:19,620 --> 00:02:21,340
+That would be a blocker, right?
+
+41
+00:02:21,760 --> 00:02:25,980
+So, for example, you know, you're using a
+vendor's product and an example here where
+
+42
+00:02:25,981 --> 00:02:28,700
+companies stop seasons vendors product,
+right?
+
+43
+00:02:28,900 --> 00:02:32,217
+So we've been told we don't have a
+relationship with this vendor anymore.
+
+44
+00:02:32,300 --> 00:02:34,337
+So all of a sudden we cannot use that
+product.
+
+45
+00:02:34,420 --> 00:02:34,460
+Right.
+
+46
+00:02:34,560 --> 00:02:36,977
+So now we're, you know, we're halfway
+through this project.
+
+47
+00:02:37,060 --> 00:02:38,510
+Now we suddenly have to stop.
+
+48
+00:02:39,060 --> 00:02:42,720
+So like I said, these terms are generally
+synonymous, right?
+
+49
+00:02:42,900 --> 00:02:47,040
+But these are just a couple of subtle
+differences between the three of them.
+
+50
+00:02:47,440 --> 00:02:49,180
+So an impediment slows down.
+
+51
+00:02:49,560 --> 00:02:54,000
+Think of an obstacle as some kind of
+barrier that prevents, say, the work from
+
+52
+00:02:54,001 --> 00:02:57,640
+being started, and then a blocker is,
+it's going to stop the work.
+
+53
+00:02:59,280 --> 00:03:01,180
+Now, we need to address them.
+
+54
+00:03:02,180 --> 00:03:05,460
+We need to address these impediments,
+obstacles and blockers.
+
+55
+00:03:05,760 --> 00:03:07,840
+We need to identify them at first.
+
+56
+00:03:08,340 --> 00:03:10,460
+And then we need to deal with them.
+
+57
+00:03:11,000 --> 00:03:11,020
+Right.
+
+58
+00:03:11,240 --> 00:03:12,940
+So, where are we identifying them?
+
+59
+00:03:13,540 --> 00:03:16,300
+So in an agile environment, a backlog
+item.
+
+60
+00:03:17,320 --> 00:03:21,960
+So as we are assessing the backlogs,
+as we are creating the backlog.
+
+61
+00:03:21,980 --> 00:03:26,433
+So remember the product
+owner is the one that is responsible
+
+62
+00:03:26,434 --> 00:03:30,240
+for prioritizing user stories
+to create the backlog item.
+
+63
+00:03:30,680 --> 00:03:30,700
+Right.
+
+64
+00:03:31,020 --> 00:03:34,380
+Well, they may be identifying some
+impediments and obstacles there.
+
+65
+00:03:35,100 --> 00:03:39,680
+So we can't start this user story until
+another user story is complete.
+
+66
+00:03:40,320 --> 00:03:43,820
+So we've gathered these user stories,
+but we can't actually start this.
+
+67
+00:03:44,140 --> 00:03:46,957
+There's a whole bunch of other user
+stories that we need to get.
+
+68
+00:03:47,040 --> 00:03:51,320
+So now that can identify, you know,
+so basically now we need to reach out to
+
+69
+00:03:51,321 --> 00:03:54,592
+stay called us to get some
+more user stories, that can
+
+70
+00:03:54,593 --> 00:03:57,661
+identify an impediment or a
+blocker and that kind of thing.
+
+71
+00:03:58,080 --> 00:04:01,680
+Or let's say we realize that we've got
+this user story, but it's too big.
+
+72
+00:04:02,360 --> 00:04:05,900
+It's more of an epic, it's more or more of
+a feature than a user story.
+
+73
+00:04:06,580 --> 00:04:10,540
+So we realize that now, so now we need to
+break it down.
+
+74
+00:04:11,600 --> 00:04:13,650
+This is a simple example, just assessing.
+
+75
+00:04:13,800 --> 00:04:17,900
+So just assessing these backlog items,
+that could potentially identify any
+
+76
+00:04:17,901 --> 00:04:20,240
+impediments or blockers and so and so
+forth.
+
+77
+00:04:21,020 --> 00:04:23,660
+Daily stand-up meeting, right?
+
+78
+00:04:23,780 --> 00:04:27,460
+Well, that's one of the reasons of having
+a daily stand-up meeting.
+
+79
+00:04:28,100 --> 00:04:32,694
+Remember, in a daily stand-up, each
+team member is addressing three questions.
+
+80
+00:04:33,180 --> 00:04:34,820
+What did I accomplish yesterday?
+
+81
+00:04:35,460 --> 00:04:37,110
+What am I going to work on today?
+
+82
+00:04:37,600 --> 00:04:39,240
+And what impediments are there?
+
+83
+00:04:39,820 --> 00:04:41,240
+What obstacles, blockers?
+
+84
+00:04:41,320 --> 00:04:42,420
+What issues are there?
+
+85
+00:04:42,900 --> 00:04:48,180
+So you'll be identifying these impediments
+during the daily stand-up meeting.
+
+86
+00:04:48,181 --> 00:04:50,869
+And those issues,
+those obstacles, blockers,
+
+87
+00:04:50,870 --> 00:04:54,260
+impediments are basically
+taken offline, right?
+
+88
+00:04:54,400 --> 00:05:00,360
+And the team facilitator is the one that
+is responsible then for addressing them,
+
+89
+00:05:01,160 --> 00:05:04,560
+removing them, removing those obstacles,
+removing those impediments.
+
+90
+00:05:05,040 --> 00:05:07,308
+Now, they might need to bring
+other team members together
+
+91
+00:05:07,388 --> 00:05:09,880
+in order to do that, but
+again, that's taken offline.
+
+92
+00:05:10,120 --> 00:05:12,340
+It's not discussed in the daily stand-up.
+
+93
+00:05:12,720 --> 00:05:16,780
+Because remember the daily stand-up is
+only 10-15-minute meeting, right?
+
+94
+00:05:16,781 --> 00:05:20,280
+has to be specifically time boxed to 10 or
+15 minutes.
+
+95
+00:05:23,590 --> 00:05:25,510
+Also, let's think about this.
+
+96
+00:05:26,290 --> 00:05:30,170
+A potential impediment obstacle or blocker
+is a risk.
+
+97
+00:05:30,530 --> 00:05:32,990
+If it's a potential, then it's a risk.
+
+98
+00:05:34,450 --> 00:05:38,504
+So as we're identifying risk,
+as you're reviewing our risks,
+
+99
+00:05:38,505 --> 00:05:42,190
+we could potentially identify
+an impediment or a blocker.
+
+100
+00:05:43,050 --> 00:05:46,270
+So a risk by itself might be an
+impediment.
+
+101
+00:05:46,271 --> 00:05:52,263
+right, it might potentially slow down
+progress or it might, you know, stop.
+
+102
+00:05:52,830 --> 00:05:57,010
+So, you know, if I identified the risk
+that a vendor may delay shipment of raw
+
+103
+00:05:57,011 --> 00:06:03,550
+materials, well, that might completely
+prevent us from the start, you know,
+
+104
+00:06:03,690 --> 00:06:05,240
+start in one of our activities.
+
+105
+00:06:05,870 --> 00:06:08,491
+Or let's say we've started
+this activity, the next
+
+106
+00:06:08,492 --> 00:06:11,151
+stage of this activity is to
+use these raw materials.
+
+107
+00:06:11,450 --> 00:06:15,570
+Vendid delay shipment of raw materials,
+now that's slowed us down.
+
+108
+00:06:15,571 --> 00:06:20,276
+or that's completely put
+this activity at a standstill
+
+109
+00:06:20,376 --> 00:06:23,220
+until we get the, until
+we get the raw materials.
+
+110
+00:06:24,950 --> 00:06:27,250
+So now we don't know if that's going to
+happen.
+
+111
+00:06:27,590 --> 00:06:29,207
+We just identified it could happen.
+
+112
+00:06:29,290 --> 00:06:30,123
+That's a risk.
+
+113
+00:06:30,250 --> 00:06:33,550
+Now, if it's already happened,
+right, an impediment obstacle or blocker
+
+114
+00:06:33,551 --> 00:06:37,410
+by, you know, by default, if it's
+happened, then it's an issue at that point.
+
+115
+00:06:37,990 --> 00:06:38,130
+Right.
+
+116
+00:06:38,290 --> 00:06:40,690
+So where would we document that in the
+issue log?
+
+117
+00:06:41,050 --> 00:06:43,100
+Or we could document it in the issue log.
+
+118
+00:06:43,290 --> 00:06:45,550
+We also need to track the impediment.
+
+119
+00:06:45,551 --> 00:06:49,810
+or blocker, so you may create what's known
+as an impediment task board.
+
+120
+00:06:50,290 --> 00:06:52,129
+So this is another document
+that PMI mentioned,
+
+121
+00:06:52,130 --> 00:06:54,650
+something called an impediment task board.
+
+122
+00:06:55,150 --> 00:06:58,070
+And it basically could be used to show,
+you know, impediments that have been
+
+123
+00:06:58,071 --> 00:07:01,550
+addressed, right, which we haven't,
+what we started working on.
+
+124
+00:07:01,670 --> 00:07:06,910
+So similar to a task board or similar to a
+Kanban board that we talked about in a,
+
+125
+00:07:07,030 --> 00:07:10,830
+in a separate video, may have an
+impediment task board.
+
+126
+00:07:11,330 --> 00:07:13,930
+I don't know there may be some of the
+software applications that you could be
+
+127
+00:07:13,931 --> 00:07:19,290
+using as well to track impediments
+obstacles blockers and so and so far okay
+
+128
+00:07:19,291 --> 00:07:24,330
+so those are the basic difference then
+between the three three items as I said
+
+129
+00:07:24,331 --> 00:07:28,650
+most of the time they're going to be used
+synonymously but these are just a couple
+
+130
+00:07:28,651 --> 00:07:33,250
+of the subtle differences between an
+impediment an obstacle and a blocker
+

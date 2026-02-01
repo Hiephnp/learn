@@ -1,0 +1,250 @@
+﻿1
+00:00:06,500 --> 00:00:10,820
+Okay, so in this video then, we are going
+to discuss another quality management tool
+
+2
+00:00:10,821 --> 00:00:13,271
+and technique called the cause and effect
+diagram.
+
+3
+00:00:14,500 --> 00:00:18,880
+Now the cause and effect diagram is used
+to get to the root cause of an issue.
+
+4
+00:00:19,640 --> 00:00:23,560
+Now in reality, there's many, many tools
+that you might use to get to the root
+
+5
+00:00:23,561 --> 00:00:26,646
+cause of an issue, but
+for the purpose of the
+
+6
+00:00:26,647 --> 00:00:29,954
+PMP exam, this is the
+one that they ask about.
+
+7
+00:00:30,400 --> 00:00:33,840
+So if you ever get a question that says,
+you know, they give you a scenario and
+
+8
+00:00:33,841 --> 00:00:38,060
+say, which tool should he use to get to
+the underlying cause of the problem or the
+
+9
+00:00:38,061 --> 00:00:41,377
+root cause of this issue,
+then this is the diagram
+
+10
+00:00:41,378 --> 00:00:44,371
+that you'd use, or this is
+a tool that you would use.
+
+11
+00:00:44,720 --> 00:00:47,070
+And the tool is called cause and effect
+diagram.
+
+12
+00:00:47,620 --> 00:00:49,780
+It's also called a fishbone diagram.
+
+13
+00:00:50,400 --> 00:00:55,600
+It's also known as an Ishikawa diagram,
+right, from the person that developed it,
+
+14
+00:00:55,740 --> 00:00:57,817
+right, Ishikawa, he came up with this
+diagram.
+
+15
+00:00:57,900 --> 00:00:59,657
+That's why it's known as Ishikawa diagram.
+
+16
+00:00:59,740 --> 00:01:03,260
+It can also be known as a Y-Y-Y diagram,
+right?
+
+17
+00:01:03,740 --> 00:01:06,790
+Because it's Basically, you're asking a
+certain number of why.
+
+18
+00:01:07,140 --> 00:01:08,930
+You're asking continuous questions to
+
+19
+00:01:08,931 --> 00:01:12,154
+eventually get to the
+root cause of the problem.
+
+20
+00:01:12,680 --> 00:01:17,580
+So make sure you know these terms,
+cause and effect, fishbone, Ishikawa,
+
+21
+00:01:18,200 --> 00:01:19,480
+or even Y, Y, Y.
+
+22
+00:01:19,800 --> 00:01:22,009
+So make sure you know all of those terms,
+
+23
+00:01:22,010 --> 00:01:25,554
+you could see any of
+these terms on the exam.
+
+24
+00:01:26,280 --> 00:01:29,268
+Now, you just need to
+know the very, very high
+
+25
+00:01:29,269 --> 00:01:31,600
+level basics of how to interpret that one.
+
+26
+00:01:31,601 --> 00:01:35,760
+Every industry uses this Issue Carver
+diagram in their own way.
+
+27
+00:01:36,140 --> 00:01:38,760
+But the basic principle is, you have an
+issue.
+
+28
+00:01:39,440 --> 00:01:41,240
+So this is the major issue.
+
+29
+00:01:42,240 --> 00:01:45,640
+Then you list out all possible causes of
+the issue.
+
+30
+00:01:46,420 --> 00:01:50,660
+In this case, man, machine, material,
+environment, management, method.
+
+31
+00:01:51,240 --> 00:01:52,940
+These are all the possible causes.
+
+32
+00:01:53,360 --> 00:01:56,360
+And different industries will have
+different possible causes.
+
+33
+00:01:56,620 --> 00:02:03,800
+And then for each possible cause,
+you drill down and ask, now initially when
+
+34
+00:02:03,801 --> 00:02:08,740
+this was developed, right, they used to
+talk about the five Ys, right?
+
+35
+00:02:09,200 --> 00:02:11,500
+So you ask the five Ys.
+
+36
+00:02:11,600 --> 00:02:17,460
+You drill down five times, and that should
+either get you to the root cause or that
+
+37
+00:02:17,461 --> 00:02:20,120
+should get you to a major decision point,
+at least.
+
+38
+00:02:21,300 --> 00:02:24,260
+Now, it doesn't have to be the five Ys,
+right?
+
+39
+00:02:24,320 --> 00:02:26,740
+I mean, the modern view is it doesn't have
+to be the five Ys.
+
+40
+00:02:26,780 --> 00:02:29,160
+That's why it's also known as a Y-Y
+diagram.
+
+41
+00:02:29,680 --> 00:02:33,440
+So basically, you are drilling down,
+asking a certain number of questions,
+
+42
+00:02:33,640 --> 00:02:34,380
+why did that happen?
+
+43
+00:02:34,540 --> 00:02:35,220
+Why did that happen?
+
+44
+00:02:35,440 --> 00:02:36,440
+Why did that happen?
+
+45
+00:02:36,800 --> 00:02:41,740
+You're drilling down a certain number of
+steps to get to the root cause,
+
+46
+00:02:41,920 --> 00:02:43,820
+or at least to a major decision point.
+
+47
+00:02:44,100 --> 00:02:46,568
+And that's really about as
+much as what you need for
+
+48
+00:02:46,569 --> 00:02:49,017
+the P&P exam regarding
+the cause and effect diagram.
+
+49
+00:02:49,100 --> 00:02:50,900
+So it's to get to the root cause.
+
+50
+00:02:51,240 --> 00:02:54,720
+It's called cause and effect, fishbone,
+Ishikawa, or the Y, Y.
+
+51
+00:02:55,000 --> 00:02:56,900
+Right, you list out all possible causes.
+
+52
+00:02:56,901 --> 00:03:01,260
+you drill down and ask a certain number of
+ys and that should either get you to the
+
+53
+00:03:01,261 --> 00:03:03,380
+root cause at least a major decision
+point.
+

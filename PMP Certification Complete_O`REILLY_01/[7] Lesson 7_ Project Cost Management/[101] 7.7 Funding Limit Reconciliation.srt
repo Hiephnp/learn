@@ -1,0 +1,591 @@
+﻿1
+00:00:06,350 --> 00:00:10,380
+Okay, in this video then,
+we are going to cover a very
+
+2
+00:00:10,381 --> 00:00:13,590
+important tool called
+Funding Limit Reconciliation.
+
+3
+00:00:14,190 --> 00:00:18,410
+Now we already covered a couple of
+important tools for cost management,
+
+4
+00:00:19,150 --> 00:00:23,110
+and those were the estimating methods,
+they're analogous estimating, parametric
+
+5
+00:00:23,111 --> 00:00:25,447
+and so and so forth, that was on a
+separate video.
+
+6
+00:00:25,530 --> 00:00:28,210
+Those were tools and techniques of cost
+management.
+
+7
+00:00:28,670 --> 00:00:31,120
+This is another very important tool and
+technique.
+
+8
+00:00:31,430 --> 00:00:33,490
+It's called Funding Limit Reconciliation.
+
+9
+00:00:35,630 --> 00:00:40,110
+Eventually what funding limit
+reconciliation is, it is reconciling the
+
+10
+00:00:40,111 --> 00:00:45,470
+amount of work that needs to be done with
+funding limits imposed or the actual
+
+11
+00:00:45,471 --> 00:00:51,430
+funding received by senior management or
+by your customer.
+
+12
+00:00:52,190 --> 00:00:57,284
+So senior management a
+lot of times, they will limit
+
+13
+00:00:57,285 --> 00:01:01,550
+the amount of money that
+can be received on a project.
+
+14
+00:01:01,990 --> 00:01:05,390
+At the beginning of a project,
+you don't necessarily get your entire
+
+15
+00:01:05,630 --> 00:01:07,630
+funding at the beginning of the project.
+
+16
+00:01:07,930 --> 00:01:11,530
+No, you're going to get your funding at
+various points along the project.
+
+17
+00:01:12,150 --> 00:01:14,370
+Usually tied to some type of milestone.
+
+18
+00:01:15,010 --> 00:01:18,410
+Once we've completed this work,
+we're going to get this much funding.
+
+19
+00:01:18,870 --> 00:01:22,420
+Once we've reached this milestone,
+we're going to get this much funding.
+
+20
+00:01:22,630 --> 00:01:25,690
+Why do you not always get your funding
+right at the beginning?
+
+21
+00:01:25,910 --> 00:01:27,535
+Well, first of all, because you want to
+
+22
+00:01:27,536 --> 00:01:30,304
+control the expenses
+throughout the project.
+
+23
+00:01:30,550 --> 00:01:34,490
+And then secondly, we don't want to have
+these peaks and valleys, right,
+
+24
+00:01:34,610 --> 00:01:36,230
+throughout the organization.
+
+25
+00:01:36,470 --> 00:01:41,270
+The organization themselves, they only
+have a certain amount of funding that they
+
+26
+00:01:41,271 --> 00:01:45,170
+can actually release at various points
+along the project.
+
+27
+00:01:45,270 --> 00:01:49,150
+We don't suddenly want to start,
+you know, spending too much money and then
+
+28
+00:01:49,151 --> 00:01:51,350
+having too little money and so and so
+forth.
+
+29
+00:01:51,830 --> 00:01:56,804
+The organization themselves want to
+control the cash flow for the organization.
+
+30
+00:01:57,410 --> 00:02:03,350
+So they're going to have a certain amount
+of, you know, cash that they will release
+
+31
+00:02:03,351 --> 00:02:09,350
+at various points throughout the year and
+so you are going to be reconciling the
+
+32
+00:02:09,351 --> 00:02:14,450
+work that needs to be done you know with
+this cash flow now with the amount of
+
+33
+00:02:14,451 --> 00:02:20,030
+funding that is actually being received
+right so funding limit reconciliation then
+
+34
+00:02:20,031 --> 00:02:24,490
+is reconciling the amount of work that
+needs to be done with funding limits
+
+35
+00:02:24,491 --> 00:02:30,330
+imposed right so these are then funding
+limits throughout the year or the actual
+
+36
+00:02:30,331 --> 00:02:34,970
+you know the customer's ability to
+actually pay for the work right management
+
+37
+00:02:34,971 --> 00:02:39,290
+themselves have a fixed budget,
+right, that they can own a release during
+
+38
+00:02:39,291 --> 00:02:45,650
+a particular time of the year, right,
+or a particular time period, right?
+
+39
+00:02:45,710 --> 00:02:49,690
+So again, so that they can regulate the
+cash flow of the organization.
+
+40
+00:02:50,270 --> 00:02:53,470
+So let me just give you a couple of very
+simple examples on this.
+
+41
+00:02:54,170 --> 00:02:55,270
+So first example here.
+
+42
+00:02:55,790 --> 00:02:58,250
+So let's say our project,
+right, we've estimated
+
+43
+00:02:58,251 --> 00:02:59,910
+it's going to cost a
+million dollars, right?
+
+44
+00:02:59,930 --> 00:03:01,230
+It's a million dollar project,
+right?
+
+45
+00:03:01,231 --> 00:03:03,281
+Just to use some nice, easy numbers here.
+
+46
+00:03:03,770 --> 00:03:05,891
+Now, senior management
+right at the beginning, they
+
+47
+00:03:05,892 --> 00:03:09,910
+tell us they can only
+release $250,000 per quarter.
+
+48
+00:03:10,270 --> 00:03:13,365
+On this project, it's a
+million dollar project, right,
+
+49
+00:03:13,366 --> 00:03:17,230
+but they cannot release more
+than $250,000 per quarter.
+
+50
+00:03:18,310 --> 00:03:21,927
+So a very minimum, then we know that this
+project is going to take four quarters,
+
+51
+00:03:22,010 --> 00:03:24,087
+it's going to be a one-year project at a
+very minimum.
+
+52
+00:03:24,170 --> 00:03:26,388
+We can't suddenly
+decide, all right, it's a million
+
+53
+00:03:26,448 --> 00:03:28,970
+dollar project, let's try
+and do this in six months.
+
+54
+00:03:29,070 --> 00:03:31,710
+Well, no, we won't be able to get the
+funding for that, right?
+
+55
+00:03:31,711 --> 00:03:36,377
+In order to get the funding,
+a senior management
+
+56
+00:03:36,378 --> 00:03:39,290
+can only release
+$250,000 per quarter, right?
+
+57
+00:03:39,330 --> 00:03:42,130
+They want to regulate the cash flow for
+the organisation.
+
+58
+00:03:43,050 --> 00:03:48,550
+And so we then, we are going to plan our
+work and develop our schedule based on
+
+59
+00:03:48,551 --> 00:03:54,270
+this funding, based on this funding limit,
+$250,000 per quarter.
+
+60
+00:03:54,670 --> 00:03:57,730
+So that is an example of funding limit
+reconciliation.
+
+61
+00:03:58,590 --> 00:04:03,930
+Another example, again, this project,
+is going to cost a million dollars.
+
+62
+00:04:04,970 --> 00:04:07,020
+Let's say we've already planned our work.
+
+63
+00:04:07,150 --> 00:04:09,407
+We've planned all of the work for this
+project.
+
+64
+00:04:09,490 --> 00:04:12,290
+We've planned our milestone, all of our
+milestones.
+
+65
+00:04:12,610 --> 00:04:13,947
+We've planned our schedule.
+
+66
+00:04:14,030 --> 00:04:19,110
+We planned who's going to be working on
+each deliverable and so on and so forth.
+
+67
+00:04:19,250 --> 00:04:20,700
+They've planned all the work.
+
+68
+00:04:21,010 --> 00:04:22,910
+And this is how much is going to cost.
+
+69
+00:04:23,210 --> 00:04:24,760
+Now, that needs to be baseline.
+
+70
+00:04:24,930 --> 00:04:28,724
+We need to send it to
+our senior management,
+
+71
+00:04:28,725 --> 00:04:31,690
+or our key stakeholders
+for their approval.
+
+72
+00:04:31,691 --> 00:04:33,110
+for their sign-off.
+
+73
+00:04:33,730 --> 00:04:36,514
+Now, at that point, senior
+management might turn round
+
+74
+00:04:36,594 --> 00:04:39,830
+and say, all right, well, we
+have some funding limits now.
+
+75
+00:04:41,090 --> 00:04:47,050
+And so for year one, we can only release
+these funds, right?
+
+76
+00:04:47,150 --> 00:04:49,570
+So in quarter one, we can only release
+$150,000.
+
+77
+00:04:50,070 --> 00:04:52,550
+In quarter two, we can only release
+$200,000.
+
+78
+00:04:53,110 --> 00:04:57,630
+In quarter three, we can go up to
+$250,000, but then in quarter four,
+
+79
+00:04:57,770 --> 00:04:58,920
+we're back to $200,000.
+
+80
+00:04:59,490 --> 00:05:02,230
+This is all the funds that we can release,
+right?
+
+81
+00:05:02,231 --> 00:05:03,387
+This is just for year one.
+
+82
+00:05:03,470 --> 00:05:05,110
+Then, you know, year two, right?
+
+83
+00:05:05,230 --> 00:05:06,710
+Then they'll have a separate, right?
+
+84
+00:05:06,790 --> 00:05:08,590
+We're just looking at year one here.
+
+85
+00:05:09,790 --> 00:05:15,150
+So now that they've given
+you this, these funding limits,
+
+86
+00:05:15,151 --> 00:05:18,610
+now we need to go back and
+we need to readjust our plan.
+
+87
+00:05:18,870 --> 00:05:22,510
+We need to readjust our schedule based on
+these funding limits.
+
+88
+00:05:23,110 --> 00:05:24,670
+Right, now we need to go back.
+
+89
+00:05:24,770 --> 00:05:28,810
+And, you know, if our quarter one
+expenses, if initially it was,
+
+90
+00:05:28,830 --> 00:05:34,230
+something like 250,000, right, then now
+senior management can only release 150.
+
+91
+00:05:34,930 --> 00:05:37,290
+Well, we need to do something about that,
+right?
+
+92
+00:05:37,410 --> 00:05:39,207
+So we're going to reschedule our work.
+
+93
+00:05:39,290 --> 00:05:43,850
+We might use some alternate resources,
+right, move activities around from one
+
+94
+00:05:43,851 --> 00:05:47,530
+deliverable to another deliverable,
+completely reschedule the whole work.
+
+95
+00:05:47,790 --> 00:05:50,990
+That is known as funding limit
+reconciliation.
+
+96
+00:05:51,770 --> 00:05:55,020
+There's a couple of examples then of
+funding limit reconciliation.
+
+97
+00:05:55,410 --> 00:05:59,150
+Another example of funding limit
+reconciliation can also be, say,
+
+98
+00:05:59,290 --> 00:06:01,840
+the customer's ability to actually pay for
+the work.
+
+99
+00:06:01,930 --> 00:06:03,867
+They have given you the scope of the
+project.
+
+100
+00:06:03,950 --> 00:06:05,147
+They've given you the requirements.
+
+101
+00:06:05,230 --> 00:06:06,427
+You've come up with the scope.
+
+102
+00:06:06,510 --> 00:06:08,150
+You've come up with the cost.
+
+103
+00:06:08,830 --> 00:06:13,310
+And this cost is more than what the
+customer was expecting.
+
+104
+00:06:13,630 --> 00:06:17,170
+Whether it's an internal project or an
+external project, whether it's an internal
+
+105
+00:06:17,171 --> 00:06:23,964
+customer or an external customer, it's
+costing more than what they were expecting.
+
+106
+00:06:24,650 --> 00:06:29,010
+So now they tell you, well, you need to
+reduce your cost by, say, 10%.
+
+107
+00:06:29,011 --> 00:06:29,844
+Right.
+
+108
+00:06:30,010 --> 00:06:31,390
+So now you need to go back.
+
+109
+00:06:31,750 --> 00:06:34,818
+Again, you need to re-look
+at your work, reschedule your
+
+110
+00:06:34,819 --> 00:06:38,130
+work, use alternate resources
+to try and get your costs down.
+
+111
+00:06:38,950 --> 00:06:41,450
+So that is what funding limit
+reconciliation is.
+
+112
+00:06:42,250 --> 00:06:47,010
+Reconciling the amount of work that needs
+to be done with funding limits imposed,
+
+113
+00:06:47,550 --> 00:06:50,010
+right, or the actual funding received as
+well.
+
+114
+00:06:50,590 --> 00:06:50,730
+Right.
+
+115
+00:06:50,850 --> 00:06:55,870
+So as you're executing, right,
+you might have been expecting say $100,000
+
+116
+00:06:55,871 --> 00:07:00,770
+for this particular deliverable senior
+management might turn round and say,
+
+117
+00:07:00,850 --> 00:07:04,200
+you know, we can't release that much now,
+I need to various reasons.
+
+118
+00:07:04,970 --> 00:07:06,327
+And so now we need to go back.
+
+119
+00:07:06,410 --> 00:07:11,210
+We need to re-look at our work,
+try and get our costs down, right?
+
+120
+00:07:12,090 --> 00:07:16,530
+To whatever the, whatever senior
+management has released.
+
+121
+00:07:17,950 --> 00:07:19,900
+So that's funding limit reconciliation.
+
+122
+00:07:19,990 --> 00:07:22,490
+Reconciling the amount of
+work that needs to be done
+
+123
+00:07:22,491 --> 00:07:25,970
+with funding limits imposed
+or actual funding received.
+
+124
+00:07:26,170 --> 00:07:27,003
+Okay.
+

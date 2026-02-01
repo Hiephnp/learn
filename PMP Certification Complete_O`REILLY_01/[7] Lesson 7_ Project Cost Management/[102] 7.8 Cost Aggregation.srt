@@ -1,0 +1,474 @@
+﻿1
+00:00:05,720 --> 00:00:10,640
+Okay, so in this video then we are going
+to cover another very important tool and
+
+2
+00:00:10,641 --> 00:00:14,960
+technique called cost aggregation,
+a very important tool and technique.
+
+3
+00:00:16,080 --> 00:00:20,800
+Now cost aggregation is something that you
+guys do all the time, at least those of
+
+4
+00:00:20,801 --> 00:00:24,511
+you that are involved in cost
+management and budgeting, you
+
+5
+00:00:24,512 --> 00:00:27,651
+just probably didn't realize
+there's actually a name for it.
+
+6
+00:00:27,800 --> 00:00:32,180
+And basically it's, before you can come up
+with the overall budget for the project,
+
+7
+00:00:32,960 --> 00:00:36,500
+you have to know how much the individual
+components have your project is going to
+
+8
+00:00:36,501 --> 00:00:40,320
+cost, how much individual activities are
+going to cost, how much work packages are
+
+9
+00:00:40,321 --> 00:00:42,397
+going to cost, and then you're going to
+add them up.
+
+10
+00:00:42,480 --> 00:00:46,780
+You're going to aggregate them to come up
+with the overall cost of the project.
+
+11
+00:00:47,440 --> 00:00:52,520
+So just as a very simple example,
+again, in the subject of building a house,
+
+12
+00:00:52,620 --> 00:00:59,240
+right, in the theme of building a house,
+before a builder can give you an estimate
+
+13
+00:00:59,241 --> 00:01:03,340
+of, you know, how much is going to cost to
+build this house, they're going to
+
+14
+00:01:03,341 --> 00:01:07,780
+estimate the cost of, for example,
+the lumber, how much of the concrete going
+
+15
+00:01:07,781 --> 00:01:10,240
+to cost, how much of the drywall going to
+cost?
+
+16
+00:01:10,380 --> 00:01:12,460
+What's the cost of the electrical system?
+
+17
+00:01:12,560 --> 00:01:16,560
+What's the cost of plumbing, the air ducts
+and vents, and so on and so forth?
+
+18
+00:01:17,120 --> 00:01:22,240
+They're going to first estimate the cost
+of each of these individual components,
+
+19
+00:01:23,100 --> 00:01:26,151
+and then aggregate those,
+add those all up before
+
+20
+00:01:26,152 --> 00:01:29,800
+they can come up with the
+cost of the overall project.
+
+21
+00:01:30,420 --> 00:01:33,520
+And that's really exactly what cost
+aggregation is.
+
+22
+00:01:34,460 --> 00:01:37,657
+Now, Cost aggregation
+also involves rolling
+
+23
+00:01:37,658 --> 00:01:40,420
+up each layer of the
+work breakdown structure.
+
+24
+00:01:40,520 --> 00:01:41,353
+All right.
+
+25
+00:01:41,660 --> 00:01:44,580
+So let's talk about this in a bit more
+detail.
+
+26
+00:01:45,520 --> 00:01:48,706
+So cost aggregation then,
+as I said, it's also about
+
+27
+00:01:48,707 --> 00:01:51,457
+rolling up each layer of the
+work breakdown structure.
+
+28
+00:01:51,540 --> 00:01:53,190
+And here's a very simple example.
+
+29
+00:01:53,720 --> 00:01:58,960
+And this also is a continuation,
+if you like, of bottom-up estimating.
+
+30
+00:01:59,580 --> 00:02:03,880
+Remember, a bottom-up estimate is a very,
+very detailed estimate.
+
+31
+00:02:04,440 --> 00:02:05,273
+right?
+
+32
+00:02:05,520 --> 00:02:09,040
+And you're breaking your activity into
+little sub-activities.
+
+33
+00:02:09,620 --> 00:02:12,620
+And then the second
+part of that is rolling
+
+34
+00:02:12,621 --> 00:02:15,221
+up each layer of the
+work breakdown structure.
+
+35
+00:02:15,940 --> 00:02:17,860
+And that's what this example is here.
+
+36
+00:02:18,700 --> 00:02:18,900
+All right.
+
+37
+00:02:19,060 --> 00:02:22,680
+So down at the bottom here, we have our
+activity estimates.
+
+38
+00:02:23,300 --> 00:02:24,420
+Cost of each activity.
+
+39
+00:02:24,660 --> 00:02:26,560
+How much is an activity going to cost?
+
+40
+00:02:27,100 --> 00:02:29,550
+First, you know, we're down to the
+granular level.
+
+41
+00:02:29,860 --> 00:02:31,640
+How much is each activity going to cost?
+
+42
+00:02:31,680 --> 00:02:35,900
+And then based on those activities,
+We may have identified some risks,
+
+43
+00:02:36,420 --> 00:02:39,670
+and so we're going to put some money aside
+in contingency reserve.
+
+44
+00:02:40,160 --> 00:02:43,986
+Remember, contingency
+reserves are for known
+
+45
+00:02:43,987 --> 00:02:47,120
+risks, risks that may or may not occur.
+
+46
+00:02:47,280 --> 00:02:50,057
+I mean, it's a risk, it's an unknown,
+it may or may not occur.
+
+47
+00:02:50,140 --> 00:02:52,998
+But we may put some
+money aside in contingency
+
+48
+00:02:53,078 --> 00:02:55,600
+reserve in case, you
+know, in case it occurs.
+
+49
+00:02:56,480 --> 00:02:58,580
+So anyway, contingency
+reserves are going to be
+
+50
+00:02:58,581 --> 00:03:01,191
+discussed in more detail in
+the risk management section.
+
+51
+00:03:02,820 --> 00:03:08,840
+now based on these activity estimates and
+contingency reserve right we're going to
+
+52
+00:03:08,841 --> 00:03:13,920
+add those up that becomes our work package
+estimate remember work packages are made
+
+53
+00:03:13,921 --> 00:03:20,620
+up of many activities also remember just
+as a review the work breakdown structure
+
+54
+00:03:20,621 --> 00:03:27,300
+goes down as far as the work package and
+it's a separate process altogether as part
+
+55
+00:03:27,301 --> 00:03:31,260
+of schedule management where we're
+actually taking each work package and
+
+56
+00:03:31,261 --> 00:03:35,020
+further breaking it down, further
+decomposing it into individual activities.
+
+57
+00:03:35,380 --> 00:03:39,280
+So the activities themselves are not part
+of the work breakdown structure.
+
+58
+00:03:40,060 --> 00:03:43,580
+The work packages are, but in order to
+determine how much is the work package
+
+59
+00:03:43,581 --> 00:03:46,481
+going to cost, you need to know the cost
+of the activities.
+
+60
+00:03:47,340 --> 00:03:51,462
+All right, so the activity
+estimate then plus a contingency
+
+61
+00:03:51,463 --> 00:03:54,220
+reserves, that becomes
+our work package estimate.
+
+62
+00:03:54,980 --> 00:03:58,920
+Now based on our work packages,
+we may have identified some additional
+
+63
+00:03:58,940 --> 00:04:02,840
+risks, in which case then we're going to
+put some money in contingency reserve,
+
+64
+00:04:03,000 --> 00:04:05,200
+some additional money in contingency
+reserve.
+
+65
+00:04:06,040 --> 00:04:08,787
+Add up all of our work
+packages and these contingency
+
+66
+00:04:08,788 --> 00:04:11,800
+reserves, that becomes
+our control account estimate.
+
+67
+00:04:12,540 --> 00:04:17,000
+Then you basically continue rolling up
+each layer of the work breakdown structure
+
+68
+00:04:17,001 --> 00:04:20,640
+until you get to the very top of
+the work breakdown structure,
+
+69
+00:04:20,641 --> 00:04:25,800
+that first box on the WBS,
+and that is the cost baseline.
+
+70
+00:04:26,340 --> 00:04:28,440
+The cost of that then is the cost
+baseline.
+
+71
+00:04:30,080 --> 00:04:34,880
+Now management then, senior management are
+going to add in management reserves and
+
+72
+00:04:34,881 --> 00:04:38,660
+this now becomes the overall project
+budget, right?
+
+73
+00:04:38,840 --> 00:04:41,490
+Could be called the project budget or the
+cost budget.
+
+74
+00:04:42,660 --> 00:04:44,010
+The overall project budget.
+
+75
+00:04:45,060 --> 00:04:48,060
+Now, something very, very important to
+understand here.
+
+76
+00:04:48,900 --> 00:04:53,280
+Remember, project managers are responsible
+for contingency reserves.
+
+77
+00:04:53,740 --> 00:04:57,840
+The cost baseline includes contingency
+reserves.
+
+78
+00:04:59,220 --> 00:05:02,540
+Senior management are responsible for
+management reserves.
+
+79
+00:05:03,040 --> 00:05:06,360
+Project managers are not responsible for
+management reserves.
+
+80
+00:05:07,480 --> 00:05:11,760
+So the project manager is responsible for
+the cost baseline.
+
+81
+00:05:12,880 --> 00:05:17,820
+The project manager is not responsible for
+the entire project budget.
+
+82
+00:05:18,440 --> 00:05:20,844
+They're not responsible for the entire
+
+83
+00:05:20,845 --> 00:05:23,700
+budget that includes the
+management reserves.
+
+84
+00:05:23,900 --> 00:05:30,900
+They are responsible for the cost baseline
+that includes the contingency reserve.
+
+85
+00:05:31,200 --> 00:05:33,180
+So always, always remember that.
+
+86
+00:05:34,220 --> 00:05:37,425
+And just as another quick
+review, remember, there are
+
+87
+00:05:37,426 --> 00:05:40,381
+three baselines that make up
+the project management plan.
+
+88
+00:05:40,920 --> 00:05:45,420
+Right, you have the scope baseline,
+schedule baseline, and the cost baseline.
+
+89
+00:05:46,200 --> 00:05:48,180
+And this one is the cost baseline.
+
+90
+00:05:49,140 --> 00:05:52,980
+And the cost baseline then is the,
+basically, the approved budget,
+
+91
+00:05:53,580 --> 00:05:55,430
+the approved project managers budget.
+
+92
+00:05:55,920 --> 00:06:01,620
+which includes contingency reserves,
+but does not include management reserves.
+
+93
+00:06:02,000 --> 00:06:05,320
+That is very, very important to understand
+for the PNP exam.
+
+94
+00:06:06,080 --> 00:06:09,180
+So this is the basic thing of cost
+aggregation.
+
+95
+00:06:09,500 --> 00:06:14,800
+As I said, it does basically finding
+individual or estimating the cost of
+
+96
+00:06:14,801 --> 00:06:19,100
+individual components, adding those up to
+come up with the overall budget,
+
+97
+00:06:19,480 --> 00:06:22,140
+right, the overall cost or the overall
+cost baseline.
+
+98
+00:06:22,880 --> 00:06:23,713
+Okay.
+

@@ -1,0 +1,392 @@
+﻿1
+00:00:05,920 --> 00:00:09,184
+Okay, so in this video, I
+just want to briefly talk about
+
+2
+00:00:09,185 --> 00:00:12,497
+organizational change management
+and just a couple of theories
+
+3
+00:00:12,498 --> 00:00:15,354
+involved in organizational
+change management.
+
+4
+00:00:15,820 --> 00:00:22,980
+Now, this section, organizational change
+management, is very different to change
+
+5
+00:00:22,981 --> 00:00:26,240
+control that we've been talking about,
+right?
+
+6
+00:00:26,680 --> 00:00:31,740
+And the integrated change control process,
+that was part of integration management.
+
+7
+00:00:31,741 --> 00:00:32,574
+Right.
+
+8
+00:00:32,840 --> 00:00:36,800
+So change control is about the project.
+
+9
+00:00:37,400 --> 00:00:40,920
+We need to properly control all of the
+changes on our project.
+
+10
+00:00:41,940 --> 00:00:44,240
+So somebody's identified the need for a
+change.
+
+11
+00:00:44,340 --> 00:00:47,090
+We have to do an impact analysis and so on
+and so forth.
+
+12
+00:00:48,340 --> 00:00:50,340
+This is not what this is talking about.
+
+13
+00:00:51,400 --> 00:00:55,540
+Here, we're talking about organizational
+change management.
+
+14
+00:00:56,680 --> 00:01:00,680
+So change within the entire organization
+as a whole.
+
+15
+00:01:00,980 --> 00:01:06,600
+So really, really, really this falls under
+business environment domain, right?
+
+16
+00:01:06,740 --> 00:01:09,960
+So it's talking about the organization as
+a whole, right?
+
+17
+00:01:10,080 --> 00:01:12,960
+So changes that are made within the
+organization.
+
+18
+00:01:14,080 --> 00:01:17,920
+And so really it's part of conflict.
+
+19
+00:01:18,120 --> 00:01:23,900
+I mean, we can talk about this as part of
+a conflict, right, because they understand
+
+20
+00:01:23,901 --> 00:01:29,000
+something important, and that is generally
+people resist change.
+
+21
+00:01:29,800 --> 00:01:31,657
+And it depends on the organization
+obviously.
+
+22
+00:01:31,740 --> 00:01:36,440
+but as a general rule, people are going to
+resist change, and therefore it can be a
+
+23
+00:01:36,441 --> 00:01:41,440
+source of conflict, especially in an
+organization where the average tenure is,
+
+24
+00:01:41,600 --> 00:01:42,433
+say, 20 years.
+
+25
+00:01:42,700 --> 00:01:45,468
+The average tenure of
+their employees is 20 years,
+
+26
+00:01:45,469 --> 00:01:48,040
+and now you want to
+institute a big, huge change.
+
+27
+00:01:48,840 --> 00:01:50,690
+There's going to be resistance there.
+
+28
+00:01:51,100 --> 00:01:57,194
+So, if there are any organizational changes,
+they need to be properly controlled.
+
+29
+00:01:57,780 --> 00:01:58,100
+Right?
+
+30
+00:01:58,101 --> 00:02:05,360
+So rather than making one big,
+huge, large change to the organisation,
+
+31
+00:02:05,520 --> 00:02:07,446
+I mean, whatever it is,
+you know, I mean, we can
+
+32
+00:02:07,447 --> 00:02:10,041
+potentially even change the
+culture of the organisation.
+
+33
+00:02:10,960 --> 00:02:14,260
+A lot of times it's better to make small
+incremental changes.
+
+34
+00:02:15,060 --> 00:02:15,180
+Right.
+
+35
+00:02:15,220 --> 00:02:18,920
+There's a simple example going from a
+private company to a public company.
+
+36
+00:02:19,500 --> 00:02:22,180
+That's a huge, huge change to your
+organisation.
+
+37
+00:02:23,180 --> 00:02:25,700
+Employees are going to resist that,
+right?
+
+38
+00:02:25,701 --> 00:02:28,080
+Because they're going to say, oh,
+a lot of the benefits.
+
+39
+00:02:28,100 --> 00:02:32,620
+I have, they might be going away,
+so, you know, so, you know, everything is
+
+40
+00:02:32,621 --> 00:02:34,900
+about the shareholder and so on and so
+forth.
+
+41
+00:02:35,720 --> 00:02:38,218
+So people generally resist change, right,
+
+42
+00:02:38,219 --> 00:02:42,020
+when it comes to
+organizational change, right?
+
+43
+00:02:42,080 --> 00:02:44,220
+So it needs to be properly controlled.
+
+44
+00:02:45,380 --> 00:02:48,760
+Now, there are two basic theories that you
+just need to be aware of.
+
+45
+00:02:48,880 --> 00:02:51,820
+There's something very new that's been
+added to the exam.
+
+46
+00:02:52,940 --> 00:02:59,660
+One of them is this one called the Lewin
+McKinsey 7S model and the 7S and then
+
+47
+00:02:59,661 --> 00:03:05,960
+stands for strategy structure systems
+shared values style staff and skills and
+
+48
+00:03:05,961 --> 00:03:11,180
+again you don't need to know these in any
+amount of detail right just be aware that
+
+49
+00:03:11,181 --> 00:03:16,440
+this is one of the models right one of the
+change management theory models right
+
+50
+00:03:16,441 --> 00:03:20,469
+Lewin McKinsey seven seven
+S model right so strategy plan
+
+51
+00:03:20,470 --> 00:03:23,500
+for building and maintaining
+a competitive advantage.
+
+52
+00:03:23,920 --> 00:03:25,317
+Why are we doing this change?
+
+53
+00:03:25,400 --> 00:03:27,077
+What is the purpose of this change?
+
+54
+00:03:27,160 --> 00:03:29,840
+The structure, how is a company organized?
+
+55
+00:03:30,460 --> 00:03:34,600
+So that can determine, you know,
+how we're going to implement the change.
+
+56
+00:03:35,260 --> 00:03:40,080
+Also, what kind of systems are there,
+daily activities that staff use to do
+
+57
+00:03:40,081 --> 00:03:43,820
+their work or daily tools that staff used
+to do their work.
+
+58
+00:03:44,500 --> 00:03:49,280
+And then some of the shared values of the
+organization, right, the core values,
+
+59
+00:03:49,740 --> 00:03:51,520
+culture, work ethics and so and so forth.
+
+60
+00:03:51,540 --> 00:03:57,680
+Again, how is that going to impact how we
+will implement the change?
+
+61
+00:03:58,440 --> 00:04:01,940
+In some organisation, especially small
+start-up companies, for example,
+
+62
+00:04:02,200 --> 00:04:04,100
+startup companies are always changing.
+
+63
+00:04:04,520 --> 00:04:06,370
+It's constantly, constantly changing.
+
+64
+00:04:06,820 --> 00:04:10,540
+So employees in a startup company,
+they're expecting change.
+
+65
+00:04:11,120 --> 00:04:13,070
+So their whole culture is about change.
+
+66
+00:04:13,980 --> 00:04:18,280
+Whereas a company that's been around for
+many, many decades, right?
+
+67
+00:04:18,281 --> 00:04:21,357
+And like I said, the
+average tenure is 20 years,
+
+68
+00:04:21,358 --> 00:04:24,634
+then they're going to resist major change.
+
+69
+00:04:24,820 --> 00:04:29,080
+That is going to impact how an
+organization is going to handle a major
+
+70
+00:04:29,081 --> 00:04:31,731
+change like that, I made a change to the
+organization.
+
+71
+00:04:31,900 --> 00:04:35,480
+And then styles of leadership,
+right, and then the employees themselves.
+
+72
+00:04:36,240 --> 00:04:41,980
+So, you know, the demeanor and the
+acceptance or non-acceptance of employees.
+
+73
+00:04:42,820 --> 00:04:45,960
+So staff, skill sets, and so and so forth.
+
+74
+00:04:48,280 --> 00:04:49,380
+Now that's one theory.
+
+75
+00:04:49,820 --> 00:04:52,920
+Another theory is something called Cotter
+Theory, right?
+
+76
+00:04:53,040 --> 00:04:54,690
+And this is an eight-step theory.
+
+77
+00:04:54,840 --> 00:04:56,520
+And again, just be aware of it.
+
+78
+00:04:57,060 --> 00:04:59,460
+You don't need to know any huge amount of
+detail.
+
+79
+00:04:59,820 --> 00:05:04,340
+So the eight-steps end, create a sense of
+urgency, build a guiding coalition,
+
+80
+00:05:04,860 --> 00:05:09,580
+form a strategic vision, enlist a
+volunteer army, enable action by removing
+
+81
+00:05:09,581 --> 00:05:15,080
+barriers, generate short-term wins,
+sustain acceleration, institute change.
+
+82
+00:05:15,380 --> 00:05:17,557
+Again, you don't need to know these in any
+detail.
+
+83
+00:05:17,640 --> 00:05:19,720
+Just know that These are the basic steps.
+

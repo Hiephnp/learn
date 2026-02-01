@@ -1,0 +1,582 @@
+﻿1
+00:00:06,010 --> 00:00:10,403
+Okay, so in this video, we're
+going to be talking about another
+
+2
+00:00:10,404 --> 00:00:13,590
+important quality management
+tool called Control Charts.
+
+3
+00:00:14,790 --> 00:00:17,795
+Now, Control Chart is used to show whether
+
+4
+00:00:17,796 --> 00:00:20,904
+or not a process is
+stable and predictable.
+
+5
+00:00:21,610 --> 00:00:25,450
+It's used a lot in manufacturing and
+medical devices and various other
+
+6
+00:00:25,451 --> 00:00:28,059
+industries, but always
+it's showing whether
+
+7
+00:00:28,060 --> 00:00:30,764
+or not a process is
+stable and predictable.
+
+8
+00:00:31,110 --> 00:00:33,667
+So let's just say we're in a
+manufacturing environment,
+
+9
+00:00:33,668 --> 00:00:37,170
+and we are manufacturing
+some drink bottles, right?
+
+10
+00:00:37,250 --> 00:00:40,500
+We've just got some bottles and we're
+manufacturing these bottles.
+
+11
+00:00:40,770 --> 00:00:43,220
+These bottles are coming out of a
+production line.
+
+12
+00:00:43,450 --> 00:00:45,500
+And they all have to be a certain height.
+
+13
+00:00:45,770 --> 00:00:48,820
+Let's just say for the sake of argument,
+maybe 20 centimetres.
+
+14
+00:00:49,310 --> 00:00:53,050
+As long as they're exactly 20 centimetres,
+then that'd be perfect.
+
+15
+00:00:53,630 --> 00:00:55,880
+However, they won't be exactly 20
+centimetres.
+
+16
+00:00:56,110 --> 00:00:59,150
+Some of them may be slightly above,
+maybe slightly below.
+
+17
+00:00:59,630 --> 00:01:04,210
+But as long as they're within an
+acceptable limit, then we'll say,
+
+18
+00:01:04,330 --> 00:01:05,407
+you know, that's fine.
+
+19
+00:01:05,490 --> 00:01:06,890
+That'll be acceptable to us.
+
+20
+00:01:08,190 --> 00:01:14,570
+So, let's say they're 20.01 centimeters or
+19.99 centimeters.
+
+21
+00:01:14,770 --> 00:01:19,490
+As long as they're within that range,
+then, you know, we will be happy with that.
+
+22
+00:01:19,610 --> 00:01:20,810
+We'll be fine with that.
+
+23
+00:01:21,110 --> 00:01:24,490
+So we will plot our results in a control
+chart.
+
+24
+00:01:25,070 --> 00:01:27,970
+So in a control chart, then, you have a
+mean line.
+
+25
+00:01:28,810 --> 00:01:32,170
+In this case, our mean will be 20
+centimeters.
+
+26
+00:01:33,150 --> 00:01:33,150
+Right.
+
+27
+00:01:33,870 --> 00:01:37,187
+So we're going to take a laser measure of
+these water bottles, right?
+
+28
+00:01:37,270 --> 00:01:39,247
+These batches of bottles that are coming
+out.
+
+29
+00:01:39,330 --> 00:01:40,907
+We're going to take a laser measure.
+
+30
+00:01:40,990 --> 00:01:44,204
+As long as they are, you
+know, near 20, if they're on 20
+
+31
+00:01:44,205 --> 00:01:47,170
+centimeters or near 20
+centimeters, then that'll be fine.
+
+32
+00:01:47,610 --> 00:01:51,450
+We're going to plot, right, we're going to
+see some data points on the mean,
+
+33
+00:01:51,870 --> 00:01:53,970
+some data points above and below the mean.
+
+34
+00:01:54,910 --> 00:02:00,150
+As long as they are within an acceptable
+limit, then we'll be happy.
+
+35
+00:02:00,530 --> 00:02:03,130
+Those limits are known as control.
+
+36
+00:02:03,150 --> 00:02:03,983
+limits.
+
+37
+00:02:04,310 --> 00:02:07,060
+You have an upper control limit and a low
+control limit.
+
+38
+00:02:07,570 --> 00:02:12,730
+So in my example then, our mean would be
+the 20 centimetres as I said, then the
+
+39
+00:02:12,731 --> 00:02:18,029
+upper control limit would be say
+20.01 centimeters, low control limit 19.
+
+40
+00:02:18,030 --> 00:02:19,004
+99 centimeters.
+
+41
+00:02:19,470 --> 00:02:24,490
+As long as they're within the upper and
+low control limit, all these data points,
+
+42
+00:02:24,910 --> 00:02:26,918
+as long as they're within the
+upper and low control limit,
+
+43
+00:02:26,919 --> 00:02:30,870
+we will say that the process
+is within statistical control.
+
+44
+00:02:31,770 --> 00:02:35,090
+And that's what statistics is The
+statistical control means, it means they
+
+45
+00:02:35,091 --> 00:02:37,510
+are within the upper and lower control
+limit.
+
+46
+00:02:39,170 --> 00:02:46,470
+Now the moment we see one single date
+point, one data point either above the
+
+47
+00:02:46,471 --> 00:02:49,915
+upper control limit or
+below the lower control limit,
+
+48
+00:02:49,916 --> 00:02:53,750
+then we will say that the
+process has gone out of control.
+
+49
+00:02:54,250 --> 00:03:00,450
+So we have one batch of bottles that are
+greater than 20.01 centimeters or less
+
+50
+00:03:00,451 --> 00:03:05,870
+than 19.99 centimeters, then the process
+has gone out of control.
+
+51
+00:03:06,650 --> 00:03:09,370
+And in simple terminology, who needs to
+investigate?
+
+52
+00:03:09,850 --> 00:03:12,910
+Basically, operator of the machinery needs
+to investigate.
+
+53
+00:03:13,090 --> 00:03:16,666
+It could just be that the
+machinery has gone out of
+
+54
+00:03:16,667 --> 00:03:19,621
+calibration, but they're
+the first point of contact.
+
+55
+00:03:20,810 --> 00:03:23,718
+Now, there is another
+limit that you need to know
+
+56
+00:03:23,719 --> 00:03:26,370
+about, something called
+the specification limit.
+
+57
+00:03:27,030 --> 00:03:28,650
+So the lining green here.
+
+58
+00:03:28,790 --> 00:03:31,910
+They have an upper spec limit and a lower
+spec limit.
+
+59
+00:03:32,970 --> 00:03:35,550
+Now, let's talk about where these limits
+come from.
+
+60
+00:03:36,470 --> 00:03:41,290
+So the upper and the lower specification
+limit, they are set by the customer.
+
+61
+00:03:41,510 --> 00:03:42,960
+That comes from the customer.
+
+62
+00:03:43,050 --> 00:03:46,050
+So think of that as the customer's
+requirements, if you like.
+
+63
+00:03:47,950 --> 00:03:50,891
+Whereas the control
+limit, the upper and lower
+
+64
+00:03:50,892 --> 00:03:54,264
+control limit, is set
+by the process itself.
+
+65
+00:03:54,590 --> 00:03:58,410
+These are calculated by the team and set
+by the process.
+
+66
+00:03:58,411 --> 00:04:05,090
+And the standard precision level that the
+upper and low control limit are set at is
+
+67
+00:04:05,091 --> 00:04:08,769
+three standard deviations,
+plus and minus three
+
+68
+00:04:08,770 --> 00:04:12,384
+sigma, plus and minus
+three standard deviations.
+
+69
+00:04:12,610 --> 00:04:14,410
+That's the standard precision level.
+
+70
+00:04:14,710 --> 00:04:18,630
+Now, different organizations, different
+industries may set it at different
+
+71
+00:04:18,631 --> 00:04:21,561
+precision levels, but for the
+purpose of the PMP exam,
+
+72
+00:04:21,562 --> 00:04:24,307
+you need to know it's set up
+plus and minus three sigma.
+
+73
+00:04:24,390 --> 00:04:29,570
+I had said that any data point within the
+upper and low control limit, is within
+
+74
+00:04:29,571 --> 00:04:33,170
+statistical control, but there are
+exceptions.
+
+75
+00:04:33,750 --> 00:04:37,028
+In fact, there are many,
+many exceptions, but there's
+
+76
+00:04:37,029 --> 00:04:39,911
+only one exception that you
+need to know for the exam.
+
+77
+00:04:40,270 --> 00:04:44,142
+These exceptions are known
+as zone tests, and the only zone
+
+78
+00:04:44,143 --> 00:04:47,950
+tests that you need to know
+is this one called the Rule of 7.
+
+79
+00:04:48,750 --> 00:04:52,443
+In reality, there's hundreds
+of different zone tests, but
+
+80
+00:04:52,444 --> 00:04:55,647
+this is the only one that you
+need to know for the P&P exam.
+
+81
+00:04:55,730 --> 00:04:59,850
+And what the Rule of 7 is stating,
+it's stating that if you see seven
+
+82
+00:04:59,851 --> 00:05:05,890
+consecutive data points above
+the mean or seven consecutive
+
+83
+00:05:05,891 --> 00:05:12,590
+data points below the mean,
+then the process is out of control.
+
+84
+00:05:13,230 --> 00:05:15,180
+We need to investigate what's going on.
+
+85
+00:05:16,010 --> 00:05:17,850
+And the key is a word consecutive.
+
+86
+00:05:18,550 --> 00:05:24,110
+Seven consecutive above the mean or seven
+consecutive below the mean.
+
+87
+00:05:25,130 --> 00:05:27,701
+Always look out for
+that word or words that
+
+88
+00:05:27,702 --> 00:05:30,804
+describe that seven in a
+row or seven consecutive.
+
+89
+00:05:31,510 --> 00:05:35,670
+Having seven data points above and below
+the mean is acceptable.
+
+90
+00:05:36,290 --> 00:05:38,755
+Seven data points above and
+below means you've got one
+
+91
+00:05:38,838 --> 00:05:41,320
+above, one below, one
+above, one below seven times.
+
+92
+00:05:42,230 --> 00:05:43,063
+That's fine.
+
+93
+00:05:44,030 --> 00:05:45,630
+And that's what we're expecting.
+
+94
+00:05:46,110 --> 00:05:50,830
+It's when you see the word consecutive or
+in a row, you know, worse to that effect,
+
+95
+00:05:51,370 --> 00:05:56,730
+seven consecutive data points above the
+mean or seven consecutive below the mean,
+
+96
+00:05:57,330 --> 00:05:58,730
+then we need to investigate.
+
+97
+00:05:59,450 --> 00:06:02,670
+It could be that the process itself is
+trying to set a new mean.
+
+98
+00:06:03,110 --> 00:06:08,170
+Seven batches of bottles have come out
+that is above the, above the mean.
+
+99
+00:06:09,450 --> 00:06:12,670
+So it could be that the process is trying
+to set a new mean.
+
+100
+00:06:12,830 --> 00:06:15,005
+It's trying to set bigger
+and bigger bottles, or
+
+101
+00:06:15,006 --> 00:06:17,810
+rather it's trying to make
+bigger and bigger bottles.
+
+102
+00:06:18,610 --> 00:06:21,905
+And eventually, if we're, If
+you don't do anything about
+
+103
+00:06:21,906 --> 00:06:24,811
+it now, we might end up
+going completely out of control.
+
+104
+00:06:25,650 --> 00:06:26,950
+So we need to investigate.
+
+105
+00:06:28,550 --> 00:06:35,070
+Now, just add on a couple of additional
+terms here, any data points that is within
+
+106
+00:06:35,071 --> 00:06:41,370
+the upper and lower control limit,
+these data points are known as a common
+
+107
+00:06:41,371 --> 00:06:44,530
+cause variance, also known as a random
+cause.
+
+108
+00:06:45,850 --> 00:06:49,450
+So there's anything within the red here,
+within the red line, upper and low control
+
+109
+00:06:49,451 --> 00:06:52,710
+limit, they're known as a common cause
+variance or a random cause.
+
+110
+00:06:53,610 --> 00:06:57,651
+Any data point that is above
+the upper control limit or below
+
+111
+00:06:57,652 --> 00:07:01,340
+the lower control limit, they're
+known as a special cause
+
+112
+00:07:01,341 --> 00:07:05,024
+variance, also known
+as an assignable course.
+
+113
+00:07:05,510 --> 00:07:10,910
+All right, so everything that you need to
+know regarding control charts for the PMP
+
+114
+00:07:10,911 --> 00:07:14,670
+exam is pretty much on this diagram here,
+right?
+
+115
+00:07:15,310 --> 00:07:17,721
+Now, naturally, I know
+many of you that are
+
+116
+00:07:17,722 --> 00:07:19,610
+watching this video, you may use control.
+
+117
+00:07:19,630 --> 00:07:21,270
+charts in your day-to-day work?
+
+118
+00:07:21,830 --> 00:07:25,050
+I just know that you probably
+know much more about control
+
+119
+00:07:25,051 --> 00:07:27,750
+charts than what you need
+to know for the PMP exam.
+
+120
+00:07:28,670 --> 00:07:31,406
+But what I just said
+here, this really is about
+
+121
+00:07:31,449 --> 00:07:33,931
+as much as what you need for the PNP exam.
+

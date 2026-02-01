@@ -1,0 +1,519 @@
+﻿1
+00:00:05,920 --> 00:00:11,320
+Okay, so in this video then, we are going
+to cover the PIMBOC guide processes of
+
+2
+00:00:11,321 --> 00:00:14,920
+cost management as relates to PIMBOC
+version 6.
+
+3
+00:00:15,780 --> 00:00:22,320
+Okay, so in PIMBOC, under this section,
+cost management, there are four processes.
+
+4
+00:00:23,260 --> 00:00:27,310
+These are the four processes, they fall
+under planning and monitoring controlling.
+
+5
+00:00:28,040 --> 00:00:31,016
+Now the very first
+process then that PMI talks
+
+6
+00:00:31,017 --> 00:00:34,174
+about is something called
+plan cost management.
+
+7
+00:00:34,900 --> 00:00:41,940
+and just like any of the knowledge areas,
+right, so if you look at the process grid,
+
+8
+00:00:42,020 --> 00:00:46,300
+if you look at the process map,
+right, the very first process in planning
+
+9
+00:00:46,301 --> 00:00:49,385
+is always going to be plan
+something management,
+
+10
+00:00:49,386 --> 00:00:52,097
+right, and that's something
+being the knowledge area.
+
+11
+00:00:52,180 --> 00:00:55,180
+So in this case then, cost management is a
+knowledge area.
+
+12
+00:00:55,300 --> 00:00:58,200
+So the first process then is plan cost
+management.
+
+13
+00:00:58,760 --> 00:01:02,500
+And the artifact that we're creating,
+the document that we're creating,
+
+14
+00:01:03,120 --> 00:01:03,840
+right, in plan.
+
+15
+00:01:03,860 --> 00:01:08,020
+cost management or in this process called
+plan cost management, right?
+
+16
+00:01:08,760 --> 00:01:13,040
+For PMI's purposes or for PIMBOC guide
+purposes, they're known as outputs.
+
+17
+00:01:13,540 --> 00:01:17,780
+So the output that we're creating is
+something called the cost management plan.
+
+18
+00:01:18,340 --> 00:01:21,337
+The cost management plan is a document,
+a very important document.
+
+19
+00:01:21,420 --> 00:01:22,270
+It's an artifact.
+
+20
+00:01:23,000 --> 00:01:23,080
+Right.
+
+21
+00:01:23,200 --> 00:01:26,100
+So again, any artifact is a document that
+you are creating.
+
+22
+00:01:27,160 --> 00:01:32,160
+And in the old PIMBOC six terminology,
+they used to call it output.
+
+23
+00:01:32,161 --> 00:01:34,800
+It was an output of plan cost management.
+
+24
+00:01:35,360 --> 00:01:38,059
+And there's a separate
+video on the cost management
+
+25
+00:01:38,060 --> 00:01:40,960
+plan, and any management
+plan is documenting procedures.
+
+26
+00:01:41,220 --> 00:01:45,300
+So the cost management plan is documenting
+how we're going to estimate the cost and
+
+27
+00:01:45,301 --> 00:01:47,451
+come up with the budget and so and so
+forth.
+
+28
+00:01:47,560 --> 00:01:49,880
+Like said, separate video on that
+altogether.
+
+29
+00:01:51,240 --> 00:01:54,690
+Then the next process under planning is
+this one called estimate cost.
+
+30
+00:01:55,040 --> 00:01:59,820
+And estimate cost refers to estimating the
+costs of individual activities,
+
+31
+00:02:00,660 --> 00:02:03,240
+individual components of the project,
+right?
+
+32
+00:02:03,480 --> 00:02:05,140
+Or individual work packages.
+
+33
+00:02:06,020 --> 00:02:10,100
+So before you can come up with the overall
+budget for the project, we need to know
+
+34
+00:02:10,101 --> 00:02:12,700
+how much each individual component is
+going to cost.
+
+35
+00:02:13,300 --> 00:02:16,637
+And then we're going to add those up to
+come up with the overall budget.
+
+36
+00:02:16,720 --> 00:02:20,140
+And that's what the estimate cost process
+refers to, right?
+
+37
+00:02:20,500 --> 00:02:23,860
+It's coming up with a cost of individual
+activities.
+
+38
+00:02:24,120 --> 00:02:27,806
+And in fact, the output
+of estimate cost, the old
+
+39
+00:02:27,807 --> 00:02:31,074
+pinbox six output was
+the activity cost estimate.
+
+40
+00:02:32,440 --> 00:02:36,460
+And then the other process and the next
+process is determined budget.
+
+41
+00:02:37,440 --> 00:02:41,795
+So once we have estimated
+the cost of individual activities,
+
+42
+00:02:41,796 --> 00:02:45,500
+now we can come up with the
+overall budget for the project.
+
+43
+00:02:46,160 --> 00:02:48,057
+And that's what that determined budget.
+
+44
+00:02:48,140 --> 00:02:52,800
+We first have to figure out cost of
+individuals, then aggregate those,
+
+45
+00:02:53,600 --> 00:02:55,950
+add those up to come up with the overall
+budget.
+
+46
+00:02:56,320 --> 00:03:02,160
+For PMI's purposes, the project manager's
+budget is known as the cost budget.
+
+47
+00:03:02,180 --> 00:03:03,013
+baseline.
+
+48
+00:03:03,320 --> 00:03:09,700
+So it was a cost baseline that is considered
+as the output of determined budget.
+
+49
+00:03:10,040 --> 00:03:12,340
+And the cost baseline obviously is an
+artifact.
+
+50
+00:03:13,040 --> 00:03:14,700
+It's an important artifact.
+
+51
+00:03:15,400 --> 00:03:18,100
+And it's considered as the output of
+determined budget.
+
+52
+00:03:18,320 --> 00:03:21,400
+And again, separate video on those as
+well.
+
+53
+00:03:21,560 --> 00:03:25,900
+I had separate videos on cost aggregation,
+right, which is the tool and technique of
+
+54
+00:03:25,901 --> 00:03:30,863
+estimate cost, and then
+separate video on cost baseline,
+
+55
+00:03:30,864 --> 00:03:34,420
+which is considered an
+output of determined budget.
+
+56
+00:03:35,340 --> 00:03:39,660
+And the cost baseline is a project
+manager's budget that includes contingency
+
+57
+00:03:39,661 --> 00:03:43,360
+reserves, right, does not include
+management reserves.
+
+58
+00:03:44,240 --> 00:03:46,595
+So contingency reserves
+are for known risks,
+
+59
+00:03:46,596 --> 00:03:49,474
+the responsibility of the project manager.
+
+60
+00:03:49,960 --> 00:03:54,594
+Management reserves are for complete
+unknowns responsibility of senior management.
+
+61
+00:03:54,800 --> 00:03:57,397
+Project manager is not responsible for
+management reserves.
+
+62
+00:03:57,480 --> 00:03:59,680
+They're responsible for contingency
+reserves.
+
+63
+00:03:59,980 --> 00:04:04,300
+Contingency reserves are
+included in the cost baseline,
+
+64
+00:04:04,301 --> 00:04:07,181
+which is basically an
+output of determined budget.
+
+65
+00:04:08,840 --> 00:04:10,940
+So these are the planning processes.
+
+66
+00:04:12,160 --> 00:04:15,900
+In monitoring controlling, then,
+the process is called control costs.
+
+67
+00:04:16,620 --> 00:04:19,017
+And remember, what is monitoring and
+controlling?
+
+68
+00:04:19,100 --> 00:04:20,977
+Overall, what is monitoring controlling?
+
+69
+00:04:21,060 --> 00:04:25,640
+You are comparing actual results from
+executing with your plan.
+
+70
+00:04:26,300 --> 00:04:27,850
+That is monitoring controlling.
+
+71
+00:04:28,360 --> 00:04:28,420
+Right.
+
+72
+00:04:28,600 --> 00:04:32,520
+So if you're comparing actual results with
+your plan, and we're talking about cost
+
+73
+00:04:32,521 --> 00:04:36,800
+management, essentially it's referring to,
+are we over budget or under budget?
+
+74
+00:04:38,080 --> 00:04:40,380
+How much money is left to spend on the
+project?
+
+75
+00:04:40,900 --> 00:04:44,950
+How much over budget or under budget are
+we going to be by the end of the project?
+
+76
+00:04:45,280 --> 00:04:48,120
+What cost performance have we been working
+at?
+
+77
+00:04:48,240 --> 00:04:51,361
+What cost performance do
+we need to achieve in order
+
+78
+00:04:51,362 --> 00:04:53,871
+to meet our original
+budget and so and so forth?
+
+79
+00:04:54,420 --> 00:04:57,264
+So these are all the
+earned value formulas that
+
+80
+00:04:57,265 --> 00:04:59,640
+we are going to be
+covering in a separate slide.
+
+81
+00:04:59,680 --> 00:05:03,400
+In fact, there's several separate slides
+where we are going to be covering these
+
+82
+00:05:03,401 --> 00:05:06,040
+earned value formulas and these earned
+value terms.
+
+83
+00:05:06,920 --> 00:05:11,380
+But all of those earned value formulas
+falls under this process here and this
+
+84
+00:05:11,381 --> 00:05:13,531
+process group called monitoring
+controlling.
+
+85
+00:05:13,640 --> 00:05:15,560
+And the process is control cost.
+
+86
+00:05:16,220 --> 00:05:18,180
+We are monitoring controlling our cost.
+
+87
+00:05:18,900 --> 00:05:20,920
+This is what we should have spent.
+
+88
+00:05:21,080 --> 00:05:21,620
+That's planning.
+
+89
+00:05:21,960 --> 00:05:24,337
+This is the estimate cost of individual
+activities.
+
+90
+00:05:24,420 --> 00:05:26,660
+and the overall budget for the project.
+
+91
+00:05:26,840 --> 00:05:28,137
+This is what we should have spent.
+
+92
+00:05:28,220 --> 00:05:30,370
+Executing is this is what we actually
+spent.
+
+93
+00:05:30,760 --> 00:05:33,460
+So you're comparing your actual results
+with your plan.
+
+94
+00:05:35,200 --> 00:05:37,090
+And then the difference is how much over
+
+95
+00:05:37,091 --> 00:05:38,980
+budget or under budget
+and so and so forth.
+
+96
+00:05:39,100 --> 00:05:42,234
+So all of the different
+formulas we're going to
+
+97
+00:05:42,235 --> 00:05:44,881
+be covering in the own
+value management videos.
+
+98
+00:05:45,520 --> 00:05:50,420
+Now, you might be asking, well,
+if we're comparing our plan with our
+
+99
+00:05:50,421 --> 00:05:54,300
+actual results in execute, how come
+there's no boxes in execute?
+
+100
+00:05:54,420 --> 00:05:56,370
+Why is there no processes in executing?
+
+101
+00:05:56,680 --> 00:06:01,180
+Well, a simple reason is because the
+executing process, remember from previous
+
+102
+00:06:01,181 --> 00:06:05,920
+video, the executing process is
+direct-and-managed project work.
+
+103
+00:06:06,320 --> 00:06:08,874
+The very first process
+in the process grid under
+
+104
+00:06:08,875 --> 00:06:11,500
+executing is called
+direct-in-managed project work.
+
+105
+00:06:12,080 --> 00:06:15,020
+That's where we get the actual results
+from.
+
+106
+00:06:15,620 --> 00:06:20,180
+So these are the old PIMBox 6 processes
+that make up part of PMI standards.
+
+107
+00:06:20,600 --> 00:06:23,804
+Still relevant, although
+we call them old, they
+
+108
+00:06:23,805 --> 00:06:27,074
+are still relevant for
+the current PNP exam.
+

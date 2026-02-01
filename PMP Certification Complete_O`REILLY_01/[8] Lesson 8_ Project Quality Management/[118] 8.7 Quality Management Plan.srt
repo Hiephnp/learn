@@ -1,0 +1,474 @@
+﻿1
+00:00:06,460 --> 00:00:08,910
+Let's talk about the quality management
+plan then.
+
+2
+00:00:09,960 --> 00:00:13,500
+Just like any management plan,
+any of the management plan, the quality
+
+3
+00:00:13,501 --> 00:00:16,020
+management plan is
+one of the subsidiary plans
+
+4
+00:00:16,021 --> 00:00:19,174
+that make up the project management plan.
+
+5
+00:00:19,260 --> 00:00:22,368
+So remember just as a
+review, the project management
+
+6
+00:00:22,369 --> 00:00:24,891
+plan is made up of
+subsidiary management plans.
+
+7
+00:00:25,080 --> 00:00:26,580
+It's made up of the baselines.
+
+8
+00:00:26,780 --> 00:00:29,230
+It's made up of some of the additional
+components.
+
+9
+00:00:29,760 --> 00:00:33,560
+So in this case then, we're talking about
+the subsidiary management plans,
+
+10
+00:00:33,740 --> 00:00:38,000
+which are, again, all of the management
+plan, such as scope management plan,
+
+11
+00:00:38,200 --> 00:00:41,160
+requirements management plan, cost
+management plan, etc.
+
+12
+00:00:42,160 --> 00:00:45,260
+One of those is this one here,
+the quality management plan.
+
+13
+00:00:45,920 --> 00:00:50,954
+And just like any management plan, is
+documenting procedures, is documenting how.
+
+14
+00:00:51,300 --> 00:00:56,950
+How are we going to plan,
+manage, monitor, and control
+
+15
+00:00:56,951 --> 00:01:00,620
+quality management process
+throughout the project?
+
+16
+00:01:01,300 --> 00:01:05,940
+So it's documenting the quality management
+procedures for the project, and it's going
+
+17
+00:01:05,941 --> 00:01:10,200
+to include procedures for both,
+quality control and quality assurance.
+
+18
+00:01:11,120 --> 00:01:14,520
+So remember, quality is not just testing
+the product.
+
+19
+00:01:14,740 --> 00:01:15,790
+That's just one part.
+
+20
+00:01:16,460 --> 00:01:19,560
+Quality is built into the entire project
+process.
+
+21
+00:01:20,100 --> 00:01:22,600
+It's making sure all procedures are being
+followed.
+
+22
+00:01:22,740 --> 00:01:26,880
+So the quality management plan then is
+going to be documenting how the policies,
+
+23
+00:01:27,160 --> 00:01:30,900
+procedures and guidelines will be
+implemented to achieve the quality
+
+24
+00:01:30,901 --> 00:01:35,258
+objective of the project is
+going to be describing the
+
+25
+00:01:35,259 --> 00:01:38,820
+quality standards and
+objectives that's going to be used.
+
+26
+00:01:39,780 --> 00:01:43,496
+So, ISO standards,
+6-Sigma standards, or, you
+
+27
+00:01:43,497 --> 00:01:47,040
+know, whatever standard
+is going to be used, right?
+
+28
+00:01:47,500 --> 00:01:50,620
+And how we're going to implement those
+standards, right?
+
+29
+00:01:50,760 --> 00:01:54,580
+How are we going to, how do we know that
+we're actually going to be following those
+
+30
+00:01:54,581 --> 00:01:56,981
+standards, building codes and so on and so
+forth?
+
+31
+00:01:57,220 --> 00:01:59,340
+So it's describing the procedures for
+that.
+
+32
+00:01:59,341 --> 00:01:59,540
+Right.
+
+33
+00:02:00,220 --> 00:02:02,060
+So also roles and responsibilities.
+
+34
+00:02:02,380 --> 00:02:03,880
+Who's going to be responsible?
+
+35
+00:02:04,140 --> 00:02:07,097
+What teams are going to be responsible for
+testing the product?
+
+36
+00:02:07,180 --> 00:02:10,300
+What teams are going to be responsible for
+the process?
+
+37
+00:02:10,520 --> 00:02:14,534
+Making sure that all of our
+procedures and all of our
+
+38
+00:02:14,535 --> 00:02:18,240
+product as well is in line
+with the appropriate standards.
+
+39
+00:02:18,820 --> 00:02:21,120
+So who is responsible for all of that?
+
+40
+00:02:21,460 --> 00:02:26,300
+That's also going to be documented here as
+well in the quality management plan.
+
+41
+00:02:26,940 --> 00:02:31,840
+Remember again, quality control and
+quality assurance.
+
+42
+00:02:33,000 --> 00:02:37,480
+Whenever we're coming up with quality,
+the quality management plan is going to
+
+43
+00:02:37,481 --> 00:02:42,360
+include procedures for both, testing the
+product, as well as testing the process.
+
+44
+00:02:44,120 --> 00:02:47,240
+Also things like quality management tools.
+
+45
+00:02:47,940 --> 00:02:50,640
+What quality management tools are we going
+to be using?
+
+46
+00:02:50,820 --> 00:02:52,174
+And we're going to be covering some of the
+
+47
+00:02:52,175 --> 00:02:54,794
+quality management
+tools in subsequent videos.
+
+48
+00:02:55,080 --> 00:02:57,430
+But one of those tools could be a quality
+audit.
+
+49
+00:02:57,600 --> 00:03:01,740
+So how often are we going to be going to
+be performing an audit, right?
+
+50
+00:03:01,780 --> 00:03:05,020
+And who's going to be responsible for the
+audit?
+
+51
+00:03:05,620 --> 00:03:06,620
+And so and so forth.
+
+52
+00:03:07,100 --> 00:03:09,954
+So again, all of these
+procedures are going to be
+
+53
+00:03:09,955 --> 00:03:12,494
+documented here in the
+quality management plan.
+
+54
+00:03:12,940 --> 00:03:15,523
+Then also including
+things like, for example,
+
+55
+00:03:15,524 --> 00:03:19,360
+non-conformance, what
+happens if we identify issues, right?
+
+56
+00:03:20,120 --> 00:03:21,720
+What happens if we have defects?
+
+57
+00:03:22,300 --> 00:03:24,000
+How do we handle that situation?
+
+58
+00:03:24,640 --> 00:03:27,620
+What's the procedures then for fixing
+defects?
+
+59
+00:03:28,060 --> 00:03:31,376
+What's the procedures
+for if we've identified
+
+60
+00:03:31,377 --> 00:03:34,054
+any corrective actions
+that need to be done?
+
+61
+00:03:34,340 --> 00:03:37,260
+Machines broken down, how do we handle
+that situation?
+
+62
+00:03:37,580 --> 00:03:39,580
+Or a process is not working correctly.
+
+63
+00:03:39,980 --> 00:03:41,580
+How do we handle that situation?
+
+64
+00:03:42,160 --> 00:03:45,080
+Plus also things like continuous
+improvement.
+
+65
+00:03:46,200 --> 00:03:48,850
+So what are the procedures for continuous
+improvement?
+
+66
+00:03:49,060 --> 00:03:51,900
+Somebody's identified that something needs
+to be improved.
+
+67
+00:03:51,901 --> 00:03:57,280
+then what are the procedures to implement
+those improvements?
+
+68
+00:03:58,560 --> 00:04:03,480
+So again, any non-conforming item is also
+going to be, or how we're going to deal
+
+69
+00:04:03,481 --> 00:04:06,083
+with any non-conforming
+item, is going to be
+
+70
+00:04:06,084 --> 00:04:08,634
+documented here in the
+quality management plan.
+
+71
+00:04:09,020 --> 00:04:11,980
+So whether it refers to a corrective
+action or a defect.
+
+72
+00:04:12,400 --> 00:04:14,550
+And then plus, obviously, preventive
+action.
+
+73
+00:04:14,680 --> 00:04:18,080
+I mean, how are we going to build quality
+into the product?
+
+74
+00:04:18,200 --> 00:04:22,280
+How are we going to build quality into the
+project, into the process.
+
+75
+00:04:23,400 --> 00:04:25,777
+Again, all about following appropriate
+standards.
+
+76
+00:04:25,860 --> 00:04:27,597
+What standards are we going to be
+following?
+
+77
+00:04:27,680 --> 00:04:31,040
+And how are we going to be following those
+standards?
+
+78
+00:04:31,580 --> 00:04:37,200
+So we're also going to be putting some
+quality metrics procedures in place as well.
+
+79
+00:04:37,360 --> 00:04:42,040
+We're going to be putting some quality
+metrics to determine how successful our
+
+80
+00:04:42,041 --> 00:04:46,740
+quality management process is,
+to determine the success of our quality
+
+81
+00:04:46,741 --> 00:04:51,460
+implementation, such as, for example,
+percentage of tasks, complete.
+
+82
+00:04:52,140 --> 00:04:55,580
+How many tasks have been completed over
+time?
+
+83
+00:04:55,620 --> 00:04:59,360
+Compared to how many we're expecting to be
+complete over time.
+
+84
+00:04:59,560 --> 00:05:01,860
+Number of defects over time.
+
+85
+00:05:02,040 --> 00:05:05,340
+The number of defects per week,
+or the number of defects per month,
+
+86
+00:05:05,500 --> 00:05:07,020
+are they going down over time?
+
+87
+00:05:07,120 --> 00:05:09,680
+Even the total downtime per period.
+
+88
+00:05:10,280 --> 00:05:12,030
+Down time of machines, for example.
+
+89
+00:05:13,280 --> 00:05:16,760
+Have the, so the downtime of machines per
+month?
+
+90
+00:05:16,761 --> 00:05:20,080
+Are they within tolerance limit?
+
+91
+00:05:20,900 --> 00:05:22,940
+Also things like cost performance index.
+
+92
+00:05:23,620 --> 00:05:27,520
+CPI, we're going to cover cost
+performance index in a separate
+
+93
+00:05:27,521 --> 00:05:30,460
+video, which is covered in
+the cost management section.
+
+94
+00:05:31,300 --> 00:05:34,860
+But again, these are all certain metrics
+that you might put in place.
+
+95
+00:05:34,980 --> 00:05:36,710
+Now, what I just mentioned
+was just obviously
+
+96
+00:05:36,793 --> 00:05:38,740
+just a couple of them, just a handful.
+
+97
+00:05:39,200 --> 00:05:42,900
+But every organization, every industry are
+going to come up with their own metrics to
+
+98
+00:05:42,901 --> 00:05:46,740
+determine how well or how successful the
+quality.
+
+99
+00:05:46,760 --> 00:05:49,720
+implementation is for this particular
+project.
+

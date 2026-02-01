@@ -1,0 +1,852 @@
+﻿1
+00:00:05,630 --> 00:00:10,790
+Okay, so in this video then, we are going
+to discuss the resource management plan.
+
+2
+00:00:11,430 --> 00:00:15,930
+Now the resource management plan,
+remember, just like any management plan,
+
+3
+00:00:16,630 --> 00:00:19,049
+it is one of the subsidiary
+management plans
+
+4
+00:00:19,050 --> 00:00:22,270
+that make up the project management plan.
+
+5
+00:00:23,150 --> 00:00:26,695
+And again, just like any
+other management plan,
+
+6
+00:00:26,696 --> 00:00:30,530
+it is documenting how is
+documenting procedures.
+
+7
+00:00:31,130 --> 00:00:34,310
+In this case, it's documenting procedures
+regarding resources.
+
+8
+00:00:35,530 --> 00:00:41,570
+and procedures regarding both physical
+resources as well as team resources.
+
+9
+00:00:42,530 --> 00:00:45,610
+Now, one of the important things,
+though, one of the important differences
+
+10
+00:00:45,611 --> 00:00:47,961
+here with the resource
+management plan is that
+
+11
+00:00:47,962 --> 00:00:50,684
+it is made up of several
+different components.
+
+12
+00:00:51,150 --> 00:00:53,450
+So let's talk about these different
+components.
+
+13
+00:00:53,770 --> 00:00:55,870
+So first one, identification of resources.
+
+14
+00:00:56,750 --> 00:00:58,862
+So first of all, if we've identified any
+
+15
+00:00:58,863 --> 00:01:01,230
+resources, that we would
+document them here.
+
+16
+00:01:01,590 --> 00:01:04,290
+And again, resources meaning both physical
+and team resources.
+
+17
+00:01:04,310 --> 00:01:08,530
+resources, equipment, supplies,
+labor, raw materials, machines, right?
+
+18
+00:01:08,770 --> 00:01:13,544
+As well as obviously, you know, part of
+the labor, meaning team members as well.
+
+19
+00:01:14,030 --> 00:01:17,290
+So if you've identified any, we will
+document them here.
+
+20
+00:01:17,650 --> 00:01:20,830
+If we haven't identified them,
+then we're going to be documenting how
+
+21
+00:01:20,831 --> 00:01:22,969
+we're going to identify the materials and
+
+22
+00:01:22,970 --> 00:01:25,150
+facilities and whatever
+it is that we need.
+
+23
+00:01:25,290 --> 00:01:27,750
+And also when we're going to identify
+them.
+
+24
+00:01:28,150 --> 00:01:33,630
+So as a simple example, let's say we have,
+so let's say it's a two or three year
+
+25
+00:01:33,631 --> 00:01:38,510
+project and we're looking at an activity
+that's not going to start until this time
+
+26
+00:01:38,511 --> 00:01:41,888
+next year, well, we're not
+necessarily going to start
+
+27
+00:01:41,889 --> 00:01:45,630
+scheduling all of our resources
+for that activity right now.
+
+28
+00:01:46,330 --> 00:01:50,281
+We're going to, you know,
+we're going to think about
+
+29
+00:01:50,282 --> 00:01:53,290
+reschedule those resources
+more closer to the time.
+
+30
+00:01:54,010 --> 00:01:57,970
+And again, depending on the size and
+nature of the project, right, might be a
+
+31
+00:01:57,971 --> 00:02:00,435
+few weeks before or a
+few months before, but
+
+32
+00:02:00,436 --> 00:02:02,750
+certainly not, you know,
+a whole year before.
+
+33
+00:02:02,751 --> 00:02:08,770
+So when are we going to start looking at
+scheduling some of the resources,
+
+34
+00:02:09,310 --> 00:02:13,930
+scheduling team members and scheduling
+equipment and raw materials for this
+
+35
+00:02:13,931 --> 00:02:17,050
+particular activity that won't occur until
+this time next year?
+
+36
+00:02:17,590 --> 00:02:21,541
+So that's going to be documented
+here as part of the identification
+
+37
+00:02:21,542 --> 00:02:24,370
+of resources as part of the
+resource management plan.
+
+38
+00:02:25,310 --> 00:02:31,270
+Also, acquiring resources, what are all
+the procedures for actually physically,
+
+39
+00:02:31,650 --> 00:02:33,167
+you know, finding, you know, finding
+resources?
+
+40
+00:02:33,250 --> 00:02:34,530
+resources, right?
+
+41
+00:02:34,910 --> 00:02:39,764
+And again, both, this refers to both, team
+resources as well as physical resources.
+
+42
+00:02:40,010 --> 00:02:43,410
+So equipment, supplies, raw materials,
+labor, are they in-house?
+
+43
+00:02:43,970 --> 00:02:46,970
+We need to use these machines,
+where is the machines located?
+
+44
+00:02:47,250 --> 00:02:49,575
+We need people with
+these skill sets, well, which
+
+45
+00:02:49,576 --> 00:02:51,844
+departments are they
+going to be coming from?
+
+46
+00:02:52,190 --> 00:02:54,310
+So how are we going to identify them?
+
+47
+00:02:54,650 --> 00:02:58,690
+But they could also be external to the
+organization.
+
+48
+00:02:59,390 --> 00:03:02,140
+So there could be the internal,
+there could be external.
+
+49
+00:03:02,910 --> 00:03:05,510
+And so this is now going to overlap with
+procurement.
+
+50
+00:03:05,710 --> 00:03:08,017
+So we're going to be
+talking about contracts
+
+51
+00:03:08,018 --> 00:03:10,421
+and stuff in the procurement
+management section.
+
+52
+00:03:11,250 --> 00:03:14,670
+But again, how are we going to acquire our
+resources?
+
+53
+00:03:15,190 --> 00:03:16,927
+Are they internal to the organization?
+
+54
+00:03:17,010 --> 00:03:20,070
+External, you're going to have different
+procedures based on whether they're
+
+55
+00:03:20,071 --> 00:03:23,210
+internal to the organization or external
+to the organization.
+
+56
+00:03:24,150 --> 00:03:28,170
+So again, this is one of the components of
+the resource management plan.
+
+57
+00:03:28,310 --> 00:03:32,090
+Again, we're documenting procedures,
+in this case procedures for resources.
+
+58
+00:03:34,150 --> 00:03:37,010
+Some additional components of the resource
+
+59
+00:03:37,011 --> 00:03:39,621
+management plan,
+roles and responsibilities.
+
+60
+00:03:40,310 --> 00:03:45,510
+Now roles and responsibilities here then
+specifically refers to team resources.
+
+61
+00:03:46,790 --> 00:03:50,890
+So it's going to include things like the
+Racy chart, right, which is covered in a
+
+62
+00:03:50,891 --> 00:03:54,280
+separate video, right,
+what responsibilities people
+
+63
+00:03:54,281 --> 00:03:57,141
+have, what all the different
+roles are on the project.
+
+64
+00:03:57,790 --> 00:04:01,490
+Plus it's going to include include things
+like the job description or the role
+
+65
+00:04:01,491 --> 00:04:06,230
+description for the different roles on the
+project, is really documenting authority,
+
+66
+00:04:06,890 --> 00:04:08,735
+responsibility,
+competencies and skill sets
+
+67
+00:04:08,736 --> 00:04:11,444
+as well for each of the particular roles.
+
+68
+00:04:11,610 --> 00:04:15,910
+So again, those are all going to be
+documented here in the roles and
+
+69
+00:04:15,911 --> 00:04:18,986
+responsibilities section of the
+Resource Management Plan
+
+70
+00:04:18,987 --> 00:04:23,170
+and roles and responsibilities
+for all team members.
+
+71
+00:04:24,230 --> 00:04:27,330
+So including the project manager as well.
+
+72
+00:04:27,331 --> 00:04:31,410
+Now, the authority level of a project
+manager is primarily, initially,
+
+73
+00:04:31,690 --> 00:04:36,310
+is going to be documented in the project
+charter, but it's also, the detailed roles
+
+74
+00:04:36,311 --> 00:04:39,750
+and responsibility is going to be
+documented here, right, in the roles and
+
+75
+00:04:39,751 --> 00:04:42,790
+responsibility section of the resource
+management plan.
+
+76
+00:04:43,590 --> 00:04:46,430
+Also, along with that, we have the project
+org chart.
+
+77
+00:04:46,950 --> 00:04:49,590
+Who is reporting to who on your project?
+
+78
+00:04:50,310 --> 00:04:54,990
+So it's really showing reporting structure
+within the actual project itself.
+
+79
+00:04:55,390 --> 00:04:58,830
+So this is not the organizational chart.
+
+80
+00:04:59,410 --> 00:05:02,060
+That's not the OBS organizational
+breakdown structure.
+
+81
+00:05:02,610 --> 00:05:04,490
+This is the project org chart.
+
+82
+00:05:04,830 --> 00:05:07,930
+Who is reporting to who on the actual
+project itself?
+
+83
+00:05:09,930 --> 00:05:12,730
+Also, team resource management.
+
+84
+00:05:14,150 --> 00:05:18,290
+So now that we have identified,
+now that we've identified, say,
+
+85
+00:05:18,630 --> 00:05:21,880
+team members, once we've
+identified team members, then
+
+86
+00:05:21,881 --> 00:05:25,550
+what are the procedures for
+rolling them onto a project?
+
+87
+00:05:25,551 --> 00:05:28,470
+and what's the procedure for rolling them
+off a project.
+
+88
+00:05:29,530 --> 00:05:36,390
+Whereas, if I go back two slides here,
+whereas acquiring resources specifically
+
+89
+00:05:36,391 --> 00:05:40,890
+refers to, you know, where are we going to
+find our team members?
+
+90
+00:05:41,630 --> 00:05:43,730
+How are we going to find our team members?
+
+91
+00:05:45,670 --> 00:05:48,320
+Acquiring resources, that's what that is
+referring to.
+
+92
+00:05:48,430 --> 00:05:50,070
+Where are we going to find our team
+members?
+
+93
+00:05:50,150 --> 00:05:52,250
+How are we going to identify team members?
+
+94
+00:05:53,210 --> 00:05:56,530
+Whereas the project team resource
+management is saying, once we have
+
+95
+00:05:56,531 --> 00:06:02,330
+identified team members, then what is the
+procedures for rolling them onto a
+
+96
+00:06:02,331 --> 00:06:05,231
+project, rolled them off a project,
+and so on and so forth?
+
+97
+00:06:05,750 --> 00:06:09,430
+So we've identified a team member,
+well, procedures might be something as
+
+98
+00:06:09,431 --> 00:06:11,498
+simple as, you know, make
+sure they have access to
+
+99
+00:06:11,499 --> 00:06:14,031
+this file, make sure they
+have access to this building.
+
+100
+00:06:14,530 --> 00:06:18,830
+Before team members can start working on
+the project, we have to make sure that
+
+101
+00:06:18,831 --> 00:06:23,050
+they've read these documents, right,
+make sure we get a sign off that they have
+
+102
+00:06:23,051 --> 00:06:26,801
+read this document or they need to sign
+off that they've read this document,
+
+103
+00:06:27,210 --> 00:06:31,690
+or make sure they have access to,
+you know, again, you know, certain files,
+
+104
+00:06:31,890 --> 00:06:34,890
+certain folders, certain directories,
+and so on and so forth.
+
+105
+00:06:35,030 --> 00:06:38,750
+So that's all, you know, procedures for
+rolling staff onto a project.
+
+106
+00:06:39,390 --> 00:06:42,130
+Right, then same thing, rolling staff off
+a project.
+
+107
+00:06:42,610 --> 00:06:44,540
+Once the work has been
+complete, what are the
+
+108
+00:06:44,541 --> 00:06:46,664
+procedures for rolling them off a project?
+
+109
+00:06:47,010 --> 00:06:50,130
+Who's going to verify that the work is
+complete?
+
+110
+00:06:50,690 --> 00:06:50,910
+Right.
+
+111
+00:06:51,350 --> 00:06:53,030
+Then we can roll them off a project.
+
+112
+00:06:53,031 --> 00:06:55,927
+Remember, team members are coming and
+going on your project.
+
+113
+00:06:56,010 --> 00:06:58,267
+And we're talking about predictive here
+generally.
+
+114
+00:06:58,350 --> 00:07:01,115
+In predictive environment,
+team members are coming
+
+115
+00:07:01,116 --> 00:07:03,250
+and going on your project
+as and when required.
+
+116
+00:07:03,370 --> 00:07:06,345
+You don't have your entire
+project team right from the beginning
+
+117
+00:07:06,346 --> 00:07:09,101
+of the project all the way
+until the end of the project.
+
+118
+00:07:09,290 --> 00:07:11,990
+Team members are coming and going as and
+when required.
+
+119
+00:07:12,410 --> 00:07:14,160
+So, again, what are the procedures?
+
+120
+00:07:14,570 --> 00:07:17,150
+How do we know that this team member's
+work is done?
+
+121
+00:07:18,070 --> 00:07:19,407
+Who's going to sign off in it?
+
+122
+00:07:19,490 --> 00:07:22,070
+Then what is the procedures for them
+rolling off the project?
+
+123
+00:07:22,071 --> 00:07:25,470
+make sure we revoke access to a certain
+file, for example.
+
+124
+00:07:27,210 --> 00:07:28,930
+And then also in between as well.
+
+125
+00:07:29,290 --> 00:07:32,766
+So basically, you know, general
+guidance on how the team is
+
+126
+00:07:32,767 --> 00:07:36,130
+going to be staffed and managed
+throughout the project as well.
+
+127
+00:07:37,170 --> 00:07:39,770
+Then another component is the training.
+
+128
+00:07:40,390 --> 00:07:43,510
+If there's any specific training
+requirements, that's going to be
+
+129
+00:07:43,511 --> 00:07:46,390
+documented here, again in the resource
+management plan.
+
+130
+00:07:47,270 --> 00:07:52,004
+But what happens if we identify some training
+requirements later on in the project?
+
+131
+00:07:52,310 --> 00:07:54,290
+then what are the procedures for that?
+
+132
+00:07:54,410 --> 00:07:56,010
+Who's going to sign off on that?
+
+133
+00:07:56,130 --> 00:07:58,030
+Where are we going to get the funding?
+
+134
+00:07:58,190 --> 00:08:00,240
+So again, that's all
+going to be documented
+
+135
+00:08:00,241 --> 00:08:02,444
+here as part of the
+resource management plan.
+
+136
+00:08:03,090 --> 00:08:05,470
+Then we have team development as well.
+
+137
+00:08:06,570 --> 00:08:08,439
+Now, the difference
+between team development
+
+138
+00:08:08,440 --> 00:08:10,561
+and training, because
+they sound very similar.
+
+139
+00:08:10,910 --> 00:08:14,849
+The difference is with
+training, training is an individual,
+
+140
+00:08:14,850 --> 00:08:18,370
+an individual team member
+gaining a new skill set.
+
+141
+00:08:19,270 --> 00:08:24,830
+Whereas team development is more team
+interaction and team building.
+
+142
+00:08:25,930 --> 00:08:28,090
+Team members getting to know one another.
+
+143
+00:08:28,910 --> 00:08:31,310
+Again, your project is only as good as
+your team.
+
+144
+00:08:31,890 --> 00:08:34,287
+You want your team members to get to know
+one another.
+
+145
+00:08:34,370 --> 00:08:36,867
+You want your team members to work better
+together.
+
+146
+00:08:36,950 --> 00:08:38,919
+Generally, when team
+members get to know one
+
+147
+00:08:38,920 --> 00:08:41,244
+another, they usually
+work a lot better together.
+
+148
+00:08:41,970 --> 00:08:48,710
+So, you know, how are we going to have
+team members interacting with one another?
+
+149
+00:08:48,890 --> 00:08:52,390
+How we're going to create our team
+building activities, right?
+
+150
+00:08:52,590 --> 00:08:54,950
+So that's what team development refers to.
+
+151
+00:08:55,470 --> 00:08:57,487
+And then resource control, monitoring
+controlling.
+
+152
+00:08:57,570 --> 00:08:59,247
+How are we going to monitor and control?
+
+153
+00:08:59,330 --> 00:09:03,450
+And this primarily refers to physical
+resources, but how are we going to monitor
+
+154
+00:09:03,451 --> 00:09:08,050
+and control our equipment, supplies,
+raw materials, and so and so forth.
+
+155
+00:09:08,790 --> 00:09:13,910
+And then you have the recognition plan,
+which primarily refers to a team,
+
+156
+00:09:14,410 --> 00:09:15,670
+a team resources.
+
+157
+00:09:16,170 --> 00:09:18,770
+How are we going to recognize strong
+performers?
+
+158
+00:09:19,790 --> 00:09:25,230
+remember also the number one success
+factor on any project is stakeholder
+
+159
+00:09:25,231 --> 00:09:31,250
+engagement if all of your stakeholders are
+engaged and motivated on your project
+
+160
+00:09:31,251 --> 00:09:36,390
+right then that is generally considered
+the number one success factor on your
+
+161
+00:09:36,391 --> 00:09:42,010
+project now again that's obviously easier
+said than done but your team members are
+
+162
+00:09:42,011 --> 00:09:48,130
+stakeholders on your project so you want
+to engage and motivate your team members.
+
+163
+00:09:48,850 --> 00:09:52,500
+And one of the ways of doing that is
+having some kind of recognition plan,
+
+164
+00:09:53,010 --> 00:09:55,897
+recognizing strong
+performers, having a reward,
+
+165
+00:09:55,898 --> 00:09:58,730
+some kind of rewards
+plan or a recognition plan.
+
+166
+00:09:59,650 --> 00:10:02,130
+So again, they can feel a little
+motivated.
+
+167
+00:10:02,810 --> 00:10:06,820
+That doesn't always work
+in reality, but you know, in
+
+168
+00:10:06,821 --> 00:10:10,230
+theory it should be there
+and in theory it would work.
+
+169
+00:10:10,370 --> 00:10:15,130
+So recognition plan is also a component of
+the resource management plan.
+
+170
+00:10:15,990 --> 00:10:16,590
+Okay.
+
+171
+00:10:16,870 --> 00:10:21,450
+So these are, the main major components
+then of the resource management plan,
+
+172
+00:10:21,650 --> 00:10:24,710
+make sure that you know what all of these
+components are.
+
+173
+00:10:25,390 --> 00:10:28,347
+Because on the exam, they could refer to
+any of these components.
+
+174
+00:10:28,430 --> 00:10:31,670
+And so, again, any management plan is
+documenting procedures.
+
+175
+00:10:32,690 --> 00:10:35,051
+And in this case, resource
+management plan are documenting
+
+176
+00:10:35,052 --> 00:10:38,011
+procedures for all of these
+components that we just discussed.
+
+177
+00:10:38,290 --> 00:10:39,123
+Okay.
+

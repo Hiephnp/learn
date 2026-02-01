@@ -1,0 +1,610 @@
+﻿1
+00:00:05,920 --> 00:00:12,540
+Okay, so let's discuss one more earned
+value term called TCPI, right?
+
+2
+00:00:12,720 --> 00:00:15,980
+TCPI means to complete performance index.
+
+3
+00:00:17,600 --> 00:00:20,700
+Alright, so TCPI then, two complete
+performance index.
+
+4
+00:00:20,840 --> 00:00:26,800
+Now there's actually two formulas for
+TCPI, and I'm going to discuss those
+
+5
+00:00:26,801 --> 00:00:30,700
+formulas on the next slide here,
+but on this slide, I just want to explain
+
+6
+00:00:30,701 --> 00:00:37,140
+what TCPI actually means, right to
+complete performance index right now i
+
+7
+00:00:37,141 --> 00:00:40,780
+mean the official explanation is basically
+it's a rate of cost efficiency we need to
+
+8
+00:00:40,781 --> 00:00:45,440
+achieve in order to meet the budget all
+right what rate of performance we need to
+
+9
+00:00:45,441 --> 00:00:50,500
+work at from a cost perspective what cost
+efficiency we need to achieve in order to
+
+10
+00:00:50,501 --> 00:00:54,240
+meet the original budget all right so let
+me explain that in English what does that
+
+11
+00:00:54,241 --> 00:00:59,600
+actually mean so let me just give you a
+very simple but an extreme example right
+
+12
+00:00:59,601 --> 00:01:04,754
+to to explain this now
+TCPI essentially means
+
+13
+00:01:04,755 --> 00:01:09,054
+work remaining divided
+by budget remaining.
+
+14
+00:01:10,080 --> 00:01:12,900
+Now this isn't the formula, this is an
+explanation.
+
+15
+00:01:14,220 --> 00:01:15,780
+There's two formulas for TCPI.
+
+16
+00:01:15,960 --> 00:01:19,060
+We'll talk about both of those two
+formulas and the next slide.
+
+17
+00:01:19,720 --> 00:01:25,134
+But essentially the explanation is it's
+work remaining divided by budget remaining.
+
+18
+00:01:25,440 --> 00:01:28,740
+So let me just give you a very simple,
+but an extreme example.
+
+19
+00:01:28,741 --> 00:01:29,574
+All right?
+
+20
+00:01:30,340 --> 00:01:33,511
+So let's say we're in a
+situation where we have
+
+21
+00:01:33,512 --> 00:01:36,774
+$100,000 worth of work
+left to do on our project.
+
+22
+00:01:37,340 --> 00:01:40,640
+We have $100,000 worth of work left to do.
+
+23
+00:01:41,780 --> 00:01:43,900
+But we have $50,000 left in the budget.
+
+24
+00:01:44,840 --> 00:01:47,160
+So just a very simple question to you,
+guys.
+
+25
+00:01:48,580 --> 00:01:50,057
+Is this a good or a bad situation?
+
+26
+00:01:50,140 --> 00:01:55,800
+If we have $100,000 worth of work left to
+do and $50,000 left in our budget,
+
+27
+00:01:55,801 --> 00:01:58,420
+Is that good or bad situation,
+right?
+
+28
+00:01:58,740 --> 00:02:02,300
+I think everyone will agree that that's a
+terrible situation, right?
+
+29
+00:02:02,480 --> 00:02:03,980
+That's a really bad situation.
+
+30
+00:02:04,880 --> 00:02:07,940
+And that's basically what TCPI is
+referring to.
+
+31
+00:02:08,140 --> 00:02:10,490
+What rate performance now do we need to
+work at?
+
+32
+00:02:11,120 --> 00:02:15,040
+Right, so work remaining then,
+we have $100,000 worth of work left to do.
+
+33
+00:02:15,220 --> 00:02:17,620
+Our work remaining is $100,000,
+right?
+
+34
+00:02:17,940 --> 00:02:20,620
+Budget remaining, there's $50,000 left in
+our budget.
+
+35
+00:02:20,680 --> 00:02:24,320
+Budget remaining is $50,000, so TCPI is
+two, right?
+
+36
+00:02:24,321 --> 00:02:27,320
+or if it's expressed as a percentage,
+200%.
+
+37
+00:02:28,040 --> 00:02:29,190
+So what does that mean?
+
+38
+00:02:29,760 --> 00:02:36,100
+It means if we want to meet our original
+budget, right, there's only $50,000 left,
+
+39
+00:02:36,180 --> 00:02:38,308
+if we want to meet
+that original budget, we
+
+40
+00:02:38,309 --> 00:02:40,834
+have to work at double
+our cost efficiency.
+
+41
+00:02:41,380 --> 00:02:47,400
+We have to find a cost efficiency of 200%
+in order to meet the original budget.
+
+42
+00:02:48,060 --> 00:02:49,460
+Are we going to find that?
+
+43
+00:02:49,700 --> 00:02:51,380
+No, well, most probably no.
+
+44
+00:02:52,120 --> 00:02:54,134
+Basically, looks like we're
+going to be overbursed,
+
+45
+00:02:54,135 --> 00:02:56,481
+budget looks like we're
+going to be way over budget.
+
+46
+00:02:57,520 --> 00:03:01,140
+So that's what TCPI is to complete
+performance index.
+
+47
+00:03:01,760 --> 00:03:07,640
+What cost efficiency we need to achieve
+between now and the end of the project.
+
+48
+00:03:08,840 --> 00:03:15,360
+So if we need to work at a rate of 200% or
+find a cost efficiency of 200% between now
+
+49
+00:03:15,361 --> 00:03:18,920
+and the end of the project, then,
+you know, that's really pushing.
+
+50
+00:03:19,060 --> 00:03:21,597
+Oh, you know, we could think it's almost
+impossible.
+
+51
+00:03:21,680 --> 00:03:23,100
+I mean, not impossible.
+
+52
+00:03:23,400 --> 00:03:24,240
+It may happen.
+
+53
+00:03:24,320 --> 00:03:26,980
+but very, very, very unlikely.
+
+54
+00:03:27,160 --> 00:03:29,510
+It looks like we're going to be way over
+budget.
+
+55
+00:03:30,020 --> 00:03:31,920
+Now, welfare was the other way around.
+
+56
+00:03:32,360 --> 00:03:37,100
+We have $50,000 worth of work left to do
+and $100,000 left in our budget.
+
+57
+00:03:37,540 --> 00:03:40,600
+Right, then our TCPI is 0.5 or 50%.
+
+58
+00:03:40,601 --> 00:03:45,540
+We only need to work at a rate of 50% or
+rather, we only need to find a cost
+
+59
+00:03:45,541 --> 00:03:49,980
+efficiency of 50% and we'll soon meet our
+original budget.
+
+60
+00:03:50,480 --> 00:03:52,760
+So in other words, we're going to come in
+under budget.
+
+61
+00:03:52,761 --> 00:03:53,594
+right?
+
+62
+00:03:53,940 --> 00:03:55,460
+I mean, you're not going to tell your team
+though.
+
+63
+00:03:55,500 --> 00:03:58,900
+I'm not going to tell your teams to start
+wasting more raw materials.
+
+64
+00:03:59,160 --> 00:04:01,599
+Right, no, I mean, you're
+going to work at the same
+
+65
+00:04:01,600 --> 00:04:04,111
+rate, and then you're going
+to come in under budget.
+
+66
+00:04:04,700 --> 00:04:08,380
+And that's what TCPI is, what rate
+performance we need to work at.
+
+67
+00:04:08,500 --> 00:04:10,257
+Now, the examples I gave were, obviously,
+
+68
+00:04:10,258 --> 00:04:12,411
+these two examples are
+very extreme examples.
+
+69
+00:04:13,160 --> 00:04:16,180
+But a TCPI of one is what you're
+expecting.
+
+70
+00:04:16,740 --> 00:04:17,573
+Right?
+
+71
+00:04:17,740 --> 00:04:19,808
+To complete performance
+index, you need to work
+
+72
+00:04:19,809 --> 00:04:21,440
+at a rate of 100% for
+the rest of the project.
+
+73
+00:04:21,600 --> 00:04:22,677
+That means you're right on budget.
+
+74
+00:04:22,760 --> 00:04:27,380
+what we're expecting right if your tcpi
+was less than one right let's say you have
+
+75
+00:04:27,381 --> 00:04:33,400
+a tcpi of tcpi of 0.98 you need to now
+work at a rate of 98% for the rest of the
+
+76
+00:04:33,401 --> 00:04:37,760
+project so it means we're slightly under
+budget right slightly better than what
+
+77
+00:04:37,761 --> 00:04:45,800
+we're expecting or if we have a tcpi of
+1.02 now we need to work at a rate of 102%
+
+78
+00:04:45,801 --> 00:04:49,360
+for the rest of the project so just
+showing that we're slightly over budget
+
+79
+00:04:49,361 --> 00:04:51,705
+there might not be the
+end of the world but you
+
+80
+00:04:51,706 --> 00:04:54,820
+know we need to to find
+some efficiencies, right?
+
+81
+00:04:55,000 --> 00:04:57,450
+Looks like we're going to be a little over
+budget.
+
+82
+00:04:58,080 --> 00:05:03,213
+All right, so in our example then, the
+example that we've been using, right?
+
+83
+00:05:03,740 --> 00:05:06,580
+We've got two TCPI formulas, right?
+
+84
+00:05:06,760 --> 00:05:11,660
+So the first TCPI formula is BAC minus EV
+divided by BAC minus AC.
+
+85
+00:05:12,420 --> 00:05:17,780
+So BAC minus EV, original budget minus our
+earned value.
+
+86
+00:05:18,180 --> 00:05:20,820
+Original budget minus what we've
+accomplished so far.
+
+87
+00:05:21,320 --> 00:05:22,280
+That's how we work remaining.
+
+88
+00:05:22,281 --> 00:05:27,560
+divided by original budget minus what
+we've spent so far that's our budget
+
+89
+00:05:27,561 --> 00:05:32,580
+remaining and then the second TCPI
+formally are just replacing the second BAC
+
+90
+00:05:32,581 --> 00:05:40,320
+with EAC right now remember what does TCPI
+mean it means what cost efficiency we need
+
+91
+00:05:40,321 --> 00:05:46,340
+to work at to achieve now the first one is
+to meet our original budget the second one
+
+92
+00:05:46,341 --> 00:05:51,140
+is to meet our forecasted budget because
+you're using the EAC there in both cases
+
+93
+00:05:51,141 --> 00:05:55,520
+it's looking at what rate of cost
+efficiency we need to work at right in
+
+94
+00:05:55,521 --> 00:06:01,100
+order to meet then the first one is the
+original budget second one is a forecasted
+
+95
+00:06:01,101 --> 00:06:07,500
+budget right all right so in our example
+here right and the example that we've been
+
+96
+00:06:07,501 --> 00:06:15,060
+using original budget BAC is 100,000 right
+EV that we calculated in a prior video
+
+97
+00:06:15,061 --> 00:06:20,540
+40,000 an actual cost that also is given
+to us in the question 60,000 plug the
+
+98
+00:06:20,541 --> 00:06:24,240
+numbers in and you get 1.5 What is that
+telling us?
+
+99
+00:06:24,640 --> 00:06:26,591
+That's saying that
+between now and the end of
+
+100
+00:06:26,592 --> 00:06:30,640
+the project, we need to
+work at a rate of 150%.
+
+101
+00:06:31,120 --> 00:06:34,480
+Cost-wise, we need
+to find a cost efficiency
+
+102
+00:06:34,481 --> 00:06:37,514
+of 150% between now
+and the end of the project.
+
+103
+00:06:37,800 --> 00:06:40,100
+So it looks like we're going to be over
+budget.
+
+104
+00:06:40,780 --> 00:06:45,540
+Now notice the two other indexes that we
+talked about, or two other indices,
+
+105
+00:06:46,000 --> 00:06:47,160
+CPI and SPI.
+
+106
+00:06:47,880 --> 00:06:52,940
+CPI and SPI are looking at what rate of
+performance we've worked at so far,
+
+107
+00:06:53,620 --> 00:06:56,240
+TCPI is looking at the cost efficiency
+going forward.
+
+108
+00:06:56,880 --> 00:06:59,720
+And TCPI is directly related to CPI.
+
+109
+00:07:00,180 --> 00:07:04,600
+CPI's cost performance index, the rate of
+cost efficiency we've achieved so far.
+
+110
+00:07:05,460 --> 00:07:09,100
+And so TCPI is looking at the rate of cost
+efficiency we need to achieve.
+
+111
+00:07:09,720 --> 00:07:12,680
+So there is a direct but inverse
+relationship.
+
+112
+00:07:13,500 --> 00:07:19,140
+So if CPI is less than one, then TCPI will
+be greater than one, as in this case.
+
+113
+00:07:19,940 --> 00:07:22,480
+Now, the second TCPI formula then,
+right?
+
+114
+00:07:22,620 --> 00:07:29,900
+So if we were using our ESE, again,
+of the 120,000, the budgeted rate one,
+
+115
+00:07:30,680 --> 00:07:33,181
+then I will plug the form,
+plug the numbers into
+
+116
+00:07:33,182 --> 00:07:36,400
+the formula, and in this
+case, TCPI will be one.
+
+117
+00:07:37,040 --> 00:07:37,240
+Right.
+
+118
+00:07:37,340 --> 00:07:42,380
+So if we work at 100% rate for the rest of
+the project, right, then, you know,
+
+119
+00:07:42,460 --> 00:07:48,080
+we will meet the, I mean, the,
+the forecasted budget of 120,000.
+
+120
+00:07:48,860 --> 00:07:53,940
+So, you use the first TCPI formula when
+the original budget is achievable,
+
+121
+00:07:54,180 --> 00:07:57,840
+use the second one when the original
+budget is not achievable.
+
+122
+00:07:58,460 --> 00:08:01,740
+And in the exam, they usually,
+I mean, they will tell you explicitly
+
+123
+00:08:01,741 --> 00:08:04,760
+whether the original budget is achievable
+or not achievable.
+
+124
+00:08:05,280 --> 00:08:08,337
+If they don't tell you, the default is
+always going to be the first one.
+
+125
+00:08:08,420 --> 00:08:10,296
+You always compare
+to the original budget, so
+
+126
+00:08:10,297 --> 00:08:12,380
+the default is always
+going to be the first one.
+
+127
+00:08:12,381 --> 00:08:13,260
+Okay.
+

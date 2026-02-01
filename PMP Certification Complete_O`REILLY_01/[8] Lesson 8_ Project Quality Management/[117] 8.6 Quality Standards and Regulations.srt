@@ -1,0 +1,215 @@
+﻿1
+00:00:06,560 --> 00:00:09,223
+Okay, so in this video we're
+going to be covering the
+
+2
+00:00:09,224 --> 00:00:13,660
+basic difference between
+quality standards and regulations.
+
+3
+00:00:14,240 --> 00:00:17,137
+So what's the basic difference between
+standards and regulations?
+
+4
+00:00:17,220 --> 00:00:19,120
+All right, so let's discuss this then.
+
+5
+00:00:19,620 --> 00:00:25,860
+Now the basic difference is, standards are
+generally best practices, industry best
+
+6
+00:00:25,861 --> 00:00:30,280
+practices, where the regulations are
+generally imposed by the government.
+
+7
+00:00:31,000 --> 00:00:32,400
+That's the basic difference.
+
+8
+00:00:32,920 --> 00:00:35,600
+But even with the regulations,
+there's a couple of different types.
+
+9
+00:00:35,601 --> 00:00:38,351
+de facto and de jure, which I'll cover in
+just a second.
+
+10
+00:00:39,380 --> 00:00:41,640
+So, standards and best practices,
+right?
+
+11
+00:00:41,860 --> 00:00:45,580
+These are industry best practices,
+or you may have company standards,
+
+12
+00:00:45,980 --> 00:00:47,260
+company best practices.
+
+13
+00:00:47,940 --> 00:00:51,500
+Right, so generally established by the
+industry or the organization.
+
+14
+00:00:52,240 --> 00:00:54,540
+So as a very simple example, PMI
+standards.
+
+15
+00:00:55,280 --> 00:00:57,140
+These would be PMI's best practices.
+
+16
+00:00:57,920 --> 00:01:00,900
+A company doesn't have to use those
+standards.
+
+17
+00:01:01,400 --> 00:01:02,800
+They don't have to use them.
+
+18
+00:01:03,040 --> 00:01:05,580
+But these are, you know, PMI, they're.
+
+19
+00:01:05,600 --> 00:01:06,940
+have set these standards.
+
+20
+00:01:07,560 --> 00:01:11,220
+Okay, so it's, it's an industry standard
+more than anything else.
+
+21
+00:01:11,380 --> 00:01:11,380
+Okay.
+
+22
+00:01:11,960 --> 00:01:17,340
+Now, regulations on the other hand is
+imposed by the government, right,
+
+23
+00:01:17,460 --> 00:01:19,160
+or some kind of government agency.
+
+24
+00:01:19,580 --> 00:01:20,800
+And there are two types.
+
+25
+00:01:21,380 --> 00:01:25,520
+You've got something called the de facto
+regulation and de jure regulations.
+
+26
+00:01:26,580 --> 00:01:31,000
+De facto regulations are ones that are
+widely accepted, have been adopted, right?
+
+27
+00:01:31,480 --> 00:01:35,000
+Sometimes, a lot of times, a standard can
+start off.
+
+28
+00:01:35,600 --> 00:01:38,810
+or rather a de facto regulation can start
+
+29
+00:01:38,811 --> 00:01:42,474
+off as a standard, as
+an industry standard.
+
+30
+00:01:42,880 --> 00:01:48,120
+But then it becomes so widely accepted
+that actually ends up becoming pretty much
+
+31
+00:01:48,121 --> 00:01:53,480
+a government regulation or a government de
+facto regulation, such as, for example,
+
+32
+00:01:54,200 --> 00:01:55,550
+the QWERTY keyboard layout.
+
+33
+00:01:55,960 --> 00:01:57,410
+That's a very simple example.
+
+34
+00:01:58,420 --> 00:02:04,660
+At the beginning, when the typewriter came
+out, it didn't start off with a QWERTY,
+
+35
+00:02:04,661 --> 00:02:09,320
+but eventually became a quick keyboard,
+and then from there, you know,
+
+36
+00:02:10,020 --> 00:02:13,470
+governments adopted it, and now that's
+become the de facto regulation.
+
+37
+00:02:14,200 --> 00:02:15,660
+That's a de facto standard.
+
+38
+00:02:16,740 --> 00:02:20,920
+A de jure regulation, though, is something
+that is more mandated by law.
+
+39
+00:02:21,700 --> 00:02:27,000
+For example, Aski, right, that's a very
+simple example of a Dejure regulation.
+
+40
+00:02:27,300 --> 00:02:31,760
+Aski, which stands for American Standard
+Code for Information Interchange, right?
+
+41
+00:02:31,900 --> 00:02:35,700
+So Aski text, and so and so forth,
+right?
+
+42
+00:02:35,980 --> 00:02:37,640
+That is a Dejure regulation.
+
+43
+00:02:38,680 --> 00:02:42,560
+So these are the basic difference then
+between a standard and a regulation.
+
+44
+00:02:43,240 --> 00:02:46,690
+Just make sure you kind of know the
+difference between the two, right?
+
+45
+00:02:46,880 --> 00:02:52,440
+Standard is company or industry,
+regulation is by the government.
+
+46
+00:02:52,860 --> 00:02:55,860
+And then you've got the de facto under the
+Dejure regulation.
+

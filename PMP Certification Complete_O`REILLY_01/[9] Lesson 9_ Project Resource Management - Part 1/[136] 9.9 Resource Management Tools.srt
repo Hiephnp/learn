@@ -1,0 +1,608 @@
+﻿1
+00:00:05,820 --> 00:00:10,700
+All right, so in this video then,
+we are going to discuss some common
+
+2
+00:00:10,701 --> 00:00:16,400
+resource management tools and really most
+of this refers to team resources, right?
+
+3
+00:00:16,520 --> 00:00:20,400
+But some of it, some of these tools can
+include physical resources as well.
+
+4
+00:00:21,380 --> 00:00:26,320
+So these are tools for mostly for the
+project manager, right?
+
+5
+00:00:26,740 --> 00:00:31,300
+But also we'll be discussing some tools
+for team members as well.
+
+6
+00:00:32,240 --> 00:00:35,000
+Now, pre-assignment, right?
+
+7
+00:00:35,001 --> 00:00:39,400
+we need to assign team members to our
+project, right?
+
+8
+00:00:39,480 --> 00:00:42,297
+We're going to assign team members to a
+role and our project.
+
+9
+00:00:42,380 --> 00:00:44,277
+So how we're going to select our team
+members?
+
+10
+00:00:44,360 --> 00:00:49,420
+Well, there's various different tools that
+we use, that project manager will use.
+
+11
+00:00:49,980 --> 00:00:53,760
+One of them, for example, surveys,
+attitudinal surveys.
+
+12
+00:00:54,340 --> 00:01:00,060
+So an attitudinal survey, basically is a
+good measure of how people actually work.
+
+13
+00:01:00,061 --> 00:01:03,700
+and are they the right fit for the team?
+
+14
+00:01:04,720 --> 00:01:08,640
+And not only that, but within a project,
+you may have several teams, well,
+
+15
+00:01:08,900 --> 00:01:13,540
+which team are they a right fit for,
+based on their skill sets, right,
+
+16
+00:01:13,660 --> 00:01:16,630
+also based on their personality and based
+
+17
+00:01:16,631 --> 00:01:20,854
+on, you know, based
+on other factors as well.
+
+18
+00:01:21,400 --> 00:01:27,240
+Right, so that's an attitudinal survey
+then can help identify that.
+
+19
+00:01:27,241 --> 00:01:30,570
+An attitudinal survey
+demonstrates a candidate's ability
+
+20
+00:01:30,571 --> 00:01:34,380
+to be flexible and adaptable,
+right, and open to change.
+
+21
+00:01:34,960 --> 00:01:36,700
+Change is all around, right?
+
+22
+00:01:37,740 --> 00:01:39,640
+The world is constantly changing.
+
+23
+00:01:39,960 --> 00:01:41,710
+So business is constantly changing.
+
+24
+00:01:42,100 --> 00:01:46,980
+And so the work within an organization is
+constantly changing, right?
+
+25
+00:01:47,300 --> 00:01:51,180
+So in the current environment,
+and especially, you know, we're working in
+
+26
+00:01:51,181 --> 00:01:54,840
+an international setting as well,
+we need to meet the client needs.
+
+27
+00:01:54,841 --> 00:02:00,400
+and because the world is constantly
+changing, the work is constantly changing,
+
+28
+00:02:00,880 --> 00:02:01,930
+people need to adapt.
+
+29
+00:02:02,140 --> 00:02:05,380
+In fact, by definition, a project is a
+change.
+
+30
+00:02:06,120 --> 00:02:09,087
+Remember the definition of
+a project, temporary endeavor
+
+31
+00:02:09,088 --> 00:02:12,440
+undertaken to create a unique
+product, service, or result.
+
+32
+00:02:12,880 --> 00:02:15,020
+Unique is a key word there.
+
+33
+00:02:15,680 --> 00:02:17,848
+That unique basically
+means it's different to
+
+34
+00:02:17,849 --> 00:02:20,794
+what we had, different
+to what we had before.
+
+35
+00:02:21,160 --> 00:02:24,820
+And so if it's different to what we had
+before, it's something.
+
+36
+00:02:24,840 --> 00:02:25,680
+new.
+
+37
+00:02:26,800 --> 00:02:34,740
+And so the Actudinal survey then can
+determine, you know, if this person is a
+
+38
+00:02:34,741 --> 00:02:38,120
+right fit for your team or for another
+team.
+
+39
+00:02:38,840 --> 00:02:41,360
+Or, you know, maybe this person is not fit
+at all.
+
+40
+00:02:42,120 --> 00:02:45,470
+Another tool you'll be using is this one
+called specific assessment.
+
+41
+00:02:46,600 --> 00:02:50,148
+Specific assessment also
+refers down to here, the last
+
+42
+00:02:50,149 --> 00:02:53,820
+bullet point refers to
+also the ability test, right?
+
+43
+00:02:53,900 --> 00:02:57,240
+They're very similar, basically showing a
+skill gap assessment.
+
+44
+00:02:58,040 --> 00:02:59,874
+So sometimes when
+you're interviewing people,
+
+45
+00:02:59,875 --> 00:03:02,434
+you may show, give them a little test.
+
+46
+00:03:02,940 --> 00:03:06,311
+So like that for a developer,
+you're hiring a developer,
+
+47
+00:03:06,312 --> 00:03:09,800
+I just ask them to write
+a piece of code, right?
+
+48
+00:03:09,960 --> 00:03:13,397
+See how well they actually, you know,
+how well they can actually perform.
+
+49
+00:03:13,480 --> 00:03:16,640
+Do they actually know, you know,
+does actually know the work?
+
+50
+00:03:17,200 --> 00:03:20,200
+So again, these are ways of hiring team
+members.
+
+51
+00:03:20,780 --> 00:03:20,900
+Right.
+
+52
+00:03:21,020 --> 00:03:23,168
+So this falls under
+preassignment tools, right,
+
+53
+00:03:23,169 --> 00:03:26,880
+you're pre-assigning team
+members onto your project.
+
+54
+00:03:27,460 --> 00:03:30,277
+And of course, the most common way is an
+interview, right?
+
+55
+00:03:30,360 --> 00:03:35,040
+Structured interview, that's the most
+common way of hiring team members,
+
+56
+00:03:35,180 --> 00:03:39,940
+obviously, you know, asking questions and
+asking about their background.
+
+57
+00:03:40,420 --> 00:03:44,000
+And then also focus groups, and you may
+have focus groups.
+
+58
+00:03:44,300 --> 00:03:48,900
+Focus group is basically bringing in a
+group of subject matter experts or a group
+
+59
+00:03:48,901 --> 00:03:52,900
+of pre-assigned stakeholders and getting
+their opinions, asking them questions.
+
+60
+00:03:54,400 --> 00:03:57,860
+Now, other tools then, negotiating,
+right?
+
+61
+00:03:57,960 --> 00:04:02,060
+This is a very, very important skill set
+for a project manager, negotiating skills.
+
+62
+00:04:02,760 --> 00:04:08,100
+So again, these are tools and techniques
+for resource management, right?
+
+63
+00:04:08,220 --> 00:04:12,700
+So getting the right people, the right
+skill sets, but also, you know,
+
+64
+00:04:13,480 --> 00:04:17,940
+other resources as well, physical
+resources as well as team resources.
+
+65
+00:04:18,780 --> 00:04:21,394
+So as a project manager, you might need to
+
+66
+00:04:21,395 --> 00:04:25,320
+negotiate your roles
+responsibilities as well.
+
+67
+00:04:25,600 --> 00:04:27,850
+So what's your authority level on the
+project?
+
+68
+00:04:28,040 --> 00:04:29,720
+You might need to negotiate that.
+
+69
+00:04:30,260 --> 00:04:31,720
+Also, your priorities.
+
+70
+00:04:32,220 --> 00:04:35,000
+Also, remember in an agile environment,
+right?
+
+71
+00:04:35,300 --> 00:04:40,680
+So this actually goes for both the team as
+well as, say, the team facilitator and in
+
+72
+00:04:40,681 --> 00:04:44,780
+an agile environment, you are going to be
+prioritizing user stories.
+
+73
+00:04:45,360 --> 00:04:49,257
+So within a sprint, the team themselves
+are going to be prioritizing user stories.
+
+74
+00:04:49,340 --> 00:04:51,956
+So that's a type of
+negotiation, which is a higher
+
+75
+00:04:51,957 --> 00:04:54,961
+priority, which are a lower
+priority and so on and so forth.
+
+76
+00:04:55,300 --> 00:04:58,668
+As a project manager
+as well, you might be,
+
+77
+00:04:58,669 --> 00:05:01,934
+not you might be in a
+predictive environment.
+
+78
+00:05:02,520 --> 00:05:06,440
+As a project manager, you will be
+assigning team members, right?
+
+79
+00:05:06,760 --> 00:05:10,080
+Assigning team members to different roles.
+
+80
+00:05:10,220 --> 00:05:12,970
+Well, the team members might negotiate
+with you as well.
+
+81
+00:05:13,700 --> 00:05:17,577
+Whether they want to be in this role or
+whether they want to be in another role,
+
+82
+00:05:17,660 --> 00:05:20,560
+you yourself might negotiate with your
+seniors.
+
+83
+00:05:21,120 --> 00:05:24,320
+As a project manager, whether you want to
+be in this role, whether you prefer to
+
+84
+00:05:24,321 --> 00:05:27,362
+manage this team or
+another team, or whether,
+
+85
+00:05:27,363 --> 00:05:30,200
+you know, just your
+responsibilities overall.
+
+86
+00:05:31,700 --> 00:05:35,240
+And of course, negotiation can be either
+internal or external.
+
+87
+00:05:35,660 --> 00:05:38,800
+You're bringing in contractors and
+consultants from outside.
+
+88
+00:05:39,440 --> 00:05:43,900
+So you're going to have different
+negotiating skills versus internal, right?
+
+89
+00:05:43,901 --> 00:05:47,851
+Because if they're bringing them from
+outside now, we've got contracts involved.
+
+90
+00:05:48,100 --> 00:05:50,720
+And so this leads over to procurement
+management.
+
+91
+00:05:50,721 --> 00:05:55,974
+and there are the whole section on contracts
+in the procurement management section.
+
+92
+00:05:56,800 --> 00:06:03,120
+Now, what we just talked about regarding
+team members also applies to, at least
+
+93
+00:06:03,121 --> 00:06:07,300
+some of it also applies to physical
+resources.
+
+94
+00:06:07,960 --> 00:06:13,574
+So we want to negotiate rooms, for
+example, meeting rooms, conference rooms.
+
+95
+00:06:14,040 --> 00:06:17,040
+We need to book those in advance.
+
+96
+00:06:17,440 --> 00:06:20,600
+We need to negotiate equipment,
+raw materials.
+
+97
+00:06:20,720 --> 00:06:23,680
+So they could be internal to the
+organization.
+
+98
+00:06:23,860 --> 00:06:27,320
+We might be getting them from another
+division or another department within the
+
+99
+00:06:27,321 --> 00:06:30,300
+organization or they could be external to
+the organization.
+
+100
+00:06:32,320 --> 00:06:36,560
+Also, negotiating skills are needed for
+the project team as well as a project
+
+101
+00:06:36,561 --> 00:06:39,760
+manager, such as things like service level
+agreements.
+
+102
+00:06:40,500 --> 00:06:42,000
+SLA, service level agreements.
+
+103
+00:06:42,720 --> 00:06:47,660
+So as a simple example, we have to respond
+back to our client within 24 hours.
+
+104
+00:06:48,240 --> 00:06:52,960
+They send us an email, they send us a
+requirement, we have to respond within 24
+
+105
+00:06:52,961 --> 00:06:56,360
+hours or we have to respond within two
+days.
+
+106
+00:06:56,840 --> 00:07:01,840
+So again, team members, project managers,
+they might be negotiating that.
+
+107
+00:07:02,280 --> 00:07:04,037
+Are we going to respond within 24 hours?
+
+108
+00:07:04,120 --> 00:07:05,820
+Are we going to respond within one
+business day?
+
+109
+00:07:05,900 --> 00:07:09,550
+Are we going to respond within three
+business days and so on and so forth?
+
+110
+00:07:10,120 --> 00:07:15,500
+And then within the project itself,
+there's many different agreements that
+
+111
+00:07:15,501 --> 00:07:19,140
+we're going to be negotiating,
+right?
+
+112
+00:07:19,141 --> 00:07:22,160
+such as the scope of the project.
+
+113
+00:07:22,680 --> 00:07:25,640
+Statement of work refers to a procurement,
+right?
+
+114
+00:07:25,740 --> 00:07:32,060
+And then procurement is hiring vendors who
+are external to the organization,
+
+115
+00:07:34,260 --> 00:07:39,340
+but also the general scope of the project,
+where if it's an internal project,
+
+116
+00:07:39,940 --> 00:07:40,020
+right?
+
+117
+00:07:40,040 --> 00:07:44,660
+So again, the scope of the project needs
+to be negotiated, as well as the schedule
+
+118
+00:07:44,661 --> 00:07:47,880
+and milestones and budget, and these are
+all separate knowledge areas, separate
+
+119
+00:07:47,881 --> 00:07:50,420
+videos on the schedule and the budget,
+right?
+
+120
+00:07:50,760 --> 00:07:54,840
+Also negotiating warranties, terms and
+conditions, dispute, dispute resolutions,
+
+121
+00:07:55,400 --> 00:07:58,215
+terms and conditions, dispute resolutions,
+
+122
+00:07:58,216 --> 00:08:01,414
+this is all external,
+this is all procurement.
+
+123
+00:08:01,660 --> 00:08:05,210
+Again, we're going to cover those in the
+procurement management section.
+
+124
+00:08:05,300 --> 00:08:10,260
+Okay, so these are just some of the skill
+sets then that's required as a,
+
+125
+00:08:10,840 --> 00:08:12,040
+for resource management.
+
+126
+00:08:12,240 --> 00:08:16,040
+And there's for both, right, for both,
+the project manager as well as a team.
+

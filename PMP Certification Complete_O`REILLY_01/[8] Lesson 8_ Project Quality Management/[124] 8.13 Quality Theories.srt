@@ -1,0 +1,561 @@
+﻿1
+00:00:06,430 --> 00:00:10,250
+Okay, in this section we're going to be
+covering some basic quality theories.
+
+2
+00:00:10,510 --> 00:00:13,099
+There's just some quality
+theorists that we need
+
+3
+00:00:13,100 --> 00:00:15,591
+to talk about that you
+need to know for the exam.
+
+4
+00:00:16,170 --> 00:00:19,361
+And you just need to
+know these names just at a
+
+5
+00:00:19,461 --> 00:00:22,523
+very, very high level,
+just a very, very high level.
+
+6
+00:00:22,730 --> 00:00:27,110
+Alright, so we're just going to be talking
+about some quality pioneers here and just
+
+7
+00:00:27,111 --> 00:00:31,490
+a few quality pioneers that you are
+expected to know for the PMP exam.
+
+8
+00:00:32,010 --> 00:00:35,610
+Again, you don't need to know about any of
+these people in any of these people in any
+
+9
+00:00:35,611 --> 00:00:37,488
+kind of any amount
+of detail, you just need
+
+10
+00:00:37,489 --> 00:00:40,164
+to know them at a very, very high level.
+
+11
+00:00:40,670 --> 00:00:44,720
+All right, so let's talk about this person
+here first, Philip Crosby, Phil Crosby.
+
+12
+00:00:46,470 --> 00:00:49,479
+So he wrote several
+books, but one of his most
+
+13
+00:00:49,480 --> 00:00:52,970
+famous book was something
+called Quality is Free.
+
+14
+00:00:53,530 --> 00:00:58,770
+And he had this notion, the idea that a
+company that has a good quality process in
+
+15
+00:00:58,771 --> 00:01:02,285
+place is going to see savings
+in the back end, that's going
+
+16
+00:01:02,286 --> 00:01:05,230
+to more than offset the
+cost of that initial investment.
+
+17
+00:01:06,650 --> 00:01:11,950
+Building quality into an organization,
+it's not cheap.
+
+18
+00:01:12,890 --> 00:01:15,570
+It is going to cost, it's going to cost
+money.
+
+19
+00:01:15,690 --> 00:01:16,790
+It's a big investment.
+
+20
+00:01:17,290 --> 00:01:20,498
+However, if you have a
+good quality process in place,
+
+21
+00:01:20,499 --> 00:01:23,350
+you're going to get all
+of that investment back.
+
+22
+00:01:23,670 --> 00:01:26,070
+At the back end, you're going to get it
+all back.
+
+23
+00:01:26,490 --> 00:01:29,940
+And you're going to get it back in the
+form of increased productivity,
+
+24
+00:01:30,530 --> 00:01:34,250
+decreased rework and customer
+satisfaction.
+
+25
+00:01:34,251 --> 00:01:37,290
+I'd say a customer's going to buy more of
+your product.
+
+26
+00:01:37,790 --> 00:01:39,607
+They're going to recommend your product.
+
+27
+00:01:39,690 --> 00:01:42,390
+You're going to have brand loyalty and so
+and so forth.
+
+28
+00:01:43,430 --> 00:01:47,002
+So in effect, since you're
+getting all that money
+
+29
+00:01:47,003 --> 00:01:50,230
+back, then quality really
+should be seen as being free.
+
+30
+00:01:51,070 --> 00:01:53,990
+And he promoted this concept of zero
+defects.
+
+31
+00:01:54,790 --> 00:01:59,190
+Now, zero defects does not mean 100%
+quality control testing.
+
+32
+00:01:59,670 --> 00:02:04,010
+No, on the contrary, what he was saying
+and other quality pioneers as well,
+
+33
+00:02:04,250 --> 00:02:07,530
+They're saying quality control should be
+at a minimum.
+
+34
+00:02:08,370 --> 00:02:10,470
+Call to control means testing the product.
+
+35
+00:02:12,070 --> 00:02:17,710
+If you are focusing on quality control,
+then that is also an expensive approach
+
+36
+00:02:17,711 --> 00:02:21,890
+because quality control means building the
+product, testing it to see if it works.
+
+37
+00:02:21,970 --> 00:02:24,070
+If it doesn't work, we go back and fix it.
+
+38
+00:02:24,830 --> 00:02:30,190
+What a bear approach is, is making sure
+that it's built right in the first place,
+
+39
+00:02:30,910 --> 00:02:32,790
+not focusing on quality control.
+
+40
+00:02:32,791 --> 00:02:35,873
+Now, neither of them,
+or rather, no quality
+
+41
+00:02:35,874 --> 00:02:38,504
+pioneer is saying
+eliminate quality control.
+
+42
+00:02:38,790 --> 00:02:41,610
+No, you can't eliminate it, but it
+shouldn't be focused.
+
+43
+00:02:41,790 --> 00:02:44,370
+Your focus shouldn't be on quality
+control.
+
+44
+00:02:44,530 --> 00:02:47,221
+Your focus should be
+on preventive actions,
+
+45
+00:02:47,222 --> 00:02:50,224
+and your focus should be on the process.
+
+46
+00:02:51,050 --> 00:02:56,655
+So this zero defects is basically
+talking about the process,
+
+47
+00:02:56,656 --> 00:02:59,970
+making sure that the
+procedures are working correctly.
+
+48
+00:02:59,971 --> 00:03:03,010
+So the output of each process is
+defect-free.
+
+49
+00:03:03,530 --> 00:03:07,990
+So we're removing all defects and issues
+from the actual process itself.
+
+50
+00:03:08,750 --> 00:03:12,530
+I'm focusing on prevention rather than
+inspection.
+
+51
+00:03:12,650 --> 00:03:15,650
+Inspection basically means testing,
+which is quality control.
+
+52
+00:03:17,090 --> 00:03:22,564
+Then we have Joseph Joran, who we
+mentioned very briefly in an earlier video.
+
+53
+00:03:23,350 --> 00:03:27,550
+Joseph Joran then, he defined quality.
+
+54
+00:03:28,030 --> 00:03:29,650
+He had a definition of quality.
+
+55
+00:03:29,970 --> 00:03:32,790
+which included this term here,
+fitness for use.
+
+56
+00:03:33,470 --> 00:03:37,230
+This product, is it fit for the customer's
+use?
+
+57
+00:03:37,870 --> 00:03:42,670
+And he had several criteria, but the one
+that you need to know for the exam is this
+
+58
+00:03:42,671 --> 00:03:48,910
+one here, quality versus grade,
+one that we covered in an earlier video.
+
+59
+00:03:49,690 --> 00:03:53,410
+So again, remember, quality is, does
+a product do what it's supposed to do?
+
+60
+00:03:53,930 --> 00:03:59,430
+Grade refers to the number of features,
+the type of features, customer perception,
+
+61
+00:04:00,110 --> 00:04:00,943
+Right.
+
+62
+00:04:01,290 --> 00:04:04,250
+You may have a high grade product.
+
+63
+00:04:04,490 --> 00:04:06,383
+It has all the bells and whistles, all of
+
+64
+00:04:06,384 --> 00:04:08,661
+these, you know, all
+these different features.
+
+65
+00:04:08,970 --> 00:04:11,770
+But if it keeps breaking down,
+then that's poor quality.
+
+66
+00:04:12,870 --> 00:04:14,866
+So what Joseph Geran
+was referring to in this
+
+67
+00:04:14,867 --> 00:04:17,504
+case, again, we're just
+talking very high level.
+
+68
+00:04:17,910 --> 00:04:20,387
+Your product has to have the minimum
+number of features.
+
+69
+00:04:20,470 --> 00:04:24,070
+If it doesn't have the minimum features,
+no one's going to be interested.
+
+70
+00:04:24,370 --> 00:04:25,770
+But also be careful.
+
+71
+00:04:26,350 --> 00:04:27,450
+Don't go over the top.
+
+72
+00:04:27,690 --> 00:04:33,330
+As you add more and more features,
+to a particular product that's going to
+
+73
+00:04:33,331 --> 00:04:39,010
+increase the grade of the product but
+that's also going to have more number of
+
+74
+00:04:39,011 --> 00:04:43,790
+features for things or there's more number
+of things to break down that's poor
+
+75
+00:04:43,791 --> 00:04:49,590
+quality right so just having a whole bunch
+of features that keeps breaking down is no
+
+76
+00:04:49,591 --> 00:04:57,850
+good your focus should be on quality
+rather than on grade now a couple of other
+
+77
+00:04:57,851 --> 00:05:01,890
+people here we have Deming, Edward Deming,
+right?
+
+78
+00:05:02,450 --> 00:05:06,429
+So he developed what's
+known as the 14 points of
+
+79
+00:05:06,430 --> 00:05:09,330
+TQM, 14 points of total
+quality management, right?
+
+80
+00:05:09,410 --> 00:05:12,530
+You don't need to know what those 14
+points are, you just need to know that he
+
+81
+00:05:12,531 --> 00:05:16,231
+is the one that developed those 14 points
+of TQM, total quality management.
+
+82
+00:05:17,130 --> 00:05:20,790
+And we also mentioned him in an early
+video as well, well, when we talked about
+
+83
+00:05:20,791 --> 00:05:24,370
+the PDCA cycle, if you remember,
+the Plan Do Check Act cycle.
+
+84
+00:05:25,010 --> 00:05:30,650
+Now, amongst these 14 points, He also
+observed that it's actually management
+
+85
+00:05:30,651 --> 00:05:35,630
+that contribute to the cost of poor
+quality 85% of the time.
+
+86
+00:05:36,490 --> 00:05:40,990
+The worker contributes to cost of poor
+quality only 15% of the time.
+
+87
+00:05:42,390 --> 00:05:46,240
+Of course, you know, management is going
+to blame the worker 100% of the time.
+
+88
+00:05:46,610 --> 00:05:48,771
+And so he wasn't very popular
+when he came out with this,
+
+89
+00:05:48,772 --> 00:05:53,950
+but this was one of his
+defining moments, if you like.
+
+90
+00:05:54,030 --> 00:05:56,910
+There's one of his major observations.
+
+91
+00:05:57,110 --> 00:05:58,127
+It's actually management.
+
+92
+00:05:58,210 --> 00:06:00,171
+Management are the
+one that put the quality
+
+93
+00:06:00,172 --> 00:06:02,311
+management processes
+and procedures in place.
+
+94
+00:06:03,010 --> 00:06:05,060
+The worker just follows those procedures.
+
+95
+00:06:05,970 --> 00:06:09,020
+And then together with Shuart,
+they came up with a PDCA cycle,
+
+96
+00:06:09,150 --> 00:06:13,190
+or rather it was Shuart, Walter Shuart
+that came up with a PDCA cycle,
+
+97
+00:06:13,670 --> 00:06:16,433
+Plan Do Check Act cycle, and Deming really
+
+98
+00:06:16,434 --> 00:06:20,704
+took it, modified it,
+and really promoted it.
+
+99
+00:06:20,910 --> 00:06:26,050
+And here was the one that also defined the
+special cause, common cause variation that
+
+100
+00:06:26,051 --> 00:06:28,251
+we talked about in the control chart
+section.
+
+101
+00:06:29,490 --> 00:06:34,310
+Then you have this guy called Toguchi,
+Toguchi's loss function, and he's
+
+102
+00:06:34,311 --> 00:06:39,350
+basically establishing users dissatisfaction
+based on a financial measure.
+
+103
+00:06:39,690 --> 00:06:42,940
+Again, you don't need to know,
+I hope, you know, any more details.
+
+104
+00:06:43,770 --> 00:06:50,670
+And then Kano model, right, so by this guy
+called Noriyaki Kano, and he basically
+
+105
+00:06:50,671 --> 00:06:57,370
+tracks what's actually a customer versus
+what delights a customer versus what
+
+106
+00:06:57,371 --> 00:07:01,810
+dissatisfies a customer and you know we
+mentioned the cana model in an earlier
+
+107
+00:07:01,811 --> 00:07:08,410
+video as well um this basically goes uh to
+or refers also to the must have should
+
+108
+00:07:08,411 --> 00:07:12,990
+have remember the Moscow must have should
+have could have won't have so what
+
+109
+00:07:12,991 --> 00:07:17,710
+satisfies a customer what dissatisfies a
+customer if their feature isn't there this
+
+110
+00:07:17,711 --> 00:07:22,210
+is a must have you absolutely have to have
+this otherwise the um a customer is not
+
+111
+00:07:22,211 --> 00:07:28,070
+going to be happy So that's kind of like
+what the Canaan model refers to.
+
+112
+00:07:28,150 --> 00:07:31,227
+Again, you don't need to know any of these
+in a huge amount of detail.
+
+113
+00:07:31,310 --> 00:07:32,610
+You just need to be aware.
+
+114
+00:07:33,190 --> 00:07:37,490
+I'm really enough to be able to answer a
+PMP exam question.
+
+115
+00:07:39,170 --> 00:07:42,890
+So these are just some
+of the important quality
+
+116
+00:07:42,891 --> 00:07:47,010
+theorists that you need to
+be aware of for the PNP exam.
+

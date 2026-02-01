@@ -1,0 +1,510 @@
+﻿1
+00:00:05,340 --> 00:00:10,540
+Okay, in this video then, we are going to
+talk about SWAT analysis.
+
+2
+00:00:11,220 --> 00:00:14,179
+Now, generally, we tend
+to think of SWAT as more of
+
+3
+00:00:14,180 --> 00:00:17,160
+a strategic and business
+management type of activity.
+
+4
+00:00:17,840 --> 00:00:20,440
+And it's something that is done by senior
+management.
+
+5
+00:00:20,580 --> 00:00:22,137
+Yes, that is absolutely correct.
+
+6
+00:00:22,220 --> 00:00:25,740
+However, SWAT can also be done in many,
+many different areas.
+
+7
+00:00:26,120 --> 00:00:30,760
+And in this case, we're talking about SWAT
+analysis as it pertains to your team.
+
+8
+00:00:30,761 --> 00:00:32,620
+Now, what stands for?
+
+9
+00:00:33,180 --> 00:00:35,660
+Strengths, weaknesses, opportunities,
+and threats.
+
+10
+00:00:36,500 --> 00:00:39,800
+So you're identifying the strengths,
+you're identifying weaknesses.
+
+11
+00:00:40,220 --> 00:00:43,920
+And then see how they play against
+opportunities, which are positive risks,
+
+12
+00:00:44,520 --> 00:00:46,420
+and threats, which are negative risks.
+
+13
+00:00:46,800 --> 00:00:49,937
+And we're going to talk about risk in a
+completely separate section.
+
+14
+00:00:50,020 --> 00:00:54,440
+There's an entire lesson, entire knowledge
+area on risk management.
+
+15
+00:00:55,460 --> 00:01:00,740
+Now, the whole idea behind this is to
+basically understand the skills and comfort.
+
+16
+00:01:00,760 --> 00:01:01,840
+of your team.
+
+17
+00:01:02,520 --> 00:01:06,520
+In this case, that's what analysis then
+you are analyzing the capabilities of your
+
+18
+00:01:06,521 --> 00:01:11,760
+team, right, pinpointing areas of
+improvement, by basically recognizing any
+
+19
+00:01:11,761 --> 00:01:16,360
+training needs or, you know, any other
+areas of improvement there and basically
+
+20
+00:01:16,361 --> 00:01:19,880
+making sure we are using our team
+efficiently.
+
+21
+00:01:20,980 --> 00:01:23,097
+And essentially what I
+want to do is we want
+
+22
+00:01:23,098 --> 00:01:25,774
+to organize our teams
+around their strengths.
+
+23
+00:01:26,000 --> 00:01:29,120
+Right, so you're going to be identifying
+the strengths of your team, identifying
+
+24
+00:01:29,121 --> 00:01:33,640
+weaknesses, So strengths such as,
+you know, technical skills and,
+
+25
+00:01:33,700 --> 00:01:38,580
+you know, other skill sets, weaknesses,
+you know, what we're lacking, right?
+
+26
+00:01:38,720 --> 00:01:42,480
+So, you know, we're lacking some team
+members are lacking some skills.
+
+27
+00:01:42,660 --> 00:01:44,837
+Maybe they need to go on an additional
+training.
+
+28
+00:01:44,920 --> 00:01:47,770
+Or even something like team members are
+not getting along.
+
+29
+00:01:47,860 --> 00:01:49,560
+So how do we need to improve that?
+
+30
+00:01:49,940 --> 00:01:50,540
+There's a gap there.
+
+31
+00:01:50,740 --> 00:01:52,583
+If team members are
+not getting along, then
+
+32
+00:01:52,584 --> 00:01:54,500
+you're not going to make a very good team.
+
+33
+00:01:54,760 --> 00:01:56,217
+We need team members to get along.
+
+34
+00:01:56,300 --> 00:01:58,340
+We need team members to work together.
+
+35
+00:01:58,640 --> 00:01:58,920
+Right.
+
+36
+00:01:59,080 --> 00:01:59,800
+So how do we feel?
+
+37
+00:01:59,820 --> 00:02:01,320
+fill that gap, right?
+
+38
+00:02:01,440 --> 00:02:06,980
+So that's what one of these, you know,
+you could do a SWAT analysis for that.
+
+39
+00:02:07,120 --> 00:02:11,341
+So strength then,
+identifying, again, what gives
+
+40
+00:02:11,342 --> 00:02:15,700
+your team a competitive
+advantage, weaknesses, right?
+
+41
+00:02:15,880 --> 00:02:17,580
+So what gaps are there?
+
+42
+00:02:18,080 --> 00:02:22,660
+Opportunities, what external conditions
+are there, or even internal conditions,
+
+43
+00:02:23,080 --> 00:02:25,320
+right, for growth, and then threats,
+right?
+
+44
+00:02:25,600 --> 00:02:29,340
+Negative risks that could impact or
+negatively impact your project.
+
+45
+00:02:29,820 --> 00:02:33,680
+And the whole principle behind this,
+right, team skill appraisal, right,
+
+46
+00:02:33,940 --> 00:02:36,661
+team skill appraisal, which
+we covered in a separate
+
+47
+00:02:36,662 --> 00:02:39,121
+video, basically, you're
+going to be negotiating.
+
+48
+00:02:39,500 --> 00:02:42,340
+Team members are going to be negotiating
+their roles, right?
+
+49
+00:02:42,341 --> 00:02:45,160
+You're going to be placing team members in
+different roles, right?
+
+50
+00:02:45,161 --> 00:02:47,097
+So you're going to be negotiating all
+that.
+
+51
+00:02:47,180 --> 00:02:51,280
+So you're going to be placing team members
+based on their strengths and weaknesses.
+
+52
+00:02:52,380 --> 00:02:55,877
+And, I mean, to some extent you do that
+all the time anyway, but, you know,
+
+53
+00:02:55,960 --> 00:02:58,820
+some people are technical, Some people are
+introverts.
+
+54
+00:02:59,060 --> 00:03:00,440
+Some people are sociable.
+
+55
+00:03:01,000 --> 00:03:03,650
+So you want to put the right people in the
+right role.
+
+56
+00:03:04,100 --> 00:03:06,050
+Some strive in a stressful environment.
+
+57
+00:03:06,240 --> 00:03:08,440
+Some don't strive in a stressful
+environment.
+
+58
+00:03:08,980 --> 00:03:11,480
+So let me just give you a very simple
+analogy here.
+
+59
+00:03:11,900 --> 00:03:16,348
+Now, this is going to
+sound very obvious, but it
+
+60
+00:03:16,349 --> 00:03:20,120
+applies to every single
+organizational situation.
+
+61
+00:03:20,940 --> 00:03:23,720
+So let's say, for example, you're a
+restaurant owner.
+
+62
+00:03:24,860 --> 00:03:26,640
+You want to hire a chef.
+
+63
+00:03:27,260 --> 00:03:33,880
+You want to hire a chef so that they can
+cook the meals for your restaurant,
+
+64
+00:03:34,000 --> 00:03:35,300
+right, for your customers.
+
+65
+00:03:35,760 --> 00:03:40,980
+So you, you know, you see the resumes and,
+you know, you've got some really good,
+
+66
+00:03:41,140 --> 00:03:44,220
+strong candidates, you interview them and
+then you hire them.
+
+67
+00:03:44,940 --> 00:03:47,800
+You're going to hire a chef to work in the
+kitchen.
+
+68
+00:03:48,500 --> 00:03:52,480
+You are not hiring this chef to wait on
+tables.
+
+69
+00:03:53,200 --> 00:03:55,180
+You're hiring the chef to work on the
+kitchen.
+
+70
+00:03:55,260 --> 00:03:56,360
+That's their strength.
+
+71
+00:03:57,000 --> 00:03:59,380
+Their strengths is not waiting on tables.
+
+72
+00:04:00,580 --> 00:04:03,672
+And then you're hiring
+other team members, you're
+
+73
+00:04:03,673 --> 00:04:07,300
+hiring other employees
+to wait on tables, right?
+
+74
+00:04:07,980 --> 00:04:09,480
+You're not going to hire them.
+
+75
+00:04:09,800 --> 00:04:13,000
+If they've got skill sets, their skill set
+is waiting on tables.
+
+76
+00:04:13,480 --> 00:04:18,280
+You're not going to hire them to cook a
+meal in the kitchen for your customers.
+
+77
+00:04:20,120 --> 00:04:22,120
+You're going to hire the right people.
+
+78
+00:04:22,440 --> 00:04:24,376
+So remember, in any
+project, you need to have
+
+79
+00:04:24,377 --> 00:04:27,234
+the right people with
+the right skill sets.
+
+80
+00:04:28,380 --> 00:04:30,020
+But I should really expand that.
+
+81
+00:04:30,920 --> 00:04:32,965
+You want to hire the
+right people, the right
+
+82
+00:04:32,966 --> 00:04:35,414
+skill sets, and put
+them in the right role.
+
+83
+00:04:36,760 --> 00:04:42,740
+So the example I just gave, I mean,
+it sounds very obvious, but that should
+
+84
+00:04:42,741 --> 00:04:46,240
+apply to every single organizational
+situation.
+
+85
+00:04:47,000 --> 00:04:49,500
+And then that should apply to your project
+as well.
+
+86
+00:04:49,700 --> 00:04:52,980
+We want the right people with the right
+skill sets, right?
+
+87
+00:04:53,120 --> 00:04:56,880
+And we want to put them in the right role,
+and we need them to be working.
+
+88
+00:04:56,940 --> 00:04:57,773
+together.
+
+89
+00:04:58,680 --> 00:05:01,880
+And then the SWAT analysis then that can
+help identify that.
+
+90
+00:05:02,160 --> 00:05:06,900
+That will help identify strengths and
+weaknesses, identify, you know,
+
+91
+00:05:07,320 --> 00:05:11,200
+aspirations of team members, where they
+want to go, what kind of opportunities are
+
+92
+00:05:11,201 --> 00:05:14,780
+there for team member, for team growth,
+right?
+
+93
+00:05:15,000 --> 00:05:18,300
+And then also what potential threats are
+out there for team growth.
+
+94
+00:05:18,520 --> 00:05:19,820
+And a very simple example.
+
+95
+00:05:19,940 --> 00:05:24,097
+More recently of, you
+know, that that could lack
+
+96
+00:05:24,098 --> 00:05:26,920
+or that that could have
+hindered team growth.
+
+97
+00:05:26,940 --> 00:05:29,360
+growth was this whole COVID situation.
+
+98
+00:05:30,200 --> 00:05:34,660
+In beginning of 2020, when the COVID
+situation came about, right, there was
+
+99
+00:05:34,661 --> 00:05:37,986
+obviously, you know,
+a lot of uncertainty and,
+
+100
+00:05:37,987 --> 00:05:41,154
+you know, a lot of projects got cancelled.
+
+101
+00:05:42,000 --> 00:05:43,840
+That was a huge uncertainty.
+
+102
+00:05:44,080 --> 00:05:46,700
+That was a huge threat, if you like, or a
+
+103
+00:05:46,701 --> 00:05:49,814
+huge risk for, you know,
+for team development.
+
+104
+00:05:50,060 --> 00:05:51,860
+Just a very, very simple example.
+
+105
+00:05:52,020 --> 00:05:54,360
+But again, you could be identifying all of
+these.
+
+106
+00:05:54,400 --> 00:05:56,317
+What are the opportunities for team
+development?
+
+107
+00:05:56,400 --> 00:06:00,780
+What are the the threats, what are the
+risks, negative risk for team development?
+
+108
+00:06:01,980 --> 00:06:02,813
+Okay.
+

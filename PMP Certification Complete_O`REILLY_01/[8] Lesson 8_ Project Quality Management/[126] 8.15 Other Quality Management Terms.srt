@@ -1,0 +1,384 @@
+﻿1
+00:00:05,530 --> 00:00:10,330
+All right, so let's talk about a couple of
+other important quality management terms.
+
+2
+00:00:10,690 --> 00:00:13,213
+So one other term that
+you need to be aware
+
+3
+00:00:13,214 --> 00:00:16,250
+of is something called
+verified deliverables.
+
+4
+00:00:16,810 --> 00:00:20,058
+Verified deliverables is
+something that you as a project
+
+5
+00:00:20,059 --> 00:00:22,621
+manager and your team
+are going to be performing.
+
+6
+00:00:22,910 --> 00:00:25,570
+Basically, it's testing the product,
+right?
+
+7
+00:00:26,210 --> 00:00:31,470
+Is the product meeting the requirements
+and is it meeting the quality standards?
+
+8
+00:00:32,350 --> 00:00:35,510
+So basically, the two questions we're
+asking is, are we?
+
+9
+00:00:35,530 --> 00:00:39,150
+we building the right product and are we
+building it correctly?
+
+10
+00:00:39,770 --> 00:00:42,846
+So it's not just a case of
+making sure you're meeting
+
+11
+00:00:42,847 --> 00:00:45,401
+the customer's requirements,
+that's only one part.
+
+12
+00:00:46,010 --> 00:00:50,590
+But it's also making sure it's within the
+appropriate standards, right?
+
+13
+00:00:50,591 --> 00:00:52,501
+You're building the
+product according to the
+
+14
+00:00:52,502 --> 00:00:55,410
+appropriate quality
+management standards, right?
+
+15
+00:00:55,510 --> 00:00:58,310
+So according to your own
+standards, your organization
+
+16
+00:00:58,311 --> 00:01:00,350
+standards, your industry standards, right?
+
+17
+00:01:00,450 --> 00:01:03,950
+So ISO standards and Six Sigma standards
+and so and so forth.
+
+18
+00:01:04,310 --> 00:01:06,387
+Again, just like when you're building a
+house.
+
+19
+00:01:06,470 --> 00:01:08,799
+You don't just want to
+put some bricks together
+
+20
+00:01:08,800 --> 00:01:11,291
+and some pieces of wood
+together and build a house.
+
+21
+00:01:11,670 --> 00:01:14,177
+You need to make sure
+everything is according
+
+22
+00:01:14,178 --> 00:01:16,944
+to code, according
+to the latest standards.
+
+23
+00:01:17,290 --> 00:01:19,990
+So the electrical and the plumbing and so
+and so forth.
+
+24
+00:01:20,510 --> 00:01:23,710
+It's making sure it's according to the
+local building codes.
+
+25
+00:01:24,810 --> 00:01:27,410
+So the deliverables then, they're going to
+be tested.
+
+26
+00:01:27,710 --> 00:01:31,010
+They're going to be checked to make sure
+it's meeting the customer's requirements
+
+27
+00:01:31,011 --> 00:01:35,270
+and it's complying to the appropriate
+standards and regulations.
+
+28
+00:01:37,050 --> 00:01:42,170
+Now, just a side note on this,
+the team verifies the deliverables.
+
+29
+00:01:42,410 --> 00:01:43,810
+That's what verification is.
+
+30
+00:01:44,730 --> 00:01:47,910
+So verification refers to quality control.
+
+31
+00:01:48,750 --> 00:01:52,230
+So the team themselves are testing the
+product.
+
+32
+00:01:52,550 --> 00:01:56,310
+That's known as quality control or the
+process is control quality quality.
+
+33
+00:01:56,390 --> 00:02:03,330
+Whereas the customer is going to accept
+the deliverable and that process is,
+
+34
+00:02:03,590 --> 00:02:07,730
+you know, as validate scope and that's one
+of the processes that we talked about in
+
+35
+00:02:07,731 --> 00:02:13,210
+the scope management section right so the
+customer is going to be validating right
+
+36
+00:02:13,211 --> 00:02:17,070
+is it meeting our requirements and then
+they're the ones that are going to be
+
+37
+00:02:17,071 --> 00:02:23,970
+accepting and that process is known as
+validate scope now another term a couple
+
+38
+00:02:23,971 --> 00:02:28,010
+of other terms that you just need to be
+aware of again at a very very high level
+
+39
+00:02:28,011 --> 00:02:32,750
+are these two terms here attribute
+sampling variable sampling right now these
+
+40
+00:02:32,751 --> 00:02:36,807
+are two terms, major terms
+as part of six sigma, but you
+
+41
+00:02:36,808 --> 00:02:40,570
+don't need to worry about
+them for the PMP exam as much.
+
+42
+00:02:40,890 --> 00:02:45,090
+You just need to know that these terms
+exist more than anything else, right?
+
+43
+00:02:45,370 --> 00:02:48,950
+So attribute sampling, also known as
+discrete data, variable sampling,
+
+44
+00:02:49,270 --> 00:02:50,770
+also known as continuous data.
+
+45
+00:02:51,450 --> 00:02:56,010
+So attribute sampling is always just a
+past, fail scenario, yes, no, on-off type
+
+46
+00:02:56,011 --> 00:03:00,970
+of thing, whereas variable sampling refers
+to the actual degree of conformity.
+
+47
+00:03:01,250 --> 00:03:05,100
+And in a variable sampling, you can do
+some kind of mathematical computations.
+
+48
+00:03:05,790 --> 00:03:07,290
+So just a very simple example.
+
+49
+00:03:07,890 --> 00:03:09,310
+Think of a sports team.
+
+50
+00:03:09,930 --> 00:03:14,170
+In a sports team, you've got all these
+different players and they're all playing
+
+51
+00:03:14,171 --> 00:03:20,630
+a particular position and they all have
+numbers at the back of their jerseys.
+
+52
+00:03:21,010 --> 00:03:25,610
+You try adding up those numbers or doing
+some mathematical computations on those
+
+53
+00:03:25,611 --> 00:03:27,527
+numbers that's at the back of their
+jerseys.
+
+54
+00:03:27,610 --> 00:03:29,670
+Add them up, divide them, what do you get?
+
+55
+00:03:29,730 --> 00:03:31,750
+You get a completely meaningless value.
+
+56
+00:03:31,910 --> 00:03:33,590
+it doesn't mean anything.
+
+57
+00:03:35,350 --> 00:03:37,450
+So that would be attribute data.
+
+58
+00:03:38,230 --> 00:03:40,287
+Or rather that would be attribute
+sampling.
+
+59
+00:03:40,370 --> 00:03:42,912
+Variable sampling on
+the other hand, you could
+
+60
+00:03:42,913 --> 00:03:45,461
+actually do some kind of
+mathematical computation.
+
+61
+00:03:45,610 --> 00:03:48,804
+You could get the average age
+of the team, the average height,
+
+62
+00:03:48,805 --> 00:03:51,730
+average number of goals
+scored, and so on and so forth.
+
+63
+00:03:54,330 --> 00:03:56,370
+Now, a couple of other important terms.
+
+64
+00:03:57,030 --> 00:04:00,810
+Important to understand how a distinguish
+between precision and accuracy.
+
+65
+00:04:00,811 --> 00:04:03,910
+What does it mean to be precise versus
+accurate?
+
+66
+00:04:04,630 --> 00:04:07,930
+Well, precision basically means data
+points are clustered together,
+
+67
+00:04:08,770 --> 00:04:11,678
+they have very little
+scatter, whereas accurate
+
+68
+00:04:11,679 --> 00:04:14,181
+is close to the mean
+or it's right on the mean.
+
+69
+00:04:15,070 --> 00:04:16,420
+So the very simple example.
+
+70
+00:04:16,930 --> 00:04:19,580
+Best way to explain this, we have a target
+board here.
+
+71
+00:04:20,570 --> 00:04:25,530
+You're firing shots at this target board
+and they're all landing in one location.
+
+72
+00:04:25,990 --> 00:04:27,790
+All of these shots are landing here.
+
+73
+00:04:28,410 --> 00:04:29,510
+That would be precise.
+
+74
+00:04:30,350 --> 00:04:32,710
+or very little scatter, right?
+
+75
+00:04:33,130 --> 00:04:35,970
+They're all landing exactly equal distance
+apart.
+
+76
+00:04:36,870 --> 00:04:37,970
+That would be precise.
+
+77
+00:04:38,670 --> 00:04:42,630
+Accuracy, one shot right in the centre,
+that would be accurate.
+
+78
+00:04:43,550 --> 00:04:46,300
+So that's the difference between precision
+and accuracy.
+
+79
+00:04:47,050 --> 00:04:51,370
+So these are just a couple of then or a
+few additional quality management terms
+
+80
+00:04:51,371 --> 00:04:53,690
+that you should be aware of for the PMP
+exam.
+

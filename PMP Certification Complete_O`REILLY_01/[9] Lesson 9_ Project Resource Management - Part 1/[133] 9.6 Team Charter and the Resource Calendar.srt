@@ -1,0 +1,629 @@
+﻿1
+00:00:05,920 --> 00:00:11,840
+Okay, so in this video then, we are going
+to discuss two very important artifacts.
+
+2
+00:00:12,540 --> 00:00:16,540
+One is called the Team Charter and the
+other one is called the Resource Calendar.
+
+3
+00:00:17,640 --> 00:00:20,120
+Okay, so let's talk about the Team
+Charter.
+
+4
+00:00:21,140 --> 00:00:26,460
+Now the Team Charter is considered an
+output of Plan Resource Management.
+
+5
+00:00:26,920 --> 00:00:30,762
+One of the outputs of
+Plan Resource Management
+
+6
+00:00:30,763 --> 00:00:33,440
+Plan, which we covered in a prior video.
+
+7
+00:00:33,441 --> 00:00:37,760
+and the resource management plan is
+documenting procedures, documenting how.
+
+8
+00:00:38,840 --> 00:00:44,480
+The team charter is another artifact
+that's considered an output, if you like,
+
+9
+00:00:44,720 --> 00:00:46,320
+of the resource management plan.
+
+10
+00:00:47,040 --> 00:00:49,309
+And the team charter
+is basically documenting
+
+11
+00:00:49,310 --> 00:00:51,860
+the do's and don'ts of the team, right?
+
+12
+00:00:51,980 --> 00:00:54,160
+It's documenting shared values,
+right?
+
+13
+00:00:54,280 --> 00:00:58,720
+The teams shared values, their agreements,
+operating guidelines, you know,
+
+14
+00:00:58,800 --> 00:01:01,017
+what we should say, how we should behave,
+right?
+
+15
+00:01:01,100 --> 00:01:03,400
+That is all documented in the team chart.
+
+16
+00:01:03,440 --> 00:01:08,320
+And that is especially the case when you
+have team members in, you know,
+
+17
+00:01:08,440 --> 00:01:12,140
+many different locations, right,
+and especially in foreign countries where
+
+18
+00:01:12,141 --> 00:01:16,500
+there might be also some cultural
+differences as well, right?
+
+19
+00:01:16,920 --> 00:01:19,372
+So this is really what
+the team charter is going
+
+20
+00:01:19,373 --> 00:01:21,851
+to be documented, the
+do's and don'ts of the team.
+
+21
+00:01:22,280 --> 00:01:27,500
+And one very important aspect of that is
+it's a collaborative process, right?
+
+22
+00:01:27,501 --> 00:01:30,600
+the team collaborates to create this
+document.
+
+23
+00:01:31,060 --> 00:01:35,151
+It is not something
+that the project manager
+
+24
+00:01:35,152 --> 00:01:38,300
+is going to be delegating to team members.
+
+25
+00:01:38,400 --> 00:01:42,900
+The project manager is not writing this
+and then sending it to team members.
+
+26
+00:01:43,160 --> 00:01:45,237
+These are the rules that we have to
+follow.
+
+27
+00:01:45,320 --> 00:01:47,460
+No, this is a collaborative process.
+
+28
+00:01:49,440 --> 00:01:50,860
+Everybody is involved.
+
+29
+00:01:51,060 --> 00:01:55,360
+All the team members, should I say,
+are involved in creating the team charter.
+
+30
+00:01:55,820 --> 00:01:57,480
+So basically because we are a.
+
+31
+00:01:57,500 --> 00:02:00,960
+agreeing, team members are agreeing to
+their values, right?
+
+32
+00:02:01,080 --> 00:02:05,740
+So it's a team shared values, agreements,
+and operating guidelines.
+
+33
+00:02:07,180 --> 00:02:11,120
+And this is for both predictive projects
+as well as agile projects.
+
+34
+00:02:11,660 --> 00:02:13,980
+So in both cases, it's a collaborative
+process.
+
+35
+00:02:14,780 --> 00:02:20,000
+So things like, for example, specific time
+commitments, expectations of team members,
+
+36
+00:02:20,140 --> 00:02:23,840
+that's all going to be documented here,
+right?
+
+37
+00:02:24,080 --> 00:02:27,880
+How are we going to communicate,
+right, guidelines for communication?
+
+38
+00:02:28,060 --> 00:02:31,480
+What tools are we going to be using to
+communicate with one another?
+
+39
+00:02:32,400 --> 00:02:34,541
+Especially, you know,
+you've got team members
+
+40
+00:02:34,542 --> 00:02:37,180
+in working remotely in
+foreign countries, right?
+
+41
+00:02:37,220 --> 00:02:39,417
+There might not be any overlap of office
+hours.
+
+42
+00:02:39,500 --> 00:02:42,660
+So how do we handle those kind of
+constraints to communication?
+
+43
+00:02:43,380 --> 00:02:45,520
+That would be documented here as well.
+
+44
+00:02:46,080 --> 00:02:48,540
+What tools we are going to be using?
+
+45
+00:02:48,620 --> 00:02:50,697
+I mean, there's many communication tools
+out there.
+
+46
+00:02:50,780 --> 00:02:55,160
+So what tool should we be utilizing when
+we are communicating with one another.
+
+47
+00:02:55,700 --> 00:02:57,950
+Also things like cultural differences as
+well.
+
+48
+00:02:58,180 --> 00:03:00,253
+A phrase in one part of the
+world could mean something
+
+49
+00:03:00,254 --> 00:03:02,541
+completely different in
+another part of the world.
+
+50
+00:03:02,640 --> 00:03:09,960
+So again, we need to be cognizant of all
+these different cultural anomalies,
+
+51
+00:03:10,140 --> 00:03:11,190
+cultural differences.
+
+52
+00:03:11,760 --> 00:03:14,280
+And so, again, how are we going to
+communicate?
+
+53
+00:03:14,900 --> 00:03:16,860
+What's our acceptable behavior?
+
+54
+00:03:17,040 --> 00:03:18,990
+Again, the do's and don'ts of the team.
+
+55
+00:03:19,260 --> 00:03:23,560
+Also guidelines for making decisions
+coming to a consensus, right?
+
+56
+00:03:23,720 --> 00:03:26,420
+Along with that, there's going to be
+conflicts as well.
+
+57
+00:03:26,600 --> 00:03:28,850
+So how are we going to handle these
+conflicts?
+
+58
+00:03:29,320 --> 00:03:31,176
+Right, there's a separate
+section on conflict,
+
+59
+00:03:31,177 --> 00:03:33,354
+a separate video on conflict management.
+
+60
+00:03:34,280 --> 00:03:36,560
+But how we're going to manage these
+conflicts?
+
+61
+00:03:37,180 --> 00:03:39,577
+How are we going to be managing these
+disagreements?
+
+62
+00:03:39,660 --> 00:03:42,300
+That's all going to be documented here as
+well.
+
+63
+00:03:42,780 --> 00:03:45,180
+Also, I mean, general ground rules.
+
+64
+00:03:45,460 --> 00:03:47,637
+I mean, that's really what the team
+charter is setting.
+
+65
+00:03:47,720 --> 00:03:52,800
+It's setting some ground rules, ground
+rules for behavior between our team members.
+
+66
+00:03:52,801 --> 00:03:59,494
+So really, you know, team norms, right,
+team norms for meeting and decision making.
+
+67
+00:04:00,100 --> 00:04:02,966
+So who, if we can't come to a decision,
+
+68
+00:04:02,967 --> 00:04:06,574
+then how are we going
+to come to a decision?
+
+69
+00:04:07,240 --> 00:04:11,760
+Who's going to encourage who to come up
+with a decision?
+
+70
+00:04:12,180 --> 00:04:14,530
+And how are we going to come up with a
+decision?
+
+71
+00:04:14,700 --> 00:04:18,000
+That's all going to be documented here in
+the team charter as well.
+
+72
+00:04:18,900 --> 00:04:21,200
+And again, team communication guidelines.
+
+73
+00:04:21,201 --> 00:04:25,900
+So, you know, in summary, this is
+basically documenting the team values,
+
+74
+00:04:26,380 --> 00:04:30,744
+communication guidelines,
+decision-making process, right,
+
+75
+00:04:30,745 --> 00:04:33,960
+conflict resolution process,
+at least conflict management.
+
+76
+00:04:34,780 --> 00:04:37,977
+There's a difference in conflict
+resolution and conflict management.
+
+77
+00:04:38,060 --> 00:04:42,840
+You can't always resolve the conflict,
+but you can certainly manage a conflict.
+
+78
+00:04:43,240 --> 00:04:46,300
+And that's what the, you know,
+that's the key here.
+
+79
+00:04:46,420 --> 00:04:50,540
+We want to manage our conflict so it doesn't
+have a negative impact on our project.
+
+80
+00:04:50,541 --> 00:04:53,360
+So how are we going to do that between our
+team?
+
+81
+00:04:53,540 --> 00:04:56,790
+Again, that's all going to be documented
+here in the team charter.
+
+82
+00:04:57,280 --> 00:05:00,580
+So again, it's just basically the do's and
+don'ts of the team.
+
+83
+00:05:02,380 --> 00:05:08,300
+Now, another important artifact is this
+one here called the Resource Calendar.
+
+84
+00:05:09,300 --> 00:05:15,200
+And the Resource Calendar is, as far as
+PIMBox 6 is concerned, it's considered an
+
+85
+00:05:15,201 --> 00:05:18,640
+output of the process called Acquire
+Resources.
+
+86
+00:05:18,641 --> 00:05:22,880
+and the resource calendar is basically
+just documenting availability of
+
+87
+00:05:22,881 --> 00:05:27,940
+resources, both physical resources as well
+as team resources, right?
+
+88
+00:05:28,300 --> 00:05:30,540
+So, for example, team resources.
+
+89
+00:05:30,900 --> 00:05:32,477
+When are team members available?
+
+90
+00:05:32,560 --> 00:05:34,260
+One of the rolling onto a project?
+
+91
+00:05:34,460 --> 00:05:36,017
+One are the rolling off a project?
+
+92
+00:05:36,100 --> 00:05:37,650
+One are they going on vacation?
+
+93
+00:05:37,920 --> 00:05:37,940
+Right?
+
+94
+00:05:38,160 --> 00:05:39,757
+When are they going on training?
+
+95
+00:05:39,840 --> 00:05:42,620
+What times are they actually available to
+do the work?
+
+96
+00:05:42,860 --> 00:05:46,357
+Especially when you've got team members
+that are not 100% working on your project?
+
+97
+00:05:46,440 --> 00:05:50,720
+Right, might be on your project for a
+certain time period, or there might be on
+
+98
+00:05:50,721 --> 00:05:54,680
+your project, you know, say, you know,
+50% of the time.
+
+99
+00:05:54,960 --> 00:05:59,160
+50% of the time is on your project,
+50% of the time is on another project.
+
+100
+00:05:59,660 --> 00:06:02,610
+Well, what 50% of the time are they
+working on your project?
+
+101
+00:06:02,940 --> 00:06:04,240
+What's their availability?
+
+102
+00:06:04,660 --> 00:06:05,960
+And then machines as well.
+
+103
+00:06:06,740 --> 00:06:09,640
+What's the availability of, say,
+a particular machine?
+
+104
+00:06:09,740 --> 00:06:14,540
+This machine is being shared by,
+you know, the whole organization,
+
+105
+00:06:15,020 --> 00:06:17,020
+different teams within the organization.
+
+106
+00:06:17,380 --> 00:06:18,617
+So what's the availability?
+
+107
+00:06:18,700 --> 00:06:20,250
+When is this machine available?
+
+108
+00:06:20,480 --> 00:06:23,220
+So again, that is documented in the
+resource calendar.
+
+109
+00:06:24,180 --> 00:06:27,897
+Resource calendar then is also going to be
+identifying things like work days,
+
+110
+00:06:27,980 --> 00:06:31,461
+shift work, holidays and so
+and so forth, especially again
+
+111
+00:06:31,462 --> 00:06:34,720
+when you have different
+populations of team members, right?
+
+112
+00:06:34,900 --> 00:06:37,240
+You have, for example, trade union
+workers.
+
+113
+00:06:37,620 --> 00:06:39,560
+If you have trade union workers, you can't
+
+114
+00:06:39,561 --> 00:06:42,400
+assume that they could
+be working overtime.
+
+115
+00:06:43,400 --> 00:06:45,650
+Or you have team members in foreign
+countries.
+
+116
+00:06:46,120 --> 00:06:48,365
+You can't assume that
+there's always going to
+
+117
+00:06:48,366 --> 00:06:51,214
+be a 40-hour work
+week in a foreign country.
+
+118
+00:06:51,340 --> 00:06:55,320
+In different countries, have different
+holidays, different weekends even,
+
+119
+00:06:55,680 --> 00:06:56,830
+and so on and so forth.
+
+120
+00:06:57,000 --> 00:07:02,840
+So if there is a location, a foreign
+location that is going to be closed
+
+121
+00:07:02,841 --> 00:07:06,726
+because of a holiday, well,
+that's going to be documented
+
+122
+00:07:06,806 --> 00:07:09,297
+in, you know, in some
+kind of resource calendar.
+
+123
+00:07:09,380 --> 00:07:13,160
+So that's really what the resource
+calendar is documenting, you know,
+
+124
+00:07:13,240 --> 00:07:15,580
+just the availability of all of our
+resources.
+
+125
+00:07:16,060 --> 00:07:18,397
+And you're not necessarily just going to
+have one resource calendar.
+
+126
+00:07:18,480 --> 00:07:20,817
+Really, it's going to be many resource
+calendars.
+
+127
+00:07:20,900 --> 00:07:24,540
+For example, for a machine, right,
+I mean, there's 10 machines.
+
+128
+00:07:24,720 --> 00:07:27,320
+Each machine is going to have their own
+availability.
+
+129
+00:07:27,500 --> 00:07:31,820
+So each machine then will technically have
+their own resource calendar when,
+
+130
+00:07:31,940 --> 00:07:34,590
+you know, the availability of that
+particular machine.
+
+131
+00:07:35,280 --> 00:07:40,420
+So these are a couple of important
+artifacts, a couple of important documents
+
+132
+00:07:40,920 --> 00:07:44,080
+that, again, that you may be asked about
+on the exam.
+

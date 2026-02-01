@@ -1,0 +1,278 @@
+﻿1
+00:00:06,600 --> 00:00:09,539
+Okay, in this video,
+we're going to talk about
+
+2
+00:00:09,540 --> 00:00:12,231
+the PIMBOC guide processes
+in quality management.
+
+3
+00:00:13,120 --> 00:00:18,380
+So there are only three processes in
+quality, right, as far as the PIMBOC guide
+
+4
+00:00:18,381 --> 00:00:23,480
+is concerned, right, the PIMBOC version 6,
+and they fall under planning, executing,
+
+5
+00:00:23,960 --> 00:00:25,360
+and monitoring, controlling.
+
+6
+00:00:25,600 --> 00:00:30,254
+So the very first process then, which is
+in planning, is plan quality management.
+
+7
+00:00:30,760 --> 00:00:36,660
+And naturally, right, remember the very
+first process in planning for any of the
+
+8
+00:00:36,661 --> 00:00:39,180
+knowledge areas is always
+plan something management,
+
+9
+00:00:39,181 --> 00:00:41,374
+that's something being
+that knowledge area.
+
+10
+00:00:41,800 --> 00:00:44,640
+So in this case then, plan quality
+management.
+
+11
+00:00:45,500 --> 00:00:50,000
+And the output of plan quality management
+is the quality management plan.
+
+12
+00:00:50,360 --> 00:00:53,910
+So remember, the output is some kind of
+document, some kind of artifact.
+
+13
+00:00:54,340 --> 00:00:56,060
+So what artifact are we creating?
+
+14
+00:00:56,400 --> 00:00:59,897
+What document are we creating in this
+process called plan quality management?
+
+15
+00:00:59,980 --> 00:01:04,680
+We are creating, we are documenting the
+quality management plan.
+
+16
+00:01:05,300 --> 00:01:09,720
+Remember, the quality management plan is
+documenting procedures, documenting how,
+
+17
+00:01:10,300 --> 00:01:15,340
+how we are going to develop our quality
+management process.
+
+18
+00:01:15,880 --> 00:01:20,360
+And this is going to include both, quality
+assurance as well as quality control.
+
+19
+00:01:20,540 --> 00:01:22,697
+It's going to include procedures for both,
+right?
+
+20
+00:01:22,780 --> 00:01:24,630
+And there's a separate video on that.
+
+21
+00:01:25,780 --> 00:01:29,580
+Under executing, we have this process
+called manage quality, and under
+
+22
+00:01:29,581 --> 00:01:32,531
+monitoring controlling, this process
+called control quality.
+
+23
+00:01:32,640 --> 00:01:38,440
+So this refers to quality assurance,
+that's managed quality, and quality
+
+24
+00:01:38,441 --> 00:01:40,741
+control, which is control quality
+respectively.
+
+25
+00:01:42,060 --> 00:01:44,240
+So quality assurance refers to the
+process.
+
+26
+00:01:45,300 --> 00:01:47,457
+Is the team doing what they're supposed to
+be doing?
+
+27
+00:01:47,540 --> 00:01:49,480
+Are team members following procedures?
+
+28
+00:01:50,300 --> 00:01:52,520
+Are we following ISO standards?
+
+29
+00:01:53,000 --> 00:01:54,900
+Are we following Six Sigma standards?
+
+30
+00:01:55,160 --> 00:01:58,910
+You know, if we are ISO compliant,
+six sigma compliant, and so and so forth.
+
+31
+00:01:59,220 --> 00:02:01,702
+Are we following our organisations quality
+
+32
+00:02:01,703 --> 00:02:04,340
+policies and procedures
+that we have in place?
+
+33
+00:02:04,380 --> 00:02:08,220
+We have policies and procedures in place
+for the project.
+
+34
+00:02:09,060 --> 00:02:10,800
+Are we following those procedures?
+
+35
+00:02:11,600 --> 00:02:14,037
+Are we following the procedure that we
+have put in place?
+
+36
+00:02:14,120 --> 00:02:17,375
+So change control
+procedures, documentation
+
+37
+00:02:17,376 --> 00:02:20,260
+procedures, sign-off
+procedures, etc., etc.
+
+38
+00:02:21,320 --> 00:02:23,720
+When you're building a
+house, you're making sure that
+
+39
+00:02:23,721 --> 00:02:26,111
+the appropriate building
+codes are being followed.
+
+40
+00:02:27,640 --> 00:02:31,140
+So this is what managed quality refers to.
+
+41
+00:02:31,460 --> 00:02:34,360
+And then control quality is testing the
+project.
+
+42
+00:02:34,940 --> 00:02:35,773
+product, right?
+
+43
+00:02:35,920 --> 00:02:38,420
+Is a product doing what it's supposed to
+do, right?
+
+44
+00:02:38,700 --> 00:02:41,189
+So it's quality, you
+know, so control quality
+
+45
+00:02:41,190 --> 00:02:44,114
+obviously is referring to quality control.
+
+46
+00:02:44,460 --> 00:02:46,740
+So these are the three separate processes.
+
+47
+00:02:47,520 --> 00:02:51,940
+Now back in, you know, Pinbox six,
+when Pinbox six was a major component of
+
+48
+00:02:51,941 --> 00:02:56,974
+the PMP exam, right, you know, they had
+the input tools and techniques and outputs.
+
+49
+00:02:57,380 --> 00:03:00,837
+So, you know, we're going to be talking
+about all of the tools and techniques.
+
+50
+00:03:00,920 --> 00:03:03,260
+We're going to be talking about all of the
+outputs, right?
+
+51
+00:03:03,320 --> 00:03:08,200
+The outputs, remember, are normally
+artifacts, right, so documentation generally.
+
+52
+00:03:08,620 --> 00:03:12,820
+So I'm going to be talking about,
+you know, all of those, but you don't
+
+53
+00:03:12,821 --> 00:03:15,614
+necessarily need to know
+now what is the input of each
+
+54
+00:03:15,615 --> 00:03:18,557
+process, or what is the tool
+and technique of each process.
+
+55
+00:03:18,640 --> 00:03:21,890
+We're going to cover all of the major
+tools and techniques, right?
+
+56
+00:03:22,060 --> 00:03:25,940
+But just have an understanding,
+just have an idea and understanding that
+
+57
+00:03:25,941 --> 00:03:29,080
+these are the three processes,
+right, in quality.
+
+58
+00:03:29,081 --> 00:03:33,640
+You've got plan quality management,
+manage quality and control quality.
+
