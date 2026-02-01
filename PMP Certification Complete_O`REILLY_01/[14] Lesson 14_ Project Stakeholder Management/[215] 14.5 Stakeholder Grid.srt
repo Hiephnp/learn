@@ -1,0 +1,128 @@
+﻿1
+00:00:06,010 --> 00:00:12,810
+all right so our stakeholder grid this is
+part of identify stakeholders and this is
+
+2
+00:00:12,811 --> 00:00:21,430
+the data representation portion so I will
+again reiterate how important it is that
+
+3
+00:00:21,431 --> 00:00:27,910
+we identify engage all stakeholders
+appropriately it's it can mean the
+
+4
+00:00:27,911 --> 00:00:33,250
+difference between project success and
+failure all right so this is important so
+
+5
+00:00:33,251 --> 00:00:39,210
+this is a way if you have a lot of
+stakeholders a way to categorize the
+
+6
+00:00:39,211 --> 00:00:45,190
+stakeholders all right so a power and
+interest grid you could also do power and
+
+7
+00:00:45,191 --> 00:00:50,350
+influence or impact influence this happens
+to be an example of their interest from
+
+8
+00:00:50,351 --> 00:00:58,750
+low to high and power from low to high so
+we will categorize each of our
+
+9
+00:00:58,751 --> 00:01:05,510
+stakeholders again by their power ability
+to use use their authority and then their
+
+10
+00:01:05,511 --> 00:01:07,650
+interest on their project from low to
+high.
+
+11
+00:01:08,510 --> 00:01:14,573
+So you can see in this top right
+quadrant, these are stakeholders
+
+12
+00:01:14,574 --> 00:01:18,410
+with a lot of power and a
+lot of interest in our project.
+
+13
+00:01:19,290 --> 00:01:21,540
+So we're going to have to manage them
+closely.
+
+14
+00:01:22,670 --> 00:01:25,210
+Keep your friends close, keep your enemies
+closer.
+
+15
+00:01:26,390 --> 00:01:32,495
+If you have powerful stakeholders
+who are resistant to the
+
+16
+00:01:32,496 --> 00:01:38,050
+project, to keep them very
+close, manage them very closely.
+
+17
+00:01:39,190 --> 00:01:42,661
+Over here, these are stakeholders
+who have a lot of power,
+
+18
+00:01:42,662 --> 00:01:45,811
+not a whole bunch of interest
+in our project or its outcomes.
+
+19
+00:01:46,190 --> 00:01:47,640
+So we'll keep them satisfied.
+
+20
+00:01:48,490 --> 00:01:54,184
+These over here, stakeholders with low
+power, low interest, they don't really care.
+
+21
+00:01:54,330 --> 00:01:55,610
+So we'll monitor them.
+
+22
+00:01:56,070 --> 00:01:58,370
+We're not going to spend a lot of time on
+them.
+
+23
+00:01:58,790 --> 00:02:04,970
+Whereas these, these stakeholders don't
+have a lot of power but they are very
+
+24
+00:02:04,971 --> 00:02:10,170
+interested in our project so we'll keep
+them informed so again we're trying to
+
+25
+00:02:10,171 --> 00:02:15,057
+figure out to categorize
+the stakeholders again try to
+
+26
+00:02:15,058 --> 00:02:19,250
+narrow them down especially
+if you have a lot of stakeholders
+

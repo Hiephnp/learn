@@ -1,0 +1,297 @@
+﻿1
+00:00:06,010 --> 00:00:09,630
+Okay, so let's talk about the probability
+and impact matrix.
+
+2
+00:00:10,750 --> 00:00:13,083
+The probability in impact
+matrix then is another
+
+3
+00:00:13,084 --> 00:00:16,350
+tool that you can use for
+qualitative risk analysis.
+
+4
+00:00:17,390 --> 00:00:22,970
+Now, in qualitative, remember,
+we are ranking our risk, right,
+
+5
+00:00:23,110 --> 00:00:24,260
+using arbitrary values.
+
+6
+00:00:24,990 --> 00:00:28,550
+And that's exactly the same thing that
+we're doing here, right?
+
+7
+00:00:28,570 --> 00:00:32,270
+With the probability and impact matrix,
+we would just use this matrix, right?
+
+8
+00:00:32,271 --> 00:00:37,170
+We're just going to use this matrix again
+to come up with a relative ranking.
+
+9
+00:00:38,810 --> 00:00:43,750
+So here's a very simple example then of a
+probability and impact matrix.
+
+10
+00:00:44,170 --> 00:00:45,870
+So there's two boxes.
+
+11
+00:00:46,990 --> 00:00:50,030
+The left-hand box is negative risk,
+threats.
+
+12
+00:00:50,610 --> 00:00:53,890
+Right-hand box is showing opportunities,
+right, positive risks.
+
+13
+00:00:54,470 --> 00:00:55,787
+So let's just look at one of them.
+
+14
+00:00:55,870 --> 00:00:58,970
+In this case, let's just look at threats,
+right, this box here.
+
+15
+00:00:59,310 --> 00:01:01,250
+On the y-axis, you see probability.
+
+16
+00:01:01,910 --> 00:01:05,190
+On the x-axis here, we've got impact,
+negative impact.
+
+17
+00:01:07,230 --> 00:01:11,350
+And you can see then, these numbers then
+are basically percentages.
+
+18
+00:01:12,010 --> 00:01:17,230
+So there's a 5% impact, 10% impact,
+20% impact, and then in the probability,
+
+19
+00:01:17,450 --> 00:01:20,643
+we've got 10%
+probability, 30% probability,
+
+20
+00:01:20,644 --> 00:01:23,384
+50% probability, and so on and so forth.
+
+21
+00:01:23,910 --> 00:01:27,690
+Now these numbers are not going up
+incrementally, because this isn't a graph.
+
+22
+00:01:27,691 --> 00:01:28,810
+This is just a table.
+
+23
+00:01:29,930 --> 00:01:32,672
+The numbers within
+the table, then, just the
+
+24
+00:01:32,673 --> 00:01:35,431
+probability and impact
+numbers multiplied together.
+
+25
+00:01:36,230 --> 00:01:42,930
+So, for example, 0.3 times 0.1 is 0.03.5
+times 0.2 is 0.1.
+
+26
+00:01:43,270 --> 00:01:45,420
+It's just the two numbers multiply
+together.
+
+27
+00:01:45,850 --> 00:01:51,510
+And then you could use these numbers here,
+then, to, again, prioritize your risks.
+
+28
+00:01:52,170 --> 00:01:55,087
+Because, again, qualitative is all about
+prioritizing your risks.
+
+29
+00:01:55,170 --> 00:01:57,670
+So this is a tool that you can use to
+prioritize you.
+
+30
+00:01:57,690 --> 00:01:58,523
+risk.
+
+31
+00:01:58,910 --> 00:02:02,410
+So as a very simple example then,
+let's say we've identified this risk,
+
+32
+00:02:02,530 --> 00:02:04,830
+risk A, wherever that risk is.
+
+33
+00:02:05,530 --> 00:02:09,710
+And we've identified that there's a
+probability of 0.5, right?
+
+34
+00:02:09,830 --> 00:02:12,730
+So 50% probability of that risk occurring.
+
+35
+00:02:13,170 --> 00:02:15,810
+And if it occurs, the impact is going to
+be 0.4.
+
+36
+00:02:16,090 --> 00:02:17,430
+So what's our risk score?
+
+37
+00:02:17,810 --> 00:02:17,830
+Right?
+
+38
+00:02:17,970 --> 00:02:21,930
+Well, 0.2.5 times 0.4, risk score is 0.2.
+
+39
+00:02:23,310 --> 00:02:25,670
+Let's say we've identified another risk,
+risk B.
+
+40
+00:02:26,590 --> 00:02:29,990
+And the probability of that risk occurring
+is high.
+
+41
+00:02:30,030 --> 00:02:31,830
+We give it a score of 0.7.
+
+42
+00:02:32,690 --> 00:02:34,750
+And the impact is very high.
+
+43
+00:02:34,970 --> 00:02:36,470
+We give it a score of 0.8.
+
+44
+00:02:37,310 --> 00:02:42,410
+So the risk score is then going to be
+0.56.
+
+45
+00:02:42,630 --> 00:02:44,670
+0.7 times 0.8.56.
+
+46
+00:02:45,390 --> 00:02:47,790
+So which are the highest priority risk
+here then?
+
+47
+00:02:48,170 --> 00:02:51,487
+Out of A and B, the highest
+priority risk is going to naturally
+
+48
+00:02:51,488 --> 00:02:55,690
+be risk B because it's a much
+higher risk score than risk A.
+
+49
+00:02:57,690 --> 00:03:01,830
+So any risk that you've identified that
+fall within the dark shade will be a
+
+50
+00:03:01,831 --> 00:03:06,670
+higher priority than the risks that fall
+within the light shade, there will be a
+
+51
+00:03:06,671 --> 00:03:10,990
+higher priority compared to the risks that
+are in no shade.
+
+52
+00:03:11,450 --> 00:03:16,090
+All we're doing in qualitative risk
+analysis is prioritizing your risk,
+
+53
+00:03:16,490 --> 00:03:19,930
+ranking your risk, but using these
+arbitrary values.
+
+54
+00:03:20,750 --> 00:03:23,009
+And then one of the
+tools you can use then is
+
+55
+00:03:23,010 --> 00:03:25,550
+this one called the
+probability and impact matrix.
+
+56
+00:03:25,551 --> 00:03:27,601
+And this is just one very simple example.
+
+57
+00:03:28,130 --> 00:03:29,630
+This one is using percentages.
+
+58
+00:03:30,430 --> 00:03:36,030
+You could be using, again, high,
+medium, low, high, very low, low,
+
+59
+00:03:37,590 --> 00:03:40,017
+medium high, medium,
+medium, very high, you know, that
+
+60
+00:03:40,018 --> 00:03:42,751
+kind of classification for
+what's probability and impact.
+
+61
+00:03:42,910 --> 00:03:45,950
+And so in the table here, you won't have
+numbers.
+
+62
+00:03:46,310 --> 00:03:50,410
+Again, it'll just be high, medium low,
+very high, very low, and so and so forth.
+
+63
+00:03:50,910 --> 00:03:54,510
+So there's many different ways,
+again, we're just using arbitrary values.
+

@@ -1,0 +1,311 @@
+﻿1
+00:00:06,010 --> 00:00:10,430
+Okay, so let's discuss the PIMBock Guide
+processes when it comes to procurement
+
+2
+00:00:10,431 --> 00:00:14,690
+management and again this as it relates to
+PIMBock Guide version 6.
+
+3
+00:00:14,691 --> 00:00:20,310
+So in PIMBock 6, there are three processes
+in procurement, as you can see,
+
+4
+00:00:20,830 --> 00:00:25,110
+and they span planning, executing and the
+monitoring controlling process groups.
+
+5
+00:00:26,370 --> 00:00:30,070
+So under planning, right, the first one is
+plan procurement management.
+
+6
+00:00:30,930 --> 00:00:35,250
+And just like any of those knowledge
+areas, right, the very first process is
+
+7
+00:00:35,251 --> 00:00:39,510
+always plan something management, right,
+something meaning the knowledge area.
+
+8
+00:00:39,850 --> 00:00:42,727
+So in this case, the knowledge area is
+procurement management.
+
+9
+00:00:42,810 --> 00:00:44,360
+So plan procurement management.
+
+10
+00:00:45,750 --> 00:00:51,030
+And so the output of plan procurement
+procurement management plan.
+
+11
+00:00:51,490 --> 00:00:56,670
+So the artifact that we are creating,
+right, the document that we're creating is
+
+12
+00:00:56,671 --> 00:01:01,070
+the procurement management plan,
+otherwise known as the output,
+
+13
+00:01:01,250 --> 00:01:05,530
+right, in PIMBOC version six, up to PIMBOC
+version six, they were known as outputs.
+
+14
+00:01:06,010 --> 00:01:08,274
+So the output then the plan
+procurement management
+
+15
+00:01:08,275 --> 00:01:10,650
+management plan is the
+procurement management plan.
+
+16
+00:01:10,670 --> 00:01:14,970
+Remember, any management plan is
+documenting procedures, documenting the how.
+
+17
+00:01:15,290 --> 00:01:19,074
+So the procurement management
+plan then is documenting how
+
+18
+00:01:19,075 --> 00:01:22,281
+we're going to basically manage
+and control our procurement.
+
+19
+00:01:22,630 --> 00:01:25,830
+How we're going to plan, execute,
+monitor our control.
+
+20
+00:01:26,690 --> 00:01:31,270
+How we're going to plan, execute,
+monitor and control our procurement.
+
+21
+00:01:31,910 --> 00:01:35,930
+And so the procurement management plan is
+talked about in detail.
+
+22
+00:01:36,010 --> 00:01:37,210
+in a separate video.
+
+23
+00:01:38,750 --> 00:01:42,370
+And executing, you have the process called
+Conduct Procurement.
+
+24
+00:01:43,010 --> 00:01:47,230
+And Conduct Procurement refers to,
+once we have planned our procurement,
+
+25
+00:01:48,150 --> 00:01:50,410
+then we're going to reach out to vendors.
+
+26
+00:01:50,890 --> 00:01:55,570
+So conduct procurement means, or it refers
+to reaching out to vendors, discussing the
+
+27
+00:01:55,571 --> 00:02:00,810
+project with the vendor, or the vendors,
+getting our proposals back from these
+
+28
+00:02:00,811 --> 00:02:05,610
+vendors, selecting one of those vendors,
+and then finally signing the contract.
+
+29
+00:02:06,010 --> 00:02:07,310
+with one of those vendors.
+
+30
+00:02:07,910 --> 00:02:11,335
+So everything up until
+signing the contract or the
+
+31
+00:02:11,336 --> 00:02:14,770
+agreement is referred to
+as conduct procurement.
+
+32
+00:02:15,570 --> 00:02:17,890
+Planned procurement refers to we are
+planning.
+
+33
+00:02:18,110 --> 00:02:19,507
+Are we going to outsource the work?
+
+34
+00:02:19,590 --> 00:02:21,140
+Are we going to do it in-house?
+
+35
+00:02:21,510 --> 00:02:25,670
+And then plus what potential vendors can
+we be reaching out to?
+
+36
+00:02:26,570 --> 00:02:30,890
+With conduct procurement, it actually
+physically refers to reaching out to
+
+37
+00:02:30,891 --> 00:02:33,360
+vendors, interacting
+with them, talking to them,
+
+38
+00:02:33,361 --> 00:02:35,601
+and everything up until
+signing the contract.
+
+39
+00:02:36,810 --> 00:02:39,635
+Once we have signed the
+contract with the vendor,
+
+40
+00:02:39,636 --> 00:02:42,090
+now the vendor can
+start performing the work.
+
+41
+00:02:43,050 --> 00:02:45,570
+Now they can start performing the work for
+us.
+
+42
+00:02:46,790 --> 00:02:50,440
+And so now we're going to monitor and
+control the work that they're doing.
+
+43
+00:02:50,930 --> 00:02:53,180
+And that's what control procurement refers
+to.
+
+44
+00:02:53,610 --> 00:02:59,010
+It's trying to quantify the ability,
+or rather we are trying to quantify the
+
+45
+00:02:59,011 --> 00:03:01,561
+ability for the seller to actually perform
+the work.
+
+46
+00:03:01,730 --> 00:03:03,180
+How well are they performing?
+
+47
+00:03:03,450 --> 00:03:06,398
+Control procurement
+refers to identifying the
+
+48
+00:03:06,399 --> 00:03:09,281
+success and failures of the
+procurement relationship?
+
+49
+00:03:09,570 --> 00:03:12,087
+Are they doing the work that they're
+supposed to be doing?
+
+50
+00:03:12,170 --> 00:03:12,210
+Right.
+
+51
+00:03:12,670 --> 00:03:14,670
+And how efficiently are they performing?
+
+52
+00:03:15,230 --> 00:03:17,953
+One of the key things to
+remember in procurement
+
+53
+00:03:17,954 --> 00:03:21,110
+is that now we are the customer, right?
+
+54
+00:03:21,190 --> 00:03:22,190
+We are the customer.
+
+55
+00:03:22,750 --> 00:03:24,870
+The vendor is performing the work for us.
+
+56
+00:03:25,010 --> 00:03:27,710
+So we are going to give our requirements
+to the vendor.
+
+57
+00:03:28,150 --> 00:03:29,700
+So we are the key stakeholders.
+
+58
+00:03:30,210 --> 00:03:33,370
+We are the ones that are signing off on
+the work for the vendor.
+
+59
+00:03:33,550 --> 00:03:38,070
+That's one very important factor to
+understand when it comes to procurement.
+
+60
+00:03:38,810 --> 00:03:41,630
+Because we are the customer now,
+everything that we've been talking about
+
+61
+00:03:41,631 --> 00:03:45,251
+up until now has been
+from the point of view of us
+
+62
+00:03:45,252 --> 00:03:48,210
+being the project team
+working for the customer.
+
+63
+00:03:49,190 --> 00:03:51,087
+But this time now, it's the other way
+around.
+
+64
+00:03:51,170 --> 00:03:54,230
+We are the customer and the vendor is
+working for us.
+
+65
+00:03:55,030 --> 00:03:55,863
+Okay.
+

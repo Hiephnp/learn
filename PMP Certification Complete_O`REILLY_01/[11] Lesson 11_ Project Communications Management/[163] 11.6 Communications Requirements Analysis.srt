@@ -1,0 +1,461 @@
+﻿1
+00:00:06,010 --> 00:00:09,650
+Now we're going to cover communication
+requirements analysis.
+
+2
+00:00:10,910 --> 00:00:14,369
+So our stakeholders,
+the way we get them to
+
+3
+00:00:14,370 --> 00:00:18,324
+support the project is by
+communicating with them.
+
+4
+00:00:19,230 --> 00:00:23,148
+That is the best way
+to build the relationships
+
+5
+00:00:23,149 --> 00:00:25,931
+with them to get them
+to support our project.
+
+6
+00:00:26,710 --> 00:00:33,690
+So communicating with them is critical and
+we need to figure out who needs what,
+
+7
+00:00:34,170 --> 00:00:35,250
+when, where, why, how.
+
+8
+00:00:35,251 --> 00:00:36,250
+Think journalism.
+
+9
+00:00:37,250 --> 00:00:38,570
+Each of our stakeholders.
+
+10
+00:00:40,430 --> 00:00:44,550
+Individuals or groups of stakeholders,
+we need to figure out what they need.
+
+11
+00:00:45,610 --> 00:00:48,730
+When they need it, in the format,
+they need the information.
+
+12
+00:00:49,770 --> 00:00:51,420
+Okay, so that's really important.
+
+13
+00:00:51,890 --> 00:00:53,990
+All right, so let's look at the next
+slide.
+
+14
+00:00:54,110 --> 00:00:57,360
+We'll determine the information needs of
+each of our stakeholders.
+
+15
+00:00:57,550 --> 00:01:01,030
+Again, it can be individuals or groups of
+stakeholders.
+
+16
+00:01:02,810 --> 00:01:04,370
+Think journalism.
+
+17
+00:01:04,770 --> 00:01:07,390
+Who, Needs what, when, where, why,
+how.
+
+18
+00:01:08,330 --> 00:01:14,430
+So, for example, senior executives usually
+want high-level details.
+
+19
+00:01:14,930 --> 00:01:16,167
+Give them the milestones.
+
+20
+00:01:16,250 --> 00:01:17,600
+Think about the Gant chart.
+
+21
+00:01:17,870 --> 00:01:23,110
+How we had, if you think back to the
+schedule, we had the milestone schedule,
+
+22
+00:01:23,570 --> 00:01:26,090
+summary schedule, and then detailed
+schedule.
+
+23
+00:01:26,610 --> 00:01:30,650
+Why is it in different formats for the
+needs of our stakeholders?
+
+24
+00:01:31,190 --> 00:01:34,830
+We have to tailor our communications to
+our audience.
+
+25
+00:01:35,250 --> 00:01:39,390
+Okay, to each, again, individual or group
+of stakeholders.
+
+26
+00:01:40,190 --> 00:01:42,690
+So senior executives, they want high
+level.
+
+27
+00:01:42,930 --> 00:01:47,010
+Give them the milestone, significant
+points, or events, what's happening.
+
+28
+00:01:47,410 --> 00:01:48,667
+Don't give them all the details.
+
+29
+00:01:48,750 --> 00:01:50,450
+They don't have time for all that.
+
+30
+00:01:50,730 --> 00:01:55,570
+Whereas, you know, middle management might
+need summary information.
+
+31
+00:01:56,230 --> 00:02:00,070
+Whereas our team members, SMEs,
+functional managers working on the project
+
+32
+00:02:00,071 --> 00:02:02,850
+with us, we'll probably need detailed
+information.
+
+33
+00:02:02,851 --> 00:02:08,230
+So these are examples of the communication
+requirements needed by level.
+
+34
+00:02:09,330 --> 00:02:14,510
+But we also want to consider personal
+differences, political differences,
+
+35
+00:02:14,930 --> 00:02:15,980
+cultural differences.
+
+36
+00:02:16,430 --> 00:02:18,270
+Every one is different.
+
+37
+00:02:19,690 --> 00:02:22,710
+So we will have to
+tailor our communications
+
+38
+00:02:22,711 --> 00:02:26,090
+depending on what each
+individual's needs are.
+
+39
+00:02:27,390 --> 00:02:28,223
+Okay.
+
+40
+00:02:28,370 --> 00:02:29,950
+So again, think journalism.
+
+41
+00:02:30,290 --> 00:02:30,910
+Who needs?
+
+42
+00:02:31,130 --> 00:02:32,690
+What, when, where, why, how?
+
+43
+00:02:32,850 --> 00:02:35,610
+Some people don't want information often.
+
+44
+00:02:37,290 --> 00:02:38,540
+Give me a weekly summary.
+
+45
+00:02:39,310 --> 00:02:42,250
+Others are going to want details every
+day.
+
+46
+00:02:42,970 --> 00:02:43,950
+You know the type.
+
+47
+00:02:44,630 --> 00:02:46,250
+Okay, so everybody is different.
+
+48
+00:02:47,110 --> 00:02:50,306
+So it's really important
+that, remember, we
+
+49
+00:02:50,307 --> 00:02:52,941
+spend at least 90% of
+our time communicating.
+
+50
+00:02:53,330 --> 00:02:55,843
+We've got to tailor, figure out what the
+
+51
+00:02:55,844 --> 00:02:58,824
+requirements are for
+each of our stakeholders.
+
+52
+00:02:59,390 --> 00:03:01,590
+And their preferred methods of
+communication.
+
+53
+00:03:02,650 --> 00:03:08,610
+whether it's a meeting, whether it's an
+email, whatever the case, all right,
+
+54
+00:03:09,090 --> 00:03:12,450
+and we've got to use active listening all
+the while.
+
+55
+00:03:12,830 --> 00:03:15,280
+We've got to get feedback from those
+stakeholders.
+
+56
+00:03:15,730 --> 00:03:20,090
+Are you getting the information you need
+when you need it in the format you need?
+
+57
+00:03:20,430 --> 00:03:22,850
+We need to find out these things,
+all right?
+
+58
+00:03:23,490 --> 00:03:26,010
+And tailor our communications.
+
+59
+00:03:26,470 --> 00:03:31,425
+Again, we might have
+to change our strategies
+
+60
+00:03:31,426 --> 00:03:34,924
+or how often the format
+they get information.
+
+61
+00:03:36,790 --> 00:03:44,890
+With that active listening, it also means
+getting not only feedback, but making sure
+
+62
+00:03:44,891 --> 00:03:50,650
+you are engaging with them, that they know
+you are actually listening.
+
+63
+00:03:52,070 --> 00:03:54,770
+That means nodding as they're talking.
+
+64
+00:03:56,670 --> 00:04:01,390
+Eye contact, if you can, if it can be face
+to face, or using that community.
+
+65
+00:04:01,391 --> 00:04:07,444
+communication technology like Zoom, go-to
+meeting, whatever it is you have, okay?
+
+66
+00:04:07,610 --> 00:04:12,770
+Because only about 7% of communications is
+oral.
+
+67
+00:04:13,510 --> 00:04:19,110
+Most is in the body language and
+paralegal, how you say things.
+
+68
+00:04:19,790 --> 00:04:19,970
+All right.
+
+69
+00:04:20,310 --> 00:04:25,971
+So that's why it's so
+important if you can actually
+
+70
+00:04:25,972 --> 00:04:29,230
+see someone when you're
+communicating with them.
+
+71
+00:04:29,231 --> 00:04:37,110
+again individuals or groups so that's
+really important so nod I'm not really
+
+72
+00:04:37,111 --> 00:04:44,090
+sure you know question so you can gain
+understanding I'm not really sure what you
+
+73
+00:04:44,091 --> 00:04:49,850
+were saying can you repeat that or say it
+in a different way so I can understand
+
+74
+00:04:49,851 --> 00:04:55,850
+whatever the case is and you might have to
+change how you say things so others can
+
+75
+00:04:55,851 --> 00:04:59,735
+understand so it's really
+important the sender has to make
+
+76
+00:04:59,736 --> 00:05:05,230
+sure the receiver understands
+what's being communicated.
+
+77
+00:05:05,770 --> 00:05:06,620
+That's important.
+
+78
+00:05:06,730 --> 00:05:06,910
+All right.
+
+79
+00:05:07,290 --> 00:05:11,370
+So you're definitely going to watch body
+language, emotions.
+
+80
+00:05:13,330 --> 00:05:17,670
+Another part of active listening is not
+talking.
+
+81
+00:05:18,930 --> 00:05:20,680
+You can't listen if you're yapping.
+
+82
+00:05:21,130 --> 00:05:24,096
+So one of the things you need to do, close
+
+83
+00:05:24,097 --> 00:05:26,810
+your mouth, listen to what they're saying.
+
+84
+00:05:26,811 --> 00:05:27,644
+Okay.
+
+85
+00:05:28,390 --> 00:05:29,710
+And then get feedback.
+
+86
+00:05:29,930 --> 00:05:32,190
+You might have to repeat what they said.
+
+87
+00:05:32,850 --> 00:05:35,500
+So let me make sure I understand what you
+were saying.
+
+88
+00:05:35,590 --> 00:05:35,790
+All right.
+
+89
+00:05:36,350 --> 00:05:41,814
+Any way we can make sure
+that we get the requirements, um,
+
+90
+00:05:41,815 --> 00:05:45,350
+needs for communications
+from each of our stakeholders.
+
+91
+00:05:45,710 --> 00:05:49,869
+Again, each individual or
+groups of stakeholders because
+
+92
+00:05:49,870 --> 00:05:53,110
+you might have 15,000
+stakeholders you're dealing with.
+
+93
+00:05:53,570 --> 00:05:55,670
+Let's say you have an office
+consolidation.
+
+94
+00:05:55,770 --> 00:05:56,790
+Right now you have office.
+
+95
+00:05:56,810 --> 00:05:58,010
+is all around the world.
+
+96
+00:05:58,670 --> 00:06:02,543
+If we have 15,000 stakeholders,
+we will have to figure
+
+97
+00:06:02,544 --> 00:06:06,690
+out a way to narrow them
+down to key stakeholders as well.
+
+98
+00:06:07,110 --> 00:06:10,206
+And I know this is discussed
+in different lessons, you
+
+99
+00:06:10,207 --> 00:06:14,670
+know, that we're covering
+too, but things to keep in mind.
+

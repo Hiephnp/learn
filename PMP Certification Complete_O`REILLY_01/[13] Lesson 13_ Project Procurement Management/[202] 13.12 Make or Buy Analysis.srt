@@ -1,0 +1,711 @@
+﻿1
+00:00:06,010 --> 00:00:09,600
+Okay, so in this video
+we're going to discuss a
+
+2
+00:00:09,601 --> 00:00:12,950
+tooling technique called
+Make or Buy Analysis.
+
+3
+00:00:14,430 --> 00:00:21,130
+Now, make or buy analysis was considered a
+tooling technique of an old PIMBOC process
+
+4
+00:00:21,131 --> 00:00:25,025
+called Plan Procurement
+Management, where we are trying to
+
+5
+00:00:25,026 --> 00:00:28,001
+plan, I'm going to outsource
+the work or do it in-house.
+
+6
+00:00:28,610 --> 00:00:34,210
+And so the tooling technique to do that
+was this tool called make or buy analysis.
+
+7
+00:00:35,270 --> 00:00:39,370
+And there's many reasons why we would want
+to outsource the work or do it in-house.
+
+8
+00:00:39,530 --> 00:00:42,894
+And collectively, collectively,
+all of those reasons
+
+9
+00:00:42,895 --> 00:00:45,450
+falls under this one
+tool called make-or-buy.
+
+10
+00:00:45,670 --> 00:00:45,770
+Right.
+
+11
+00:00:45,870 --> 00:00:46,920
+Make-or-buy analysis.
+
+12
+00:00:47,530 --> 00:00:51,870
+So these are just some of the
+considerations that you might make for
+
+13
+00:00:51,871 --> 00:00:54,671
+whether or not to outsource the work or
+keep it in-house.
+
+14
+00:00:55,430 --> 00:00:58,470
+This is not an exhaustive list by any
+means, right?
+
+15
+00:00:58,530 --> 00:01:00,750
+These are just some very simple examples.
+
+16
+00:01:01,350 --> 00:01:06,550
+So, and think about this, you know,
+In reality as well, why would you decide
+
+17
+00:01:06,551 --> 00:01:09,870
+to get a vendor to do it rather than do it
+yourself?
+
+18
+00:01:10,210 --> 00:01:13,867
+Well, one of their biggest considerations,
+one of the major considerations is cost.
+
+19
+00:01:13,950 --> 00:01:16,439
+It might be more cost
+effective for the vendor to
+
+20
+00:01:16,440 --> 00:01:18,861
+perform the work than
+for us to perform the work.
+
+21
+00:01:19,610 --> 00:01:22,682
+And again, depending on
+the situation, depending on the
+
+22
+00:01:22,683 --> 00:01:26,710
+environment, depending on
+the industry and the project.
+
+23
+00:01:27,450 --> 00:01:31,970
+I mean, if we decide to do the work
+ourselves, well, maybe we need to go out
+
+24
+00:01:31,971 --> 00:01:34,994
+and buy machinery and buy
+some additional supplies as
+
+25
+00:01:34,995 --> 00:01:37,901
+well, then we need to send
+our team members on training.
+
+26
+00:01:38,410 --> 00:01:41,932
+Team members are going to
+have a learning curve that during
+
+27
+00:01:41,933 --> 00:01:45,141
+that time, there might be a lot
+more wastage of raw materials.
+
+28
+00:01:45,870 --> 00:01:48,833
+So it might actually end up
+being cheaper for a vendor to
+
+29
+00:01:48,834 --> 00:01:51,850
+perform the work rather than
+do we do the work ourselves.
+
+30
+00:01:52,450 --> 00:01:55,650
+So we've decided to outsource the work
+simply because of cost.
+
+31
+00:01:55,850 --> 00:01:57,100
+It's more cost effective.
+
+32
+00:01:57,950 --> 00:02:00,410
+Or along with that, we have the schedule
+as well.
+
+33
+00:02:00,990 --> 00:02:03,340
+Cost and schedule kind of like go hand in,
+hand.
+
+34
+00:02:04,010 --> 00:02:06,710
+So let's say, you know, we are running
+behind schedule.
+
+35
+00:02:07,370 --> 00:02:10,110
+We now want to try and get back on
+schedule.
+
+36
+00:02:10,470 --> 00:02:11,307
+There's some activities.
+
+37
+00:02:11,390 --> 00:02:12,740
+We want to run in parallel.
+
+38
+00:02:12,970 --> 00:02:14,167
+We don't have enough resources.
+
+39
+00:02:14,250 --> 00:02:16,338
+We don't have the team, team members, the
+
+40
+00:02:16,339 --> 00:02:19,130
+manpower to actually
+do the work ourselves.
+
+41
+00:02:19,810 --> 00:02:20,910
+So let's outsource it.
+
+42
+00:02:21,290 --> 00:02:21,390
+Right.
+
+43
+00:02:21,510 --> 00:02:23,960
+So these activities will outsource it to a
+vendor.
+
+44
+00:02:24,290 --> 00:02:28,040
+So they can be running parallel and so now
+we can try and get back on track.
+
+45
+00:02:28,190 --> 00:02:31,140
+And so along with that then, you have the
+resources as well.
+
+46
+00:02:31,530 --> 00:02:34,270
+We don't have enough resources to do the
+work.
+
+47
+00:02:34,610 --> 00:02:36,770
+We don't have the machines to do the work.
+
+48
+00:02:36,850 --> 00:02:39,090
+We don't have team members to do the work.
+
+49
+00:02:39,470 --> 00:02:43,950
+Or we have the team members, but they're
+pulled away onto another project.
+
+50
+00:02:44,570 --> 00:02:48,470
+Remember, in a matrix organization,
+you are pooling your resources.
+
+51
+00:02:48,690 --> 00:02:50,340
+You're pooling your team members.
+
+52
+00:02:51,030 --> 00:02:52,650
+And so we don't have enough.
+
+53
+00:02:52,910 --> 00:02:55,170
+So now we've decided to outsource the
+work.
+
+54
+00:02:55,730 --> 00:02:57,730
+Along with that, we've got risk as well.
+
+55
+00:02:57,910 --> 00:03:01,930
+In the earlier video, we talked about the
+risk response strategies.
+
+56
+00:03:02,610 --> 00:03:05,260
+One of those of risk response strategies
+was transfer.
+
+57
+00:03:05,970 --> 00:03:08,470
+So we've decided now we want to transfer
+this risk.
+
+58
+00:03:09,510 --> 00:03:11,990
+We've identified a risky activity.
+
+59
+00:03:12,810 --> 00:03:16,050
+Risk does not mean danger, but in this
+case it could do.
+
+60
+00:03:16,650 --> 00:03:18,600
+But risk remember means an uncertainty.
+
+61
+00:03:18,990 --> 00:03:24,130
+So we've identified a high uncertainty or
+maybe even a high dangerous activity.
+
+62
+00:03:24,330 --> 00:03:26,570
+So along with the risk, it could be an
+issue.
+
+63
+00:03:26,571 --> 00:03:28,471
+We could consider it an issue as well.
+
+64
+00:03:29,470 --> 00:03:33,770
+So we decide now, we want to transfer this
+risk to a third party.
+
+65
+00:03:34,370 --> 00:03:35,720
+They've transferred it now.
+
+66
+00:03:35,810 --> 00:03:39,250
+So we've decided we want to transfer this
+risk to a third party.
+
+67
+00:03:39,750 --> 00:03:42,090
+So, you know, we've decided to outsource
+it.
+
+68
+00:03:43,510 --> 00:03:46,650
+Or requirements, right, the scope of the
+project, requirements.
+
+69
+00:03:47,710 --> 00:03:50,250
+We have no idea how to perform the work.
+
+70
+00:03:51,210 --> 00:03:53,970
+Our customer has given us these
+requirements.
+
+71
+00:03:54,950 --> 00:03:56,550
+We have no idea how to.
+
+72
+00:03:56,570 --> 00:03:57,547
+actually perform the work.
+
+73
+00:03:57,630 --> 00:03:59,150
+We do not have the expertise.
+
+74
+00:03:59,930 --> 00:04:02,027
+We don't know how to meet those
+requirements.
+
+75
+00:04:02,110 --> 00:04:05,410
+None of our resources, none of our team
+members have the expertise.
+
+76
+00:04:05,770 --> 00:04:07,630
+So, let's outsource the work.
+
+77
+00:04:08,610 --> 00:04:10,450
+Or even say something like quality.
+
+78
+00:04:11,510 --> 00:04:12,343
+All right.
+
+79
+00:04:12,490 --> 00:04:14,410
+So let's briefly talk about this.
+
+80
+00:04:14,970 --> 00:04:19,250
+When it comes to procurement, you don't
+always have to think of big, huge,
+
+81
+00:04:19,410 --> 00:04:20,310
+large projects.
+
+82
+00:04:20,311 --> 00:04:24,890
+Many of the examples that I've been giving
+you throughout these videos have been
+
+83
+00:04:24,891 --> 00:04:28,736
+something simple like doing
+work in your house or building
+
+84
+00:04:28,737 --> 00:04:31,901
+a house, something that anybody
+and everyone can relate to.
+
+85
+00:04:32,270 --> 00:04:33,670
+Exactly the same thing here.
+
+86
+00:04:33,910 --> 00:04:37,250
+Think of something simple like doing some
+work in your house.
+
+87
+00:04:38,030 --> 00:04:39,830
+Like so, for example, some plumbing.
+
+88
+00:04:40,110 --> 00:04:41,710
+I need to do some plumbing work.
+
+89
+00:04:42,890 --> 00:04:44,790
+Some pipe is leaking somewhere.
+
+90
+00:04:44,950 --> 00:04:46,300
+I want to fix the plumbing.
+
+91
+00:04:46,610 --> 00:04:48,810
+Well, I can tinker around with some
+plumbing.
+
+92
+00:04:49,010 --> 00:04:50,460
+I could try to fix it myself.
+
+93
+00:04:51,270 --> 00:04:56,070
+I might not do a very good job of it
+though, so I might decide to get a
+
+94
+00:04:56,071 --> 00:04:58,271
+licensed plumber to perform the work
+instead.
+
+95
+00:04:59,230 --> 00:05:02,740
+So there's an example of
+where quality will come into
+
+96
+00:05:02,741 --> 00:05:05,491
+this make-or-buy decision
+or make-or-buy analysis.
+
+97
+00:05:06,210 --> 00:05:10,060
+And I can't do the work, I can do the
+work, but it won't be very good quality.
+
+98
+00:05:10,510 --> 00:05:12,676
+Right, so I'm going to get an actual, you
+
+99
+00:05:12,677 --> 00:05:14,970
+know, an actual
+professional to do the work.
+
+100
+00:05:15,410 --> 00:05:19,890
+So these are just some considerations why
+we would decide to outsource the work.
+
+101
+00:05:20,170 --> 00:05:23,670
+I'm sure you can think of others as well,
+but these are just a handful.
+
+102
+00:05:24,650 --> 00:05:27,300
+Now, what are some of the reasons to keep
+it in-house?
+
+103
+00:05:27,750 --> 00:05:29,600
+Why would we want to do it ourselves?
+
+104
+00:05:29,850 --> 00:05:30,683
+Again, cost.
+
+105
+00:05:31,090 --> 00:05:35,770
+Cost could be a determination whether to
+outsource the work or do it in-house.
+
+106
+00:05:36,210 --> 00:05:37,590
+We do have the expertise.
+
+107
+00:05:38,410 --> 00:05:41,560
+We can do the work ourselves, so it's
+going to be a lot cheaper.
+
+108
+00:05:41,970 --> 00:05:43,470
+So why outsource it?
+
+109
+00:05:43,870 --> 00:05:46,470
+Or control is a major consideration as
+well.
+
+110
+00:05:47,890 --> 00:05:51,911
+We have more control
+of the work if we do it,
+
+111
+00:05:51,912 --> 00:05:55,310
+rather than if we have
+a vendor to do the work.
+
+112
+00:05:55,770 --> 00:05:59,770
+Vendor performs a work, well, we're at
+their mercy now.
+
+113
+00:06:00,390 --> 00:06:01,590
+We're at their timeline.
+
+114
+00:06:01,910 --> 00:06:04,510
+If they delay, there's not much we can do
+about that.
+
+115
+00:06:05,070 --> 00:06:09,890
+Whereas if we perform the work ourselves,
+we have a lot more control about when to
+
+116
+00:06:09,891 --> 00:06:12,476
+perform the work, what work needs to be
+
+117
+00:06:12,477 --> 00:06:15,250
+performed, in what
+order, and so and so forth.
+
+118
+00:06:15,410 --> 00:06:17,810
+We can prioritize the work, et cetera,
+et cetera.
+
+119
+00:06:18,290 --> 00:06:19,640
+We have a lot more control.
+
+120
+00:06:20,650 --> 00:06:21,730
+Plus, resources.
+
+121
+00:06:22,390 --> 00:06:26,030
+If we have the resources, then we can do
+the work ourselves.
+
+122
+00:06:26,650 --> 00:06:29,430
+So, or we can train the staff to do the
+work.
+
+123
+00:06:29,790 --> 00:06:32,970
+Again, goes back to, is it cost effective
+or not?
+
+124
+00:06:33,930 --> 00:06:39,530
+And then, of course, confidentiality,
+security, confidential information, right?
+
+125
+00:06:39,650 --> 00:06:43,690
+So if we outsource the work, the vendor
+may have some access to confidential
+
+126
+00:06:43,691 --> 00:06:47,310
+information, right, that we don't want
+them to have access to.
+
+127
+00:06:48,010 --> 00:06:49,960
+So that might be a major consideration.
+
+128
+00:06:50,290 --> 00:06:53,943
+So, you know, if we see
+that that is a risk, again,
+
+129
+00:06:53,944 --> 00:06:56,701
+you know, risk is an
+important consideration here.
+
+130
+00:06:56,950 --> 00:06:59,625
+If we see that that is a risk, then we may
+
+131
+00:06:59,626 --> 00:07:02,550
+decide, well, we will
+do it ourselves, right?
+
+132
+00:07:02,610 --> 00:07:04,710
+We don't want a vendor to perform the
+work.
+
+133
+00:07:05,630 --> 00:07:08,230
+So anyway, these are just some of the
+considerations.
+
+134
+00:07:08,430 --> 00:07:12,210
+Now, make or by analysis is the tool.
+
+135
+00:07:12,750 --> 00:07:16,590
+That is something that you do, something,
+you know, some action that you take.
+
+136
+00:07:16,690 --> 00:07:20,640
+A tool and technique is always something
+that you do, some action that you take.
+
+137
+00:07:21,050 --> 00:07:22,950
+Now what is the result of that action?
+
+138
+00:07:23,370 --> 00:07:27,050
+The result of this action is a decision,
+right?
+
+139
+00:07:27,390 --> 00:07:31,890
+So the outcome of this analysis is known
+as a make or by decision.
+
+140
+00:07:32,690 --> 00:07:37,490
+And that would be considered then an
+output of plan resource management.
+
+141
+00:07:38,050 --> 00:07:41,330
+Make or by analysis is a tooling
+technique.
+
+142
+00:07:41,331 --> 00:07:42,970
+That's a tool that you're using.
+
+143
+00:07:43,510 --> 00:07:45,010
+That's what you're performing.
+
+144
+00:07:45,150 --> 00:07:48,368
+Whereas the actual outcome
+or the output, right, the
+
+145
+00:07:48,369 --> 00:07:51,970
+PIMBox 6 output was considered
+the make or buy decision.
+
+146
+00:07:52,430 --> 00:07:54,363
+So anyway, as I said,
+these are just some of the
+
+147
+00:07:54,364 --> 00:07:56,644
+considerations, some of
+the major considerations.
+
+148
+00:07:57,010 --> 00:08:00,387
+There's many, many considerations
+that you might be making,
+
+149
+00:08:00,388 --> 00:08:03,430
+whether or not to do the
+work in-house or outsource it.
+
+150
+00:08:03,830 --> 00:08:09,450
+But collectively, wherever the reason is,
+it's known as a make or buy.
+
+151
+00:08:09,870 --> 00:08:13,590
+When you're doing the analysis,
+it's known as a make or buy analysis and
+
+152
+00:08:13,591 --> 00:08:15,691
+the outcome of that is known as a
+decision.
+

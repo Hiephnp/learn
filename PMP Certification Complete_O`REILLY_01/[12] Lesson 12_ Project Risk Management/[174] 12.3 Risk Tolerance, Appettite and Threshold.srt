@@ -1,0 +1,369 @@
+﻿1
+00:00:06,010 --> 00:00:10,310
+Okay, so let's talk about these three
+terms here that sound very similar to one
+
+2
+00:00:10,311 --> 00:00:13,130
+another, but there is a subtle difference
+between them.
+
+3
+00:00:13,150 --> 00:00:13,270
+Right.
+
+4
+00:00:13,990 --> 00:00:17,530
+Risk tolerance, risk appetite,
+and risk threshold.
+
+5
+00:00:18,930 --> 00:00:23,830
+All right, so risk tolerance, the basic
+definition of, I mean, essentially what
+
+6
+00:00:23,831 --> 00:00:27,059
+risk tolerance is, the
+maximum potential impact of a
+
+7
+00:00:27,060 --> 00:00:30,170
+risk that stakeholder
+organization is willing to take.
+
+8
+00:00:30,710 --> 00:00:32,310
+So tolerance, what is tolerance?
+
+9
+00:00:32,850 --> 00:00:35,890
+Whenever you see tolerance, it basically
+specifies a range.
+
+10
+00:00:36,630 --> 00:00:38,680
+And that's really what risk tolerance is.
+
+11
+00:00:39,250 --> 00:00:43,530
+So, as a simple example, right,
+are we going to go behind schedule?
+
+12
+00:00:43,670 --> 00:00:46,020
+How much behind schedule are we going to
+accept?
+
+13
+00:00:46,130 --> 00:00:46,270
+Right.
+
+14
+00:00:46,310 --> 00:00:48,860
+So, you know, we'll accept, we've
+identified a risk.
+
+15
+00:00:49,430 --> 00:00:52,590
+We will accept a schedule slippage of 5 to
+8%.
+
+16
+00:00:53,550 --> 00:00:55,510
+Or let's say there's a cost increase.
+
+17
+00:00:56,030 --> 00:00:59,990
+So as long as a cost doesn't increase by
+10%, then that's fine.
+
+18
+00:01:00,470 --> 00:01:03,150
+We will accept this cost increase of 10%.
+
+19
+00:01:03,151 --> 00:01:04,351
+So that's our tolerance.
+
+20
+00:01:06,010 --> 00:01:09,750
+The other term then is this one called
+risk appetite, right?
+
+21
+00:01:09,870 --> 00:01:13,750
+And risk appetite then, again,
+the official term, the official
+
+22
+00:01:13,751 --> 00:01:18,410
+explanation or definition is the maximum
+degree of uncertainty the stakeholder of
+
+23
+00:01:18,411 --> 00:01:20,950
+the organisation is actually willing to
+take.
+
+24
+00:01:21,770 --> 00:01:22,870
+Now, what is appetite?
+
+25
+00:01:24,030 --> 00:01:28,770
+Appetite is synonymous with, you know,
+with food, with being hungry or being full.
+
+26
+00:01:28,850 --> 00:01:30,767
+I mean, that's really what appetite refers
+to.
+
+27
+00:01:30,850 --> 00:01:33,450
+So in this case, we're talking about
+hunger for risk.
+
+28
+00:01:33,930 --> 00:01:34,250
+Right.
+
+29
+00:01:34,251 --> 00:01:36,751
+So as a simple example then, like the
+example here.
+
+30
+00:01:36,990 --> 00:01:39,890
+If the reward is really high, we will
+accept a higher risk.
+
+31
+00:01:40,470 --> 00:01:40,610
+Right.
+
+32
+00:01:40,730 --> 00:01:43,230
+So in that case, then we have a high risk
+appetite.
+
+33
+00:01:43,930 --> 00:01:46,248
+If we're bidding on this contract, it's a
+
+34
+00:01:46,249 --> 00:01:49,124
+really lucrative contract
+for our organization.
+
+35
+00:01:49,710 --> 00:01:52,564
+It's going to make us, you
+know, a lot of money that
+
+36
+00:01:52,565 --> 00:01:55,401
+have a lot more than what,
+you know, any other contract.
+
+37
+00:01:55,870 --> 00:01:58,790
+However, you know, we have to invest a lot
+of money.
+
+38
+00:01:59,310 --> 00:02:00,827
+There's no guarantee that we're going to
+get it.
+
+39
+00:02:00,910 --> 00:02:02,594
+Even if we invest money
+to bid on this contract,
+
+40
+00:02:02,595 --> 00:02:04,170
+there's no guarantee
+we're going to get it.
+
+41
+00:02:04,250 --> 00:02:08,410
+But because the reward is really high,
+we might want to take that risk.
+
+42
+00:02:08,990 --> 00:02:12,240
+In that case, then, we have a high-risk
+appetite in that scenario.
+
+43
+00:02:13,890 --> 00:02:16,190
+And the other term is this one,
+risk threshold.
+
+44
+00:02:16,910 --> 00:02:21,010
+A risk threshold really refers to both,
+tolerance appetite, and it's just
+
+45
+00:02:21,011 --> 00:02:23,798
+basically showing the
+level of exposure of where
+
+46
+00:02:23,799 --> 00:02:26,744
+the risk, you know, is
+going to be addressed.
+
+47
+00:02:26,870 --> 00:02:29,870
+At what point are we actually going to do
+something about it?
+
+48
+00:02:30,130 --> 00:02:34,230
+And these are a couple of examples of
+different.
+
+49
+00:02:34,250 --> 00:02:36,247
+classification that you could have,
+right?
+
+50
+00:02:36,330 --> 00:02:38,010
+No action, consider, take action.
+
+51
+00:02:38,550 --> 00:02:41,700
+So, just think as something very,
+very simple, like the weather.
+
+52
+00:02:41,790 --> 00:02:45,250
+We're in the middle of winter,
+say, and, you know, we're here,
+
+53
+00:02:45,830 --> 00:02:48,270
+you know, somewhere where it snows
+regularly.
+
+54
+00:02:49,350 --> 00:02:56,690
+And if someone says that there's a,
+10% chance of, 10% chance of a snowstorm,
+
+55
+00:02:57,530 --> 00:02:59,230
+do we really do anything about it?
+
+56
+00:02:59,490 --> 00:03:02,050
+Maybe 10% we're not going to do anything
+about it, right?
+
+57
+00:03:02,130 --> 00:03:04,230
+So at that point, we're going to do,
+we're going to know.
+
+58
+00:03:04,250 --> 00:03:05,700
+not going to take any action.
+
+59
+00:03:06,150 --> 00:03:09,330
+If they say there's a 20% chance of a
+snowstorm.
+
+60
+00:03:10,990 --> 00:03:14,550
+Well, 20% chance, again, probably won't
+take any action.
+
+61
+00:03:15,710 --> 00:03:21,364
+Even up to, I mean, at some point, and
+you, each individual will have their calf.
+
+62
+00:03:21,510 --> 00:03:26,050
+So maybe up to about, say, 40%,
+I'm really not going to do anything.
+
+63
+00:03:26,690 --> 00:03:31,770
+Up to about 40%, 45%, really, you know,
+maybe I won't do anything about that.
+
+64
+00:03:31,771 --> 00:03:32,971
+I won't take any action.
+
+65
+00:03:33,750 --> 00:03:36,790
+But let's say it's now 50%.
+
+66
+00:03:36,791 --> 00:03:38,990
+At that point, I might consider it.
+
+67
+00:03:39,730 --> 00:03:39,810
+Right.
+
+68
+00:03:40,030 --> 00:03:44,570
+So maybe between, say, 40% and 70% I'll
+consider.
+
+69
+00:03:45,230 --> 00:03:49,530
+All right, maybe there might be a
+snowstorm coming through.
+
+70
+00:03:49,850 --> 00:03:51,400
+Maybe I need to think about it.
+
+71
+00:03:52,010 --> 00:03:55,770
+But then anything over 70% now,
+I'm going to take some kind of action.
+
+72
+00:03:56,470 --> 00:04:00,210
+Now I'm just going to, I'm going to
+prepare as though it's going to snow.
+
+73
+00:04:01,270 --> 00:04:04,010
+Now we're going to get a snowstorm,
+I'm just going to consider that we're
+
+74
+00:04:04,011 --> 00:04:07,347
+going to get a snowstorm, and so I'm going
+to take action at that point.
+
+75
+00:04:07,430 --> 00:04:09,080
+So just as a very simple example.
+
+76
+00:04:09,430 --> 00:04:13,170
+So that's really what the risk threshold
+refers to, right?
+
+77
+00:04:13,350 --> 00:04:16,810
+So my level of risk exposure.
+
+78
+00:04:17,670 --> 00:04:22,690
+So at what point am I going to actually
+address the risk or accept the risk?
+

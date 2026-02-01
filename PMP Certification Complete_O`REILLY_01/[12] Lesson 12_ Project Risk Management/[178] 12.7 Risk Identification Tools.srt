@@ -1,0 +1,991 @@
+﻿1
+00:00:06,640 --> 00:00:10,870
+Okay, so in this video, we're going to
+cover some risk identification tools,
+
+2
+00:00:11,050 --> 00:00:13,525
+some of the more
+common risk identification
+
+3
+00:00:13,526 --> 00:00:15,984
+tools that you need to know for the exam.
+
+4
+00:00:16,770 --> 00:00:18,190
+Now, let's think about this.
+
+5
+00:00:19,190 --> 00:00:23,127
+Before we start talking about
+the actual tools, first of all,
+
+6
+00:00:23,128 --> 00:00:27,210
+let's think about when do
+we identify risks on our project.
+
+7
+00:00:28,130 --> 00:00:30,970
+Well, we identify risks throughout our
+project.
+
+8
+00:00:31,650 --> 00:00:34,490
+When do we start, right at the inception
+of the project.
+
+9
+00:00:34,491 --> 00:00:38,226
+Even before we have a signed
+project charter, we're going
+
+10
+00:00:38,227 --> 00:00:41,290
+to start thinking about all
+of the risks on our project.
+
+11
+00:00:41,810 --> 00:00:44,979
+In fact, even the
+business case, we will start
+
+12
+00:00:44,980 --> 00:00:47,870
+thinking about what risks
+are there on the project.
+
+13
+00:00:48,430 --> 00:00:51,950
+However, when do we stop identifying risks
+on the project?
+
+14
+00:00:52,670 --> 00:00:54,630
+And the answer is, we don't.
+
+15
+00:00:55,310 --> 00:00:59,550
+We continue identifying risks all the way
+until the end of the project.
+
+16
+00:01:00,130 --> 00:01:04,010
+So risk identification starts right at the
+inception of the project.
+
+17
+00:01:04,490 --> 00:01:06,970
+and it continues all the way until the
+end.
+
+18
+00:01:07,690 --> 00:01:11,530
+You never, never stop identifying risks on
+the project.
+
+19
+00:01:12,150 --> 00:01:14,697
+You can stop identifying risks once the
+
+20
+00:01:14,698 --> 00:01:18,544
+project is closed, once
+it's officially closed.
+
+21
+00:01:19,970 --> 00:01:23,710
+Now, what's the most common way of
+identifying risks?
+
+22
+00:01:24,370 --> 00:01:25,930
+I mean, let's think about this.
+
+23
+00:01:26,350 --> 00:01:30,870
+Do we just sit down and have endless
+brainstorming sessions right with our team
+
+24
+00:01:30,871 --> 00:01:33,709
+every week or every
+other day just to sit down
+
+25
+00:01:33,710 --> 00:01:36,190
+and identify potential
+risks on our project?
+
+26
+00:01:36,670 --> 00:01:39,920
+And the answer is no, that's not the only
+way of identifying risk.
+
+27
+00:01:40,010 --> 00:01:42,993
+That's one of the ways,
+which is why under data
+
+28
+00:01:42,994 --> 00:01:45,704
+gathering, one of the
+tools is brainstorming.
+
+29
+00:01:46,110 --> 00:01:48,110
+I'll talk about that in a second,
+though.
+
+30
+00:01:49,030 --> 00:01:53,610
+But the most common way of identifying
+risks on a project is when you are
+
+31
+00:01:53,611 --> 00:01:58,570
+performing all of the other processes,
+all the other processes and all the other
+
+32
+00:01:58,571 --> 00:02:00,707
+knowledge areas that we've been talking
+about.
+
+33
+00:02:00,790 --> 00:02:03,030
+As you're developing the schedule,
+you're going to identify.
+
+34
+00:02:03,050 --> 00:02:03,883
+identify risk.
+
+35
+00:02:04,490 --> 00:02:07,387
+As you're determining team members,
+you're going to identify risk.
+
+36
+00:02:07,470 --> 00:02:09,970
+As you're determining raw
+materials and other resources
+
+37
+00:02:09,971 --> 00:02:12,067
+you need, you're going
+to be identifying risk.
+
+38
+00:02:12,150 --> 00:02:15,600
+As we're developing the schedule,
+you're going to be identifying risk.
+
+39
+00:02:15,850 --> 00:02:18,684
+Essentially, as you're
+performing any task on a
+
+40
+00:02:18,685 --> 00:02:21,750
+project, that's when you
+identify risks on a project.
+
+41
+00:02:22,270 --> 00:02:24,090
+And anybody can identify risk.
+
+42
+00:02:24,470 --> 00:02:26,794
+You as a project manager are not the only
+
+43
+00:02:26,795 --> 00:02:29,290
+person that is identifying
+risks on a project.
+
+44
+00:02:29,770 --> 00:02:33,302
+Anybody and everybody,
+any stakeholder on the project,
+
+45
+00:02:33,303 --> 00:02:36,371
+can potentially identify
+some kind of risk on a project.
+
+46
+00:02:36,470 --> 00:02:39,731
+So that's the most common
+way of identifying risks
+
+47
+00:02:39,732 --> 00:02:42,541
+as you're performing any
+of these are the processes.
+
+48
+00:02:43,070 --> 00:02:44,770
+But we've got other tools as well.
+
+49
+00:02:45,130 --> 00:02:47,530
+So brainstorming is one of them,
+as I mentioned.
+
+50
+00:02:48,170 --> 00:02:49,770
+Now, a word about brainstorming.
+
+51
+00:02:51,250 --> 00:02:56,030
+The whole idea of brainstorming is to try
+and get as many ideas as possible.
+
+52
+00:02:56,870 --> 00:03:01,010
+During a brainstorming session,
+you're not judging anybody's ideas.
+
+53
+00:03:01,670 --> 00:03:06,130
+The role of a brainstorming, is not to
+judge anyone's ideas.
+
+54
+00:03:06,550 --> 00:03:09,510
+It's to try and get as many ideas as
+possible.
+
+55
+00:03:10,850 --> 00:03:15,030
+Now, there's a couple of side notes I want
+to make here, or a couple of bullet
+
+56
+00:03:15,031 --> 00:03:18,027
+points, or there's a couple of these other
+bullet points here.
+
+57
+00:03:18,110 --> 00:03:21,149
+So you might come across
+these two terms, nominal group
+
+58
+00:03:21,150 --> 00:03:23,910
+technique and something
+called a Delphi technique.
+
+59
+00:03:24,550 --> 00:03:30,244
+So a nominal group technique is a
+continuation, if you like, of a brainstorming.
+
+60
+00:03:30,590 --> 00:03:34,330
+So, as I said, in a brainstorming,
+you don't judge anyone's ideas.
+
+61
+00:03:35,170 --> 00:03:37,190
+You collect as many ideas as possible.
+
+62
+00:03:37,670 --> 00:03:43,290
+It's a nominal group technique where you
+actually judge the ideas now.
+
+63
+00:03:43,530 --> 00:03:48,790
+So this is where now you're going to go
+through each of the ideas that anyone came
+
+64
+00:03:48,791 --> 00:03:52,541
+out with, that everyone came out with,
+and then we're going to discuss them,
+
+65
+00:03:52,770 --> 00:03:55,220
+and then we're going to vote and rank
+those ideas.
+
+66
+00:03:55,590 --> 00:03:57,207
+So that's where you start judging.
+
+67
+00:03:57,290 --> 00:04:01,950
+That's where you discuss the ideas and
+determine, is it a valid idea,
+
+68
+00:04:02,190 --> 00:04:06,550
+or Is it not a valid idea and really just
+rank those ideas?
+
+69
+00:04:07,610 --> 00:04:09,810
+Now, ideally, it could be by a separate
+team.
+
+70
+00:04:09,910 --> 00:04:11,010
+It doesn't have to be.
+
+71
+00:04:11,250 --> 00:04:15,050
+One team that's coming up with the ideas,
+like the brainstorming, and then a second
+
+72
+00:04:15,051 --> 00:04:18,570
+team, free from bias, then could be
+discussing those ideas.
+
+73
+00:04:18,990 --> 00:04:22,940
+Now, it doesn't have to be a separate
+team, but ideally, that would be the case.
+
+74
+00:04:23,610 --> 00:04:27,230
+So just in case you come across that term
+nominal group technique, it's taken the
+
+75
+00:04:27,231 --> 00:04:30,690
+ideas from a brainstorming session,
+then you're voting them and ranking.
+
+76
+00:04:30,691 --> 00:04:34,970
+Now, you might come across this term as
+well called a Delphi technique.
+
+77
+00:04:35,570 --> 00:04:37,870
+Various different types of Delphi
+techniques.
+
+78
+00:04:38,590 --> 00:04:41,407
+Some of you may have heard of the term a
+wide-band Delphi.
+
+79
+00:04:41,490 --> 00:04:44,050
+That's a type of Delphi technique as well.
+
+80
+00:04:44,510 --> 00:04:46,479
+But the main thing about
+a Delphi technique is
+
+81
+00:04:46,480 --> 00:04:49,610
+that you are getting
+information anonymously.
+
+82
+00:04:50,090 --> 00:04:53,140
+So you're gathering information from team
+members anonymously.
+
+83
+00:04:54,010 --> 00:04:57,301
+And the whole idea
+behind a Delphi technique is
+
+84
+00:04:57,302 --> 00:05:00,670
+to try and prevent anyone
+influencing their ideas.
+
+85
+00:05:00,690 --> 00:05:01,970
+on someone else.
+
+86
+00:05:02,570 --> 00:05:07,230
+So try and prevent a situation where,
+you know, one person is trying to
+
+87
+00:05:07,231 --> 00:05:12,910
+influence their viewpoint on someone else
+or, you know, someone saying, well,
+
+88
+00:05:13,170 --> 00:05:17,190
+you know, someone thinking, you know,
+my manager's here, my manager's saying
+
+89
+00:05:17,191 --> 00:05:20,191
+this, I better agree everything to what my
+manager is saying.
+
+90
+00:05:20,290 --> 00:05:24,490
+Regardless of whether they actually agree
+with what the manager is saying or not.
+
+91
+00:05:24,590 --> 00:05:26,027
+You're just going to agree to it.
+
+92
+00:05:26,110 --> 00:05:27,930
+Or I don't like this person.
+
+93
+00:05:28,430 --> 00:05:30,670
+I'm not going to agree to anything that
+they say.
+
+94
+00:05:30,690 --> 00:05:32,270
+or I like this person.
+
+95
+00:05:32,410 --> 00:05:34,547
+I'm just going to agree to whatever they
+say.
+
+96
+00:05:34,630 --> 00:05:37,930
+So it's to try and prevent that kind of
+situation.
+
+97
+00:05:38,710 --> 00:05:42,010
+So you may use a Delphi technique,
+such as, for example, a polling.
+
+98
+00:05:42,670 --> 00:05:44,370
+Polling is an example of a Delphi.
+
+99
+00:05:45,530 --> 00:05:50,070
+So these are a couple of ways of
+identifying potential risks on a project.
+
+100
+00:05:50,490 --> 00:05:53,870
+Then you've got something called a
+checklist, right, a risk identification
+
+101
+00:05:53,871 --> 00:05:56,636
+checklist, like a, I
+mean, literally it's more
+
+102
+00:05:56,637 --> 00:05:59,270
+of a to-do list, like
+a type of to-do list.
+
+103
+00:05:59,271 --> 00:06:03,107
+But you may develop this,
+say, from historical information,
+
+104
+00:06:03,108 --> 00:06:06,850
+from your organizational
+process asset, from OAPR.
+
+105
+00:06:06,990 --> 00:06:09,750
+Remember that term OPA, organizational
+process asset?
+
+106
+00:06:10,310 --> 00:06:10,330
+Right.
+
+107
+00:06:11,070 --> 00:06:12,220
+Historical information.
+
+108
+00:06:12,550 --> 00:06:14,470
+Historical data from a prior project.
+
+109
+00:06:14,990 --> 00:06:16,740
+So we did a similar project before.
+
+110
+00:06:17,210 --> 00:06:19,970
+So what were all the risks on this prior
+project?
+
+111
+00:06:20,590 --> 00:06:25,250
+So that may help you identify some risks
+on this particular project.
+
+112
+00:06:25,350 --> 00:06:27,070
+So you may create a checklist.
+
+113
+00:06:27,750 --> 00:06:29,210
+And then interview.
+
+114
+00:06:29,270 --> 00:06:30,830
+Remember, what is interview?
+
+115
+00:06:31,070 --> 00:06:35,670
+Interviewing means sitting down with an
+individual and getting their opinions,
+
+116
+00:06:36,430 --> 00:06:37,930
+right, or getting their ideas.
+
+117
+00:06:38,370 --> 00:06:40,790
+So just general conversation even,
+right?
+
+118
+00:06:40,890 --> 00:06:44,330
+So that can help identify risks on a
+project, right?
+
+119
+00:06:44,530 --> 00:06:46,603
+As you're going through
+the project, you know,
+
+120
+00:06:46,604 --> 00:06:48,921
+just a general, even just
+a general conversation.
+
+121
+00:06:49,450 --> 00:06:52,507
+You're talking to someone and,
+you know, they say something like,
+
+122
+00:06:52,590 --> 00:06:55,630
+hey, have you heard about this,
+you know, company XYZ?
+
+123
+00:06:55,750 --> 00:06:57,850
+I heard they might be going on strike next
+week.
+
+124
+00:06:57,851 --> 00:07:02,210
+Well, that's the first time you've heard
+of this, and they're one of your major
+
+125
+00:07:02,211 --> 00:07:05,330
+vendors, that might represent a risk on
+your project.
+
+126
+00:07:06,590 --> 00:07:09,868
+Now, other tools, under
+data analysis, right,
+
+127
+00:07:09,869 --> 00:07:13,344
+there's something
+called root cause analysis.
+
+128
+00:07:13,790 --> 00:07:18,130
+Now, we have a separate video on root
+cause, root cause analysis, cause and
+
+129
+00:07:18,131 --> 00:07:22,390
+effect diagram, fish bone diagram,
+Ishikawa diagram, if you remember,
+
+130
+00:07:22,870 --> 00:07:25,370
+so that falls under the quality management
+section.
+
+131
+00:07:27,270 --> 00:07:30,544
+But a root cause, generally,
+when you're doing a root
+
+132
+00:07:30,545 --> 00:07:33,910
+cause analysis, you're doing
+a root cause on an issue.
+
+133
+00:07:34,770 --> 00:07:37,027
+And an issue is something that's already
+happened.
+
+134
+00:07:37,110 --> 00:07:38,410
+Here we talk about a risk.
+
+135
+00:07:39,250 --> 00:07:42,339
+So the question is,
+well, how is a root cause
+
+136
+00:07:42,340 --> 00:07:45,670
+analysis on an issue
+going to identify a risk?
+
+137
+00:07:46,190 --> 00:07:47,090
+Well, very simple.
+
+138
+00:07:47,730 --> 00:07:50,456
+Whenever you're doing a
+root cause analysis, you're also
+
+139
+00:07:50,457 --> 00:07:54,150
+looking at, well, what
+potential risks are out there?
+
+140
+00:07:54,670 --> 00:07:57,388
+As you're performing a root
+cause on an issue, you're
+
+141
+00:07:57,488 --> 00:08:00,430
+looking at, well, what other
+potential issues could occur?
+
+142
+00:08:00,710 --> 00:08:03,990
+If it's a potential issue, then that's a
+risk.
+
+143
+00:08:04,610 --> 00:08:07,707
+And then another one here, assumptions and
+constraints analysis.
+
+144
+00:08:07,790 --> 00:08:10,629
+So you're going to be
+identifying constraints
+
+145
+00:08:10,630 --> 00:08:13,270
+and making assumptions
+throughout your project.
+
+146
+00:08:13,730 --> 00:08:15,689
+Well, some of those
+assumptions and constraints
+
+147
+00:08:15,690 --> 00:08:17,290
+could help identify a
+risk on your project.
+
+148
+00:08:17,690 --> 00:08:19,090
+So as a very simple example.
+
+149
+00:08:19,490 --> 00:08:23,270
+Let's say we have to use a machine,
+This machine has been shared amongst,
+
+150
+00:08:23,370 --> 00:08:27,710
+you know, the many different teams,
+different departments, right?
+
+151
+00:08:27,750 --> 00:08:28,850
+So it's a big machine.
+
+152
+00:08:29,850 --> 00:08:34,750
+And this machine is available to us only
+for two hours a day, right?
+
+153
+00:08:34,751 --> 00:08:38,030
+Let's say between the hours of two and
+four in the afternoon.
+
+154
+00:08:38,750 --> 00:08:41,410
+So that's a time slot that's being
+allocated to us.
+
+155
+00:08:41,790 --> 00:08:47,030
+So if that's a time slot that's being
+allocated to us, that means then any
+
+156
+00:08:47,031 --> 00:08:54,070
+activity that we have planned,
+that uses that machine, we need to make
+
+157
+00:08:54,071 --> 00:08:56,278
+sure then that those
+activities are scheduled
+
+158
+00:08:56,279 --> 00:08:59,490
+only between the hours
+and two and four every day.
+
+159
+00:08:59,670 --> 00:09:04,650
+So those activities, though, are dependent
+on other activities.
+
+160
+00:09:05,610 --> 00:09:10,290
+So if those other activities are not
+complete on time, then we won't be able to
+
+161
+00:09:10,291 --> 00:09:12,990
+perform these activities that use that
+machine.
+
+162
+00:09:13,450 --> 00:09:15,210
+So there's a risk.
+
+163
+00:09:15,510 --> 00:09:17,287
+We've identified a risk on our project.
+
+164
+00:09:17,370 --> 00:09:20,329
+So we can only use this
+machine for two hours a
+
+165
+00:09:20,330 --> 00:09:23,304
+day, which basically
+represents 10 hours a week.
+
+166
+00:09:24,430 --> 00:09:26,830
+What if we need it for more than 10 hours
+a week?
+
+167
+00:09:27,290 --> 00:09:30,750
+What if we need that machine for say 15 or
+20 hours a week?
+
+168
+00:09:32,030 --> 00:09:35,290
+Well again, that's highlighted a risk on
+your project.
+
+169
+00:09:36,070 --> 00:09:37,627
+Now how we actually deal with that?
+
+170
+00:09:37,710 --> 00:09:39,707
+That's another matter, how we actually
+deal with that.
+
+171
+00:09:39,790 --> 00:09:42,167
+But here we're talking about risk
+identification.
+
+172
+00:09:42,250 --> 00:09:46,170
+There's a separate section, a separate
+video on risk responses.
+
+173
+00:09:46,450 --> 00:09:47,650
+We've identified a risk.
+
+174
+00:09:47,910 --> 00:09:49,407
+Now what do we do with that risk?
+
+175
+00:09:49,490 --> 00:09:49,790
+Right.
+
+176
+00:09:49,990 --> 00:09:51,690
+Now how do we deal with that risk.
+
+177
+00:09:52,030 --> 00:09:55,090
+So that's a separate video on actually
+responding to the risk.
+
+178
+00:09:55,250 --> 00:09:57,727
+Here we're just talking about identifying
+the risk.
+
+179
+00:09:57,810 --> 00:09:59,530
+So we've identified that risk.
+
+180
+00:09:59,930 --> 00:10:03,080
+And that risk then was based on a
+constraint that we identified,
+
+181
+00:10:03,570 --> 00:10:05,670
+right, or an assumption that you're
+making.
+
+182
+00:10:07,010 --> 00:10:11,784
+Now, one of the more common ways of
+identifying risks then is document analysis.
+
+183
+00:10:12,130 --> 00:10:14,325
+And that's exactly what I
+had mentioned right at the
+
+184
+00:10:14,408 --> 00:10:16,940
+beginning of this section,
+or beginning of this video.
+
+185
+00:10:17,070 --> 00:10:19,110
+How do we identify risks on the project?
+
+186
+00:10:19,290 --> 00:10:23,310
+Well, as we're performing any of the other
+processes as we're developing the
+
+187
+00:10:23,311 --> 00:10:26,570
+schedule, as we're developing the scope,
+determining team members and developing
+
+188
+00:10:26,571 --> 00:10:29,570
+the budget, we could be highlighting a
+risk on a project.
+
+189
+00:10:30,050 --> 00:10:32,390
+So that's what the document analysis
+refers to.
+
+190
+00:10:32,910 --> 00:10:37,730
+Analyzing any documents or processes could
+uncover any kind of risk any time we're
+
+191
+00:10:37,731 --> 00:10:40,650
+updating a document or
+creating a document highlighting a
+
+192
+00:10:40,651 --> 00:10:44,870
+document that could potentially
+highlight a risk on a project.
+
+193
+00:10:45,410 --> 00:10:47,230
+And then we have SWAT analysis.
+
+194
+00:10:48,390 --> 00:10:50,490
+There's a separate video on SWAT analysis.
+
+195
+00:10:50,870 --> 00:10:53,647
+SWAT stands for strengths, weaknesses,
+opportunities, and threats.
+
+196
+00:10:53,730 --> 00:10:54,730
+That's another tool.
+
+197
+00:10:55,050 --> 00:10:57,890
+But as I said, there's a separate video on
+SWAT.
+
+198
+00:10:58,590 --> 00:11:02,710
+And then you've got these other two now,
+facilitation and meetings, right?
+
+199
+00:11:02,850 --> 00:11:06,210
+So you maybe having risk identification
+meetings or risk workshops.
+
+200
+00:11:06,750 --> 00:11:10,370
+And so you're going to be facilitating
+then these meetings, facilitating
+
+201
+00:11:10,371 --> 00:11:14,581
+brainstorming sessions,
+facilitating like say focus groups,
+
+202
+00:11:14,582 --> 00:11:18,430
+that can again help identify
+any risks on your project.
+
+203
+00:11:18,990 --> 00:11:19,907
+And these are skills.
+
+204
+00:11:19,990 --> 00:11:23,930
+These are, it's a tool, it's a skill set,
+one of the skills, one of the key skill
+
+205
+00:11:23,931 --> 00:11:27,290
+sets for a project manager of facilitation
+techniques.
+
+206
+00:11:28,070 --> 00:11:33,370
+So these are just some of the common tools
+then that you may be using to identify
+
+207
+00:11:33,371 --> 00:11:37,770
+risks on a project, some of the common
+tools that PMI talk about in Pinbok.
+

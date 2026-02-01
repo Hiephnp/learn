@@ -1,0 +1,799 @@
+﻿1
+00:00:05,820 --> 00:00:08,826
+Okay, so in this video,
+then we are going to
+
+2
+00:00:08,827 --> 00:00:12,334
+discuss a couple of common
+procurement artifacts.
+
+3
+00:00:13,320 --> 00:00:16,003
+Now, artifact, remember,
+is a document, and
+
+4
+00:00:16,004 --> 00:00:18,820
+it is a document that
+we are trying to create.
+
+5
+00:00:18,960 --> 00:00:20,810
+It's a document that we are creating.
+
+6
+00:00:21,280 --> 00:00:25,006
+And in PIMBOC terminology,
+in the PIMBOC guide
+
+7
+00:00:25,007 --> 00:00:28,820
+terminology, this would
+be referred to as an output.
+
+8
+00:00:29,520 --> 00:00:33,320
+So these artifacts then would be an output
+of procurement management.
+
+9
+00:00:34,420 --> 00:00:38,220
+Now, the first one I want to discuss is
+this one called bid documents.
+
+10
+00:00:38,820 --> 00:00:41,304
+Now, there are three types of
+bid documents that you need
+
+11
+00:00:41,305 --> 00:00:44,171
+to know about for the exam,
+and those are these three here.
+
+12
+00:00:44,600 --> 00:00:47,809
+A request for information,
+RFI, request for quote, RFQ,
+
+13
+00:00:47,810 --> 00:00:50,840
+and this one called an
+RFP, a request for proposal.
+
+14
+00:00:51,600 --> 00:00:54,571
+Now, I'm sure, in fact,
+I'm assuming most of
+
+15
+00:00:54,572 --> 00:00:58,034
+you have heard of an
+RFP, request for proposal.
+
+16
+00:00:58,260 --> 00:01:02,580
+So an RFP is a bid document, but there are
+other types as well.
+
+17
+00:01:02,581 --> 00:01:05,208
+You have the RFQ,
+Request for Quote, which is
+
+18
+00:01:05,209 --> 00:01:09,100
+also known as an
+invitation for bid, an IFB.
+
+19
+00:01:09,660 --> 00:01:14,160
+So you could see the term RFQ or IFB,
+then basically mean the same thing.
+
+20
+00:01:14,700 --> 00:01:16,750
+Most of the time, though, you'll see RFQ.
+
+21
+00:01:17,340 --> 00:01:20,490
+Then you've got this one called the RFI
+Request for Information.
+
+22
+00:01:21,100 --> 00:01:23,100
+So let's talk about the differences then
+
+23
+00:01:23,101 --> 00:01:25,300
+between these three
+types of bid documents.
+
+24
+00:01:25,620 --> 00:01:27,840
+So first of all, RFI request for
+information.
+
+25
+00:01:28,660 --> 00:01:31,784
+Now, as a name suggests,
+request for information,
+
+26
+00:01:31,785 --> 00:01:34,214
+it's just for additional information.
+
+27
+00:01:34,860 --> 00:01:37,925
+Buy it and seller can be
+submitting an RFI to the other
+
+28
+00:01:37,926 --> 00:01:40,551
+party, just asking for
+some additional information.
+
+29
+00:01:40,940 --> 00:01:43,880
+And there's various different ways of
+using an RFI.
+
+30
+00:01:44,220 --> 00:01:45,270
+It's not a fixed way.
+
+31
+00:01:45,420 --> 00:01:46,970
+There's various different ways.
+
+32
+00:01:47,140 --> 00:01:52,000
+It could be used before you send an
+official RFP, right before the buyer sends
+
+33
+00:01:52,001 --> 00:01:55,250
+an official RFP to the
+seller, or it could be used
+
+34
+00:01:55,251 --> 00:01:57,820
+after the buyer has
+submitted an RFP to the seller.
+
+35
+00:01:57,840 --> 00:02:01,060
+So let me just give you an example then of
+each one.
+
+36
+00:02:01,920 --> 00:02:07,380
+Now, in either case, though, it is used to
+just obtain some general information about
+
+37
+00:02:07,381 --> 00:02:11,100
+the supplier themselves, about the vendor
+themselves, or about their product or
+
+38
+00:02:11,101 --> 00:02:14,022
+service, and the whole
+idea, the whole purpose
+
+39
+00:02:14,023 --> 00:02:16,574
+is to gain some additional familiarity.
+
+40
+00:02:17,320 --> 00:02:22,720
+So as a very simple example of an RFI
+that's used before we send out an RFP,
+
+41
+00:02:23,200 --> 00:02:27,620
+this is used extensively by US government
+agencies.
+
+42
+00:02:27,780 --> 00:02:30,029
+I mean, the other companies
+use it as well, but I want
+
+43
+00:02:30,030 --> 00:02:33,140
+to give you an example of,
+say, the US government agency.
+
+44
+00:02:33,480 --> 00:02:35,280
+There's many US government agencies.
+
+45
+00:02:35,740 --> 00:02:40,600
+So let's say they, you know, they're
+determining this project.
+
+46
+00:02:41,180 --> 00:02:43,020
+Is this a viable project for us?
+
+47
+00:02:43,580 --> 00:02:46,740
+And if there is, what potential vendors
+are out there?
+
+48
+00:02:47,400 --> 00:02:56,020
+So all the usual places where government
+contractors are bidding on government
+
+49
+00:02:56,021 --> 00:03:01,040
+contracts, this government agency will
+submit an RFI, a request for information.
+
+50
+00:03:01,440 --> 00:03:05,140
+And there's a whole bunch of questions on
+there, right, which vendors then,
+
+51
+00:03:05,300 --> 00:03:09,360
+these potential sellers, will answer on a
+voluntary basis.
+
+52
+00:03:10,040 --> 00:03:16,580
+So that if the government agency decides
+this project valuable, is viable,
+
+53
+00:03:17,300 --> 00:03:20,629
+and they decide to go for a
+bid, right, then they have a
+
+54
+00:03:20,630 --> 00:03:23,451
+list of vendors that they
+can potentially reach out to.
+
+55
+00:03:24,100 --> 00:03:27,900
+These vendors have already answered a
+whole bunch of questions that they had.
+
+56
+00:03:28,140 --> 00:03:31,360
+So that's one way of using an RFI,
+a request for information.
+
+57
+00:03:32,220 --> 00:03:34,820
+They just have some
+information and usually
+
+58
+00:03:34,821 --> 00:03:37,680
+with an RFI, there's no
+money involved, right?
+
+59
+00:03:37,900 --> 00:03:41,740
+Or if there's no pricing, or if there is,
+it's very, very high level pricing.
+
+60
+00:03:43,060 --> 00:03:47,140
+Now, sometimes it can be used once an RFP
+has been submitted.
+
+61
+00:03:47,141 --> 00:03:52,498
+So the request for proposals,
+the buyer has submitted
+
+62
+00:03:52,499 --> 00:03:55,651
+an RFP, a request for
+a proposal to the seller.
+
+63
+00:03:55,960 --> 00:03:58,457
+The seller may have some additional
+questions, right?
+
+64
+00:03:58,540 --> 00:04:01,175
+So they may send an RFI to the buyer for
+
+65
+00:04:01,176 --> 00:04:04,874
+some additional
+information and vice versa.
+
+66
+00:04:05,480 --> 00:04:10,053
+The main thing about
+an RFI is, again, literally
+
+67
+00:04:10,054 --> 00:04:13,740
+it is used for asking for
+some information, right?
+
+68
+00:04:13,800 --> 00:04:17,120
+For either the buyer of the seller,
+either party can send an RFI.
+
+69
+00:04:17,860 --> 00:04:20,588
+So let's talk about the
+difference between the RFQ
+
+70
+00:04:20,589 --> 00:04:23,460
+request for quote and an
+RFP request for proposal.
+
+71
+00:04:24,300 --> 00:04:28,260
+Remember, the RFQ, another name for that
+is the IFB invitation for bid.
+
+72
+00:04:29,400 --> 00:04:31,700
+So what's the basic difference between the
+two?
+
+73
+00:04:32,000 --> 00:04:37,020
+Now, the RFQ request for quote is focused
+on the bottom line only.
+
+74
+00:04:37,420 --> 00:04:38,620
+It's focused on pricing.
+
+75
+00:04:39,580 --> 00:04:43,640
+So it's basically we know what we need.
+
+76
+00:04:44,260 --> 00:04:45,460
+It's a standard product.
+
+77
+00:04:45,980 --> 00:04:48,730
+and so we just want to know how much it's
+going to cost.
+
+78
+00:04:49,320 --> 00:04:52,540
+So, for example, I want to purchase a
+whole bunch of textbooks.
+
+79
+00:04:53,760 --> 00:04:58,240
+So for one of my classes I'm teaching,
+you know, I want to purchase, say,
+
+80
+00:04:58,680 --> 00:05:02,360
+100 copies of this textbook, right,
+even 1,000 copies of this textbook.
+
+81
+00:05:03,000 --> 00:05:05,524
+Well, there are a couple
+of different supplies
+
+82
+00:05:05,525 --> 00:05:08,580
+out there that can supply
+me with this textbook.
+
+83
+00:05:08,960 --> 00:05:10,969
+I want 100 copies or
+1,000 copies, whatever
+
+84
+00:05:10,970 --> 00:05:13,434
+it is, you know, there's a few suppliers.
+
+85
+00:05:14,460 --> 00:05:17,000
+these textbooks, they're all the same.
+
+86
+00:05:17,860 --> 00:05:20,200
+I want to purchase this particular
+textbook.
+
+87
+00:05:21,600 --> 00:05:23,060
+One textbook, right?
+
+88
+00:05:23,240 --> 00:05:25,957
+I mean, this particular textbook is not
+going to be different.
+
+89
+00:05:26,040 --> 00:05:29,200
+It's one textbook, but I want 100 copies
+of it.
+
+90
+00:05:30,040 --> 00:05:31,990
+So I just want to know the bottom line.
+
+91
+00:05:32,860 --> 00:05:34,908
+You know, different
+vendors, different suppliers
+
+92
+00:05:34,909 --> 00:05:36,980
+can supply me with
+this particular textbook.
+
+93
+00:05:37,120 --> 00:05:38,340
+Well, how much is it going to cost me?
+
+94
+00:05:38,400 --> 00:05:40,250
+What discounts are you going to give?
+
+95
+00:05:40,540 --> 00:05:42,760
+So I will send them an RFQ.
+
+96
+00:05:43,080 --> 00:05:43,980
+request for quote.
+
+97
+00:05:45,760 --> 00:05:48,740
+An RFP, on the other
+hand, focus as more on
+
+98
+00:05:48,741 --> 00:05:51,974
+the needs and
+expectations of the customer.
+
+99
+00:05:52,420 --> 00:05:55,019
+You need to get some
+requirements from the customer
+
+100
+00:05:55,020 --> 00:05:57,594
+before you can actually
+give some kind of quote.
+
+101
+00:05:58,480 --> 00:05:59,830
+So again, a simple example.
+
+102
+00:06:00,680 --> 00:06:02,230
+I have my own training company.
+
+103
+00:06:02,780 --> 00:06:05,948
+If somebody asks me,
+can you give me a quote
+
+104
+00:06:05,949 --> 00:06:09,474
+for some project
+management training in-house?
+
+105
+00:06:10,280 --> 00:06:14,820
+Well, immediately I can't give them a coat
+like that, right, I have to ask some
+
+106
+00:06:14,821 --> 00:06:18,100
+questions, not in the least, you know,
+how many days?
+
+107
+00:06:18,560 --> 00:06:21,837
+Well, first of all, what kind of project
+management training do you want?
+
+108
+00:06:21,920 --> 00:06:22,870
+Is it PMP training?
+
+109
+00:06:23,040 --> 00:06:25,137
+Is it some other kind of project
+management training?
+
+110
+00:06:25,220 --> 00:06:28,960
+At how many days, how many people,
+which location, right?
+
+111
+00:06:29,080 --> 00:06:32,700
+Then I'm going to go into the more of the
+needs and requirements, needs and
+
+112
+00:06:32,701 --> 00:06:36,520
+expectations, going to understand the need
+for the training, right?
+
+113
+00:06:36,521 --> 00:06:40,040
+So then I can customize the training for
+them and so on and so forth.
+
+114
+00:06:40,720 --> 00:06:43,937
+So I will need to get their
+requirements, right, before, at
+
+115
+00:06:43,938 --> 00:06:49,080
+least some high-level requirements
+before I can submit a quote.
+
+116
+00:06:50,280 --> 00:06:55,080
+So they would then send me an RFP,
+a request for a proposal.
+
+117
+00:06:56,120 --> 00:06:59,260
+So that's a basic difference then between
+the RFQ and the RFP.
+
+118
+00:06:59,400 --> 00:07:02,460
+With the RFQ, it is one standard product.
+
+119
+00:07:02,940 --> 00:07:05,060
+We know exactly what we want, right?
+
+120
+00:07:05,160 --> 00:07:07,320
+And, you know, we want
+a whole bunch of these
+
+121
+00:07:07,321 --> 00:07:09,800
+standard products, so
+it's based on pricing only.
+
+122
+00:07:09,801 --> 00:07:12,123
+Whereas with the RFP,
+you need to go into more
+
+123
+00:07:12,124 --> 00:07:14,894
+than needs and
+expectations of the customer.
+
+124
+00:07:16,960 --> 00:07:21,035
+Now, another common
+artifact is this one called the
+
+125
+00:07:21,036 --> 00:07:24,081
+Statement of Work, the
+Procurement Statement of Work.
+
+126
+00:07:24,840 --> 00:07:30,019
+And the statement of work
+for services is known as a
+
+127
+00:07:30,020 --> 00:07:33,740
+term of reference, but
+basically it's used the same way.
+
+128
+00:07:34,660 --> 00:07:39,414
+And a statement of work is a legal document,
+right, becomes part of the contract.
+
+129
+00:07:39,800 --> 00:07:42,927
+And it is just basically
+documenting what the
+
+130
+00:07:42,928 --> 00:07:45,537
+project is about, what
+this procurement is about.
+
+131
+00:07:45,620 --> 00:07:49,900
+Now, let's just take a step back and think
+about where we are.
+
+132
+00:07:50,420 --> 00:07:51,397
+We're in procurement.
+
+133
+00:07:51,480 --> 00:07:52,637
+What is the procurement?
+
+134
+00:07:52,720 --> 00:07:55,320
+In a procurement, we are the customer.
+
+135
+00:07:56,280 --> 00:07:57,780
+Remember, we are the customer.
+
+136
+00:07:58,820 --> 00:08:00,820
+And the vendor is doing the work for us.
+
+137
+00:08:01,600 --> 00:08:04,900
+So we have this project, we have this big
+project that we're doing.
+
+138
+00:08:05,540 --> 00:08:09,000
+A portion of this project, we have decided
+to outsource it.
+
+139
+00:08:10,200 --> 00:08:14,240
+And so this portion of the project that
+we've decided to outsource for that
+
+140
+00:08:14,241 --> 00:08:16,391
+portion of the project, we are the
+customer.
+
+141
+00:08:16,640 --> 00:08:19,600
+So we are going to give our requirements
+to the vendor.
+
+142
+00:08:20,180 --> 00:08:23,980
+From those requirements, we're going to
+come up with the scope, the schedule,
+
+143
+00:08:24,120 --> 00:08:25,800
+the budget, all baseline.
+
+144
+00:08:26,760 --> 00:08:30,460
+And that will all be documented in the
+procurement statement of work,
+
+145
+00:08:31,440 --> 00:08:35,140
+which will be signed off and it will
+become part of the contract.
+
+146
+00:08:35,420 --> 00:08:38,920
+So the procurement statement of work then
+is a legal document.
+
+147
+00:08:39,800 --> 00:08:42,751
+So the statement of work
+then is developed from our
+
+148
+00:08:42,752 --> 00:08:45,577
+original scope statement
+for the overall project, right?
+
+149
+00:08:45,660 --> 00:08:47,060
+So this is our project.
+
+150
+00:08:47,560 --> 00:08:52,520
+So this whole project, right, has already
+been baselined, right?
+
+151
+00:08:52,820 --> 00:08:54,420
+So we've already been baselined.
+
+152
+00:08:55,520 --> 00:08:58,377
+And so it's going to be developed the
+scope statement then.
+
+153
+00:08:58,460 --> 00:09:01,120
+It's going to be developed from the
+baseline, right?
+
+154
+00:09:01,140 --> 00:09:03,077
+And we're creating the scope statement.
+
+155
+00:09:03,160 --> 00:09:04,657
+And what's it going to contain?
+
+156
+00:09:04,740 --> 00:09:08,600
+Right, well, all the work that needs to be
+performed, right, any standards that need
+
+157
+00:09:08,601 --> 00:09:13,120
+to be abided by, right, the budget,
+the timeline, and so and so forth.
+
+158
+00:09:14,180 --> 00:09:19,960
+So it basically contains as much detailed
+information as possible because here's a
+
+159
+00:09:19,961 --> 00:09:23,160
+legal document, and it will become part of
+the contract.
+
+160
+00:09:24,660 --> 00:09:27,960
+Now, who writes a statement of work,
+is it the buyer or the seller?
+
+161
+00:09:28,060 --> 00:09:30,091
+Well, generally the buyer
+will write it, but sometimes
+
+162
+00:09:30,174 --> 00:09:32,700
+the seller can write it,
+sometimes it's a joint effort.
+
+163
+00:09:33,040 --> 00:09:37,460
+But whoever writes a statement of work,
+it has to be written in sufficient detail
+
+164
+00:09:37,461 --> 00:09:40,825
+so that both buy it and seller
+can have a good understanding
+
+165
+00:09:40,826 --> 00:09:43,671
+of what is to be delivered,
+what is not to be delivered.
+
+166
+00:09:44,520 --> 00:09:48,920
+So these are just a couple of additional
+common artifacts, right, additional common
+
+167
+00:09:48,921 --> 00:09:51,580
+documents that you need to know regarding
+procurement.
+

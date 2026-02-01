@@ -1,0 +1,974 @@
+﻿1
+00:00:06,240 --> 00:00:09,480
+Okay, so let's talk about some risk
+response strategies, then.
+
+2
+00:00:09,660 --> 00:00:11,819
+In this case, we're
+going to be talking about
+
+3
+00:00:11,820 --> 00:00:14,174
+risk response strategies
+for a negative risk.
+
+4
+00:00:14,380 --> 00:00:16,980
+All right, now, let's look at what we've
+done so far.
+
+5
+00:00:17,880 --> 00:00:23,060
+So we first planned our risk management
+process, right?
+
+6
+00:00:23,220 --> 00:00:26,260
+So plan risk management, right,
+the name of the process.
+
+7
+00:00:27,560 --> 00:00:32,180
+And we were creating, right, the artifact
+that's created is the risk management
+
+8
+00:00:32,181 --> 00:00:34,400
+plan, documenting how, documenting
+procedures.
+
+9
+00:00:34,401 --> 00:00:37,972
+Through our project, we're
+also going to be identifying
+
+10
+00:00:37,973 --> 00:00:40,780
+our risk and then
+updating the risk register.
+
+11
+00:00:41,500 --> 00:00:44,332
+We also talked about
+qualitative risk analysis
+
+12
+00:00:44,333 --> 00:00:47,520
+and quantitative risk
+analysis in previous videos.
+
+13
+00:00:48,000 --> 00:00:52,300
+So where we are ranking our risk,
+prioritizing our risk, and then in
+
+14
+00:00:52,301 --> 00:00:55,800
+quantitative, actually adding a dollar
+value to our risk.
+
+15
+00:00:56,740 --> 00:00:58,975
+Okay, so now that we've
+identified all of these risks
+
+16
+00:00:58,976 --> 00:01:01,280
+and done all the analysis
+and everything, now what?
+
+17
+00:01:01,281 --> 00:01:07,200
+well we need to respond to the risk right
+we need to figure out how are we actually
+
+18
+00:01:07,201 --> 00:01:11,340
+going to respond to the risk right it's no
+good just identifying a risk and then not
+
+19
+00:01:11,341 --> 00:01:17,360
+doing anything about it no we need to know
+how to respond right so we have these risk
+
+20
+00:01:17,361 --> 00:01:22,080
+response strategies there are five risk
+response strategies for a negative risk or
+
+21
+00:01:22,081 --> 00:01:27,120
+a threat then on a separate video we're
+also going to be talking about five risk
+
+22
+00:01:27,121 --> 00:01:31,251
+response strategies for a
+positive risk or an opportunity
+
+23
+00:01:31,252 --> 00:01:34,341
+All right, so let's look
+at this first, negative risk.
+
+24
+00:01:35,060 --> 00:01:37,310
+So the first response strategy then,
+escalate.
+
+25
+00:01:38,100 --> 00:01:40,320
+And escalate is literally as it sounds.
+
+26
+00:01:41,020 --> 00:01:42,920
+You escalate it to a higher authority.
+
+27
+00:01:43,640 --> 00:01:47,717
+As a project manager, you don't have the
+authority to make a decision on this risk.
+
+28
+00:01:47,800 --> 00:01:49,667
+You've identified this major risk, but you
+
+29
+00:01:49,668 --> 00:01:51,700
+don't have the authority
+to make that decision.
+
+30
+00:01:52,000 --> 00:01:52,833
+So who does?
+
+31
+00:01:52,980 --> 00:01:55,780
+You have to escalate it, escalate it to
+higher authority.
+
+32
+00:01:56,220 --> 00:01:57,720
+So it's a very simple example.
+
+33
+00:01:58,120 --> 00:02:02,340
+At the beginning of 2020, right,
+we had this whole COVID situation.
+
+34
+00:02:03,420 --> 00:02:06,820
+So, well, we had the start of the COVID
+situation, right?
+
+35
+00:02:07,780 --> 00:02:11,300
+Project managers, at that point,
+a lot of project managers for many
+
+36
+00:02:11,301 --> 00:02:13,623
+projects did not have
+the authority to make a
+
+37
+00:02:13,624 --> 00:02:16,460
+decision, right, when that
+COVID situation started.
+
+38
+00:02:17,160 --> 00:02:20,620
+I mean, technically, when the COVID
+situation started, right, when the whole
+
+39
+00:02:20,621 --> 00:02:24,460
+country went into a lockdown, and in fact,
+when the whole world pretty much went into
+
+40
+00:02:24,461 --> 00:02:26,537
+a lockdown, I mean, technically that's an
+issue.
+
+41
+00:02:26,620 --> 00:02:27,120
+That was an issue.
+
+42
+00:02:27,500 --> 00:02:32,860
+However, in the weeks leading up to that,
+we still had this risk, right?
+
+43
+00:02:32,900 --> 00:02:35,493
+We still had some knowledge
+that, you know, there was
+
+44
+00:02:35,494 --> 00:02:40,640
+this pandemic or potential
+of a pandemic coming along.
+
+45
+00:02:41,160 --> 00:02:45,300
+And so, you know, we could identify,
+I mean, a week or so a week or two weeks
+
+46
+00:02:45,301 --> 00:02:49,201
+before the actual lockdown, we were told
+that there might be a lockdown coming.
+
+47
+00:02:49,480 --> 00:02:51,140
+So, again, it was an uncertainty.
+
+48
+00:02:51,840 --> 00:02:56,580
+At that point, project managers did not
+really have the authority to make a lot of
+
+49
+00:02:56,581 --> 00:02:58,981
+decisions about the project at that point,
+right?
+
+50
+00:02:59,080 --> 00:03:00,397
+Should we shut the project down?
+
+51
+00:03:00,480 --> 00:03:04,500
+would put it on hold or what do we do,
+that's going to be escalated to senior
+
+52
+00:03:04,501 --> 00:03:08,151
+management, or rather that would have been
+escalated to senior management.
+
+53
+00:03:08,660 --> 00:03:10,360
+So another strategy then is avoid.
+
+54
+00:03:11,260 --> 00:03:15,560
+Now avoid does not mean ignore,
+right?
+
+55
+00:03:15,980 --> 00:03:17,860
+Avoid means eliminate.
+
+56
+00:03:18,820 --> 00:03:21,060
+You eliminate the risk, right?
+
+57
+00:03:21,200 --> 00:03:21,820
+You eliminate it.
+
+58
+00:03:21,840 --> 00:03:23,490
+So it's no longer a risk anymore.
+
+59
+00:03:23,600 --> 00:03:24,450
+That is an avoid.
+
+60
+00:03:24,980 --> 00:03:32,220
+So as a simple example, let's say we want
+to outsource this activity, right,
+
+61
+00:03:32,360 --> 00:03:34,297
+got this one activity, I want to outsource
+it.
+
+62
+00:03:34,380 --> 00:03:36,680
+I want to outsource it to our preferred
+vendor.
+
+63
+00:03:36,980 --> 00:03:39,209
+You know, we've worked
+with this preferred vendor
+
+64
+00:03:39,289 --> 00:03:40,940
+many times before and,
+you know, they're really good.
+
+65
+00:03:41,020 --> 00:03:42,297
+That's why they're a preferred vendor.
+
+66
+00:03:42,380 --> 00:03:44,317
+So we want to outsource it to this
+preferred vendor.
+
+67
+00:03:44,400 --> 00:03:47,099
+However, this preferred vendor also has a
+
+68
+00:03:47,100 --> 00:03:49,880
+trade union, or rather
+trade union workers.
+
+69
+00:03:50,220 --> 00:03:52,060
+They have a trade union population.
+
+70
+00:03:52,920 --> 00:03:57,120
+And we've been hearing rumors,
+you know, there might, You know,
+
+71
+00:03:57,240 --> 00:03:58,880
+there's been some disagreements.
+
+72
+00:03:59,080 --> 00:04:00,780
+They might end up going on strike.
+
+73
+00:04:01,120 --> 00:04:02,720
+We don't want to deal with that.
+
+74
+00:04:03,200 --> 00:04:05,117
+They go on strike halfway through the
+project.
+
+75
+00:04:05,200 --> 00:04:07,957
+That's going to have a big, huge,
+major impact on our project.
+
+76
+00:04:08,040 --> 00:04:09,690
+We do not want to deal with that.
+
+77
+00:04:11,040 --> 00:04:15,140
+So, we decide instead to eliminate that
+risk altogether.
+
+78
+00:04:16,180 --> 00:04:18,340
+So let's do the work ourselves.
+
+79
+00:04:19,460 --> 00:04:23,423
+Or we outsource it to
+another organization, another
+
+80
+00:04:23,424 --> 00:04:26,241
+vendor that doesn't have
+a trade union population.
+
+81
+00:04:26,720 --> 00:04:30,420
+So now we've eliminated that risk,
+they're not going to go on strike.
+
+82
+00:04:31,620 --> 00:04:34,698
+However, there's another
+term I want to mention here, not
+
+83
+00:04:34,778 --> 00:04:38,160
+mentioned in this slide, but it is
+mentioned in a subsequent slide.
+
+84
+00:04:38,980 --> 00:04:42,420
+You may come across something called a
+secondary risk, right?
+
+85
+00:04:42,840 --> 00:04:47,764
+So let's say, in this case,
+we outsource it to a different
+
+86
+00:04:47,765 --> 00:04:50,831
+vendor that doesn't have
+a trade union population.
+
+87
+00:04:51,340 --> 00:04:55,160
+So now they're not going to go on strike,
+we've eliminated that risk altogether.
+
+88
+00:04:55,161 --> 00:05:00,560
+However, we might have introduced what's
+known as a secondary risk.
+
+89
+00:05:02,100 --> 00:05:06,440
+And a secondary risk is as a result of any
+of these risk response strategies,
+
+90
+00:05:07,720 --> 00:05:10,860
+be it a negative risk or even any of the
+positive risks.
+
+91
+00:05:11,480 --> 00:05:15,720
+There might be a new risk that's been
+identified that wasn't there before.
+
+92
+00:05:16,820 --> 00:05:18,420
+So the very simple example then.
+
+93
+00:05:18,940 --> 00:05:22,140
+We outsource it to a different vendor.
+
+94
+00:05:22,260 --> 00:05:24,360
+We haven't worked with this vendor before.
+
+95
+00:05:25,160 --> 00:05:27,540
+vendor might not be up to the Mark,
+right?
+
+96
+00:05:27,541 --> 00:05:31,137
+That vendor might not be,
+you know, might have a much
+
+97
+00:05:31,138 --> 00:05:33,797
+longer learning curve
+and so and so forth, right?
+
+98
+00:05:33,880 --> 00:05:35,697
+I mean, you know, there's many factors.
+
+99
+00:05:35,780 --> 00:05:39,840
+There's many risks that you might identify
+there or several risks that might identify
+
+100
+00:05:39,841 --> 00:05:42,591
+there because we haven't worked with this
+vendor before.
+
+101
+00:05:42,880 --> 00:05:45,280
+Those would be known as a secondary risk.
+
+102
+00:05:45,900 --> 00:05:48,722
+So any of these risk
+response strategies could
+
+103
+00:05:48,723 --> 00:05:51,534
+result in a new risk
+that wasn't there before.
+
+104
+00:05:51,700 --> 00:05:53,640
+That's known as a secondary risk.
+
+105
+00:05:54,440 --> 00:05:56,140
+Another strategy is transfer.
+
+106
+00:05:57,260 --> 00:06:00,060
+And transfer means shifting it to a third
+party.
+
+107
+00:06:00,340 --> 00:06:02,980
+Right, deflecting it, shifting it to a
+third party.
+
+108
+00:06:03,160 --> 00:06:04,260
+Let them deal with it.
+
+109
+00:06:04,860 --> 00:06:07,380
+Most common example of that is buying
+insurance.
+
+110
+00:06:07,880 --> 00:06:10,430
+Anything happens, insurance company is
+going to pay.
+
+111
+00:06:10,560 --> 00:06:12,297
+That would be an example of a transfer.
+
+112
+00:06:12,380 --> 00:06:19,740
+Or let's say there is some dangerous
+activities and these activities could
+
+113
+00:06:19,741 --> 00:06:22,341
+potentially cause physical harm to your
+team members.
+
+114
+00:06:23,060 --> 00:06:25,357
+So you decide, we don't want to deal with
+that.
+
+115
+00:06:25,440 --> 00:06:29,143
+Let's outsource it to a
+vendor, to a company that
+
+116
+00:06:29,144 --> 00:06:33,220
+specializes in those kind
+of dangerous activities.
+
+117
+00:06:33,640 --> 00:06:37,000
+So now we have transferred the risk to the
+third party.
+
+118
+00:06:38,100 --> 00:06:41,700
+Now, be very careful with transfer,
+though, because even though you've
+
+119
+00:06:41,701 --> 00:06:44,360
+transferred that risk, this is still your
+project.
+
+120
+00:06:44,520 --> 00:06:45,617
+You're a project manager.
+
+121
+00:06:45,700 --> 00:06:47,050
+This is still your project.
+
+122
+00:06:47,780 --> 00:06:49,880
+So you still own part of that risk.
+
+123
+00:06:50,660 --> 00:06:54,600
+So what's your division of responsibility
+of the risk and the third party,
+
+124
+00:06:54,760 --> 00:06:57,310
+the vendor's division of responsibility of
+the risk?
+
+125
+00:06:57,620 --> 00:06:59,520
+That's all documented in the contract.
+
+126
+00:06:59,700 --> 00:07:01,300
+That's all part of the contract.
+
+127
+00:07:01,520 --> 00:07:03,120
+So that's a very simple example.
+
+128
+00:07:03,280 --> 00:07:05,430
+If you buy insurance, you have a
+deductible.
+
+129
+00:07:05,600 --> 00:07:07,957
+That's your division of responsibility of
+the risk.
+
+130
+00:07:08,040 --> 00:07:10,100
+The rest of it is insurance companies.
+
+131
+00:07:10,820 --> 00:07:12,840
+Another strategy is mitigate.
+
+132
+00:07:13,580 --> 00:07:21,634
+A mitigate means either or both, reducing
+the impact or reducing the probability.
+
+133
+00:07:22,600 --> 00:07:25,900
+Either reducing the impact of the risk or
+reducing the probability.
+
+134
+00:07:26,440 --> 00:07:29,418
+So just a very simple
+example then, wearing a
+
+135
+00:07:29,419 --> 00:07:31,980
+mask during our COVID-19
+pandemic situation.
+
+136
+00:07:32,700 --> 00:07:36,960
+That's going to reduce the probability of
+the virus spreading.
+
+137
+00:07:37,300 --> 00:07:41,520
+That's not going to eliminate it,
+but it's going to reduce the probability.
+
+138
+00:07:42,940 --> 00:07:45,860
+Or another strategy would be reducing the
+impact.
+
+139
+00:07:46,440 --> 00:07:52,440
+So let's say we have a key technical
+analyst on our project and the success of
+
+140
+00:07:52,441 --> 00:07:56,383
+this technical analyst is,
+or rather the success of
+
+141
+00:07:56,384 --> 00:07:59,317
+the project is based on
+this key technical analyst.
+
+142
+00:07:59,400 --> 00:08:02,997
+If this person leaves, the whole project
+is going to come to a standstill.
+
+143
+00:08:03,080 --> 00:08:07,160
+So we decide let's cross-train all of our
+different team members so that they can
+
+144
+00:08:07,161 --> 00:08:10,100
+perform one task that this technical
+analyst can perform.
+
+145
+00:08:10,101 --> 00:08:16,160
+So that in the event, if this technical
+analyst leaves, then at least the rest of
+
+146
+00:08:16,161 --> 00:08:18,579
+our team can perform
+one activity, one task
+
+147
+00:08:18,580 --> 00:08:20,680
+that this technical analyst can perform.
+
+148
+00:08:21,200 --> 00:08:23,250
+And so our project is still moving along.
+
+149
+00:08:23,760 --> 00:08:28,560
+It's not, you know, it's not the best case
+scenario, right?
+
+150
+00:08:28,680 --> 00:08:31,260
+It's still chugging along, still moving
+along.
+
+151
+00:08:31,380 --> 00:08:33,580
+But at least it doesn't come to a
+standstill.
+
+152
+00:08:33,900 --> 00:08:37,720
+Not the best case scenario, but not the
+worst case scenario either.
+
+153
+00:08:37,721 --> 00:08:40,220
+And that is exactly what a mitigate is.
+
+154
+00:08:40,720 --> 00:08:43,820
+A mitigate is always never the best case,
+never the worst case.
+
+155
+00:08:44,400 --> 00:08:46,100
+But at least we've made something.
+
+156
+00:08:46,200 --> 00:08:48,150
+At least we made some kind of decision.
+
+157
+00:08:48,880 --> 00:08:50,780
+Or you could accept it altogether.
+
+158
+00:08:52,000 --> 00:08:54,350
+And accept basically means living with the
+risk.
+
+159
+00:08:54,840 --> 00:08:56,277
+All right, there's a risk there.
+
+160
+00:08:56,360 --> 00:08:57,910
+All right, we'll figure it out.
+
+161
+00:08:58,120 --> 00:09:00,320
+Now, there's two types of acceptance,
+though.
+
+162
+00:09:00,760 --> 00:09:04,310
+You have something called an active
+acceptance and a passive acceptance.
+
+163
+00:09:04,760 --> 00:09:11,454
+Active acceptance is specifically put in,
+money aside in contingency reserve, right?
+
+164
+00:09:11,760 --> 00:09:15,590
+So all that talk that we've had
+regarding contingency reserve,
+
+165
+00:09:15,591 --> 00:09:19,280
+that is when you have been
+actively accepting the risk.
+
+166
+00:09:19,540 --> 00:09:21,840
+We've actively accepted it, right?
+
+167
+00:09:21,940 --> 00:09:25,139
+We can't avoid, transfer, mitigate, so we
+
+168
+00:09:25,140 --> 00:09:28,220
+put some money aside
+in contingency reserve.
+
+169
+00:09:28,720 --> 00:09:34,140
+Or if it's a schedule impact, right,
+we could add in a scheduling buffer.
+
+170
+00:09:34,360 --> 00:09:39,080
+That scheduling buffer would be considered
+the schedule contingency reserve,
+
+171
+00:09:39,220 --> 00:09:40,053
+if you like.
+
+172
+00:09:41,340 --> 00:09:44,920
+So everything then, all that talk
+we've had regarding contingency
+
+173
+00:09:44,921 --> 00:09:48,840
+reserve is when you have
+been actively accepting the risk.
+
+174
+00:09:49,780 --> 00:09:53,400
+A passive acceptance, on the other hand,
+is literally do nothing.
+
+175
+00:09:54,540 --> 00:09:56,300
+We'll figure it out if it happens.
+
+176
+00:09:57,320 --> 00:09:58,900
+That is a passive acceptance.
+
+177
+00:09:59,300 --> 00:10:03,480
+I wouldn't necessarily ignore it,
+but you know, you've identified the risk.
+
+178
+00:10:03,560 --> 00:10:04,720
+We're not going to do anything about it.
+
+179
+00:10:04,721 --> 00:10:05,560
+We'll figure it out.
+
+180
+00:10:05,620 --> 00:10:08,240
+If it happens, then we'll do something
+about it.
+
+181
+00:10:08,580 --> 00:10:12,080
+Or we're passively accepting it right now.
+
+182
+00:10:12,380 --> 00:10:14,200
+We don't know what to do right now.
+
+183
+00:10:14,840 --> 00:10:20,720
+So let's observe this risk and maybe we
+can think closer and closer as,
+
+184
+00:10:20,820 --> 00:10:23,860
+say, you know, the probability starts
+increasing.
+
+185
+00:10:25,140 --> 00:10:25,220
+Okay.
+
+186
+00:10:25,920 --> 00:10:29,660
+So these are all the strategies then for a
+negative risk.
+
+187
+00:10:30,200 --> 00:10:33,600
+And just a very quick exam strategy here.
+
+188
+00:10:34,760 --> 00:10:38,460
+If the first thing, in a question,
+they'll give a scenario.
+
+189
+00:10:38,940 --> 00:10:42,740
+First thing you have to determine is it's
+a positive risk or a negative risk,
+
+190
+00:10:42,980 --> 00:10:43,100
+right?
+
+191
+00:10:43,240 --> 00:10:45,220
+Because there's
+different terminology for a
+
+192
+00:10:45,221 --> 00:10:48,380
+positive risk, which is
+covered in a separate slide.
+
+193
+00:10:49,660 --> 00:10:52,456
+If it's a negative risk and
+you see positive risk terms,
+
+194
+00:10:52,457 --> 00:10:54,941
+then you know immediately
+you can eliminate those.
+
+195
+00:10:55,700 --> 00:10:59,264
+If it's a best case scenario,
+if the strategy that you've
+
+196
+00:10:59,265 --> 00:11:03,300
+taken is a best case scenario,
+then that would be a void.
+
+197
+00:11:03,600 --> 00:11:06,000
+you've completely eliminated the risk
+altogether.
+
+198
+00:11:06,500 --> 00:11:09,850
+If it's the worst-case scenario,
+you haven't done anything about it,
+
+199
+00:11:09,980 --> 00:11:11,677
+that would be a passive acceptance.
+
+200
+00:11:11,760 --> 00:11:17,000
+If somewhere in the scenario, it states
+something about risk reserves,
+
+201
+00:11:17,540 --> 00:11:21,490
+you know, budget, you put extra money
+aside in your budget, contingency reserve,
+
+202
+00:11:21,660 --> 00:11:23,380
+then that's an active acceptance.
+
+203
+00:11:24,000 --> 00:11:27,157
+If there's a third party
+involved, right, a vendor
+
+204
+00:11:27,158 --> 00:11:29,760
+involved, then
+immediately that's a transfer.
+
+205
+00:11:31,580 --> 00:11:35,700
+If you've done something, it's neither the
+best case nor the worst case, but you've
+
+206
+00:11:35,701 --> 00:11:38,880
+done something about it, then that would
+be a mitigate.
+
+207
+00:11:39,860 --> 00:11:42,580
+So just a little exam hint, exam tip
+there.
+

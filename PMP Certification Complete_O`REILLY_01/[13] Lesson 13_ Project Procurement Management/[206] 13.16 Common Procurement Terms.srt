@@ -1,0 +1,606 @@
+﻿1
+00:00:05,920 --> 00:00:12,040
+Okay, so in this video then, we're going
+to just explain a few other common
+
+2
+00:00:12,041 --> 00:00:16,100
+procurement terms that you would need to
+know about for the P&P exam.
+
+3
+00:00:16,720 --> 00:00:18,572
+Okay, so the first term I want to cover is
+
+4
+00:00:18,573 --> 00:00:21,634
+this one called the
+Qualified Vendors List.
+
+5
+00:00:21,900 --> 00:00:26,040
+And really, as the name suggests,
+Qualified Vendors List is just listing a
+
+6
+00:00:26,041 --> 00:00:29,835
+list of vendors that
+you might consider that
+
+7
+00:00:29,836 --> 00:00:33,220
+are qualified to actually
+perform the work.
+
+8
+00:00:33,221 --> 00:00:37,740
+So, as a simple example, it could be a
+list of your preferred vendors.
+
+9
+00:00:38,260 --> 00:00:39,760
+They're already pre-qualified.
+
+10
+00:00:40,060 --> 00:00:42,410
+Or let's say you're reaching out to new
+vendors.
+
+11
+00:00:42,920 --> 00:00:46,440
+So we are looking at the source selection
+criteria.
+
+12
+00:00:46,640 --> 00:00:49,090
+They basically meet the source selection
+criteria.
+
+13
+00:00:49,900 --> 00:00:53,560
+And so these are a list of vendors that
+are qualified now.
+
+14
+00:00:53,840 --> 00:00:56,543
+These are the list of
+vendors that you could
+
+15
+00:00:56,544 --> 00:00:59,534
+reach out to and send an
+RFP and so and so forth.
+
+16
+00:01:00,400 --> 00:01:04,000
+Another term, another important term,
+I want to mention, this one here called
+
+17
+00:01:04,001 --> 00:01:06,760
+the letter of intent, LOI, letter of
+intent.
+
+18
+00:01:08,040 --> 00:01:12,200
+Now, the key thing about letter of intent
+is it's not a legally binding document.
+
+19
+00:01:12,840 --> 00:01:16,540
+There are many, many different ways of
+using an LOI.
+
+20
+00:01:16,700 --> 00:01:19,077
+There's no right or wrong way of using a
+letter of intent.
+
+21
+00:01:19,160 --> 00:01:20,860
+There's many, many different ways.
+
+22
+00:01:21,580 --> 00:01:25,840
+So, for example, write the beginning of a
+contract, right, even before you send out
+
+23
+00:01:25,841 --> 00:01:29,060
+an RFP, even before the buyer sends an RFP
+to the seller.
+
+24
+00:01:30,240 --> 00:01:32,472
+Sometimes, especially if it's a big, huge,
+
+25
+00:01:32,473 --> 00:01:35,574
+large project,
+multi-billion-dollar project.
+
+26
+00:01:35,900 --> 00:01:38,420
+You send an RFP to the seller.
+
+27
+00:01:39,520 --> 00:01:45,220
+It may take them several weeks just to get
+a team together to work on the RFP.
+
+28
+00:01:46,020 --> 00:01:51,473
+So, a lot of times, the seller
+might want to see some
+
+29
+00:01:51,474 --> 00:01:55,520
+kind of letter, some kind
+of letter of intent, an LOI.
+
+30
+00:01:56,020 --> 00:02:01,160
+Before they receive the RFP, they want to
+see some kind of LOI, letter of intent,
+
+31
+00:02:01,900 --> 00:02:04,420
+so that now they can get a team together.
+
+32
+00:02:04,460 --> 00:02:06,560
+Like I said, it may take them a few weeks.
+
+33
+00:02:06,760 --> 00:02:10,580
+They can spend that time getting a team
+together so that once they actually
+
+34
+00:02:10,581 --> 00:02:12,767
+receive the RFP, they
+now have a team together
+
+35
+00:02:12,768 --> 00:02:15,614
+and they can start working on the RFP.
+
+36
+00:02:16,100 --> 00:02:18,600
+So that's one way of looking at a letter
+of intent.
+
+37
+00:02:18,860 --> 00:02:22,760
+Another way of looking at a letter of
+intent is right at the end of contract
+
+38
+00:02:22,761 --> 00:02:28,680
+negotiation when you could be summarizing
+all of the terms and conditions of the
+
+39
+00:02:28,681 --> 00:02:31,560
+contract that everybody
+is signing just so that both
+
+40
+00:02:31,561 --> 00:02:34,471
+parties know and understand
+exactly what they're signing.
+
+41
+00:02:35,420 --> 00:02:38,580
+And there's many, many, many different
+ways in between.
+
+42
+00:02:39,160 --> 00:02:43,020
+Like I said, there's no right or wrong way
+of using a letter of intent.
+
+43
+00:02:43,560 --> 00:02:46,183
+The main thing about
+letter of intent is it's
+
+44
+00:02:46,184 --> 00:02:51,700
+essentially saying, we are
+thinking of hiring you, right?
+
+45
+00:02:51,780 --> 00:02:56,380
+So we meaning we as a buyer are thinking
+of hiring this seller.
+
+46
+00:02:57,040 --> 00:02:58,940
+We're thinking of hiring this seller.
+
+47
+00:02:58,941 --> 00:03:01,020
+but it's not legally binding.
+
+48
+00:03:01,580 --> 00:03:02,537
+That's the biggest thing.
+
+49
+00:03:02,620 --> 00:03:04,640
+It is not legally binding.
+
+50
+00:03:05,880 --> 00:03:09,040
+Then you might come across this term here
+called privity.
+
+51
+00:03:09,940 --> 00:03:14,200
+And privity refers to a contractual
+relationship between two parties.
+
+52
+00:03:14,780 --> 00:03:17,730
+A contractual relationship between the
+buyer and the seller.
+
+53
+00:03:18,640 --> 00:03:21,864
+So you being the buyer, you're the buyer,
+
+54
+00:03:21,865 --> 00:03:25,994
+you have a contract
+with your primary vendor.
+
+55
+00:03:26,120 --> 00:03:28,860
+So that means you are in privity.
+
+56
+00:03:28,940 --> 00:03:30,300
+with your primary vendor.
+
+57
+00:03:30,700 --> 00:03:32,600
+You have legal obligation over them.
+
+58
+00:03:33,040 --> 00:03:35,520
+They have legal obligation over you,
+right?
+
+59
+00:03:35,660 --> 00:03:39,660
+So that means that you are in privity with
+them and they are in privity with you.
+
+60
+00:03:40,680 --> 00:03:47,920
+Now, under the terms and conditions of the
+contract, your primary vendor may be
+
+61
+00:03:47,921 --> 00:03:53,420
+allowed to outsource some of their work or
+even all of their work, but they may be
+
+62
+00:03:53,421 --> 00:03:57,240
+allowed to outsource their work to their
+subcontractor.
+
+63
+00:03:58,940 --> 00:04:02,960
+You have no authority over their
+subcontractor.
+
+64
+00:04:03,220 --> 00:04:06,540
+You do not have a contract with their
+subcontractor.
+
+65
+00:04:06,860 --> 00:04:10,200
+So you cannot delegate any work to them.
+
+66
+00:04:10,780 --> 00:04:15,220
+You cannot even communicate with them,
+right, with their subcontractor.
+
+67
+00:04:15,540 --> 00:04:18,720
+You are not in privity with their
+subcontractor.
+
+68
+00:04:19,620 --> 00:04:25,000
+You are in privity with your primary
+vendor that you have a contract with.
+
+69
+00:04:25,220 --> 00:04:31,320
+So all of your delegation and
+communication has to be via your primary
+
+70
+00:04:31,321 --> 00:04:35,720
+vendor that you have a contract with,
+not with a subcontractor.
+
+71
+00:04:36,320 --> 00:04:38,970
+So, like I said, you can't even
+communicate with them.
+
+72
+00:04:39,280 --> 00:04:42,100
+You are not imprivile with their
+subcontractor.
+
+73
+00:04:42,840 --> 00:04:47,300
+Another common term that you might come
+across, this term here, called an escrow.
+
+74
+00:04:49,260 --> 00:04:52,268
+And if any of you have
+ever purchased a property
+
+75
+00:04:52,269 --> 00:04:54,600
+in the US, right, you all
+know what an escrow is.
+
+76
+00:04:54,601 --> 00:05:00,460
+right, you purchase, or rather,
+as you're purchasing your property,
+
+77
+00:05:00,940 --> 00:05:05,184
+you put some money down,
+earnest money, and in an escrow,
+
+78
+00:05:05,185 --> 00:05:09,020
+and nobody has access to
+that, right, until the closing.
+
+79
+00:05:09,800 --> 00:05:11,700
+And that's exactly the same principle.
+
+80
+00:05:11,980 --> 00:05:13,117
+It doesn't have to be money, though.
+
+81
+00:05:13,200 --> 00:05:17,580
+It could be with property or even
+intellectual property, right, it's placed,
+
+82
+00:05:18,240 --> 00:05:21,685
+or mutually placed into
+the custody of a third party
+
+83
+00:05:21,686 --> 00:05:24,517
+until, you know, this particular
+condition has been led.
+
+84
+00:05:24,600 --> 00:05:30,560
+Alright, so as a very simple example,
+let's say you have hired a small
+
+85
+00:05:30,561 --> 00:05:36,520
+consulting firm to write a piece of code,
+a small piece of proprietary code,
+
+86
+00:05:37,360 --> 00:05:42,860
+right, so to develop a module that is just
+used for your team or your department.
+
+87
+00:05:43,240 --> 00:05:45,760
+No one else in the organization uses it,
+right?
+
+88
+00:05:45,860 --> 00:05:48,876
+It's just specifically
+for your, you know, for
+
+89
+00:05:48,877 --> 00:05:51,394
+either for your team
+or for your department.
+
+90
+00:05:51,620 --> 00:05:58,380
+Any time your organization does assist,
+any time your organization does a systems
+
+91
+00:05:58,381 --> 00:06:05,480
+upgrade, then this company that you've
+hired, this consulting firm that you've
+
+92
+00:06:05,481 --> 00:06:11,040
+hired, they will do the necessary upgrade
+to the code and to the module.
+
+93
+00:06:12,680 --> 00:06:15,700
+Now, what happens if this company goes out
+of business?
+
+94
+00:06:16,540 --> 00:06:17,857
+There are a small consulting firm.
+
+95
+00:06:17,940 --> 00:06:19,817
+They could go out of business at any time.
+
+96
+00:06:19,900 --> 00:06:24,271
+So what you will do,
+you as a buyer, right,
+
+97
+00:06:24,272 --> 00:06:30,100
+is, you will ask to put
+this code in an escrow.
+
+98
+00:06:30,520 --> 00:06:33,870
+So some third party is going to be looking
+after this piece of code.
+
+99
+00:06:34,040 --> 00:06:39,120
+So that in the event, if this person,
+or rather in the event, if this consulting
+
+100
+00:06:39,121 --> 00:06:43,020
+firm goes out of business, that code is
+going to be released to you.
+
+101
+00:06:44,020 --> 00:06:46,120
+Otherwise, you have no access to that
+code.
+
+102
+00:06:46,860 --> 00:06:50,760
+And if you don't place it in an escrow,
+if that company goes out of business,
+
+103
+00:06:51,080 --> 00:06:52,580
+you basically lost everything.
+
+104
+00:06:52,900 --> 00:06:54,160
+So that's why to protect you.
+
+105
+00:06:54,180 --> 00:06:58,040
+protect yourself, protect your code or
+protect your module.
+
+106
+00:06:59,080 --> 00:07:02,540
+If that company goes out
+of business, you want to still
+
+107
+00:07:02,541 --> 00:07:06,520
+have access so you could
+put the coding into an escrow.
+
+108
+00:07:07,220 --> 00:07:09,920
+There's another very simple example of an
+escrow there.
+
+109
+00:07:11,200 --> 00:07:14,550
+Another term you might come across is this
+one called a force major.
+
+110
+00:07:15,480 --> 00:07:18,120
+A force major is a clause and a contract.
+
+111
+00:07:18,400 --> 00:07:19,550
+It's a contract clause.
+
+112
+00:07:19,980 --> 00:07:23,834
+It's basically saying that
+neither party can be held liable
+
+113
+00:07:23,835 --> 00:07:28,460
+for non-performance of work
+due to factors beyond our control.
+
+114
+00:07:29,320 --> 00:07:32,616
+Factors beyond our control
+basically refers to, you
+
+115
+00:07:32,617 --> 00:07:36,360
+know, something
+unpredictable and uncontrollable.
+
+116
+00:07:37,100 --> 00:07:38,950
+Something negative, something sudden.
+
+117
+00:07:39,660 --> 00:07:41,120
+So we have no control of it.
+
+118
+00:07:41,260 --> 00:07:44,000
+So literally things like tsunamis,
+hurricanes, right?
+
+119
+00:07:44,900 --> 00:07:48,480
+Earthquakes, rioting, we have no control
+over that.
+
+120
+00:07:49,020 --> 00:07:54,160
+So we cannot be held
+liable for non-performance
+
+121
+00:07:54,161 --> 00:07:54,160
+of work due to those kinds of things.
+
+122
+00:07:54,180 --> 00:07:55,013
+of factors.
+
+123
+00:07:55,880 --> 00:07:59,920
+So that is a clause on a contract and it's
+known as a fourth major.
+
+124
+00:08:00,560 --> 00:08:03,340
+Okay, otherwise referred to as an act of
+God.
+
+125
+00:08:04,000 --> 00:08:06,150
+Sometimes it's referred to as an act of
+God.
+
+126
+00:08:07,660 --> 00:08:13,080
+All right, so these are a couple of,
+or just a few additional common terms that
+
+127
+00:08:13,081 --> 00:08:16,600
+you need to be aware of, right,
+if you ever see this on the P&P exam.
+

@@ -1,0 +1,762 @@
+﻿1
+00:00:06,690 --> 00:00:08,483
+Okay, we'll briefly talk about the input
+
+2
+00:00:08,484 --> 00:00:11,764
+tools and techniques
+of risk management now.
+
+3
+00:00:12,470 --> 00:00:16,630
+Now, risk management has seven processes.
+
+4
+00:00:17,490 --> 00:00:19,407
+We're not going to cover every single
+ITTO.
+
+5
+00:00:19,490 --> 00:00:22,310
+I'm just going to very briefly talk about
+these ITTOs.
+
+6
+00:00:22,730 --> 00:00:25,967
+Again, just to reiterate, it's not a huge
+major portion of the exam.
+
+7
+00:00:26,050 --> 00:00:28,227
+Don't try to memorize them, there's too
+many.
+
+8
+00:00:28,310 --> 00:00:31,270
+And then plus, it only relates to
+predictive anyway, right?
+
+9
+00:00:31,330 --> 00:00:32,990
+Half the exam is agile, right?
+
+10
+00:00:32,991 --> 00:00:35,927
+So really, these don't relate to half the
+exam anyway, right?
+
+11
+00:00:36,010 --> 00:00:41,350
+So that's why you just need to have just
+kind of like a high level understanding.
+
+12
+00:00:41,630 --> 00:00:46,350
+So again, what we've been talking about in
+the other processes, the very first
+
+13
+00:00:46,351 --> 00:00:53,030
+process in planning in the process grid is
+the plan, knowledge area management,
+
+14
+00:00:53,270 --> 00:00:57,070
+in this case, plan risk management and
+what artifact are we creating,
+
+15
+00:00:57,610 --> 00:01:00,407
+the management plans, in this case,
+the risk management plan.
+
+16
+00:01:00,490 --> 00:01:03,266
+And the risk management
+plan is going to be
+
+17
+00:01:03,267 --> 00:01:05,990
+documenting how we're
+going to identify risk.
+
+18
+00:01:06,010 --> 00:01:08,170
+What's our risk management procedure?
+
+19
+00:01:08,650 --> 00:01:10,910
+It doesn't contain the actual risk itself.
+
+20
+00:01:11,450 --> 00:01:14,050
+It does documenting procedure,
+documenting how.
+
+21
+00:01:14,730 --> 00:01:18,110
+And there's a separate, obviously,
+a separate video on those, right?
+
+22
+00:01:18,230 --> 00:01:20,580
+Or a separate video on the risk management
+plan.
+
+23
+00:01:21,270 --> 00:01:23,287
+And then the input and tools and
+techniques, right?
+
+24
+00:01:23,370 --> 00:01:25,470
+The input, remember, is our starting
+point.
+
+25
+00:01:25,970 --> 00:01:28,050
+What artifacts do we need to consider?
+
+26
+00:01:28,590 --> 00:01:31,090
+The project charter may have some
+high-level risks.
+
+27
+00:01:31,250 --> 00:01:32,610
+It may do, it may not do.
+
+28
+00:01:33,070 --> 00:01:37,630
+But other components of the project
+management plan, are also going to
+
+29
+00:01:37,631 --> 00:01:42,550
+potentially highlight a risk on a project,
+and you can use that to determine how
+
+30
+00:01:42,551 --> 00:01:46,162
+we're going to categorize
+our risks and basically
+
+31
+00:01:46,163 --> 00:01:48,670
+all the procedures
+regarding risk management.
+
+32
+00:01:48,810 --> 00:01:53,550
+Again, we'll cover the risk management
+plan in more detail in a separate video.
+
+33
+00:01:54,930 --> 00:01:58,450
+Now, you also want to identify risk,
+of course.
+
+34
+00:01:59,130 --> 00:02:01,790
+Identification of risk is done throughout
+the project.
+
+35
+00:02:02,290 --> 00:02:08,330
+You can see this is a very, very big,
+busy slide here, right?
+
+36
+00:02:08,770 --> 00:02:11,067
+Lots and lots of input tools and
+techniques and outputs.
+
+37
+00:02:11,150 --> 00:02:12,950
+Again, don't try to memorize them.
+
+38
+00:02:13,070 --> 00:02:14,720
+Just have a decent understanding.
+
+39
+00:02:14,810 --> 00:02:16,010
+We've identified a risk.
+
+40
+00:02:16,330 --> 00:02:19,030
+Where do we document the risk once we've
+identified it?
+
+41
+00:02:19,330 --> 00:02:21,130
+We document it in the risk register.
+
+42
+00:02:21,290 --> 00:02:24,240
+And therefore, that's the artifact that
+we're creating here.
+
+43
+00:02:24,430 --> 00:02:25,410
+That's the output.
+
+44
+00:02:26,110 --> 00:02:28,627
+We're also going to be generating a report
+regarding the risk.
+
+45
+00:02:28,710 --> 00:02:30,560
+So risk report is one of the outputs.
+
+46
+00:02:30,670 --> 00:02:34,310
+You can see there's quite a few tools and
+techniques here that we're going to be
+
+47
+00:02:34,311 --> 00:02:37,770
+utilising, that we're going to be using to
+identify risk.
+
+48
+00:02:38,010 --> 00:02:42,050
+And again, we're going to be talking about
+each of these in a separate video.
+
+49
+00:02:42,670 --> 00:02:44,650
+Now, why is there so many inputs here?
+
+50
+00:02:45,510 --> 00:02:46,687
+There's a lot of inputs.
+
+51
+00:02:46,770 --> 00:02:49,520
+Again, don't try to memorize them,
+but think about this.
+
+52
+00:02:50,370 --> 00:02:52,450
+How do you identify risk on a project?
+
+53
+00:02:53,030 --> 00:02:57,670
+You identify risks when you're performing
+all of the processes on your project.
+
+54
+00:02:58,010 --> 00:03:01,570
+As you're developing the schedule,
+you could be identifying a risk.
+
+55
+00:03:02,130 --> 00:03:04,930
+As you're developing the budget,
+you're identifying risk.
+
+56
+00:03:05,170 --> 00:03:08,747
+As they're figuring out what resources you
+need, you're identifying risk.
+
+57
+00:03:08,830 --> 00:03:12,769
+As you're performing literally
+anything on your project,
+
+58
+00:03:12,770 --> 00:03:15,791
+you are potentially highlighting
+a risk on your project.
+
+59
+00:03:16,290 --> 00:03:18,179
+You could be identifying
+some kind of risk when
+
+60
+00:03:18,180 --> 00:03:20,684
+you're performing any
+task on your project.
+
+61
+00:03:20,830 --> 00:03:23,047
+And that's why there's a big list of
+inputs here.
+
+62
+00:03:23,130 --> 00:03:24,910
+Remember, an input is your starting point.
+
+63
+00:03:24,911 --> 00:03:29,670
+These are documents that you need to
+review, or artifacts that you need to
+
+64
+00:03:29,671 --> 00:03:33,890
+review, that you can, artifacts that it
+could utilize your starting point.
+
+65
+00:03:34,470 --> 00:03:39,050
+So basically, any artifact from,
+you know, any process along the project
+
+66
+00:03:39,051 --> 00:03:41,690
+could potentially highlight a risk on your
+project.
+
+67
+00:03:42,930 --> 00:03:44,770
+Now you've identified a risk.
+
+68
+00:03:45,790 --> 00:03:47,890
+Now we need to analyze a risk.
+
+69
+00:03:48,210 --> 00:03:50,920
+So you've got a qualitative
+risk analysis, right,
+
+70
+00:03:50,921 --> 00:03:54,150
+where you are analyzing
+and prioritizing your risk.
+
+71
+00:03:54,151 --> 00:03:57,531
+but using arbitrary values, high, medium,
+
+72
+00:03:57,591 --> 00:04:00,367
+low, scale of 1 to 10,
+and that kind of thing.
+
+73
+00:04:00,450 --> 00:04:03,090
+And then you're coming up with a risk
+score, right?
+
+74
+00:04:03,210 --> 00:04:07,350
+So you're trying to determine the
+probability and the impact of the risk.
+
+75
+00:04:07,470 --> 00:04:11,650
+You're doing a probability and impact
+assessment to determine is this a high
+
+76
+00:04:11,651 --> 00:04:16,410
+priority risk, low priority, so again, you
+are going to be prioritizing your risk.
+
+77
+00:04:16,890 --> 00:04:20,910
+There's other parameters, other factors
+that could impact your risk as well.
+
+78
+00:04:20,970 --> 00:04:24,520
+So that's what this assessment of other
+risk parameters refers first to.
+
+79
+00:04:24,630 --> 00:04:29,024
+Again, these tools and techniques, we're
+going to be covering in separate videos.
+
+80
+00:04:29,330 --> 00:04:33,350
+Now, as we've analyzed our risk,
+what else are we going to be updating?
+
+81
+00:04:33,610 --> 00:04:36,490
+We're going to be updating, again,
+our risk register.
+
+82
+00:04:37,010 --> 00:04:38,866
+We're going to be
+updating the risk register
+
+83
+00:04:38,949 --> 00:04:41,150
+with the probability,
+with the impact, right?
+
+84
+00:04:41,310 --> 00:04:44,510
+Any categories of risk that we've
+identified, right?
+
+85
+00:04:44,630 --> 00:04:47,159
+Any new categories that
+we've identified, we're going to
+
+86
+00:04:47,160 --> 00:04:50,090
+update again, the risk
+register, what's our risk score?
+
+87
+00:04:50,530 --> 00:04:54,070
+So, again, this is all going to be covered
+in a separate video.
+
+88
+00:04:54,650 --> 00:04:56,200
+Now, what's our starting point?
+
+89
+00:04:56,710 --> 00:04:59,810
+Well, the risk management plan is
+documenting those procedures.
+
+90
+00:05:00,170 --> 00:05:00,250
+Right.
+
+91
+00:05:00,350 --> 00:05:01,267
+So that's an input.
+
+92
+00:05:01,350 --> 00:05:04,027
+That's something we're going to be
+analyzing, considering.
+
+93
+00:05:04,110 --> 00:05:07,190
+Notice a risk register is listed as an
+input and an output.
+
+94
+00:05:07,630 --> 00:05:13,070
+So basically, we're going to consider our
+risk register to do some analysis.
+
+95
+00:05:13,930 --> 00:05:17,204
+And then as we've done the analysis, we're
+going to be updating the risk register.
+
+96
+00:05:17,330 --> 00:05:18,670
+That was qualitative.
+
+97
+00:05:19,350 --> 00:05:22,050
+Don't confuse it with this process called
+quantitative.
+
+98
+00:05:22,770 --> 00:05:23,730
+Quantitative risk analysis.
+
+99
+00:05:23,750 --> 00:05:29,170
+is also prioritizing your risk,
+but this time now based on some kind of
+
+100
+00:05:29,171 --> 00:05:32,270
+either monetary value, but some kind of
+numeric value.
+
+101
+00:05:32,450 --> 00:05:34,433
+So it could be in terms
+of a timeline, it could be
+
+102
+00:05:34,516 --> 00:05:37,030
+in terms of money, it could
+be in terms of resources.
+
+103
+00:05:37,470 --> 00:05:41,170
+Generally, though, when they're asking you
+to do a calculation on the exam,
+
+104
+00:05:41,510 --> 00:05:44,310
+usually it's going to be in the form of a
+monetary value.
+
+105
+00:05:44,430 --> 00:05:47,710
+And so we're going to be calculating
+expected monetary value.
+
+106
+00:05:48,330 --> 00:05:53,190
+So it's going to be probability times
+impact and then that equals EMV again
+
+107
+00:05:53,191 --> 00:05:57,490
+covered in a separate video now again
+there's going to be project documents that
+
+108
+00:05:57,491 --> 00:06:00,470
+you're going to be updating you're going
+to be updating the risk report updating
+
+109
+00:06:00,471 --> 00:06:04,090
+the risk register right these you're going
+to be utilizing some of these tools and
+
+110
+00:06:04,091 --> 00:06:10,850
+techniques again these are covered in in a
+separate video as well and then once we've
+
+111
+00:06:10,851 --> 00:06:16,350
+identified our risks and we've analyzed
+our risks now what we need to respond to
+
+112
+00:06:16,351 --> 00:06:18,997
+our risk and so these are
+some of the ITTOs and input
+
+113
+00:06:19,017 --> 00:06:22,910
+tools and techniques and
+outputs of plan risk responses.
+
+114
+00:06:23,490 --> 00:06:27,230
+This is determining the approach,
+the approach and strategy to figure out
+
+115
+00:06:27,231 --> 00:06:31,030
+how we're going to respond to the risk and
+how we're going to respond to it.
+
+116
+00:06:31,430 --> 00:06:34,001
+So we have strategies
+then for a negative risk
+
+117
+00:06:34,002 --> 00:06:36,764
+threat, strategies for
+a positive risk, right?
+
+118
+00:06:36,850 --> 00:06:41,170
+A couple of different ways of,
+or rather there's different strategies on
+
+119
+00:06:41,171 --> 00:06:44,010
+how to respond to a negative risk versus a
+positive risk.
+
+120
+00:06:44,370 --> 00:06:47,727
+Again, we will talk about these,
+where we've got separate videos on those.
+
+121
+00:06:47,810 --> 00:06:52,470
+Contingent response strategy, the primary
+risk, response strategy again we will talk
+
+122
+00:06:52,471 --> 00:06:58,430
+about these in a separate video now we
+need to plan our risk responses in order
+
+123
+00:06:58,431 --> 00:07:04,390
+to in the next so how do we actually
+implement the risk responses so first you
+
+124
+00:07:04,391 --> 00:07:09,290
+know we plan now we physically need to
+implement and so the implementation then
+
+125
+00:07:09,291 --> 00:07:15,210
+is part of executing right so we're going
+to be influencing our stakeholders now
+
+126
+00:07:15,211 --> 00:07:20,230
+influencing does not mean forcing,
+influencing means encouraging.
+
+127
+00:07:21,250 --> 00:07:25,290
+And so that's really one of your
+interpersonal and team skills here.
+
+128
+00:07:26,530 --> 00:07:29,070
+And then again, what we're going to be
+updating again, we're going to be updating
+
+129
+00:07:29,071 --> 00:07:32,170
+the risk register as well as the risk
+report.
+
+130
+00:07:32,850 --> 00:07:36,430
+Right now, also remember what's the
+difference to a risk and an issue, right?
+
+131
+00:07:36,550 --> 00:07:39,210
+A risk that materializes generally is an
+issue.
+
+132
+00:07:39,710 --> 00:07:41,267
+Right, well, not generally it is an issue.
+
+133
+00:07:41,350 --> 00:07:44,250
+So that's why we have issue log that we'll
+be updating as well.
+
+134
+00:07:44,330 --> 00:07:45,530
+That's another artifact.
+
+135
+00:07:46,250 --> 00:07:48,150
+So that's considered the output.
+
+136
+00:07:49,450 --> 00:07:52,430
+And then we need to monitor and control
+our risks.
+
+137
+00:07:52,750 --> 00:07:54,100
+We need to track our risks.
+
+138
+00:07:54,490 --> 00:07:58,330
+Low priority risks have the increased in
+priority, right, high priority risk have a
+
+139
+00:07:58,331 --> 00:08:02,090
+decrease in priority, how much money do we
+have in contingency reserve?
+
+140
+00:08:02,190 --> 00:08:06,610
+Do you have enough money in contingency
+reserves, right, to pay for the risks in
+
+141
+00:08:06,611 --> 00:08:09,110
+case they materialized, and so and so
+forth.
+
+142
+00:08:09,210 --> 00:08:11,567
+So we're going to be basically tracking
+our risk.
+
+143
+00:08:11,650 --> 00:08:15,690
+We're also looking at like low probability
+risk, right, there might be low
+
+144
+00:08:15,691 --> 00:08:18,147
+probability or low
+impact right now, but then
+
+145
+00:08:18,148 --> 00:08:21,010
+there might be increasing
+in probability, right?
+
+146
+00:08:21,011 --> 00:08:24,811
+It might be increasing impact as we go
+further and further along the project.
+
+147
+00:08:24,950 --> 00:08:27,350
+So we have to keep a track on all of these
+risks.
+
+148
+00:08:27,810 --> 00:08:31,510
+And that's really what these are,
+what the monitor risk refers to.
+
+149
+00:08:31,890 --> 00:08:36,430
+And just like any monitoring controlling
+process, right, on the process grid,
+
+150
+00:08:37,890 --> 00:08:41,850
+one of the outputs is the work performance
+information, and the information is
+
+151
+00:08:41,851 --> 00:08:46,990
+basically the comparison of the data,
+right, which is executing and the plan.
+
+152
+00:08:47,390 --> 00:08:51,570
+Remember, monitoring controlling is
+comparing actual results with your plan.
+
+153
+00:08:52,330 --> 00:08:54,330
+Actual results is work performance data.
+
+154
+00:08:55,230 --> 00:08:58,430
+Compare it with the plan to get our work
+performance information.
+
+155
+00:08:58,950 --> 00:09:03,410
+And then reserve analysis here refers to
+risk reserves again.
+
+156
+00:09:03,710 --> 00:09:06,209
+Do we have enough money
+in contingency reserves
+
+157
+00:09:06,210 --> 00:09:08,270
+to pay for the risks in case they occur?
+
+158
+00:09:08,850 --> 00:09:11,210
+So these are just some of the ITTO.
+
+159
+00:09:11,230 --> 00:09:12,550
+of risk management.
+

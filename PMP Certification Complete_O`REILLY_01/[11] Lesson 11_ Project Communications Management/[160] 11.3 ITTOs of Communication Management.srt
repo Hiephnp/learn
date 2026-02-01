@@ -1,0 +1,539 @@
+﻿1
+00:00:05,820 --> 00:00:10,000
+Now we're going to cover the ITTOs of
+communication management.
+
+2
+00:00:10,980 --> 00:00:14,000
+So I do recommend again that you follow
+along in the PIMBOC.
+
+3
+00:00:15,300 --> 00:00:19,120
+So plan communication management,
+the ITTOs.
+
+4
+00:00:20,720 --> 00:00:26,080
+So we need to ensure that the stakeholder
+information needs are met.
+
+5
+00:00:26,920 --> 00:00:28,460
+So we'll plan communications.
+
+6
+00:00:29,220 --> 00:00:31,580
+Who needs what, when, where, why,
+how.
+
+7
+00:00:31,760 --> 00:00:32,610
+Think journalism.
+
+8
+00:00:33,100 --> 00:00:35,800
+We'll plan communications to the
+stakeholder engagement together.
+
+9
+00:00:35,801 --> 00:00:36,634
+actually.
+
+10
+00:00:38,220 --> 00:00:41,480
+So our inputs, these are at a higher
+level.
+
+11
+00:00:41,960 --> 00:00:45,780
+The Charter has any of our high-level
+stakeholders, key stakeholders,
+
+12
+00:00:46,140 --> 00:00:50,420
+at least you and the sponsor are in there,
+any other key stakeholders we know about.
+
+13
+00:00:50,840 --> 00:00:53,671
+Project management
+plan comes in, we'll plan
+
+14
+00:00:53,672 --> 00:00:56,620
+stakeholder engagement
+and communications together.
+
+15
+00:00:57,920 --> 00:01:02,500
+So the first go-around, we wouldn't have a
+lot of these plans and documents.
+
+16
+00:01:03,320 --> 00:01:06,200
+E-EFs and OPAs will keep coming in.
+
+17
+00:01:06,620 --> 00:01:08,870
+Tools and techniques will use expert
+judgment.
+
+18
+00:01:08,960 --> 00:01:13,220
+We'll figure out the communication
+requirements of each of our stakeholders,
+
+19
+00:01:14,040 --> 00:01:17,080
+which communication technology we will
+use.
+
+20
+00:01:18,080 --> 00:01:20,052
+You have to think about
+the project environment,
+
+21
+00:01:20,053 --> 00:01:22,680
+whether we're all co-located
+or virtual, spread out.
+
+22
+00:01:23,700 --> 00:01:28,540
+We'll use our five steps in the
+communication model covered in an upcoming
+
+23
+00:01:28,541 --> 00:01:32,000
+slide, as well as our communication
+methods.
+
+24
+00:01:32,840 --> 00:01:33,980
+Interactive, push and push.
+
+25
+00:01:34,000 --> 00:01:35,440
+Those are coming up too.
+
+26
+00:01:36,100 --> 00:01:38,755
+And as always, because we're
+dealing with stakeholders, we
+
+27
+00:01:38,756 --> 00:01:41,880
+use those interpersonal
+and team skills, our soft skills.
+
+28
+00:01:42,680 --> 00:01:45,051
+We'll do the communication
+styles assessment,
+
+29
+00:01:45,052 --> 00:01:47,411
+use political awareness
+and cultural awareness.
+
+30
+00:01:48,020 --> 00:01:49,070
+They go hand in hand.
+
+31
+00:01:49,460 --> 00:01:53,960
+We'll also be looking at that stakeholder
+engagement assessment matrix.
+
+32
+00:01:54,480 --> 00:01:56,257
+So you can find that in your PIMBAC.
+
+33
+00:01:56,340 --> 00:01:58,890
+I will cover that in the stakeholder
+knowledge area.
+
+34
+00:01:59,220 --> 00:02:03,520
+But it will determine the level of
+communication.
+
+35
+00:02:03,521 --> 00:02:05,460
+each stakeholder needs.
+
+36
+00:02:06,540 --> 00:02:08,840
+And of course, we're having a planning
+meeting.
+
+37
+00:02:09,020 --> 00:02:12,040
+So every time you plan, you always at
+least produce a plan.
+
+38
+00:02:12,800 --> 00:02:14,718
+We just plan communication management, we
+
+39
+00:02:14,719 --> 00:02:17,960
+produce our communication management plan.
+
+40
+00:02:18,140 --> 00:02:22,240
+Defining how we will do our communication
+processes.
+
+41
+00:02:23,000 --> 00:02:29,280
+Later, if our plans approach a strategy or
+any of the documents have to change
+
+42
+00:02:29,281 --> 00:02:32,781
+through a change request, we'll update
+plans and documents accordingly.
+
+43
+00:02:33,620 --> 00:02:39,200
+Once we're baseline, otherwise as we keep
+planning, we'll keep updating.
+
+44
+00:02:40,020 --> 00:02:43,580
+So you have to know whether or not you are
+baselined.
+
+45
+00:02:44,340 --> 00:02:46,017
+If we're not baselines, you keep planning.
+
+46
+00:02:46,100 --> 00:02:48,740
+You update plans and documents along the
+way.
+
+47
+00:02:49,680 --> 00:02:56,060
+Once we're baseline, any plan and document
+updates will require a change request.
+
+48
+00:02:57,020 --> 00:02:59,400
+Alright, now we move over into executing.
+
+49
+00:02:59,660 --> 00:03:01,260
+Now we're doing the work of the project.
+
+50
+00:03:01,261 --> 00:03:02,980
+and our baseline.
+
+51
+00:03:03,860 --> 00:03:05,460
+This is where we'll communicate.
+
+52
+00:03:05,740 --> 00:03:08,497
+We're doing the work of the project
+according to the plan.
+
+53
+00:03:08,580 --> 00:03:12,129
+So we will create,
+collect, distribute relevant
+
+54
+00:03:12,130 --> 00:03:15,154
+information to the
+appropriate stakeholders.
+
+55
+00:03:15,900 --> 00:03:19,160
+Our inputs, the project management plan.
+
+56
+00:03:19,900 --> 00:03:25,360
+Stakeholder and communication management
+plans unbelievably intertwined.
+
+57
+00:03:25,960 --> 00:03:27,017
+Again, think journalism.
+
+58
+00:03:27,100 --> 00:03:29,300
+Who needs what, when, where, why,
+how?
+
+59
+00:03:29,980 --> 00:03:31,240
+Project documents.
+
+60
+00:03:31,260 --> 00:03:32,660
+that change in issue log.
+
+61
+00:03:33,020 --> 00:03:35,239
+This is where we're
+going to communicate the
+
+62
+00:03:35,240 --> 00:03:38,100
+disposition of the change
+requests and that issue log.
+
+63
+00:03:39,700 --> 00:03:43,307
+Then big work performance
+reports that come
+
+64
+00:03:43,308 --> 00:03:47,494
+from monitor and control the project work.
+
+65
+00:03:47,740 --> 00:03:51,916
+Remember, this contains
+all the project information,
+
+66
+00:03:51,917 --> 00:03:54,620
+progress from all our
+controlling processes.
+
+67
+00:03:55,720 --> 00:03:59,600
+So again, we send out work performance
+reports right here in this process.
+
+68
+00:03:59,840 --> 00:04:03,600
+They are used to raise awareness,
+take action, and make decisions.
+
+69
+00:04:04,500 --> 00:04:06,600
+This is where we'll communicate those out.
+
+70
+00:04:06,740 --> 00:04:09,180
+Then, of course, you have those EEFs and
+OPAs.
+
+71
+00:04:09,900 --> 00:04:12,293
+The tools and techniques, verbs, we'll use
+
+72
+00:04:12,294 --> 00:04:15,320
+the communication
+technology that we planned.
+
+73
+00:04:16,260 --> 00:04:18,140
+We'll use our communication methods.
+
+74
+00:04:18,940 --> 00:04:24,080
+We'll use our communication skills like
+communication competencies, getting
+
+75
+00:04:24,081 --> 00:04:27,520
+feedback, ensuring the stakeholders
+understand the communications,
+
+76
+00:04:28,240 --> 00:04:30,160
+including watching them.
+
+77
+00:04:30,660 --> 00:04:36,340
+Watching that body language, facial
+expressions, and we'll give presentations.
+
+78
+00:04:36,960 --> 00:04:39,100
+We'll use PMIS, of course.
+
+79
+00:04:39,820 --> 00:04:42,800
+This is where we will actually do our
+project reporting.
+
+80
+00:04:43,900 --> 00:04:47,060
+We will use those interpersonal and team
+skills.
+
+81
+00:04:47,740 --> 00:04:48,700
+Oh, so important.
+
+82
+00:04:49,720 --> 00:04:54,360
+Active listening, ensuring whoever we're
+communicating with.
+
+83
+00:04:55,420 --> 00:04:56,253
+We're listening.
+
+84
+00:04:56,700 --> 00:04:57,533
+Repeat back.
+
+85
+00:04:58,300 --> 00:05:00,640
+We'll manage conflict, use cultural and
+political.
+
+86
+00:05:00,660 --> 00:05:04,420
+Critical awareness, we'll again manage
+meetings and networking.
+
+87
+00:05:05,700 --> 00:05:09,540
+Best way to communicate as we're having
+our meetings, of course.
+
+88
+00:05:10,580 --> 00:05:14,560
+So big the outputs, the project
+communications.
+
+89
+00:05:15,760 --> 00:05:21,080
+Along the way, we'll update plans and
+documents through change requests.
+
+90
+00:05:22,000 --> 00:05:27,320
+We're baselined when we move into
+executing and we'll update our OPAs.
+
+91
+00:05:27,760 --> 00:05:29,860
+We've been pulling from them this whole
+time.
+
+92
+00:05:29,861 --> 00:05:32,840
+we contribute to them as well.
+
+93
+00:05:32,980 --> 00:05:35,680
+ITTOs and monitor project communications.
+
+94
+00:05:36,340 --> 00:05:38,140
+We're monitoring the communications.
+
+95
+00:05:38,840 --> 00:05:43,654
+Are the stakeholders getting what they
+need, when they need it, how they wanted it.
+
+96
+00:05:44,000 --> 00:05:48,060
+So our inputs are planned, communications
+and stakeholder engagement, big pieces
+
+97
+00:05:48,061 --> 00:05:52,140
+again, project documents, the issue log,
+and the communications.
+
+98
+00:05:53,120 --> 00:05:59,500
+Data, as with every other controlling
+process, we compare the plan, what was
+
+99
+00:05:59,501 --> 00:06:03,220
+agreed to upon to the data, what's
+actually happening.
+
+100
+00:06:04,520 --> 00:06:05,870
+We're looking for variants.
+
+101
+00:06:06,800 --> 00:06:09,360
+Those EEFs and OPAs keep coming in as
+well.
+
+102
+00:06:09,860 --> 00:06:13,580
+Tools and techniques will use expert
+judgment and our PMIS.
+
+103
+00:06:14,540 --> 00:06:17,890
+We will again look at that stakeholder
+engagement assessment matrix.
+
+104
+00:06:18,240 --> 00:06:25,360
+We should see where the current engagement
+levels matches the desired meaning our
+
+105
+00:06:25,361 --> 00:06:33,920
+communications are working involving the
+stakeholders in our project communicating,
+
+106
+00:06:34,960 --> 00:06:38,080
+are getting them to support the project,
+lead the project.
+
+107
+00:06:38,780 --> 00:06:42,480
+And of course we'll use those
+interpersonal team skills like observation
+
+108
+00:06:42,481 --> 00:06:45,140
+watching them and talking to them,
+of course.
+
+109
+00:06:46,100 --> 00:06:50,440
+Our outputs, like every other controlling
+process, your plan and data come in,
+
+110
+00:06:51,160 --> 00:06:52,540
+information goes out.
+
+111
+00:06:52,720 --> 00:06:55,200
+That's the progress with the
+communications.
+
+112
+00:06:56,000 --> 00:07:01,980
+If we are not progressing as planned,
+that will require a change request.
+
+113
+00:07:02,840 --> 00:07:04,190
+We're definitely baselined.
+
+114
+00:07:05,080 --> 00:07:10,240
+So if that change request is approved,
+we update plan strategies, baselines,
+
+115
+00:07:10,900 --> 00:07:12,600
+and project documents accordingly.
+

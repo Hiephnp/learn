@@ -1,0 +1,643 @@
+﻿1
+00:00:05,920 --> 00:00:09,540
+Let's cover the ITTOs of stakeholder
+management.
+
+2
+00:00:10,600 --> 00:00:13,500
+So the ITTOs of identify stakeholders.
+
+3
+00:00:14,060 --> 00:00:16,340
+You're in the initiating process group.
+
+4
+00:00:17,280 --> 00:00:19,980
+We're trying to identify all potential
+stakeholders.
+
+5
+00:00:21,400 --> 00:00:25,480
+Individuals, groups, departments,
+organizations impacted by your project.
+
+6
+00:00:26,160 --> 00:00:30,580
+Out of them, we need to know who's going
+to impact us.
+
+7
+00:00:31,540 --> 00:00:33,690
+So our inputs will have the project
+charter.
+
+8
+00:00:34,120 --> 00:00:35,900
+It'll contain any high-level stakeholders.
+
+9
+00:00:35,901 --> 00:00:40,020
+stakeholders we already know about our
+business documents that business case and
+
+10
+00:00:40,021 --> 00:00:47,000
+benefits management plans someone needed
+something so those are stakeholders your
+
+11
+00:00:47,001 --> 00:00:54,620
+project management plan comes after we
+move into planning obviously but our plans
+
+12
+00:00:54,621 --> 00:00:58,400
+especially stakeholder engagement and
+communications are the who needs what when
+
+13
+00:00:58,401 --> 00:01:05,420
+where why how and then project documents
+as we create them later might uncover new
+
+14
+00:01:05,421 --> 00:01:08,386
+stakeholders So remember,
+this is going to be progressively
+
+15
+00:01:08,387 --> 00:01:10,940
+elaborated like every
+other aspect of the project.
+
+16
+00:01:11,860 --> 00:01:12,960
+Agreements, contracts.
+
+17
+00:01:14,040 --> 00:01:16,980
+Stakeholders are definitely listed,
+whoever's impacted.
+
+18
+00:01:17,800 --> 00:01:20,140
+And then you have those EFs and OPAs as
+normal.
+
+19
+00:01:20,920 --> 00:01:22,337
+So we'll use expert judgment.
+
+20
+00:01:22,420 --> 00:01:23,320
+We'll gather data.
+
+21
+00:01:24,360 --> 00:01:27,260
+We'll cover a lot of these as we move into
+the next slides.
+
+22
+00:01:27,920 --> 00:01:31,700
+Data analysis will do a stakeholder
+analysis and document analysis.
+
+23
+00:01:32,520 --> 00:01:34,644
+We're trying to again
+uncover all our stakeholders
+
+24
+00:01:34,664 --> 00:01:36,960
+and then figure out their interest impact.
+
+25
+00:01:38,300 --> 00:01:43,080
+And you'll see in a little bit,
+we will create a stakeholder.
+
+26
+00:01:44,320 --> 00:01:49,360
+We'll also do data representation,
+stakeholder mapping presentation,
+
+27
+00:01:50,180 --> 00:01:51,080
+and have meetings.
+
+28
+00:01:51,400 --> 00:01:52,950
+So we will see these coming up.
+
+29
+00:01:53,480 --> 00:01:57,360
+Your outputs, the oh so important
+stakeholder register.
+
+30
+00:01:58,400 --> 00:02:03,160
+This will list all the stakeholders and
+relevant information about them.
+
+31
+00:02:03,720 --> 00:02:11,560
+If after we're basic, the stakeholders
+change because people will come and go
+
+32
+00:02:11,561 --> 00:02:18,220
+need that change request which will lead
+to plan and document updates always know
+
+33
+00:02:18,221 --> 00:02:24,280
+that's a trio all right the ITTOs of plan
+stakeholder engagement we're in planning
+
+34
+00:02:24,281 --> 00:02:30,580
+one of the first plans subsidiary plans
+stakeholder engagement and communications
+
+35
+00:02:30,581 --> 00:02:34,912
+these are the who's needs what
+when where why how how can we
+
+36
+00:02:34,913 --> 00:02:38,620
+approach appropriately engage
+and involve the stakeholders.
+
+37
+00:02:39,520 --> 00:02:44,040
+Our inputs, the project charter again,
+the project management plan.
+
+38
+00:02:44,760 --> 00:02:49,980
+We often will plan communications and
+stakeholder engagement together.
+
+39
+00:02:51,020 --> 00:02:54,120
+We will end up having project documents
+along the way.
+
+40
+00:02:55,360 --> 00:02:58,920
+And our agreements, again, list specific
+stakeholders.
+
+41
+00:03:00,340 --> 00:03:05,240
+Tools and techniques will use expert
+judgment again, data gathering,
+
+42
+00:03:05,820 --> 00:03:12,860
+benchmarking, comparing a previous
+project, who the stakeholders are.
+
+43
+00:03:13,940 --> 00:03:18,080
+Data analysis, we'll do assumptions and
+constraints analysis, a root cause
+
+44
+00:03:18,081 --> 00:03:23,620
+analysis to find out if on that previous
+similar recently completed project,
+
+45
+00:03:24,180 --> 00:03:30,360
+we had missed someone, for example,
+or not properly prioritize them.
+
+46
+00:03:31,040 --> 00:03:32,360
+We'll make decisions.
+
+47
+00:03:32,680 --> 00:03:36,064
+Yes, we'll actually prioritize
+and rank the stakeholders
+
+48
+00:03:36,065 --> 00:03:38,671
+themselves, especially
+if you have a lot of them.
+
+49
+00:03:39,880 --> 00:03:45,000
+And for data representation, so this is a
+trio with those tools and techniques.
+
+50
+00:03:45,700 --> 00:03:46,777
+We'll gather the data.
+
+51
+00:03:46,860 --> 00:03:47,910
+We need some details.
+
+52
+00:03:48,520 --> 00:03:53,740
+We'll analyze the data, represent the
+data, document it, create a diagram.
+
+53
+00:03:54,480 --> 00:03:59,080
+So you can use mind mapping and the
+stakeholder engagement assessment matrix.
+
+54
+00:03:59,081 --> 00:04:05,060
+So we'll show you in the upcoming slides
+how we create that and of course we're
+
+55
+00:04:05,061 --> 00:04:09,940
+having a planning meeting every time you
+plan you always at least produce a plan
+
+56
+00:04:09,941 --> 00:04:16,760
+that will state what you're setting out to
+accomplish how you'll do your processes in
+
+57
+00:04:16,761 --> 00:04:24,280
+this knowledge area manage stakeholder
+engagement the ITTOs we are in executing
+
+58
+00:04:25,200 --> 00:04:29,540
+this is when we're doing the work of the
+project so we'll manage stakeholders
+
+59
+00:04:29,541 --> 00:04:36,120
+expectations handle their issues build
+trust that's the key in stakeholder
+
+60
+00:04:36,121 --> 00:04:44,500
+management is to build trust engage and
+involve the stakeholders to support the
+
+61
+00:04:44,501 --> 00:04:49,960
+project best way to do that communicating
+with them all right so our inputs our
+
+62
+00:04:49,961 --> 00:04:53,480
+project management plan
+communications and stakeholder
+
+63
+00:04:53,481 --> 00:04:56,591
+engagement biggest pieces
+and the change management plan.
+
+64
+00:04:57,360 --> 00:04:58,557
+Who's going to make changes?
+
+65
+00:04:58,640 --> 00:05:00,640
+Any stakeholder involved in the project.
+
+66
+00:05:00,900 --> 00:05:03,250
+So remember, we created that in the very
+
+67
+00:05:03,251 --> 00:05:06,914
+beginning, stating how
+changes will be made.
+
+68
+00:05:07,740 --> 00:05:10,300
+Documents, we will have that change in
+issue logs.
+
+69
+00:05:10,920 --> 00:05:13,800
+We will communicate
+the dispositions of their
+
+70
+00:05:13,801 --> 00:05:16,860
+change requests and their
+issues are being resolved.
+
+71
+00:05:18,520 --> 00:05:21,180
+Then you have those EFs and OPAs.
+
+72
+00:05:21,860 --> 00:05:24,557
+So tools and techniques, again,
+we'll use expert judgment.
+
+73
+00:05:24,640 --> 00:05:28,800
+This is where we're involving,
+engaging them in our meetings,
+
+74
+00:05:29,040 --> 00:05:30,240
+communicating with them.
+
+75
+00:05:31,360 --> 00:05:34,660
+So we'll use those communication skills
+and get feedback.
+
+76
+00:05:35,300 --> 00:05:37,117
+We use those interpersonal team skills.
+
+77
+00:05:37,200 --> 00:05:41,420
+Again, manage conflict, use cultural and
+political awareness.
+
+78
+00:05:42,240 --> 00:05:46,760
+We might have to negotiate with certain
+stakeholders, observation and
+
+79
+00:05:46,761 --> 00:05:51,300
+conversation, just like when we are
+communicating with them.
+
+80
+00:05:51,760 --> 00:05:54,720
+And this is where we will use the ground
+rules.
+
+81
+00:05:55,080 --> 00:05:59,380
+Remember, acceptable behavior among the
+stakeholders.
+
+82
+00:05:59,980 --> 00:06:01,830
+Again, we're in a global environment.
+
+83
+00:06:02,660 --> 00:06:09,700
+We have to set what are the expected ways
+of communicating with everyone.
+
+84
+00:06:10,580 --> 00:06:12,480
+And, of course, we're having meetings.
+
+85
+00:06:12,940 --> 00:06:16,740
+So our outputs will be change requests.
+
+86
+00:06:17,760 --> 00:06:23,040
+So if someone is saying, as we're
+communicating with them, engaging,
+
+87
+00:06:23,560 --> 00:06:27,560
+involving them, that they're not engaged
+involved enough, getting as many
+
+88
+00:06:27,561 --> 00:06:30,000
+communications the right way they need
+them.
+
+89
+00:06:30,480 --> 00:06:35,300
+That'll require a change request,
+which leads to plan and document updates.
+
+90
+00:06:35,760 --> 00:06:36,810
+That's always a trio.
+
+91
+00:06:37,760 --> 00:06:41,920
+Last but not least, the ITTOs of monitor
+stakeholder engagement.
+
+92
+00:06:42,660 --> 00:06:45,020
+So again, we're monitoring the
+relationships.
+
+93
+00:06:46,580 --> 00:06:50,560
+That's the key for the stakeholder
+management, knowledge area, building
+
+94
+00:06:50,561 --> 00:06:55,300
+relationships to engage them to support
+our project.
+
+95
+00:06:56,000 --> 00:07:01,020
+So we're ensuring people are coming over
+to our side to support the project.
+
+96
+00:07:01,920 --> 00:07:04,000
+Our inputs, your project management plan.
+
+97
+00:07:04,500 --> 00:07:06,900
+Always communications and stakeholder
+engagement.
+
+98
+00:07:07,540 --> 00:07:09,390
+Who needs what, when, where, why,
+how.
+
+99
+00:07:10,760 --> 00:07:14,460
+Project documents, we'll have that issue
+log again, and the communications.
+
+100
+00:07:15,440 --> 00:07:19,660
+We always compare in every monitoring and
+controlling process, the plan,
+
+101
+00:07:20,340 --> 00:07:23,980
+what was agreed upon to the data,
+what is actually.
+
+102
+00:07:24,000 --> 00:07:28,420
+happening actuals and those EEFs and OPAs.
+
+103
+00:07:28,660 --> 00:07:30,180
+So we'll do data analysis.
+
+104
+00:07:31,040 --> 00:07:32,990
+So again, this is where we're checking.
+
+105
+00:07:33,280 --> 00:07:35,680
+I'm going right down here to data
+representation.
+
+106
+00:07:36,100 --> 00:07:40,400
+We'll be looking at our stakeholder
+engagement assessment matrix to see if the
+
+107
+00:07:40,401 --> 00:07:43,180
+current and desired engagement levels are
+working.
+
+108
+00:07:43,780 --> 00:07:49,600
+We're getting our stakeholders over to
+support our project or lead.
+
+109
+00:07:50,020 --> 00:07:52,540
+Get others to support the project.
+
+110
+00:07:54,160 --> 00:07:56,660
+All right, we'll make decisions.
+
+111
+00:07:57,560 --> 00:07:59,605
+If we have to change our approach, all
+
+112
+00:07:59,606 --> 00:08:02,934
+right, we'll make
+decisions including voting.
+
+113
+00:08:03,600 --> 00:08:05,780
+We use our communication skills.
+
+114
+00:08:06,560 --> 00:08:10,200
+It's imperative we get feedback and ask
+the questions.
+
+115
+00:08:10,840 --> 00:08:13,240
+Are you getting what you need when you
+need them?
+
+116
+00:08:15,140 --> 00:08:18,171
+And if they're saying
+no, or they still don't
+
+117
+00:08:18,172 --> 00:08:20,920
+support the project,
+it's your job to try to do.
+
+118
+00:08:20,940 --> 00:08:23,515
+get them on our side,
+show them the benefits
+
+119
+00:08:23,516 --> 00:08:25,994
+of the project, how it will benefit them.
+
+120
+00:08:27,420 --> 00:08:31,170
+Of course, we'll use those interpersonal
+and team skills, those soft skills,
+
+121
+00:08:31,820 --> 00:08:37,240
+active listening, cultural and political
+awareness again, leadership skills,
+
+122
+00:08:37,560 --> 00:08:39,200
+imparting vision and networking.
+
+123
+00:08:39,800 --> 00:08:44,140
+These are all similar to our communication
+processes.
+
+124
+00:08:44,420 --> 00:08:46,170
+And of course, we'll have meetings.
+
+125
+00:08:46,320 --> 00:08:50,920
+So your plan and data, always come in to
+our.
+
+126
+00:08:50,940 --> 00:08:52,790
+monitoring and controlling processes.
+
+127
+00:08:52,960 --> 00:08:53,793
+What goes out?
+
+128
+00:08:54,260 --> 00:08:57,500
+Information, the progress with stakeholder
+engagement.
+
+129
+00:08:58,460 --> 00:09:01,600
+If we're not progressing as planned,
+change requests.
+
+130
+00:09:02,660 --> 00:09:06,646
+We'll update, if approved,
+we'll update any plans,
+
+131
+00:09:06,647 --> 00:09:09,851
+especially communications
+and stakeholder engagement.
+
+132
+00:09:10,140 --> 00:09:13,881
+We have to change our
+approach, strategy to get those
+
+133
+00:09:13,882 --> 00:09:16,717
+stakeholders over on our
+side to support the project.
+
+134
+00:09:16,800 --> 00:09:17,500
+That's what we're doing.
+
+135
+00:09:17,501 --> 00:09:19,300
+through the change request.
+
+136
+00:09:19,480 --> 00:09:22,700
+We'll update the plans and documents
+accordingly.
+

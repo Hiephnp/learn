@@ -1,0 +1,329 @@
+﻿1
+00:00:05,820 --> 00:00:09,187
+Okay, in this video then we
+are going to discuss another
+
+2
+00:00:09,188 --> 00:00:12,660
+type of contract called the
+time and material contract.
+
+3
+00:00:13,880 --> 00:00:20,440
+Now time and material contract then is
+where the seller is being paid for their
+
+4
+00:00:20,441 --> 00:00:25,780
+time and they're being reimbursed for
+their materials.
+
+5
+00:00:26,880 --> 00:00:32,060
+And each unit of time has a seller's
+profit in built into it.
+
+6
+00:00:32,840 --> 00:00:38,460
+So for example then, the seller may be
+charging you $200 an hour.
+
+7
+00:00:39,140 --> 00:00:41,300
+Their expenses are $120 an hour.
+
+8
+00:00:42,080 --> 00:00:45,160
+So they're making $80 an hour in profit.
+
+9
+00:00:45,760 --> 00:00:49,960
+So each unit of time has their profit in
+built in.
+
+10
+00:00:50,420 --> 00:00:53,140
+So every hour, they're making $80 an hour
+in profit.
+
+11
+00:00:54,340 --> 00:00:58,800
+And then plus, they're being reimbursed
+for all the materials as well.
+
+12
+00:00:59,540 --> 00:01:01,920
+So that is a time and material contract.
+
+13
+00:01:03,080 --> 00:01:05,640
+Now, a time and material contract then is
+often set.
+
+14
+00:01:05,660 --> 00:01:08,980
+up with a known cost, not to exceed
+clause.
+
+15
+00:01:10,200 --> 00:01:14,720
+So if it's set up with a known cost or not
+to exceed or sometimes known as a ceiling
+
+16
+00:01:14,721 --> 00:01:20,240
+price, then buyer and seller both have a
+hand in the risk of the contract.
+
+17
+00:01:20,900 --> 00:01:22,519
+Initially, the contract
+is going to be with
+
+18
+00:01:22,520 --> 00:01:24,834
+the buyer because it's time and material.
+
+19
+00:01:24,980 --> 00:01:26,998
+Once they hit the
+ceiling price not to exceed
+
+20
+00:01:26,999 --> 00:01:29,714
+close, it can transfer over to the seller.
+
+21
+00:01:30,300 --> 00:01:32,460
+So that's what their time and material is.
+
+22
+00:01:32,940 --> 00:01:35,950
+You're paying the seller
+for their time, and then
+
+23
+00:01:35,951 --> 00:01:38,794
+plus, you're reimbursing
+them for any materials.
+
+24
+00:01:40,080 --> 00:01:43,831
+So sometimes, in this case,
+then, the seller may have
+
+25
+00:01:43,832 --> 00:01:46,900
+an incentive to increase
+cost by increasing time.
+
+26
+00:01:47,680 --> 00:01:50,768
+They might not work as
+efficiently, right, because the longer
+
+27
+00:01:50,769 --> 00:01:53,033
+it takes them to do the work,
+the more money they're going
+
+28
+00:01:53,034 --> 00:01:54,720
+to make, more profit
+they're going to make.
+
+29
+00:01:55,400 --> 00:01:59,359
+So in that case, then,
+the buyer, right, has to,
+
+30
+00:01:59,360 --> 00:02:02,231
+you know, control the
+cost a little bit there.
+
+31
+00:02:02,460 --> 00:02:07,219
+But if there's a ceiling price
+involved, then obviously the
+
+32
+00:02:07,220 --> 00:02:10,461
+seller does not want to
+reach that ceiling price either.
+
+33
+00:02:10,620 --> 00:02:14,220
+Now, when do we prefer to use a time and
+material contract?
+
+34
+00:02:14,440 --> 00:02:19,480
+Again, for the purpose of the exam and
+from a buyer's perspective, right,
+
+35
+00:02:19,760 --> 00:02:22,197
+again, these are the kind of scenarios
+that you're looking out for.
+
+36
+00:02:22,280 --> 00:02:25,867
+So you would prefer to
+use a time and material
+
+37
+00:02:25,868 --> 00:02:29,161
+contract when you cannot
+agree to a statement of work.
+
+38
+00:02:30,100 --> 00:02:33,740
+So a precise statement of work cannot be
+quickly described or agree to.
+
+39
+00:02:33,900 --> 00:02:35,850
+You can't agree to a statement of work.
+
+40
+00:02:36,040 --> 00:02:39,120
+And for short-term staff augmentation type
+projects.
+
+41
+00:02:39,900 --> 00:02:40,000
+Right.
+
+42
+00:02:40,140 --> 00:02:44,280
+So you see these kind of scenarios in a
+question, right, then you know,
+
+43
+00:02:44,480 --> 00:02:47,780
+all right, this is going to be a time of
+material type of contract.
+
+44
+00:02:49,360 --> 00:02:52,321
+Now, just a summary
+then of all the different
+
+45
+00:02:52,322 --> 00:02:54,660
+types of contracts that
+we've talked about, right?
+
+46
+00:02:54,740 --> 00:02:58,390
+So we've covered the cost reimbursable,
+time and material and fixed price.
+
+47
+00:02:58,560 --> 00:03:01,529
+And this is, this diagram
+is just basically showing
+
+48
+00:03:01,530 --> 00:03:04,080
+who has all of the risk
+more than anything else.
+
+49
+00:03:04,620 --> 00:03:08,720
+So in a cost reimburseable, it's showing
+buyer has all of the risk of the contract,
+
+50
+00:03:09,340 --> 00:03:09,480
+right?
+
+51
+00:03:09,640 --> 00:03:12,800
+And gradually it's going down until we get
+to the seller, right?
+
+52
+00:03:12,940 --> 00:03:15,275
+Seller does not have
+all of the risk in a cost
+
+53
+00:03:15,276 --> 00:03:18,054
+to reimburseable,
+buyer has all of the risk.
+
+54
+00:03:18,240 --> 00:03:23,460
+In a fixed price contract, seller has all
+of the risk of the contract, right?
+
+55
+00:03:24,000 --> 00:03:27,560
+The seller basically fixed price, the
+buyer is just going to pay one fixed cost.
+
+56
+00:03:27,561 --> 00:03:29,897
+they don't really care about what the cost
+is going to be.
+
+57
+00:03:29,980 --> 00:03:32,530
+They know they're going to pay this one
+fixed price.
+
+58
+00:03:32,700 --> 00:03:37,000
+So in a fixed price contract, it's the
+seller that's controlling all of the cost.
+
+59
+00:03:37,420 --> 00:03:40,288
+In a cost-reimbursable,
+buyer is controlling all of
+
+60
+00:03:40,328 --> 00:03:42,920
+the cost, right, because
+they have all of the risk.
+
+61
+00:03:43,180 --> 00:03:47,080
+And then in a time of material,
+well, initially the risk is going to be
+
+62
+00:03:47,081 --> 00:03:53,440
+with the buyer, and then gradually it can
+transfer over to the seller, right,
+
+63
+00:03:53,560 --> 00:03:55,560
+once you hit this not to exceed clothes.
+
+64
+00:03:56,120 --> 00:03:56,953
+Okay.
+
+65
+00:03:57,680 --> 00:04:00,880
+All right, so these were all of these
+preceding videos then.
+
+66
+00:04:01,440 --> 00:04:04,340
+We were all talking about the different
+types of contracts.
+
+67
+00:04:04,780 --> 00:04:07,897
+So remember, these are the three basic
+types, fixed price, time and material,
+
+68
+00:04:07,980 --> 00:04:10,930
+cost or inversible, right, with some
+variations of each one.
+

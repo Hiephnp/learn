@@ -1,0 +1,323 @@
+﻿1
+00:00:06,010 --> 00:00:10,590
+Okay, so let's talk about some of the
+PIMBOC guide processes in risk management,
+
+2
+00:00:11,010 --> 00:00:14,590
+and of course, again, as related to PIMBOC
+version 6.
+
+3
+00:00:15,210 --> 00:00:20,570
+So we can see then there are seven
+processes, right, in the PIMBock guide,
+
+4
+00:00:21,070 --> 00:00:23,070
+right, when it comes to risk management.
+
+5
+00:00:23,550 --> 00:00:27,290
+It's then the span planning, executing and
+monitoring controlling.
+
+6
+00:00:28,090 --> 00:00:32,350
+Right, so in planning then, you have plan
+risk management, right?
+
+7
+00:00:32,410 --> 00:00:35,990
+So again, the very first process of any of
+the not.
+
+8
+00:00:36,010 --> 00:00:41,610
+knowledge areas from scope management all
+the way down, look at the process map,
+
+9
+00:00:41,890 --> 00:00:42,967
+right, the process grid.
+
+10
+00:00:43,050 --> 00:00:46,770
+The first process is always going to be
+plan something management.
+
+11
+00:00:47,050 --> 00:00:48,950
+So in this case, plan risk management.
+
+12
+00:00:49,210 --> 00:00:53,590
+And the output, right, the artifact that
+we're creating here, the output of plan
+
+13
+00:00:53,591 --> 00:00:56,610
+risk management management is the risk
+management plan.
+
+14
+00:00:57,170 --> 00:01:00,910
+And the risk management plan, there's a
+separate video on that where we're talking
+
+15
+00:01:00,911 --> 00:01:03,688
+about, or rather where
+we'll be discussing what
+
+16
+00:01:03,689 --> 00:01:05,990
+we're going to be documenting
+in the risk management.
+
+17
+00:01:06,010 --> 00:01:06,290
+plan.
+
+18
+00:01:06,550 --> 00:01:08,267
+Again, remember, it's always procedures.
+
+19
+00:01:08,350 --> 00:01:12,550
+It's always how we're going to plan,
+execute, monitoring control, in this case,
+
+20
+00:01:12,950 --> 00:01:14,700
+the risk management knowledge area.
+
+21
+00:01:15,170 --> 00:01:17,807
+Then another process is this one called
+identify risk.
+
+22
+00:01:17,890 --> 00:01:20,627
+Throughout your project, you're going to
+be identifying risk.
+
+23
+00:01:20,710 --> 00:01:22,250
+And so where are we going to document
+them?
+
+24
+00:01:22,310 --> 00:01:24,307
+Once we've identified a risk, where do you
+document them?
+
+25
+00:01:24,390 --> 00:01:26,890
+You're going to document them in the risk
+register.
+
+26
+00:01:27,230 --> 00:01:30,164
+So the output, if you
+like, the artifact that we're
+
+27
+00:01:30,165 --> 00:01:34,190
+creating the output of
+identify risk is the risk register.
+
+28
+00:01:34,510 --> 00:01:38,950
+And the risk register will contain all the
+details, the probability, the impact,
+
+29
+00:01:39,170 --> 00:01:42,670
+what's going to trigger it, who's a risk
+owner, and so on and so forth,
+
+30
+00:01:42,970 --> 00:01:44,770
+all documented in the risk register.
+
+31
+00:01:46,010 --> 00:01:50,172
+Then we have these next two
+processes here, perform qualitative
+
+32
+00:01:50,173 --> 00:01:53,410
+risk analysis and perform
+quantitative risk analysis.
+
+33
+00:01:54,410 --> 00:01:57,270
+Now, be very careful with these two,
+right?
+
+34
+00:01:57,410 --> 00:02:02,630
+If you look, the wording looks very
+similar, the spelling looks very similar,
+
+35
+00:02:03,150 --> 00:02:05,250
+but they are two very different processes.
+
+36
+00:02:06,030 --> 00:02:11,530
+This is perform, the first one here,
+113, is perform qualitative risk analysis.
+
+37
+00:02:12,610 --> 00:02:15,750
+And the other one is perform quantitative
+risk analysis.
+
+38
+00:02:16,770 --> 00:02:18,626
+Both of these are analyzing
+your risk, but they're
+
+39
+00:02:18,627 --> 00:02:20,584
+looking at them in
+slightly different ways.
+
+40
+00:02:20,950 --> 00:02:26,650
+With qualitative, you are analyzing your
+risk using arbitrary values, like high,
+
+41
+00:02:26,910 --> 00:02:31,890
+medium low, scale of 1 to 10, or red,
+yellow green classification, right?
+
+42
+00:02:31,891 --> 00:02:37,630
+or whatever unit of measure, whatever
+arbitrary value your organization uses,
+
+43
+00:02:38,390 --> 00:02:39,650
+that's qualitative.
+
+44
+00:02:40,890 --> 00:02:45,150
+So you're ranking your risk, prioritizing
+your risk based on some arbitrary value.
+
+45
+00:02:46,350 --> 00:02:49,130
+With quantitative, that was qualitative.
+
+46
+00:02:49,730 --> 00:02:55,670
+With quantitative, you are adding a dollar
+value to your risk.
+
+47
+00:02:56,110 --> 00:02:57,447
+So there's a subtle difference.
+
+48
+00:02:57,530 --> 00:02:58,090
+I won't say a cell.
+
+49
+00:02:58,210 --> 00:02:59,350
+There's a major difference there.
+
+50
+00:02:59,351 --> 00:03:03,470
+With quantitative, you are adding a dollar
+value to your risk.
+
+51
+00:03:04,010 --> 00:03:08,430
+Then, in this process, we're going to be
+talking about calculating the EMV,
+
+52
+00:03:08,950 --> 00:03:10,200
+expected monetary values.
+
+53
+00:03:11,570 --> 00:03:15,430
+And then once we've performed all of
+these, we've done all the analysis,
+
+54
+00:03:15,690 --> 00:03:18,668
+we've identified the risk,
+analyzed the risk, then
+
+55
+00:03:18,669 --> 00:03:21,550
+we need to figure out
+how to respond to the risk.
+
+56
+00:03:22,030 --> 00:03:25,430
+The other process here then in planning is
+plan risk responses.
+
+57
+00:03:26,610 --> 00:03:29,330
+As part of execution, right, once you've
+planned, you've planned, you.
+
+58
+00:03:29,350 --> 00:03:32,350
+your risk responses, you need to implement
+the risk response.
+
+59
+00:03:32,830 --> 00:03:35,430
+So that's what the implement risk response
+refers to.
+
+60
+00:03:35,850 --> 00:03:37,747
+And then you're monitoring controlling,
+right?
+
+61
+00:03:37,830 --> 00:03:40,250
+Remember, monitoring
+controlling is always comparing
+
+62
+00:03:40,251 --> 00:03:42,650
+actual results from
+executing with your plan.
+
+63
+00:03:43,270 --> 00:03:45,250
+So how did we respond to the risk?
+
+64
+00:03:45,750 --> 00:03:47,747
+You know, what lessons learned are there?
+
+65
+00:03:47,830 --> 00:03:49,630
+How could we improve in the future?
+
+66
+00:03:49,790 --> 00:03:53,750
+Did we respond the way we expected to
+respond and so on and so forth?
+
+67
+00:03:54,570 --> 00:03:57,731
+So these are all the
+different processes then in
+
+68
+00:03:57,732 --> 00:04:00,630
+risk management as it
+relates to the PIMBOC guide.
+

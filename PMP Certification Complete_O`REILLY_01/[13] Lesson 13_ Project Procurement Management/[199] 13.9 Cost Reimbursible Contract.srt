@@ -1,0 +1,595 @@
+﻿1
+00:00:06,210 --> 00:00:11,390
+Okay, so in this video then, we are going
+to discuss the cost reimbursable contract.
+
+2
+00:00:13,030 --> 00:00:16,211
+Now the cost reimbursable
+contract then, right,
+
+3
+00:00:16,212 --> 00:00:20,090
+C.R contract is also known
+as a cost plus contract.
+
+4
+00:00:20,790 --> 00:00:22,343
+Right, so it could be
+called cost reimbursable
+
+5
+00:00:22,344 --> 00:00:24,830
+or it could be called
+a cost plus contract.
+
+6
+00:00:25,930 --> 00:00:29,757
+Now in a cost reimbursable
+or cost plus contract, the
+
+7
+00:00:29,758 --> 00:00:32,810
+seller is just being
+reimbursed for all of their costs.
+
+8
+00:00:33,410 --> 00:00:39,230
+So in a straight cost reimbursable,
+the seller will just be reimbursed for
+
+9
+00:00:39,231 --> 00:00:41,600
+their costs, so they're
+not actually making
+
+10
+00:00:41,601 --> 00:00:43,650
+any money in a straight cost reimbursable.
+
+11
+00:00:43,850 --> 00:00:48,730
+But there are different variations where
+the seller will be making some profit,
+
+12
+00:00:48,990 --> 00:00:51,527
+and we're going to talk about those in
+just a second.
+
+13
+00:00:51,610 --> 00:00:54,639
+But in a straight cost
+reimbursable contract, the
+
+14
+00:00:54,640 --> 00:00:57,411
+seller is just being
+reimbursed for all of the costs.
+
+15
+00:00:57,610 --> 00:01:01,970
+So you generally use a straight cost
+reimbursable contract for, say,
+
+16
+00:01:02,550 --> 00:01:07,090
+not for, profit organizations or
+not-for-profit agencies, or let's say,
+
+17
+00:01:07,490 --> 00:01:09,340
+just some goodwill for your customer.
+
+18
+00:01:10,210 --> 00:01:13,790
+So, you know, it's a great customer.
+
+19
+00:01:13,990 --> 00:01:15,987
+They've given you a lot of business in the
+past.
+
+20
+00:01:16,070 --> 00:01:19,870
+They're asking you to do a small project,
+so you just do it at cost for them.
+
+21
+00:01:20,250 --> 00:01:21,600
+Just a very simple example.
+
+22
+00:01:23,390 --> 00:01:27,730
+Now, one of the key things in the
+cost-reimbursable contract is that it's
+
+23
+00:01:27,731 --> 00:01:31,750
+always considered that the buyer has all
+of the risk of the contract.
+
+24
+00:01:32,370 --> 00:01:34,838
+So in a cost reimburseable,
+generally is considered
+
+25
+00:01:34,839 --> 00:01:37,610
+the buyer will have
+all of the risk, right?
+
+26
+00:01:37,611 --> 00:01:41,950
+Because the seller doesn't really have any
+incentive to control cost.
+
+27
+00:01:42,770 --> 00:01:44,749
+They need to bring in
+additional team members,
+
+28
+00:01:44,750 --> 00:01:47,104
+they'll just bring in
+additional team members.
+
+29
+00:01:47,750 --> 00:01:50,065
+They don't care about
+wastage of raw materials,
+
+30
+00:01:50,066 --> 00:01:52,344
+right, because the buyer is going to pay.
+
+31
+00:01:52,730 --> 00:01:55,150
+Who cares as far as the seller is
+concerned?
+
+32
+00:01:55,710 --> 00:02:00,270
+So the seller does not really care about
+the cost, they're not controlling the
+
+33
+00:02:00,271 --> 00:02:04,573
+cost, the buyer has all of the
+risk of the contract, and therefore
+
+34
+00:02:04,574 --> 00:02:09,070
+the buyer has to control all
+of the costs on the project.
+
+35
+00:02:09,490 --> 00:02:15,070
+Now, when do you use a cost-reimbursable
+contract, again from a buyer's perspective
+
+36
+00:02:15,071 --> 00:02:19,530
+and the kind of scenarios you have to look
+out for on the exam, right?
+
+37
+00:02:19,670 --> 00:02:23,650
+So a cost reimbursable contract then is
+going to be best suited when basically you
+
+38
+00:02:23,651 --> 00:02:25,851
+have no idea what the outcome is going to
+be.
+
+39
+00:02:26,270 --> 00:02:28,390
+The outcome is unknown, right?
+
+40
+00:02:28,391 --> 00:02:31,167
+You don't know what the scope or the
+budget or the schedule is.
+
+41
+00:02:31,250 --> 00:02:34,390
+It's a higher risk, high uncertainty type
+of project.
+
+42
+00:02:34,750 --> 00:02:37,267
+We don't know what the outcome is going to
+be, right?
+
+43
+00:02:37,350 --> 00:02:40,700
+Or the scope is going to continuously
+change throughout the project.
+
+44
+00:02:41,050 --> 00:02:43,710
+So you can't really have a fixed price
+contract in that case.
+
+45
+00:02:43,790 --> 00:02:47,140
+Remember, in a fixed price contract,
+it's a well-understood project.
+
+46
+00:02:47,650 --> 00:02:50,211
+Right, when the scope is
+fixed, well-understood, but
+
+47
+00:02:50,294 --> 00:02:52,607
+in this case, we have no
+idea what the outcome is.
+
+48
+00:02:52,690 --> 00:02:56,307
+If you don't know what the outcome is,
+if the scope can continuously change,
+
+49
+00:02:56,390 --> 00:02:59,150
+then that's when you'd use a cost
+reimbursable contract.
+
+50
+00:02:59,770 --> 00:03:01,467
+We have no idea what the outcome is.
+
+51
+00:03:01,550 --> 00:03:03,746
+Again, remember, this is from a buyer's
+
+52
+00:03:03,747 --> 00:03:05,890
+perspective, and this is
+from PMI's perspective.
+
+53
+00:03:06,190 --> 00:03:09,240
+It's a kind of scenario you have to watch
+out for on the exam.
+
+54
+00:03:11,170 --> 00:03:14,350
+Now, some variations of a cost
+reimbursable contract.
+
+55
+00:03:15,130 --> 00:03:17,970
+The first one here, cost plus percentage
+of cost.
+
+56
+00:03:18,870 --> 00:03:21,030
+CPPC, cost plus percentage of cost.
+
+57
+00:03:22,310 --> 00:03:26,410
+So in this case, then, the seller is being
+reimbursed for all of their costs,
+
+58
+00:03:26,590 --> 00:03:26,710
+right?
+
+59
+00:03:26,711 --> 00:03:30,210
+So it's a cost plus seller's being
+reimbursed for all of the cost.
+
+60
+00:03:30,750 --> 00:03:34,750
+And then plus, they're also earning a
+certain percentage of that cost.
+
+61
+00:03:35,850 --> 00:03:38,970
+So for example, it could be cost plus 10%.
+
+62
+00:03:38,971 --> 00:03:41,036
+So whatever the cost
+is, the seller is being
+
+63
+00:03:41,037 --> 00:03:43,784
+reimbursed for all of
+that cost from the buyer.
+
+64
+00:03:43,910 --> 00:03:48,070
+And the buyer is also paying them an
+additional 10% of whatever that cost is.
+
+65
+00:03:48,630 --> 00:03:51,757
+So in this kind of contract, the seller
+
+66
+00:03:51,758 --> 00:03:55,250
+actually has an incentive
+to increase costs.
+
+67
+00:03:55,251 --> 00:04:00,170
+they have an incentive to keep costs as
+high as possible because whatever the cost
+
+68
+00:04:00,171 --> 00:04:02,421
+is, they're going to get a certain
+percentage.
+
+69
+00:04:02,570 --> 00:04:05,645
+So the higher the cost, the
+higher the percentage, and
+
+70
+00:04:05,646 --> 00:04:08,651
+that percentage is obviously
+the money that they're making.
+
+71
+00:04:08,970 --> 00:04:13,190
+On this kind of contract, the buyer really
+has to control the cost.
+
+72
+00:04:13,890 --> 00:04:16,989
+Then you have another variation called the
+
+73
+00:04:16,990 --> 00:04:21,584
+cost plus fixed fee,
+CPFF, cost plus fixed fee.
+
+74
+00:04:21,890 --> 00:04:26,730
+So the seller is being reimbursed for all
+of the costs, And then they're also going
+
+75
+00:04:26,731 --> 00:04:29,830
+to receive a fixed fee on top of that
+cost.
+
+76
+00:04:30,650 --> 00:04:32,750
+And so it doesn't matter what the cost is.
+
+77
+00:04:33,330 --> 00:04:35,330
+They're just getting this one fixed fee.
+
+78
+00:04:35,770 --> 00:04:38,470
+So they don't have the incentive to
+increase cost.
+
+79
+00:04:38,990 --> 00:04:41,247
+But at the same time, there's a cost
+reimbursable.
+
+80
+00:04:41,330 --> 00:04:44,380
+They don't really have an incentive to
+keep costs down either.
+
+81
+00:04:44,690 --> 00:04:51,430
+Now, another variation then is something
+called the cost plus incentive fee, CPIF.
+
+82
+00:04:52,150 --> 00:04:55,230
+So in this case, again, the seller is
+being reimburs.
+
+83
+00:04:55,250 --> 00:05:00,250
+for all of the costs and then plus they're
+going to receive a certain incentive.
+
+84
+00:05:00,590 --> 00:05:03,377
+So incentive again could be
+in the form of a bonus, right,
+
+85
+00:05:03,378 --> 00:05:06,481
+they're finished by a certain
+date or meet a certain condition.
+
+86
+00:05:06,750 --> 00:05:08,643
+They're going to get
+reimbursed for the cost, but
+
+87
+00:05:08,644 --> 00:05:10,870
+then they'll get this
+additional bonus as well.
+
+88
+00:05:11,570 --> 00:05:14,320
+The incentive could also be in the form of
+a cost share.
+
+89
+00:05:14,850 --> 00:05:18,910
+Costs of increase, buyer and sell have
+agreed to share part of that cost,
+
+90
+00:05:19,350 --> 00:05:24,054
+similar to the fixed price
+incentive fee, the FPIF,
+
+91
+00:05:24,055 --> 00:05:27,910
+similar to the FPIF contract
+that we talked about earlier.
+
+92
+00:05:29,350 --> 00:05:34,370
+And then we have the CPAF, cost plus award
+fee.
+
+93
+00:05:35,050 --> 00:05:38,225
+Now the cost plus award
+fee is a little strange in the
+
+94
+00:05:38,226 --> 00:05:41,610
+sense that there is a
+fixed fee portion to it, right?
+
+95
+00:05:41,730 --> 00:05:43,498
+So they're being
+reimbursed for all the costs
+
+96
+00:05:43,499 --> 00:05:45,710
+and then there is a
+fixed fee portion to it.
+
+97
+00:05:46,270 --> 00:05:53,670
+But then on top of that, there is a
+subjective award that the seller may or
+
+98
+00:05:53,671 --> 00:05:58,010
+may not get, and it's purely at the
+discretion of the buyer.
+
+99
+00:05:59,530 --> 00:06:04,070
+If we like the work that you've done,
+if we're really impressed with,
+
+100
+00:06:04,230 --> 00:06:07,850
+say, the design of the work, or we're
+really impressed with the way that you
+
+101
+00:06:07,851 --> 00:06:12,270
+perform the work, the efficiency of the
+way that you did the work, if we're really
+
+102
+00:06:12,271 --> 00:06:14,164
+impressed with that, we'll give you an
+
+103
+00:06:14,165 --> 00:06:17,724
+additional bonus, an
+additional subjective bonus.
+
+104
+00:06:17,890 --> 00:06:19,090
+But it's not guaranteed.
+
+105
+00:06:19,490 --> 00:06:23,410
+And it's purely and simply at the
+discretion of the buyer.
+
+106
+00:06:24,510 --> 00:06:27,390
+You may, the seller may get it,
+they may not get it.
+
+107
+00:06:28,170 --> 00:06:31,457
+And so the best way to think
+of a CPAF, cost plus award
+
+108
+00:06:31,458 --> 00:06:34,670
+fee, the best way to think
+of that is think of it as a tip.
+
+109
+00:06:35,490 --> 00:06:38,030
+It's a tip that the, you
+know, it's discretion
+
+110
+00:06:38,031 --> 00:06:40,431
+of the buyer, the seller
+may or may not get it.
+
+111
+00:06:40,870 --> 00:06:43,397
+So just like when you
+go to a restaurant, you go
+
+112
+00:06:43,398 --> 00:06:45,990
+to a restaurant, you
+look at this meal, right?
+
+113
+00:06:46,110 --> 00:06:48,910
+It's, you know, it's a fixed price there.
+
+114
+00:06:49,310 --> 00:06:53,410
+right so that would be the fixed fee
+portion if you like right so you have to
+
+115
+00:06:53,411 --> 00:07:00,890
+pay for this meal but then it's entirely
+up to you what tip you give right some
+
+116
+00:07:00,891 --> 00:07:05,910
+people give a tip some people don't some
+people might give 5%, 15 10%, you know
+
+117
+00:07:05,911 --> 00:07:12,570
+whatever it is right so it's just based on
+your discretion and that's really what the
+
+118
+00:07:12,571 --> 00:07:16,118
+CPAF is cost plus award
+fee there's a fixed fee portion
+
+119
+00:07:16,119 --> 00:07:19,130
+to it right but then
+there's a subjective award.
+
+120
+00:07:19,410 --> 00:07:21,870
+Best way to think of that is a tip.
+
+121
+00:07:22,810 --> 00:07:26,390
+So this is cost reimbursable then.
+
+122
+00:07:27,170 --> 00:07:31,190
+So these are the different variations then
+of a cost reimbursable contract.
+
+123
+00:07:31,670 --> 00:07:34,370
+Again, make sure you know all the
+different variations.
+

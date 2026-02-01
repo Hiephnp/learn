@@ -1,0 +1,684 @@
+﻿1
+00:00:06,010 --> 00:00:10,030
+Okay, so let's talk about the risk
+management plan then.
+
+2
+00:00:11,290 --> 00:00:14,096
+Now, just like any
+management plan, the risk
+
+3
+00:00:14,097 --> 00:00:16,944
+management plan is documenting procedures.
+
+4
+00:00:17,550 --> 00:00:20,170
+In this case, procedures regarding risk
+management.
+
+5
+00:00:21,510 --> 00:00:25,930
+So again, just as a quick review,
+remember you have the project management
+
+6
+00:00:25,931 --> 00:00:31,410
+plan, right, which is made up of the
+subsidiary management plans as well as the
+
+7
+00:00:31,411 --> 00:00:33,950
+baseline, as well as those additional
+components.
+
+8
+00:00:33,951 --> 00:00:39,530
+So one of the subsidiary management plans
+is a risk management plan.
+
+9
+00:00:40,190 --> 00:00:42,139
+And just like any
+management plan, the risk
+
+10
+00:00:42,140 --> 00:00:44,550
+management plan is documenting procedures.
+
+11
+00:00:45,110 --> 00:00:50,650
+How we're going to plan, execute, monitor
+and control the risks on our project.
+
+12
+00:00:51,190 --> 00:00:53,490
+It does not actually contain the risks.
+
+13
+00:00:54,250 --> 00:00:56,847
+The risks are actually documented in the
+risk register.
+
+14
+00:00:56,930 --> 00:00:58,367
+There's a separate video for that.
+
+15
+00:00:58,450 --> 00:01:02,290
+But it's documenting how, documenting
+procedures.
+
+16
+00:01:02,291 --> 00:01:05,765
+And of course, iterative
+approach, just like all of the
+
+17
+00:01:05,766 --> 00:01:08,608
+documents that we've been
+discussing, as an iterative approach,
+
+18
+00:01:08,609 --> 00:01:11,344
+we're going to be
+constantly making updicks.
+
+19
+00:01:12,030 --> 00:01:16,271
+Now, one of the key things to
+understand about risk management
+
+20
+00:01:16,272 --> 00:01:19,490
+is that it starts right at
+the inception of the project.
+
+21
+00:01:20,410 --> 00:01:24,870
+Even before we have a signed project
+charter, we should start thinking about
+
+22
+00:01:24,871 --> 00:01:28,710
+how we're going to manage and control all
+of the risks in our project.
+
+23
+00:01:28,711 --> 00:01:34,271
+And in fact, even the business
+case may contain some risks,
+
+24
+00:01:34,272 --> 00:01:37,670
+right, or may contain some
+risks that we've identified.
+
+25
+00:01:38,630 --> 00:01:43,010
+So this is not something that you just
+start doing halfway through the project or
+
+26
+00:01:43,011 --> 00:01:45,211
+at a particular point in time of the
+project.
+
+27
+00:01:45,390 --> 00:01:47,910
+No, this is something
+that starts right at the
+
+28
+00:01:47,911 --> 00:01:50,530
+beginning, right, at the
+inception of the project, right?
+
+29
+00:01:50,550 --> 00:01:52,810
+And remember, a risk is an uncertainty,
+right?
+
+30
+00:01:52,811 --> 00:01:54,087
+So you're going to have uncertainty.
+
+31
+00:01:54,170 --> 00:01:56,530
+There's going to be a lot more
+uncertainties at the beginning of the
+
+32
+00:01:56,531 --> 00:01:58,831
+project than the is towards end of the
+project.
+
+33
+00:01:59,470 --> 00:02:02,810
+So risk management starts right at the
+inception of the project.
+
+34
+00:02:03,570 --> 00:02:05,570
+And it continues throughout the project.
+
+35
+00:02:06,170 --> 00:02:09,190
+The risk management
+plan, however, should be
+
+36
+00:02:09,191 --> 00:02:12,084
+essentially completed
+as early as possible.
+
+37
+00:02:12,510 --> 00:02:14,994
+Now, when we say
+completed as early as possible,
+
+38
+00:02:14,995 --> 00:02:17,010
+we don't mean that
+it's done and that's it.
+
+39
+00:02:17,150 --> 00:02:21,070
+No, again, progressive elaboration,
+iterative process, but we're constant
+
+40
+00:02:21,071 --> 00:02:23,321
+making updates as new information is
+gathered.
+
+41
+00:02:23,630 --> 00:02:26,503
+It's just that very early on
+in the project, we should
+
+42
+00:02:26,504 --> 00:02:30,037
+have a very good understanding
+of how we're going to manage
+
+43
+00:02:30,038 --> 00:02:32,750
+and control all of the
+risks in our project.
+
+44
+00:02:33,190 --> 00:02:37,474
+And obviously, the level
+of involvement is going
+
+45
+00:02:37,475 --> 00:02:41,064
+to be based on the size
+and nature of the project.
+
+46
+00:02:42,770 --> 00:02:47,010
+If you've got a very high risk project,
+imagine, say, building a bridge between
+
+47
+00:02:47,011 --> 00:02:49,350
+two mountains spanning two different
+countries.
+
+48
+00:02:50,050 --> 00:02:52,790
+That's obviously a huge major undertaking.
+
+49
+00:02:52,830 --> 00:02:56,230
+You're going to have many, many,
+many vendors on a project like that.
+
+50
+00:02:56,610 --> 00:02:58,510
+And you've got two countries involved.
+
+51
+00:02:58,730 --> 00:03:01,150
+So obviously that's a huge undertaking
+there.
+
+52
+00:03:01,770 --> 00:03:05,370
+There's going to be many, many risks that
+you're going to be identifying.
+
+53
+00:03:05,470 --> 00:03:09,450
+So even before we start a project like
+that, we're going to start thinking about
+
+54
+00:03:09,451 --> 00:03:13,450
+how we're going to manage and control all
+of the risks on our project.
+
+55
+00:03:14,190 --> 00:03:17,870
+So some of the components then of the risk
+management plan.
+
+56
+00:03:18,190 --> 00:03:22,085
+First of all, the methodology
+and approach to risk management,
+
+57
+00:03:22,086 --> 00:03:24,370
+how are we going to manage
+the risks in our project?
+
+58
+00:03:24,371 --> 00:03:29,210
+There are many different methodologies out
+there for risk management, many different
+
+59
+00:03:29,211 --> 00:03:32,627
+approaches, different industries are going
+to have their different approaches.
+
+60
+00:03:32,710 --> 00:03:35,920
+Some of you, for example,
+may be familiar with something
+
+61
+00:03:35,921 --> 00:03:39,690
+called the failure mode and
+effect analysis, FMEA or FAMIA.
+
+62
+00:03:40,670 --> 00:03:43,370
+That is a type of risk management.
+
+63
+00:03:44,630 --> 00:03:49,670
+Now, you don't necessarily need to know
+FAMIA for the PMP exam, but I'm just
+
+64
+00:03:49,671 --> 00:03:54,350
+mentioning that if
+you've come across that,
+
+65
+00:03:54,351 --> 00:03:54,350
+and then that is a type
+of risk management.
+
+66
+00:03:54,351 --> 00:03:56,470
+type of risk management methodology.
+
+67
+00:03:57,790 --> 00:04:00,110
+So what's our approach to risk management?
+
+68
+00:04:00,970 --> 00:04:04,150
+That's all, how are we going to manage the
+risks?
+
+69
+00:04:04,390 --> 00:04:07,090
+How are we going to identify risks on our
+project?
+
+70
+00:04:07,710 --> 00:04:10,867
+That's all going to be documented here in
+the risk management plan.
+
+71
+00:04:10,950 --> 00:04:15,830
+Plus who is going to be identifying risks,
+who is responsible for risk.
+
+72
+00:04:16,190 --> 00:04:20,530
+But similar to how you have an issue
+owner, you also have a risk owner as well.
+
+73
+00:04:21,230 --> 00:04:24,730
+So you're going to be identifying roles
+and responsibilities.
+
+74
+00:04:26,230 --> 00:04:28,080
+Rolls and responsibilities for risks.
+
+75
+00:04:30,070 --> 00:04:33,173
+Potentially, a project, you
+may have hundreds and
+
+76
+00:04:33,174 --> 00:04:36,410
+hundreds, maybe thousands
+of risks on a project.
+
+77
+00:04:36,950 --> 00:04:38,929
+I like the project I just
+mentioned, building a
+
+78
+00:04:38,930 --> 00:04:41,331
+bridge spanning two countries
+between two mountains.
+
+79
+00:04:42,310 --> 00:04:44,070
+That's a huge major undertaking.
+
+80
+00:04:44,230 --> 00:04:46,643
+You're going to be
+identifying hundreds, if not
+
+81
+00:04:46,644 --> 00:04:49,090
+thousands and thousands
+of risks throughout the project.
+
+82
+00:04:49,091 --> 00:04:53,970
+Well, one person is not going to be
+responsible for all of those risks.
+
+83
+00:04:54,810 --> 00:04:55,643
+So who is?
+
+84
+00:04:56,390 --> 00:04:59,822
+So how are we going to
+identify risk owners and what's
+
+85
+00:04:59,823 --> 00:05:03,310
+their roles and responsibilities
+and so on and so forth?
+
+86
+00:05:03,830 --> 00:05:06,990
+That's all going to be documented in the
+risk management plan.
+
+87
+00:05:08,530 --> 00:05:12,908
+Now, based on that then, because
+we've got thousands of risks,
+
+88
+00:05:12,909 --> 00:05:16,710
+we're going to come up with
+different categories of risks.
+
+89
+00:05:17,550 --> 00:05:22,950
+we want to make sure then we understand we
+manage all of these risks right so we may
+
+90
+00:05:22,951 --> 00:05:28,250
+create different risk categories right so
+categories such as for example the
+
+91
+00:05:28,251 --> 00:05:33,570
+internal risk internal to our organization
+external to our organization risk related
+
+92
+00:05:33,571 --> 00:05:39,850
+to technology risk related to government
+standards right compliance and so and so
+
+93
+00:05:39,851 --> 00:05:43,950
+forth there may be many many different
+risk categories and so different teams
+
+94
+00:05:43,951 --> 00:05:46,602
+will be responsible for
+different risks Based on
+
+95
+00:05:46,603 --> 00:05:49,470
+that also, you may create
+a risk breakdown structure.
+
+96
+00:05:49,930 --> 00:05:51,493
+Similar to a work breakdown structure, we
+
+97
+00:05:51,494 --> 00:05:53,924
+may end it with a risk
+breakdown structure.
+
+98
+00:05:54,570 --> 00:05:59,010
+Now, many times when we are identifying
+risk, we have to figure out, well,
+
+99
+00:05:59,150 --> 00:06:00,547
+how do we deal with the risk?
+
+100
+00:06:00,630 --> 00:06:02,272
+And in order to figure
+out how to deal with
+
+101
+00:06:02,273 --> 00:06:04,924
+the risk, we have to prioritize our risk.
+
+102
+00:06:05,210 --> 00:06:07,620
+In order to prioritize our
+risk, we have to figure out,
+
+103
+00:06:07,621 --> 00:06:10,191
+well, what's the probability
+and impact of that risk?
+
+104
+00:06:11,710 --> 00:06:14,210
+So, how are we going to come up with the
+probability and impact?
+
+105
+00:06:14,211 --> 00:06:19,190
+Sometimes, or a lot of times, you're going
+to use arbitrary values like high,
+
+106
+00:06:19,610 --> 00:06:24,770
+medium low, scale of 1 to 10, or a red,
+yellow, green type of classification.
+
+107
+00:06:25,750 --> 00:06:26,950
+But what does that mean?
+
+108
+00:06:27,310 --> 00:06:29,210
+Scale of 1 to 10, what does that mean?
+
+109
+00:06:29,370 --> 00:06:31,270
+High, medium low, what does that mean?
+
+110
+00:06:31,730 --> 00:06:33,050
+That needs to be defined.
+
+111
+00:06:33,770 --> 00:06:38,050
+So the definitions of probability and
+impact need to be documented as well.
+
+112
+00:06:38,470 --> 00:06:41,320
+And where are they documented in the risk
+management plan?
+
+113
+00:06:41,830 --> 00:06:45,650
+And then plus also things like timing of
+risks.
+
+114
+00:06:46,190 --> 00:06:50,830
+How often are we going to be performing
+the risk planning?
+
+115
+00:06:51,430 --> 00:06:53,367
+What kind of meetings are we going to
+have?
+
+116
+00:06:53,450 --> 00:06:56,500
+How often are we going to have these risk
+management meetings?
+
+117
+00:06:56,770 --> 00:07:01,490
+And in fact, generally how we going to
+even identify risks and so and so forth?
+
+118
+00:07:01,590 --> 00:07:03,340
+How are we going to track the risk?
+
+119
+00:07:03,910 --> 00:07:05,410
+What's our tolerance limit?
+
+120
+00:07:06,150 --> 00:07:08,930
+Are we a risk-averse, risk-tolerant,
+right?
+
+121
+00:07:08,931 --> 00:07:15,030
+Are we risk-seeking or risk-averse, you
+know, so how are our stakeholders, right?
+
+122
+00:07:15,370 --> 00:07:18,370
+How are what's their approach to risk?
+
+123
+00:07:18,910 --> 00:07:20,260
+Plus things like budgeting.
+
+124
+00:07:22,070 --> 00:07:25,487
+How much money are we going to put in
+contingency reserves for our risk?
+
+125
+00:07:25,570 --> 00:07:30,603
+How are we going to identify how much
+money to put in contingency reserve, right?
+
+126
+00:07:30,730 --> 00:07:33,390
+And then how are we going to physically
+put them in?
+
+127
+00:07:33,391 --> 00:07:35,441
+Does it need to be approved, for example?
+
+128
+00:07:35,950 --> 00:07:39,770
+So you may have a threshold amount where,
+you know, if it's, less than a certain
+
+129
+00:07:39,771 --> 00:07:42,385
+amount, it doesn't need to be
+approved, but anything above
+
+130
+00:07:42,386 --> 00:07:45,247
+that, we need to go through
+the whole change control process.
+
+131
+00:07:45,330 --> 00:07:50,390
+So again, all of these need to be
+understood as early as possible,
+
+132
+00:07:51,010 --> 00:07:52,960
+right, at the beginning of the project.
+
+133
+00:07:53,130 --> 00:07:55,761
+So risk management
+should start right at the
+
+134
+00:07:55,762 --> 00:07:58,804
+beginning, right at the
+inception of the project.
+
+135
+00:07:59,330 --> 00:08:03,510
+I'm very early on in the project,
+we should have a very, very good
+
+136
+00:08:03,511 --> 00:08:06,127
+understanding of how
+we are going to manage
+
+137
+00:08:06,128 --> 00:08:09,304
+and control all of the
+risks in our project.
+
+138
+00:08:09,550 --> 00:08:12,950
+And they are all documented here in the
+risk management plan.
+
+139
+00:08:13,250 --> 00:08:15,130
+Again, procedures, right?
+
+140
+00:08:15,370 --> 00:08:16,920
+It's not documenting the risks.
+
+141
+00:08:17,410 --> 00:08:18,810
+It's documenting procedures.
+
+142
+00:08:19,490 --> 00:08:23,650
+And documenting how we're going to manage
+and control the risks on our project.
+
+143
+00:08:24,590 --> 00:08:25,423
+Okay.
+

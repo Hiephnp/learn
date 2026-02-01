@@ -1,0 +1,562 @@
+﻿1
+00:00:06,520 --> 00:00:08,592
+Okay, so in this video,
+we're going to cover
+
+2
+00:00:08,593 --> 00:00:11,280
+another tool called a
+source selection criteria.
+
+3
+00:00:12,140 --> 00:00:16,660
+Now, source selection criteria was
+considered a tool and technique of plan
+
+4
+00:00:16,661 --> 00:00:19,212
+resource management and it's basically
+
+5
+00:00:19,213 --> 00:00:23,354
+determining what vendors
+are going to work for us.
+
+6
+00:00:23,600 --> 00:00:26,297
+What kind of vendors are we going to reach
+out to, right?
+
+7
+00:00:26,380 --> 00:00:31,280
+So you're determining the type of vendor
+and basically what's selection criteria?
+
+8
+00:00:31,540 --> 00:00:35,860
+They have to meet a minimum criteria in
+order to be considered.
+
+9
+00:00:36,840 --> 00:00:42,460
+So, as a very, very simple example,
+again, let's think of something simple.
+
+10
+00:00:42,900 --> 00:00:44,457
+You're doing some work in your house.
+
+11
+00:00:44,540 --> 00:00:46,940
+Are you doing some remodeling work in your
+house?
+
+12
+00:00:47,660 --> 00:00:49,860
+Well, there's thousands of vendors out
+there.
+
+13
+00:00:50,020 --> 00:00:52,057
+There's thousands and thousands of
+contractors.
+
+14
+00:00:52,140 --> 00:00:53,840
+Which one are you going to choose?
+
+15
+00:00:54,360 --> 00:01:00,200
+You are not going to reach out to big,
+huge, large construction firms to do some
+
+16
+00:01:00,201 --> 00:01:03,300
+remodeling work in your house normally,
+right?
+
+17
+00:01:03,301 --> 00:01:08,060
+you would probably reach
+out to small local contractors,
+
+18
+00:01:08,061 --> 00:01:11,331
+small local vendors in order
+to do some remodeling work.
+
+19
+00:01:11,600 --> 00:01:14,500
+Using big, huge, large construction firms
+is just overkill.
+
+20
+00:01:15,280 --> 00:01:19,230
+And plus most of these large construction
+firms are not going to do a small job,
+
+21
+00:01:19,640 --> 00:01:21,840
+like just some remodeling work in your
+house.
+
+22
+00:01:22,020 --> 00:01:24,570
+So you're going to have your own selection
+criteria.
+
+23
+00:01:25,040 --> 00:01:28,880
+And that's really what this refers to what
+vendors are going to work for us.
+
+24
+00:01:29,020 --> 00:01:32,089
+They have to meet a
+minimum criteria in order for
+
+25
+00:01:32,090 --> 00:01:34,601
+them to, in order for
+us to reach out to them.
+
+26
+00:01:35,020 --> 00:01:37,363
+And generally, you do
+this before you submit an
+
+27
+00:01:37,364 --> 00:01:39,834
+RFP, before you submit
+a request for a proposal.
+
+28
+00:01:40,320 --> 00:01:45,020
+So just some very simple examples here,
+lowest cost vendor, right?
+
+29
+00:01:45,140 --> 00:01:48,680
+Some organizations will say, we have to go
+with the lowest cost vendor.
+
+30
+00:01:49,480 --> 00:01:52,280
+So low cost vendor or lowest cost
+qualified vendor.
+
+31
+00:01:52,780 --> 00:01:56,520
+And then there's a whole selection
+criteria on what you mean by qualified.
+
+32
+00:01:57,100 --> 00:02:01,040
+And then sometimes it's just based on
+qualification certification, right?
+
+33
+00:02:01,160 --> 00:02:05,960
+The vendor has to have at least this
+minimum certification or this minimum
+
+34
+00:02:06,360 --> 00:02:07,193
+qualification.
+
+35
+00:02:07,560 --> 00:02:09,900
+Otherwise, we're not going to reach out to
+them, such as, for example, they have to
+
+36
+00:02:09,901 --> 00:02:13,620
+be a six sigma or they have to be CMI
+level three.
+
+37
+00:02:14,100 --> 00:02:16,450
+Otherwise, we're not going to reach out to
+them.
+
+38
+00:02:16,720 --> 00:02:20,620
+Could be also based on their size and
+experience, right?
+
+39
+00:02:20,680 --> 00:02:21,980
+So we want a large vendor.
+
+40
+00:02:22,400 --> 00:02:24,743
+Or we don't want a large
+vendor, we only want a small
+
+41
+00:02:24,744 --> 00:02:27,320
+vendor, just like again, when
+you're remodeling your house.
+
+42
+00:02:27,321 --> 00:02:30,540
+so you're not going to reach out to big,
+huge, large construction firms, right?
+
+43
+00:02:30,720 --> 00:02:33,100
+So you're going to reach out to a small
+company.
+
+44
+00:02:33,840 --> 00:02:38,940
+Also, based on certain classifications,
+right, so those of you that work for the
+
+45
+00:02:38,941 --> 00:02:43,780
+US government or any of the US government
+agencies or contracting companies,
+
+46
+00:02:44,340 --> 00:02:45,856
+right, you may have come across this
+
+47
+00:02:45,857 --> 00:02:48,934
+classification called
+veteran-owned small business.
+
+48
+00:02:49,380 --> 00:02:52,457
+And there's other classifications as well,
+minority-owned small business,
+
+49
+00:02:52,540 --> 00:02:56,060
+woman-owned small business, and many other
+classifications as well.
+
+50
+00:02:56,061 --> 00:02:59,360
+A lot of government agencies use this as a
+minimum criteria.
+
+51
+00:02:59,900 --> 00:03:04,280
+You have to be a veteran-owned small
+business in order to bid on this contract.
+
+52
+00:03:04,620 --> 00:03:10,120
+So this is a project that is a set-aside
+for a veteran-owned small business or a
+
+53
+00:03:10,121 --> 00:03:13,057
+woman-owned small business or a
+minority-owned small business.
+
+54
+00:03:13,140 --> 00:03:17,100
+So you have to meet this minimum criteria
+in order to bid on the contract.
+
+55
+00:03:17,420 --> 00:03:21,680
+If your organization does not fall into
+that classification, there's no point in
+
+56
+00:03:21,681 --> 00:03:25,700
+even applying, even bidding on that
+contract.
+
+57
+00:03:26,880 --> 00:03:33,260
+So there's many, many different criteria
+that you and your organization will be
+
+58
+00:03:33,261 --> 00:03:38,700
+considering, right, when you're trying
+to determine which vendor to use, right?
+
+59
+00:03:38,701 --> 00:03:42,640
+Could be based on the management approach,
+based on past performance, right?
+
+60
+00:03:42,740 --> 00:03:44,485
+So based on that, since we're going with,
+
+61
+00:03:44,486 --> 00:03:47,054
+say, a small vendor, we
+want some references.
+
+62
+00:03:47,680 --> 00:03:50,044
+So, you know, the vendors have to supply
+
+63
+00:03:50,045 --> 00:03:52,640
+minimum of three
+references and so and so forth.
+
+64
+00:03:52,780 --> 00:03:54,660
+So there's many things that you might be
+considering.
+
+65
+00:03:54,661 --> 00:04:00,200
+These are just a handful, like,
+just some of the more common criteria,
+
+66
+00:04:00,660 --> 00:04:02,610
+some of the more common considerations.
+
+67
+00:04:04,680 --> 00:04:07,640
+But that's what the source selection
+criteria first do.
+
+68
+00:04:07,880 --> 00:04:09,860
+They have to meet a minimum criteria.
+
+69
+00:04:11,760 --> 00:04:16,234
+Now, along with this, there are
+two other terms, and these fall
+
+70
+00:04:16,235 --> 00:04:19,500
+under what's known as
+non-competitive forms of procurement.
+
+71
+00:04:20,300 --> 00:04:23,600
+So remember, we're trying to determine
+what vendor are we going to reach out to?
+
+72
+00:04:23,601 --> 00:04:24,434
+Right?
+
+73
+00:04:24,560 --> 00:04:27,880
+Well, you might come across this time
+called a sole source.
+
+74
+00:04:29,080 --> 00:04:34,220
+Soul source basically means that there is
+only one vendor that we can reach out to,
+
+75
+00:04:34,840 --> 00:04:37,395
+either because they are
+a monopoly or because
+
+76
+00:04:37,396 --> 00:04:40,554
+of some exclusive rights that they have.
+
+77
+00:04:40,740 --> 00:04:43,405
+Right, so a monopoly
+basically means they're
+
+78
+00:04:43,406 --> 00:04:45,580
+the only vendor that can perform the work.
+
+79
+00:04:45,700 --> 00:04:47,117
+They're the only organisation.
+
+80
+00:04:47,200 --> 00:04:49,140
+No one else can perform this work.
+
+81
+00:04:49,740 --> 00:04:51,580
+That's what monopoly obviously refers to.
+
+82
+00:04:51,581 --> 00:04:53,878
+So if there's the only
+vendor that can perform the
+
+83
+00:04:53,879 --> 00:04:56,740
+work, then obviously we
+don't have a choice, right?
+
+84
+00:04:57,020 --> 00:04:58,580
+Which vendor we're going to reach out to?
+
+85
+00:04:58,660 --> 00:05:00,960
+Well, we can only reach out to this one
+vendor.
+
+86
+00:05:01,480 --> 00:05:05,900
+Or it could be because they have exclusive
+rights, such as patents.
+
+87
+00:05:06,120 --> 00:05:09,080
+Right, they've got some patents or
+copyrights, right?
+
+88
+00:05:09,180 --> 00:05:12,020
+So they have exclusive rights to this
+particular work.
+
+89
+00:05:12,600 --> 00:05:14,200
+So we have to reach out to them.
+
+90
+00:05:14,560 --> 00:05:18,360
+Or it could also be because of some prior
+relationship that we have with them.
+
+91
+00:05:18,361 --> 00:05:21,868
+So, a prior relationship,
+such as some of you
+
+92
+00:05:21,869 --> 00:05:25,414
+may have come across
+a sole source contract.
+
+93
+00:05:25,780 --> 00:05:29,930
+So this is a sole source contract for two
+years or a five-year sole source contract,
+
+94
+00:05:30,160 --> 00:05:35,800
+which basically gives this vendor
+exclusive rights to any work that,
+
+95
+00:05:36,280 --> 00:05:39,720
+or any relevant work that we need to
+outsource.
+
+96
+00:05:40,680 --> 00:05:45,260
+So we have to outsource it to this sole
+source contractor.
+
+97
+00:05:45,261 --> 00:05:48,688
+So we have this prior
+relationship with them,
+
+98
+00:05:48,689 --> 00:05:51,580
+or in this case, this
+is this prior contract.
+
+99
+00:05:51,780 --> 00:05:53,130
+They have exclusive rights.
+
+100
+00:05:54,240 --> 00:05:57,640
+Another term that's very similar is
+something called a single source.
+
+101
+00:05:58,160 --> 00:06:01,260
+A single source refers to preferred
+vendor.
+
+102
+00:06:02,060 --> 00:06:03,720
+It refers to a preferred vendor.
+
+103
+00:06:04,900 --> 00:06:07,180
+So we need to outsource this work.
+
+104
+00:06:07,920 --> 00:06:09,270
+We have a preferred vendor.
+
+105
+00:06:09,440 --> 00:06:11,017
+We prefer to go out to this one vendor.
+
+106
+00:06:11,100 --> 00:06:12,657
+There may be a couple of preferred
+vendors.
+
+107
+00:06:12,740 --> 00:06:14,460
+We're going to reach out to these
+preferred vendors.
+
+108
+00:06:14,461 --> 00:06:16,880
+However, there's no obligation.
+
+109
+00:06:17,780 --> 00:06:20,351
+There's still many contractors
+out there, many vendors
+
+110
+00:06:20,352 --> 00:06:23,480
+out there, that we can still
+reach out to if we wanted.
+
+111
+00:06:23,960 --> 00:06:28,620
+They're a preferred vendor, but there is
+no obligation for us to reach out to them.
+
+112
+00:06:29,980 --> 00:06:33,630
+So that's the basic difference then
+between sole source and single source.
+
+113
+00:06:33,760 --> 00:06:35,700
+With sole source, we have no option.
+
+114
+00:06:36,060 --> 00:06:37,017
+There's only one vendor.
+
+115
+00:06:37,100 --> 00:06:38,797
+We have to reach out to this one vendor.
+
+116
+00:06:38,880 --> 00:06:42,796
+With a single source, there
+may be one or two preferred
+
+117
+00:06:42,876 --> 00:06:46,420
+vendors, but there's no
+obligation to reach out to them.
+
+118
+00:06:46,421 --> 00:06:47,254
+Okay.
+

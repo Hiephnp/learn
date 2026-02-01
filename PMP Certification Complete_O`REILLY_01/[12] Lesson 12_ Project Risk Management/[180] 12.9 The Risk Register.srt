@@ -1,0 +1,514 @@
+﻿1
+00:00:06,530 --> 00:00:10,240
+Okay, so in this video we're going to
+discuss the risk register.
+
+2
+00:00:11,000 --> 00:00:14,438
+The risk register is considered to be an
+
+3
+00:00:14,439 --> 00:00:18,974
+output of the process
+called Identify Risk.
+
+4
+00:00:19,060 --> 00:00:24,408
+So one of the 49 Pinbox six
+processes is Identify Risk and
+
+5
+00:00:24,409 --> 00:00:29,040
+the risk register is considered
+as an output of that process.
+
+6
+00:00:29,810 --> 00:00:31,480
+It's an artifact, right?
+
+7
+00:00:31,481 --> 00:00:37,060
+Again, most outputs of those pinbox six
+processes are artifacts, right?
+
+8
+00:00:37,120 --> 00:00:38,020
+They're documents.
+
+9
+00:00:38,360 --> 00:00:41,760
+And this is a very, very important
+artifact, very important document.
+
+10
+00:00:42,280 --> 00:00:45,980
+And it's basically going to be documenting
+all of the risks on the project.
+
+11
+00:00:46,640 --> 00:00:49,440
+And you are documenting all risks that
+you've identified.
+
+12
+00:00:50,260 --> 00:00:53,060
+So this is a very simple example then of a
+risk register.
+
+13
+00:00:53,880 --> 00:00:58,640
+Now this is not necessarily a PMI approved
+template, right, as such, right?
+
+14
+00:00:58,641 --> 00:01:03,520
+PMI do not necessarily have templates for
+all of their artifacts.
+
+15
+00:01:04,020 --> 00:01:06,020
+What PMI are doing is setting standards.
+
+16
+00:01:06,240 --> 00:01:09,034
+They're saying this is a
+kind of information that
+
+17
+00:01:09,035 --> 00:01:13,200
+you're expecting to
+document in these artifacts.
+
+18
+00:01:13,800 --> 00:01:17,350
+Now, how you actually want to lay out,
+how you actually want to show it,
+
+19
+00:01:17,700 --> 00:01:19,000
+that's entirely up to you.
+
+20
+00:01:19,340 --> 00:01:23,000
+So this is just a very simple example then
+of a risk register.
+
+21
+00:01:23,520 --> 00:01:28,960
+So the risk register is essentially going
+to contain all of the details regarding
+
+22
+00:01:28,961 --> 00:01:34,040
+the risk, as many, as much detail as you
+see fit.
+
+23
+00:01:34,520 --> 00:01:38,480
+And you as a project manager, you,
+your team, you're going to determine what
+
+24
+00:01:38,481 --> 00:01:40,497
+we're going to be documenting in the risk
+register.
+
+25
+00:01:40,580 --> 00:01:42,780
+What is our risk register going to look
+like?
+
+26
+00:01:42,980 --> 00:01:46,597
+And really, it's nothing more than just a
+spreadsheet, as you can see, right?
+
+27
+00:01:46,680 --> 00:01:48,700
+You may have a risk ID, right,
+each risk.
+
+28
+00:01:48,860 --> 00:01:51,265
+I mean, you're going to be
+identifying potentially thousands
+
+29
+00:01:51,266 --> 00:01:53,757
+of risks depending on the
+size and nature of your project.
+
+30
+00:01:53,840 --> 00:01:55,600
+So you may have a risk ID.
+
+31
+00:01:55,960 --> 00:01:58,177
+You're definitely going to have a
+description of the risk.
+
+32
+00:01:58,260 --> 00:01:58,380
+Right.
+
+33
+00:01:58,680 --> 00:01:59,580
+What is this risk?
+
+34
+00:01:59,940 --> 00:02:02,760
+You may identify the probability and the
+impact.
+
+35
+00:02:03,760 --> 00:02:08,060
+So the probability and the impact could be
+from a quantitative perspective,
+
+36
+00:02:08,520 --> 00:02:11,780
+a quantitative value, or it could be a
+qualitative value.
+
+37
+00:02:12,200 --> 00:02:16,700
+A qualitative value would be things like
+high, medium low, scale of 1 to 10.
+
+38
+00:02:17,020 --> 00:02:19,420
+So what's the probability of this risk
+occurring?
+
+39
+00:02:19,720 --> 00:02:20,777
+It's a high probability.
+
+40
+00:02:20,860 --> 00:02:21,760
+What's the impact?
+
+41
+00:02:21,860 --> 00:02:22,760
+It's a low impact.
+
+42
+00:02:23,240 --> 00:02:26,280
+That would be the qualitative,
+or on a scale of 1 to 10.
+
+43
+00:02:26,620 --> 00:02:31,000
+On a scale of 1 to 10, I think the
+probability of this risk is maybe a six,
+
+44
+00:02:31,420 --> 00:02:34,440
+on a scale of 1 to 10, the impact if it
+occurs will be an 8.
+
+45
+00:02:35,500 --> 00:02:40,420
+So you may do it from a qualitative
+perspective, or you may do it from a
+
+46
+00:02:40,421 --> 00:02:43,971
+quantitative perspective where you're
+actually adding in a dollar value.
+
+47
+00:02:44,160 --> 00:02:46,410
+What's the probability of this risk
+occurring?
+
+48
+00:02:46,660 --> 00:02:47,837
+It would be in a percentage.
+
+49
+00:02:47,920 --> 00:02:50,470
+Oh, there's a 30% chance that this risk
+might occur.
+
+50
+00:02:50,600 --> 00:02:52,120
+What's impact if it occurs?
+
+51
+00:02:52,300 --> 00:02:53,800
+Oh, there's a $20,000 impact.
+
+52
+00:02:54,520 --> 00:02:58,670
+So the qualitative is
+just arbitrary values, high,
+
+53
+00:02:58,671 --> 00:03:01,871
+medium low, scale of 1
+to 10 and that kind of thing.
+
+54
+00:03:02,800 --> 00:03:08,380
+Now, the example that I gave you just now
+from the qualitative, right, on a scale of
+
+55
+00:03:08,381 --> 00:03:12,031
+1 to 10, what's the probability,
+on a scale of 1 to 10, what's the impact?
+
+56
+00:03:12,420 --> 00:03:13,820
+Well, where is that defined?
+
+57
+00:03:14,220 --> 00:03:16,611
+If I say on a scale of 1
+to 10, the probability of
+
+58
+00:03:16,612 --> 00:03:19,700
+this risk occurring is a 7,
+well, what does that mean?
+
+59
+00:03:20,860 --> 00:03:22,097
+What does that exactly mean?
+
+60
+00:03:22,180 --> 00:03:23,440
+That has to be defined somewhere.
+
+61
+00:03:23,441 --> 00:03:26,680
+and that's going to be defined in the risk
+management plan.
+
+62
+00:03:27,500 --> 00:03:31,060
+So remember, a management plan is going to
+be documenting procedures.
+
+63
+00:03:31,660 --> 00:03:35,700
+So the risk management plan is going to be
+documenting the definition then of
+
+64
+00:03:35,701 --> 00:03:38,620
+probability and impact using these
+arbitrary values.
+
+65
+00:03:39,360 --> 00:03:45,040
+But if it's a quantitative value,
+right, so there's a 50% probability that
+
+66
+00:03:45,041 --> 00:03:47,900
+we may end up spending an additional
+$20,000.
+
+67
+00:03:48,240 --> 00:03:51,180
+Well, you know, that's an absolute value.
+
+68
+00:03:51,940 --> 00:03:55,620
+So, UMA then, you know, what's the result
+of that?
+
+69
+00:03:55,960 --> 00:03:58,446
+There's another column
+here for risk score,
+
+70
+00:03:58,447 --> 00:04:01,160
+or it could be EMV,
+expected monetary value.
+
+71
+00:04:02,340 --> 00:04:04,420
+So again, what does the risk score mean?
+
+72
+00:04:04,540 --> 00:04:07,020
+What does the EMV mean, expected monetary
+value?
+
+73
+00:04:07,480 --> 00:04:12,120
+So if it's a qualitative side,
+probability and impact arbitrary values,
+
+74
+00:04:12,640 --> 00:04:16,480
+right, then probability times impact will
+be the score, the risk score.
+
+75
+00:04:17,100 --> 00:04:21,160
+If it's a quantitative value, right,
+so you're adding a dollar value.
+
+76
+00:04:21,180 --> 00:04:26,780
+value, the probability and the impact will
+be a percentage times the actual value,
+
+77
+00:04:27,040 --> 00:04:30,240
+times the impact, which will be the EMV,
+expected monetary value.
+
+78
+00:04:30,740 --> 00:04:35,980
+We have videos on qualitative risk
+analysis, where we are using these
+
+79
+00:04:35,981 --> 00:04:40,200
+arbitrary values, high, medium,
+low scale of 1 to 10.
+
+80
+00:04:41,640 --> 00:04:46,600
+We have separate videos on quantitative
+analysis, where we're actually adding in a
+
+81
+00:04:46,601 --> 00:04:52,900
+dollar value and calculating the EMV,
+the expected monetary value.
+
+82
+00:04:53,540 --> 00:04:56,081
+We also have videos
+on all of these other items
+
+83
+00:04:56,082 --> 00:04:58,620
+that we're going to be
+talking about as well.
+
+84
+00:04:58,680 --> 00:05:01,437
+So the category of risk, that's going to
+be documented here.
+
+85
+00:05:01,520 --> 00:05:03,220
+What's going to trigger that risk?
+
+86
+00:05:03,500 --> 00:05:05,340
+And then a separate video,
+we're going to be talking
+
+87
+00:05:05,341 --> 00:05:07,301
+about the different
+risk response strategies.
+
+88
+00:05:07,760 --> 00:05:11,360
+Now that we've identified the risk,
+well, how do we respond to that risk?
+
+89
+00:05:11,860 --> 00:05:14,313
+Contingency reserve as
+well, remember contingency
+
+90
+00:05:14,314 --> 00:05:17,380
+reserves is money that
+you've set aside for known risks.
+
+91
+00:05:18,020 --> 00:05:20,532
+So you've identified these
+risks here, how much money are
+
+92
+00:05:20,533 --> 00:05:24,320
+putting in contingency reserves
+in case those risks materialises.
+
+93
+00:05:25,000 --> 00:05:27,920
+And the last column here is a risk owner.
+
+94
+00:05:28,820 --> 00:05:30,770
+So every risk has to have a risk owner.
+
+95
+00:05:31,260 --> 00:05:33,740
+So who is responsible for this risk?
+
+96
+00:05:34,040 --> 00:05:36,442
+Now that we've identified it, now that who
+
+97
+00:05:36,443 --> 00:05:39,060
+could be an individual
+or it could be a team.
+
+98
+00:05:39,500 --> 00:05:41,697
+However, someone needs to be responsible,
+right?
+
+99
+00:05:41,780 --> 00:05:46,080
+So exactly the same way as how we have
+issues or rather we have an issue owner,
+
+100
+00:05:46,840 --> 00:05:49,640
+right then we will have a risk owner as
+well.
+
+101
+00:05:50,220 --> 00:05:53,720
+So this is just a very, very simple
+example here of a risk register.
+
+102
+00:05:54,220 --> 00:05:59,080
+So the risk register is going to be
+documenting all risks on your project,
+
+103
+00:05:59,740 --> 00:06:03,660
+regardless of what the probability is,
+what the impact is, whether it's high
+
+104
+00:06:03,661 --> 00:06:07,280
+probability or low probability,
+whether it's a high impact or low impact.
+
+105
+00:06:07,480 --> 00:06:08,730
+You've identified a risk.
+
+106
+00:06:09,100 --> 00:06:11,434
+You know, somebody
+has identified a risk is
+
+107
+00:06:11,435 --> 00:06:14,614
+going to be documented
+here in the risk register.
+
+108
+00:06:15,640 --> 00:06:16,473
+Thank you.
+

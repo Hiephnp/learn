@@ -1,0 +1,345 @@
+﻿1
+00:00:06,010 --> 00:00:09,468
+In this video, we're
+going to just introduce
+
+2
+00:00:09,469 --> 00:00:12,924
+the concept of quantitative risk analysis.
+
+3
+00:00:13,710 --> 00:00:21,890
+Now, quantitative risk analysis then is
+basically analyzing your risks using an
+
+4
+00:00:21,891 --> 00:00:25,570
+actual dollar value, right, an actual
+dollar value.
+
+5
+00:00:26,030 --> 00:00:30,190
+And we're going to basically be creating
+or we're going to be calculating something
+
+6
+00:00:30,191 --> 00:00:32,910
+called expected monetary value,
+EMV.
+
+7
+00:00:33,450 --> 00:00:35,789
+Now more about that
+in just a second, I just
+
+8
+00:00:35,790 --> 00:00:38,404
+want to first mention
+this exam tip, right?
+
+9
+00:00:38,490 --> 00:00:42,490
+I know we've mentioned it in previous
+videos as well, but again, I just want to
+
+10
+00:00:42,491 --> 00:00:45,750
+reiterate because this is very,
+very important.
+
+11
+00:00:46,430 --> 00:00:51,790
+Do not confuse qualitative risk analysis
+and quantitative risk analysis.
+
+12
+00:00:52,510 --> 00:00:55,950
+They both sound very, very similar.
+
+13
+00:00:56,490 --> 00:00:59,764
+If you look at the spelling,
+the spelling looks very
+
+14
+00:00:59,765 --> 00:01:02,810
+similar, but they are two
+very different processes.
+
+15
+00:01:03,910 --> 00:01:09,110
+With qualitative risk analysis,
+you are analysing your risk and you are
+
+16
+00:01:09,111 --> 00:01:14,690
+ranking and prioritising your risk based
+on arbitrary values, high, medium low,
+
+17
+00:01:15,010 --> 00:01:18,770
+scale of 1 to 10, you know, any other
+arbitrary value.
+
+18
+00:01:20,230 --> 00:01:25,070
+With quantitative, we are actually putting
+in a dollar value to our risk.
+
+19
+00:01:25,810 --> 00:01:28,690
+We're actually adding in some absolute
+values.
+
+20
+00:01:28,990 --> 00:01:32,190
+Dollar value, it could be a scheduling
+impact, right?
+
+21
+00:01:32,330 --> 00:01:34,730
+It could be a impact to our resources.
+
+22
+00:01:35,910 --> 00:01:37,910
+So that is what quantitative is.
+
+23
+00:01:38,570 --> 00:01:43,750
+So make sure when you are reading an exam
+question, especially when you're two hours
+
+24
+00:01:43,751 --> 00:01:47,850
+or three hours into an exam, it's very,
+very easy to misread.
+
+25
+00:01:48,310 --> 00:01:52,330
+So let's talk about quantitative then,
+quantitative risk analysis.
+
+26
+00:01:52,790 --> 00:01:54,790
+Now, remember, a risk is an uncertainty.
+
+27
+00:01:55,070 --> 00:01:55,590
+It may happen.
+
+28
+00:01:55,850 --> 00:01:56,750
+It may not happen.
+
+29
+00:01:57,030 --> 00:02:00,330
+And you can have a positive risk or you
+could have a negative risk.
+
+30
+00:02:01,830 --> 00:02:05,280
+But when you're coming up with a risk,
+right, when you're identifying,
+
+31
+00:02:05,410 --> 00:02:10,370
+well, there's going to be some kind of
+actual, you know, impact to the risk,
+
+32
+00:02:11,030 --> 00:02:13,405
+meaning there could be
+a dollar impact, it could be
+
+33
+00:02:13,406 --> 00:02:16,230
+a timeline, it could be a
+resource impact, right?
+
+34
+00:02:16,330 --> 00:02:17,980
+So as a very simple example then.
+
+35
+00:02:18,270 --> 00:02:22,149
+If, you know, if material
+prices increases, then there's
+
+36
+00:02:22,150 --> 00:02:25,290
+going to have a dollar
+impact on our project, right?
+
+37
+00:02:25,370 --> 00:02:28,070
+So we've identified, or material prices
+might increase.
+
+38
+00:02:28,310 --> 00:02:31,142
+If material prices
+increases by this much, then
+
+39
+00:02:31,143 --> 00:02:33,490
+this will have a $20,000
+impact on our project.
+
+40
+00:02:33,570 --> 00:02:37,370
+We'll end up having to spend an additional
+$20,000 in our project, right?
+
+41
+00:02:37,410 --> 00:02:41,430
+If it happens, right, or it could be a
+scheduling impact, right?
+
+42
+00:02:41,431 --> 00:02:46,870
+If vendor delay shipment of raw materials,
+right, then, you know, we may end up
+
+43
+00:02:46,871 --> 00:02:50,210
+delaying our project by a week,
+right, or two weeks.
+
+44
+00:02:50,310 --> 00:02:52,110
+We may end up going behind schedule.
+
+45
+00:02:52,930 --> 00:02:54,870
+Or there might be some additional
+resource.
+
+46
+00:02:54,871 --> 00:02:56,810
+it might impact a resource.
+
+47
+00:02:57,830 --> 00:03:01,890
+So if we realize that this activity is
+bigger than what we were expecting,
+
+48
+00:03:02,310 --> 00:03:05,460
+we might need some additional team members
+to work on this task.
+
+49
+00:03:06,470 --> 00:03:08,150
+So that's all negative.
+
+50
+00:03:08,350 --> 00:03:10,000
+It could also be a positive risk.
+
+51
+00:03:10,130 --> 00:03:11,687
+What if material prices come down?
+
+52
+00:03:11,770 --> 00:03:14,065
+There's a chance of material
+prices might come down, in
+
+53
+00:03:14,066 --> 00:03:16,831
+which case then we might end
+up actually saving some money.
+
+54
+00:03:17,410 --> 00:03:22,150
+So this is all then quantitative risk
+analysis, actually adding some kind of
+
+55
+00:03:22,151 --> 00:03:27,570
+dollar value or having some kind of actual
+specific impact on our project,
+
+56
+00:03:27,730 --> 00:03:30,830
+whether it's a schedule impact,
+whether it's a monetary impact.
+
+57
+00:03:31,630 --> 00:03:34,730
+Now, as a general rule, though,
+if they're asking you to do any
+
+58
+00:03:34,731 --> 00:03:38,790
+calculations on the exam, usually it's
+going to be from a monetary perspective.
+
+59
+00:03:39,490 --> 00:03:42,167
+Generally, it's going to be from a
+monetary perspective.
+
+60
+00:03:42,250 --> 00:03:44,386
+And the formula is the same as what we saw
+
+61
+00:03:44,387 --> 00:03:47,124
+in the qualitative risk
+analysis discussion.
+
+62
+00:03:47,230 --> 00:03:48,730
+It's exactly the same formula.
+
+63
+00:03:49,290 --> 00:03:53,890
+It's still probability times impact,
+except this time it's your dollar impact.
+
+64
+00:03:54,630 --> 00:03:59,390
+probability times whatever your dollar
+impact is or your monetary impact and that
+
+65
+00:03:59,391 --> 00:04:03,850
+equals something called EMV expected
+monetary value.
+
+66
+00:04:05,330 --> 00:04:10,630
+Formal is very simple right and we're
+going to be covering some calculations on
+
+67
+00:04:10,631 --> 00:04:15,510
+this in a separate video but it's
+literally probability in the exam they
+
+68
+00:04:15,511 --> 00:04:19,610
+will always give your probability and the
+probability will generally be in the form
+
+69
+00:04:19,611 --> 00:04:24,150
+of a percentage times your impact your
+dollar impact right your monetary impact
+
+70
+00:04:24,170 --> 00:04:29,110
+again they will always give you that on
+the exam and that equals your EMV expected
+
+71
+00:04:29,111 --> 00:04:33,050
+monetary value so you just multiply the
+two numbers together and that gives you
+
+72
+00:04:33,051 --> 00:04:38,491
+your EMV so again we've got some
+calculations on this on a separate video okay
+

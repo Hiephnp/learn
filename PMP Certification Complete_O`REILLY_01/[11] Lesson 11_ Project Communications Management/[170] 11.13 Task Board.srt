@@ -1,0 +1,100 @@
+﻿1
+00:00:05,820 --> 00:00:11,340
+Let's talk about the task board,
+often called a Kanban board.
+
+2
+00:00:12,800 --> 00:00:19,120
+So Assad has been talking about agile a
+lot throughout the class.
+
+3
+00:00:20,300 --> 00:00:23,820
+So you already know communications are
+transparent.
+
+4
+00:00:24,620 --> 00:00:31,100
+They have on the board information
+radiator, all project information,
+
+5
+00:00:32,240 --> 00:00:35,500
+burn up charts, burn down charts,
+velocity charts.
+
+6
+00:00:36,740 --> 00:00:39,260
+Kanban or task boards.
+
+7
+00:00:40,500 --> 00:00:48,254
+They are very transparent in communications,
+which I think is a very good thing.
+
+8
+00:00:48,840 --> 00:00:54,200
+So on this information radiator,
+remember it's a large area near the team
+
+9
+00:00:54,201 --> 00:00:56,960
+who's supposed to be co-located if it's
+all possible.
+
+10
+00:00:57,640 --> 00:00:59,480
+All that information is there.
+
+11
+00:01:00,040 --> 00:01:02,000
+So there is transparency.
+
+12
+00:01:03,100 --> 00:01:03,220
+All right.
+
+13
+00:01:03,380 --> 00:01:08,660
+So the task board can show the different
+stories.
+
+14
+00:01:09,580 --> 00:01:10,580
+These are the to-do.
+
+15
+00:01:11,300 --> 00:01:13,520
+And so they look like a little post-its.
+
+16
+00:01:14,480 --> 00:01:16,580
+And a lot of times they use post-it notes.
+
+17
+00:01:17,180 --> 00:01:19,580
+So what stories still need to be done?
+
+18
+00:01:20,220 --> 00:01:22,260
+What's the work in progress?
+
+19
+00:01:22,700 --> 00:01:29,140
+What still has to be tested, verified and
+what is done so that the team and any
+
+20
+00:01:29,141 --> 00:01:33,740
+stakeholder who comes by can see exactly
+the progress of the project.
+
+21
+00:01:34,280 --> 00:01:35,180
+It's a great idea.
+
+22
+00:01:35,680 --> 00:01:40,260
+So I think we should do more of those no
+matter what type of project you have.
+

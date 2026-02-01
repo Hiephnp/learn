@@ -1,0 +1,91 @@
+﻿1
+00:00:06,460 --> 00:00:08,760
+Let's cover the communication methods.
+
+2
+00:00:09,780 --> 00:00:13,400
+So, the first one we have is interactive
+back and forth.
+
+3
+00:00:14,140 --> 00:00:17,660
+That's usually always the best way,
+especially if it's face to face.
+
+4
+00:00:18,560 --> 00:00:22,560
+All right, so interactive communications,
+conversations, video conferencing.
+
+5
+00:00:23,260 --> 00:00:26,920
+If you cannot be together, video
+conferencing is the next best.
+
+6
+00:00:27,680 --> 00:00:29,530
+All right, so you can see each other.
+
+7
+00:00:29,900 --> 00:00:31,650
+Brainstorming coming up with ideas.
+
+8
+00:00:32,520 --> 00:00:39,520
+All right, push communications we're going
+to send out emails, leave a voicemail,
+
+9
+00:00:39,680 --> 00:00:40,800
+send out a fax.
+
+10
+00:00:41,600 --> 00:00:44,395
+So push communications is one way sent to
+
+11
+00:00:44,396 --> 00:00:47,694
+specific stakeholders
+who need the information.
+
+12
+00:00:48,640 --> 00:00:52,280
+Doesn't mean they received or understood
+the message.
+
+13
+00:00:53,920 --> 00:00:54,920
+Pull communications.
+
+14
+00:00:56,260 --> 00:01:00,837
+So do think a central
+repository, we're going to put
+
+15
+00:01:00,838 --> 00:01:05,680
+all our project information
+in SharePoint, for example.
+
+16
+00:01:06,920 --> 00:01:12,320
+So we still have to push it there,
+but the stakeholders will have to pull it.
+
+17
+00:01:13,000 --> 00:01:13,833
+Pull.
+
+18
+00:01:15,660 --> 00:01:17,080
+Go get that information.
+
+19
+00:01:17,520 --> 00:01:17,680
+All right.
+
+20
+00:01:18,000 --> 00:01:22,100
+So those are the shared drives,
+wikis, Internet.
+

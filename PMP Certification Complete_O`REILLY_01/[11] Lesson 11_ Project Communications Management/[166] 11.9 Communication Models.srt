@@ -1,0 +1,184 @@
+﻿1
+00:00:05,920 --> 00:00:08,220
+The communication models.
+
+2
+00:00:09,600 --> 00:00:12,600
+So we have a basic sender-receiver model.
+
+3
+00:00:13,560 --> 00:00:13,820
+All right.
+
+4
+00:00:14,380 --> 00:00:21,940
+So the sender has an idea, has to put it
+into some message.
+
+5
+00:00:22,680 --> 00:00:24,140
+So they encode.
+
+6
+00:00:24,600 --> 00:00:25,700
+That's what encode is.
+
+7
+00:00:26,000 --> 00:00:27,780
+Put that idea into a message.
+
+8
+00:00:28,420 --> 00:00:32,200
+Then they have to transmit it,
+actually send it.
+
+9
+00:00:33,560 --> 00:00:35,860
+The receiver will get it.
+
+10
+00:00:35,920 --> 00:00:39,280
+and decode, make sense of it.
+
+11
+00:00:40,040 --> 00:00:42,680
+So that's the basic sender-receiver model.
+
+12
+00:00:43,300 --> 00:00:48,440
+There are two more steps they added for
+interactive.
+
+13
+00:00:49,340 --> 00:00:50,390
+We have acknowledged.
+
+14
+00:00:52,220 --> 00:00:54,700
+So the receiver got the message.
+
+15
+00:00:55,660 --> 00:00:57,260
+Doesn't mean they understand it.
+
+16
+00:00:57,740 --> 00:00:58,980
+Agree with it.
+
+17
+00:00:59,800 --> 00:01:01,120
+They simply got it.
+
+18
+00:01:01,740 --> 00:01:05,810
+So if you have lots of
+stakeholders and you use
+
+19
+00:01:05,811 --> 00:01:09,640
+Microsoft, office to do
+the little red receipt thing.
+
+20
+00:01:10,900 --> 00:01:12,200
+That's an acknowledgement.
+
+21
+00:01:12,500 --> 00:01:18,060
+That's your CYA, but it does not mean that
+the receiver understood the message.
+
+22
+00:01:18,400 --> 00:01:20,100
+So they added this last one here.
+
+23
+00:01:20,740 --> 00:01:21,573
+Feedback.
+
+24
+00:01:22,540 --> 00:01:23,760
+Feedback response.
+
+25
+00:01:24,540 --> 00:01:32,380
+So the receiver will then encode their
+message and send it back to you.
+
+26
+00:01:33,500 --> 00:01:36,660
+So make sure to write this down somewhere.
+
+27
+00:01:37,040 --> 00:01:43,840
+It is always the sender that is
+responsible for making sure the receiver
+
+28
+00:01:45,220 --> 00:01:46,420
+understands the message.
+
+29
+00:01:47,780 --> 00:01:49,580
+That's why feedback is so important.
+
+30
+00:01:50,020 --> 00:01:53,770
+You get feedback to see
+if they understand what
+
+31
+00:01:53,771 --> 00:01:57,234
+you were trying to send
+out in the first place.
+
+32
+00:01:57,520 --> 00:02:00,820
+All right, I do want to point out
+something else before we're done.
+
+33
+00:02:01,320 --> 00:02:04,535
+You see all these little
+places there are called
+
+34
+00:02:04,536 --> 00:02:08,180
+noise that's anything that
+can interrupt a message.
+
+35
+00:02:08,680 --> 00:02:13,540
+So you see over here, current emotional
+states of the sender or receiver.
+
+36
+00:02:14,400 --> 00:02:17,050
+But other things, we've already talked
+about barriers.
+
+37
+00:02:17,720 --> 00:02:22,720
+Lack of background information,
+languages, ages.
+
+38
+00:02:23,440 --> 00:02:27,740
+There are all kinds of
+things that can create noise,
+
+39
+00:02:27,741 --> 00:02:31,960
+interrupt the message from
+actually being sent or understood.
+
+40
+00:02:32,540 --> 00:02:35,720
+So always know that it is the sender's
+response.
+
+41
+00:02:35,721 --> 00:02:39,800
+responsibility to make sure the message is
+understood.
+

@@ -1,0 +1,359 @@
+﻿1
+00:00:06,460 --> 00:00:11,720
+Okay, so in this video then, we are going
+to introduce the concept of procurement.
+
+2
+00:00:12,300 --> 00:00:13,950
+Now, procurement management then.
+
+3
+00:00:14,220 --> 00:00:16,277
+I mean procurement, as the name suggests,
+what does it mean?
+
+4
+00:00:16,360 --> 00:00:18,980
+It means buying from outside, going from
+outside.
+
+5
+00:00:19,460 --> 00:00:22,960
+It's getting goods and services from
+outside of the organisation.
+
+6
+00:00:23,540 --> 00:00:28,560
+Equipment, supplies, labour, raw
+materials, anything that we need that we
+
+7
+00:00:28,561 --> 00:00:31,820
+don't have in-house, then we have to
+outsource it.
+
+8
+00:00:31,960 --> 00:00:34,080
+We have to go outside of the organisation.
+
+9
+00:00:34,500 --> 00:00:35,900
+Right, so we're purchasing raw materials.
+
+10
+00:00:35,920 --> 00:00:38,736
+materials, we don't have
+the raw materials ourselves,
+
+11
+00:00:38,737 --> 00:00:44,900
+we're purchasing it from a
+vendor or equipment, labour.
+
+12
+00:00:45,620 --> 00:00:48,430
+We can't do the work
+ourselves, so we're going outside
+
+13
+00:00:48,431 --> 00:00:51,660
+getting contractors and
+consultants and so on and so forth.
+
+14
+00:00:52,280 --> 00:00:55,083
+So that is what procurement
+relates to, getting
+
+15
+00:00:55,084 --> 00:00:57,871
+goods and services from
+outside of the organisation.
+
+16
+00:00:58,440 --> 00:00:59,100
+All right.
+
+17
+00:00:59,240 --> 00:01:03,940
+Now, as a general rule, generally,
+whatever the reason is for going outside,
+
+18
+00:01:04,540 --> 00:01:06,655
+right, there's many, many
+reasons, why we would
+
+19
+00:01:06,656 --> 00:01:10,020
+want to outsource the work
+versus doing it in-house.
+
+20
+00:01:10,320 --> 00:01:12,230
+Many reasons, and
+we're going to cover those
+
+21
+00:01:12,313 --> 00:01:14,460
+reasons in another
+video, in a separate video.
+
+22
+00:01:14,760 --> 00:01:20,300
+But whatever the reason is, collectively
+it is known as a make-or-buy analysis.
+
+23
+00:01:21,200 --> 00:01:26,420
+So we are determining should we do it
+in-house or should we outsource the work.
+
+24
+00:01:27,000 --> 00:01:29,200
+And that is known as a make-or-buy
+analysis.
+
+25
+00:01:29,600 --> 00:01:32,200
+So it could be because it's cheaper to do.
+
+26
+00:01:32,660 --> 00:01:33,493
+It's cheaper.
+
+27
+00:01:33,940 --> 00:01:36,232
+You know, we may do
+a cost-benefit, analysis
+
+28
+00:01:36,233 --> 00:01:38,260
+or there may be some other reason as well.
+
+29
+00:01:38,760 --> 00:01:41,080
+It is not known as a cost-benefit
+analysis.
+
+30
+00:01:41,600 --> 00:01:44,296
+It is known as a make
+or buy analysis, whatever
+
+31
+00:01:44,297 --> 00:01:47,394
+the reason is for outsourcing the work.
+
+32
+00:01:47,980 --> 00:01:55,800
+Now as a general rule also, any questions
+is generally, so any PMP exam questions on
+
+33
+00:01:55,801 --> 00:02:00,060
+procurement is generally going to be from
+the buyer's perspective.
+
+34
+00:02:00,860 --> 00:02:08,020
+So in other words, if the question doesn't
+state or doesn't imply whether you are the
+
+35
+00:02:08,021 --> 00:02:12,120
+buyer or the seller, then you are the
+buyer.
+
+36
+00:02:13,060 --> 00:02:17,740
+So most of the procurement management
+section is from the buyer's perspective.
+
+37
+00:02:18,400 --> 00:02:21,260
+And most of the questions, if it doesn't
+tell you if you're the buyer or the
+
+38
+00:02:21,261 --> 00:02:25,660
+seller, or there's no hint anywhere in
+either the scenario or the question or any
+
+39
+00:02:25,661 --> 00:02:29,400
+of the option choices, then the assumption
+is that you are the buyer.
+
+40
+00:02:29,880 --> 00:02:34,220
+The seller is offering you goods and
+services, And as a buyer, you are
+
+41
+00:02:34,221 --> 00:02:36,880
+purchasing those goods and services from
+the seller.
+
+42
+00:02:37,480 --> 00:02:44,474
+So in other words, since we are outsourcing
+the work now, we are now the customer.
+
+43
+00:02:45,000 --> 00:02:48,237
+And that's something very important to
+understand when it comes to procurement.
+
+44
+00:02:48,320 --> 00:02:49,700
+We are now the customer.
+
+45
+00:02:50,880 --> 00:02:57,640
+So all of the discussion that we've had
+with all of those other processes and
+
+46
+00:02:57,641 --> 00:03:04,840
+knowledge areas and all of the other
+sections that we've covered, We are the
+
+47
+00:03:04,841 --> 00:03:09,100
+project team, we are the project manager,
+right?
+
+48
+00:03:09,200 --> 00:03:13,360
+Or the team facilitator, and we are
+working for the customer.
+
+49
+00:03:14,280 --> 00:03:16,630
+With procurement, it's now the other way
+around.
+
+50
+00:03:17,420 --> 00:03:19,060
+We are the customer, right?
+
+51
+00:03:19,460 --> 00:03:22,860
+So we are now giving our requirements to
+the seller.
+
+52
+00:03:23,360 --> 00:03:26,600
+We are giving our requirements to the
+vendor that we have hired.
+
+53
+00:03:27,460 --> 00:03:32,400
+From those requirements, we are going to
+come up with the scope, baseline,
+
+54
+00:03:32,960 --> 00:03:35,180
+the schedule baseline, the cost baseline.
+
+55
+00:03:35,720 --> 00:03:38,600
+That's all going to be discussed as part
+of the contract.
+
+56
+00:03:38,820 --> 00:03:42,170
+We're going to cover contracts later on as
+well in a separate video.
+
+57
+00:03:42,900 --> 00:03:47,008
+But the important part is we
+are now the customer, we are
+
+58
+00:03:47,009 --> 00:03:50,400
+the key stakeholder and the
+vendor is doing the work for us.
+
+59
+00:03:50,840 --> 00:03:53,120
+So this is now a project for the vendor.
+
+60
+00:03:53,380 --> 00:03:54,213
+Okay.
+
+61
+00:03:55,060 --> 00:03:56,057
+So that's something very important.
+
+62
+00:03:56,140 --> 00:03:58,657
+So you have to think of it from the other
+way around now.
+
+63
+00:03:58,740 --> 00:04:04,680
+Also, you have to think of it also when If
+any of you guys are working for a vendor
+
+64
+00:04:04,681 --> 00:04:08,800
+organization, if any of you guys are
+consultants or contractors, right,
+
+65
+00:04:08,940 --> 00:04:14,560
+and you work for a vendor organization
+and you are working for a customer, right?
+
+66
+00:04:14,640 --> 00:04:16,590
+You are doing a project for a customer.
+
+67
+00:04:17,400 --> 00:04:19,666
+Again, remember, you
+have to think of it from the
+
+68
+00:04:19,749 --> 00:04:22,160
+customer's perspective,
+not from your perspective.
+
+69
+00:04:23,160 --> 00:04:26,100
+So procurement is always, we are now with
+the customer.
+
+70
+00:04:27,480 --> 00:04:34,020
+Now, also, there's many different terms
+that PMI can use that describe a seller,
+
+71
+00:04:34,800 --> 00:04:36,720
+for example, vendor, suppliers.
+
+72
+00:04:37,660 --> 00:04:41,170
+So these are all general
+terms that are used in everyday
+
+73
+00:04:41,171 --> 00:04:44,360
+language, and the PMI will
+use all of those general terms.
+
+74
+00:04:44,700 --> 00:04:48,980
+They could identify them as a seller,
+as a vendor, general contractor,
+
+75
+00:04:49,240 --> 00:04:51,440
+subcontractor, and so and so on and so
+forth.
+

@@ -1,0 +1,1040 @@
+﻿1
+00:00:06,110 --> 00:00:11,210
+All right, so in this video, we are going
+to be discussing controlling procurement.
+
+2
+00:00:12,110 --> 00:00:17,990
+This refers to the PIMBock Guide process
+called Control Procurement, as we're going
+
+3
+00:00:17,991 --> 00:00:20,791
+to be monitoring and controlling the
+procurement process.
+
+4
+00:00:21,970 --> 00:00:25,450
+Okay, now, before we start talking
+specifically about monitoring,
+
+5
+00:00:25,730 --> 00:00:27,722
+control, procurement,
+let's just do a quick review
+
+6
+00:00:27,723 --> 00:00:30,390
+of what monitoring
+controlling actually refers to.
+
+7
+00:00:30,590 --> 00:00:36,090
+Remember, monitoring controlling is
+comparing your actual results with your plan.
+
+8
+00:00:36,670 --> 00:00:37,747
+That's what we're doing.
+
+9
+00:00:37,830 --> 00:00:39,180
+We have our actual results.
+
+10
+00:00:39,450 --> 00:00:40,300
+We have our plan.
+
+11
+00:00:41,090 --> 00:00:42,507
+That's what we should deliver.
+
+12
+00:00:42,590 --> 00:00:44,340
+This is what we actually delivered.
+
+13
+00:00:44,450 --> 00:00:45,467
+Where's a discrepancy?
+
+14
+00:00:45,550 --> 00:00:46,900
+Why is there a discrepancy?
+
+15
+00:00:47,450 --> 00:00:51,710
+And that's exactly what we're doing here,
+but from the other way around,
+
+16
+00:00:51,910 --> 00:00:53,710
+right, from the procurement process.
+
+17
+00:00:53,870 --> 00:00:55,607
+In other words, we are the customer.
+
+18
+00:00:55,690 --> 00:00:57,390
+The vendor is performing the work.
+
+19
+00:00:57,550 --> 00:01:01,226
+So as the vendor is performing
+the work, we are trying to
+
+20
+00:01:01,227 --> 00:01:04,047
+determine, are they doing the
+work that's supposed to be doing?
+
+21
+00:01:04,130 --> 00:01:05,670
+This is what they should be delivering.
+
+22
+00:01:05,671 --> 00:01:07,721
+this is what they're actually delivering.
+
+23
+00:01:08,030 --> 00:01:11,050
+So, we are monitoring their adherence to
+the contract.
+
+24
+00:01:11,810 --> 00:01:13,327
+Are they doing what they're supposed to be
+doing?
+
+25
+00:01:13,410 --> 00:01:17,430
+And we're trying to quantify their ability
+to actually perform the work.
+
+26
+00:01:17,990 --> 00:01:19,510
+How well are they performing?
+
+27
+00:01:20,270 --> 00:01:22,230
+What's their cost performance index?
+
+28
+00:01:22,290 --> 00:01:24,290
+What's their schedule performance index?
+
+29
+00:01:24,890 --> 00:01:26,340
+Are they working efficiently?
+
+30
+00:01:27,490 --> 00:01:30,040
+Or, you know, are they working really
+inefficiently?
+
+31
+00:01:30,210 --> 00:01:32,427
+And we're wondering why we hired these
+people.
+
+32
+00:01:32,510 --> 00:01:35,135
+So again, as a very simple
+example, you're doing some
+
+33
+00:01:35,218 --> 00:01:37,890
+work in your house, you're
+doing some remodeling work.
+
+34
+00:01:38,110 --> 00:01:41,960
+Well, as the vendor is performing the
+work, as a customer, what are you doing?
+
+35
+00:01:42,230 --> 00:01:44,830
+You're walking around seeing how they're
+progressing.
+
+36
+00:01:45,110 --> 00:01:47,138
+Are they putting the
+right walls in the right
+
+37
+00:01:47,139 --> 00:01:49,570
+places, the right cabinets
+against the right walls?
+
+38
+00:01:50,190 --> 00:01:54,750
+Are they painting the right walls in the
+right color and so on and so forth?
+
+39
+00:01:55,630 --> 00:01:57,580
+You're seeing how they are progressing.
+
+40
+00:01:57,970 --> 00:02:00,227
+You're monitoring their adherence to the
+contract.
+
+41
+00:02:00,310 --> 00:02:02,087
+Are they doing what they're supposed to be
+doing?
+
+42
+00:02:02,170 --> 00:02:04,110
+And then plus, you're quantifying their
+ability.
+
+43
+00:02:04,170 --> 00:02:05,170
+to perform the work.
+
+44
+00:02:05,570 --> 00:02:07,370
+How efficiently are they performing?
+
+45
+00:02:07,630 --> 00:02:08,980
+They're painting your room.
+
+46
+00:02:09,230 --> 00:02:10,790
+Are they being nice and clean?
+
+47
+00:02:11,330 --> 00:02:11,450
+Right.
+
+48
+00:02:11,550 --> 00:02:13,607
+They're nice, clean paint, even paint
+everywhere.
+
+49
+00:02:13,690 --> 00:02:15,540
+Or are they just being really sloppy?
+
+50
+00:02:16,150 --> 00:02:19,800
+And there's paint splashes everywhere on
+the floor, on the carpet, on the,
+
+51
+00:02:19,930 --> 00:02:20,763
+and the windows.
+
+52
+00:02:21,310 --> 00:02:25,130
+So, again, that's something you or the
+customer are going to be doing.
+
+53
+00:02:25,290 --> 00:02:28,178
+So that is what monitoring
+controlling procurement
+
+54
+00:02:28,179 --> 00:02:31,370
+refers to, or the process is
+called control procurement.
+
+55
+00:02:31,670 --> 00:02:33,890
+That's what this is referring to.
+
+56
+00:02:34,090 --> 00:02:39,530
+So it's basically, as it says here,
+the first bullet point, managing the
+
+57
+00:02:39,531 --> 00:02:43,190
+procurement performance, managing the
+performance of your vendor.
+
+58
+00:02:43,590 --> 00:02:46,683
+So controlling, you can only
+start really monitoring controlling
+
+59
+00:02:46,684 --> 00:02:49,770
+the performance of the vendor
+once the contract is signed.
+
+60
+00:02:50,730 --> 00:02:54,330
+Once they've signed the contract,
+then they start performing the work.
+
+61
+00:02:55,050 --> 00:02:58,850
+So you're identifying then the
+relationship or managing their
+
+62
+00:02:58,851 --> 00:03:03,310
+relationship, identifying success and
+failures of the procurement relationship.
+
+63
+00:03:03,910 --> 00:03:06,410
+Success and fail is of the procurement
+process.
+
+64
+00:03:07,150 --> 00:03:09,350
+Again, what's going well, what's going
+right?
+
+65
+00:03:09,810 --> 00:03:12,210
+Are they doing what they're supposed to be
+doing?
+
+66
+00:03:12,450 --> 00:03:12,450
+Right.
+
+67
+00:03:12,910 --> 00:03:15,810
+And quantifying their ability to actually
+perform the work.
+
+68
+00:03:17,210 --> 00:03:23,190
+Now, the way you are going to be
+monitoring control of the work is also
+
+69
+00:03:23,191 --> 00:03:27,510
+going to differ slightly based on what
+kind of contract you have.
+
+70
+00:03:27,870 --> 00:03:31,087
+So, for example, then, in a fixed price
+contract, in a fixed price contract,
+
+71
+00:03:31,170 --> 00:03:34,320
+in a fixed price contract, you don't
+really care about the cost.
+
+72
+00:03:34,810 --> 00:03:39,550
+You want the work to be done regardless of
+what it's going to cost the seller.
+
+73
+00:03:39,850 --> 00:03:42,385
+Remember, in a fixed price contract, the
+
+74
+00:03:42,386 --> 00:03:45,624
+seller has all of the
+risk of the contract.
+
+75
+00:03:45,810 --> 00:03:48,590
+So it's a seller that is controlling all
+of the cost.
+
+76
+00:03:48,830 --> 00:03:51,374
+You as a buyer don't care
+about what the cost is, but
+
+77
+00:03:51,375 --> 00:03:54,001
+the seller is the one that's
+controlling all the cost.
+
+78
+00:03:54,090 --> 00:03:59,630
+And since the seller is controlling all of
+the cost, you have to be careful that they
+
+79
+00:03:59,631 --> 00:04:03,031
+are actually delivering again what they're
+supposed to be delivering.
+
+80
+00:04:03,430 --> 00:04:07,370
+There's a lot of bait and switch that can
+go on in a fixed price contract.
+
+81
+00:04:07,990 --> 00:04:12,171
+So what you want to do then
+as a customer, as a project
+
+82
+00:04:12,172 --> 00:04:15,710
+manager, ensure the work is
+being performed as contracted.
+
+83
+00:04:15,970 --> 00:04:17,620
+They're not taking any shortcuts.
+
+84
+00:04:17,730 --> 00:04:20,430
+They're doing all the work that's supposed
+to be doing.
+
+85
+00:04:20,610 --> 00:04:23,460
+They're delivering what they're supposed
+to be delivering.
+
+86
+00:04:23,790 --> 00:04:29,164
+So as a very simple example, again, you're
+doing some remodeling work in your house.
+
+87
+00:04:29,390 --> 00:04:35,230
+They promised just one grading quality of,
+say, you know, kitchen cabinets,
+
+88
+00:04:36,270 --> 00:04:38,208
+and they're actually
+delivering a much poorer
+
+89
+00:04:38,209 --> 00:04:40,810
+grading quality of
+kitchen cabinets, right?
+
+90
+00:04:41,490 --> 00:04:42,827
+Or they're putting up drywall.
+
+91
+00:04:42,910 --> 00:04:46,750
+They promised one thickness of drywall,
+but now they're actually delivering,
+
+92
+00:04:47,370 --> 00:04:50,590
+you know, a much cheaper drywall,
+like a much thinner drywall.
+
+93
+00:04:51,230 --> 00:04:52,690
+So that's a bait and switch.
+
+94
+00:04:52,870 --> 00:04:55,920
+They're not delivering what they actually,
+what they promised.
+
+95
+00:04:56,150 --> 00:05:00,170
+Now, in a cost reimbursable contract,
+if it's a cost reimburseable contract.
+
+96
+00:05:01,270 --> 00:05:07,450
+Now, you as a buyer, you have all of the
+risk of the contract, right?
+
+97
+00:05:08,290 --> 00:05:11,430
+You are the one therefore that is
+controlling all of the cost.
+
+98
+00:05:11,630 --> 00:05:13,080
+You need to control the cost.
+
+99
+00:05:13,850 --> 00:05:17,790
+So then you are especially monitoring the
+seller's cost in this case.
+
+100
+00:05:18,450 --> 00:05:22,507
+And are they bringing in tons and tons of
+raw materials that you don't really need?
+
+101
+00:05:22,590 --> 00:05:25,550
+Are they bringing in resources that are
+not adding value?
+
+102
+00:05:26,170 --> 00:05:30,130
+They're bringing in just a, you know,
+bringing in a whole bunch of team members
+
+103
+00:05:30,131 --> 00:05:33,270
+that you're paying for, but they're not
+really doing anything.
+
+104
+00:05:33,410 --> 00:05:36,430
+A lot of team members are just hanging
+around and they're not really being
+
+105
+00:05:36,431 --> 00:05:38,881
+productive yet you're still paying for
+their time.
+
+106
+00:05:39,750 --> 00:05:42,602
+And they're bringing a
+whole bunch of raw materials,
+
+107
+00:05:42,603 --> 00:05:45,171
+additional raw materials
+that's not really needed.
+
+108
+00:05:45,970 --> 00:05:47,924
+But you're the one that's paying for them
+
+109
+00:05:47,925 --> 00:05:50,490
+because the seller doesn't
+care what the cost is.
+
+110
+00:05:50,830 --> 00:05:53,007
+You're the one that's reimbursing them for
+the cost.
+
+111
+00:05:53,090 --> 00:05:55,195
+So in this case, in a
+cost Reimversible you
+
+112
+00:05:55,196 --> 00:05:58,144
+really have to monitor the seller's costs.
+
+113
+00:05:58,570 --> 00:06:02,290
+Also in cost to reimburseable you're going
+to be getting loads of invoices and
+
+114
+00:06:02,291 --> 00:06:05,830
+receipts, right, for raw material that
+they've purchased, they'll be sending you
+
+115
+00:06:05,831 --> 00:06:09,061
+receipts and invoices for,
+you know, other team members
+
+116
+00:06:09,062 --> 00:06:12,630
+work that the subcontractors
+work that they hired.
+
+117
+00:06:13,850 --> 00:06:17,430
+So they'll be sending you all these
+invoices, all these receipts, well,
+
+118
+00:06:18,130 --> 00:06:22,950
+you also want to make sure that the
+invoices and receipts they sent you
+
+119
+00:06:22,951 --> 00:06:27,670
+actually relate to your project and not to
+another project that they're working on.
+
+120
+00:06:28,570 --> 00:06:30,770
+And again, that can happen as well.
+
+121
+00:06:31,090 --> 00:06:34,470
+And even, I mean, inadvertently,
+I'm not saying that vendors do this on
+
+122
+00:06:34,471 --> 00:06:37,722
+purpose, but inadvertently,
+they could be charging new raw
+
+123
+00:06:37,723 --> 00:06:41,730
+materials that they're using
+actually for a different project.
+
+124
+00:06:42,290 --> 00:06:45,430
+They might be working on two or three
+different projects at the same time.
+
+125
+00:06:45,431 --> 00:06:45,750
+Right?
+
+126
+00:06:45,930 --> 00:06:49,130
+So that's something you have to watch out
+for as well.
+
+127
+00:06:49,830 --> 00:06:53,048
+And also ensure that the
+resources they're actually
+
+128
+00:06:53,049 --> 00:06:56,250
+bringing in the resources
+that they had contracted for.
+
+129
+00:06:56,870 --> 00:07:00,107
+So for example, do they
+really need to bring in senior
+
+130
+00:07:00,108 --> 00:07:04,050
+consultants when journey
+consultants can do the job just as well?
+
+131
+00:07:04,770 --> 00:07:07,922
+Do you really need a
+managing consultant to do just
+
+132
+00:07:07,923 --> 00:07:10,590
+some basic work that a
+junior consultant can do?
+
+133
+00:07:11,250 --> 00:07:14,052
+So instead of charging for a managing
+
+134
+00:07:14,053 --> 00:07:17,764
+consultant, you can pay
+for a junior consultant.
+
+135
+00:07:18,350 --> 00:07:19,850
+This is a very simple example.
+
+136
+00:07:21,130 --> 00:07:26,810
+If it's a time and material contract,
+exactly the same as the cost reimbursable,
+
+137
+00:07:26,811 --> 00:07:30,250
+right, same considerations that we talked
+about in cost of reimburseable just now
+
+138
+00:07:30,251 --> 00:07:34,930
+would apply to time and material,
+right, but in addition, also making sure
+
+139
+00:07:34,931 --> 00:07:37,250
+that the schedule is not being padded,
+right?
+
+140
+00:07:37,310 --> 00:07:40,210
+They're not extending the schedule,
+not padding the schedule, because
+
+141
+00:07:40,211 --> 00:07:43,010
+remember, you are paying them for their
+time.
+
+142
+00:07:43,430 --> 00:07:46,130
+Each unit of time has a profit built into
+it.
+
+143
+00:07:46,650 --> 00:07:50,510
+So they have an incentive to, you know,
+extend the timeline.
+
+144
+00:07:50,930 --> 00:07:54,210
+They have an incentive to take longer to
+perform the work.
+
+145
+00:07:54,730 --> 00:07:57,610
+So they don't have an incentive to work
+efficiently.
+
+146
+00:07:58,430 --> 00:08:00,930
+So what you're looking at is their
+productive time.
+
+147
+00:08:01,730 --> 00:08:05,534
+So if they're charging
+you, say, for 45 hours this
+
+148
+00:08:05,535 --> 00:08:08,910
+week, well, did they actually
+do 45 hours worth of work?
+
+149
+00:08:09,290 --> 00:08:12,050
+Or did they really do 30 hours worth of
+work?
+
+150
+00:08:12,250 --> 00:08:15,850
+And the rest of the time, they're just
+hanging around, drinking coffee,
+
+151
+00:08:16,150 --> 00:08:19,250
+going out for breaks, and they're charging
+you for the time.
+
+152
+00:08:19,550 --> 00:08:23,817
+So these are all different
+considerations you're going to be
+
+153
+00:08:23,818 --> 00:08:27,870
+making when you are monitoring
+controlling the vendor's work.
+
+154
+00:08:28,770 --> 00:08:33,870
+Now those were for individual types of
+contracts, but overall, for all of
+
+155
+00:08:33,871 --> 00:08:38,664
+procurement, overall, your responsibilities
+are going to include the following.
+
+156
+00:08:39,670 --> 00:08:44,230
+So as you're monitoring controlling the
+work of the vendor, right, you're going to
+
+157
+00:08:44,231 --> 00:08:46,539
+be doing a performance review, quantifying
+
+158
+00:08:46,540 --> 00:08:49,250
+the seller's ability to actually perform.
+
+159
+00:08:49,550 --> 00:08:50,800
+well are they performing.
+
+160
+00:08:51,190 --> 00:08:55,030
+Again, you know, you're walking around
+seeing how they're doing the work,
+
+161
+00:08:55,670 --> 00:08:59,850
+testing the work, which goes to the next
+bullet point here, regular inspection.
+
+162
+00:09:00,750 --> 00:09:01,450
+Regular inspection.
+
+163
+00:09:01,610 --> 00:09:03,050
+Inspection means testing.
+
+164
+00:09:04,030 --> 00:09:04,070
+Right.
+
+165
+00:09:04,250 --> 00:09:06,550
+So you are testing the work that they're
+doing.
+
+166
+00:09:06,790 --> 00:09:08,549
+If you're up and if they're
+doing some work in the house,
+
+167
+00:09:08,550 --> 00:09:10,867
+you're walking around
+seeing how they're progressing.
+
+168
+00:09:10,950 --> 00:09:16,090
+Right, if you've hired them to develop a
+website for you, for example, right,
+
+169
+00:09:16,150 --> 00:09:19,801
+you're going in there seeing how
+they're developing the website,
+
+170
+00:09:19,802 --> 00:09:22,180
+you're testing the website to
+make sure it's doing what it's
+
+171
+00:09:22,181 --> 00:09:24,764
+supposed to be doing
+or any computer software.
+
+172
+00:09:25,030 --> 00:09:28,850
+So quantifying the seller's ability to
+perform the work, monitoring their
+
+173
+00:09:28,851 --> 00:09:30,680
+adherence to the
+contract, are they actually
+
+174
+00:09:30,681 --> 00:09:33,111
+delivering what they were
+supposed to be delivering?
+
+175
+00:09:33,270 --> 00:09:35,482
+Plus, at the same time
+throughout the project,
+
+176
+00:09:35,565 --> 00:09:37,990
+throughout the procurement,
+performance reporting.
+
+177
+00:09:38,090 --> 00:09:41,850
+So performance reporting such as EVM,
+earned value management, right?
+
+178
+00:09:41,950 --> 00:09:45,330
+All those earned value calculations that
+we talked about in the cost management
+
+179
+00:09:45,331 --> 00:09:47,431
+section, you'll be performing that as
+well.
+
+180
+00:09:47,650 --> 00:09:52,010
+Are we ahead of schedule, behind schedule,
+over budget, under budget, what's our CPI,
+
+181
+00:09:52,150 --> 00:09:53,750
+SPI, and so and so forth.
+
+182
+00:09:54,870 --> 00:09:57,997
+And then plus part of
+performance reporting also
+
+183
+00:09:57,998 --> 00:10:00,531
+is reporting back to
+your senior stakeholders.
+
+184
+00:10:01,030 --> 00:10:06,010
+Your senior stakeholders will also need a
+status of your of your procurement,
+
+185
+00:10:06,870 --> 00:10:06,990
+right?
+
+186
+00:10:07,190 --> 00:10:09,790
+So you're going to be reporting back to
+them as well.
+
+187
+00:10:10,190 --> 00:10:12,402
+If there's any changes
+that need to be done,
+
+188
+00:10:12,403 --> 00:10:14,870
+right, you have a change
+control process in place.
+
+189
+00:10:14,871 --> 00:10:15,770
+Right.
+
+190
+00:10:16,210 --> 00:10:18,844
+So on top of your regular
+change control process, this
+
+191
+00:10:18,845 --> 00:10:21,670
+time you may have a contract
+change control process.
+
+192
+00:10:22,570 --> 00:10:22,650
+Right.
+
+193
+00:10:22,950 --> 00:10:28,390
+So in this case, a contract change control
+process then is going to be basically
+
+194
+00:10:28,391 --> 00:10:31,330
+making sure you're controlling all changes
+to the contract.
+
+195
+00:10:31,910 --> 00:10:33,860
+If there's any changes to the contract.
+
+196
+00:10:34,110 --> 00:10:35,910
+So what are the procedures for that?
+
+197
+00:10:36,270 --> 00:10:38,284
+You're making sure
+you're following all of those
+
+198
+00:10:38,285 --> 00:10:40,190
+procedures regarding
+contract change control.
+
+199
+00:10:40,630 --> 00:10:43,711
+Now contract change
+control is generally going to be
+
+200
+00:10:43,712 --> 00:10:46,650
+a little more complex than
+integrated change control.
+
+201
+00:10:46,870 --> 00:10:50,720
+Integrated change control is internal,
+right, for internal within the project.
+
+202
+00:10:51,650 --> 00:10:55,890
+Now you've got vendors involved, so
+you have a contract change control, right?
+
+203
+00:10:55,950 --> 00:10:58,820
+And so we're going to
+be covering, you know,
+
+204
+00:10:58,821 --> 00:11:01,661
+contract change control
+in a separate video as well.
+
+205
+00:11:02,690 --> 00:11:05,540
+And then claims administration,
+in case there's a dispute.
+
+206
+00:11:05,910 --> 00:11:08,760
+You'll be going through the claims
+administration process.
+
+207
+00:11:09,030 --> 00:11:10,830
+And then procurement audit.
+
+208
+00:11:11,010 --> 00:11:13,307
+Now, if you ever come across system
+procurement audit.
+
+209
+00:11:13,390 --> 00:11:15,863
+A procurement audit was
+considered another tool
+
+210
+00:11:15,864 --> 00:11:18,910
+and technique, a tool and
+technique of procurement.
+
+211
+00:11:19,830 --> 00:11:24,070
+Just like any audit, it is a structured
+review of the entire process.
+
+212
+00:11:24,470 --> 00:11:28,710
+In this case, a structured review of the
+entire procurement process, right,
+
+213
+00:11:28,750 --> 00:11:32,430
+right from the beginning, all the way,
+so right from the beginning from the RFI
+
+214
+00:11:32,431 --> 00:11:36,390
+and RFP stage, right, right from the
+beginning all the way up until,
+
+215
+00:11:36,930 --> 00:11:39,770
+you know, up until the end, up until the
+closing, right?
+
+216
+00:11:40,030 --> 00:11:43,080
+So it's a structured review of the entire
+procurement process.
+
+217
+00:11:43,970 --> 00:11:47,001
+All right, so these were just
+some of the considerations
+
+218
+00:11:47,002 --> 00:11:49,191
+to make then regarding
+control procurement.
+

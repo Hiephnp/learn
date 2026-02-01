@@ -1,0 +1,475 @@
+﻿1
+00:00:05,920 --> 00:00:11,494
+Okay, so in this video then, let us
+discuss the basic components of a contract.
+
+2
+00:00:12,540 --> 00:00:18,160
+Now, in order to have a contract, a
+contract has to have five basic elements.
+
+3
+00:00:18,540 --> 00:00:21,200
+There are five basic elements in every
+contract.
+
+4
+00:00:21,800 --> 00:00:25,420
+Now, typically a contract has many,
+many more, there's many components of a
+
+5
+00:00:25,421 --> 00:00:28,803
+contract, but in order to
+actually have a contract, these
+
+6
+00:00:28,804 --> 00:00:32,180
+are the five basic components,
+the ones listed here.
+
+7
+00:00:32,181 --> 00:00:36,620
+An offer, an acceptance, capacity,
+consideration and a legal purpose.
+
+8
+00:00:37,380 --> 00:00:39,080
+So let's go through each one then.
+
+9
+00:00:39,220 --> 00:00:40,053
+An offer.
+
+10
+00:00:40,420 --> 00:00:45,400
+What good or service is a seller offering
+that has to be written in the contract?
+
+11
+00:00:46,120 --> 00:00:49,240
+What good or service is the seller
+offering or the vendor?
+
+12
+00:00:50,100 --> 00:00:51,380
+Then the acceptance.
+
+13
+00:00:52,760 --> 00:00:55,480
+What good or service is the buyer
+accepting?
+
+14
+00:00:56,140 --> 00:00:58,360
+That has to mirror the original offer.
+
+15
+00:00:58,780 --> 00:01:04,660
+The buyer has to accept what the vendor is
+offering or what the seller is offering.
+
+16
+00:01:05,320 --> 00:01:06,620
+So that is the acceptance.
+
+17
+00:01:07,120 --> 00:01:09,370
+And then plus, what's the acceptance
+criteria?
+
+18
+00:01:09,760 --> 00:01:12,160
+Again, documented as part of the contract.
+
+19
+00:01:12,860 --> 00:01:16,360
+So you have the offer, you have the
+acceptance, then have the capacity.
+
+20
+00:01:17,380 --> 00:01:19,330
+Capacity means a couple of things here.
+
+21
+00:01:20,340 --> 00:01:24,158
+First of all, the seller has
+the appropriate authority,
+
+22
+00:01:24,159 --> 00:01:26,781
+appropriate capacity to
+actually perform the work.
+
+23
+00:01:27,120 --> 00:01:31,460
+They have the appropriate licensers and
+certifications if needed, right,
+
+24
+00:01:31,580 --> 00:01:33,030
+to actually perform the work.
+
+25
+00:01:33,780 --> 00:01:35,940
+And then plus, they're a legal entity.
+
+26
+00:01:36,840 --> 00:01:40,500
+So whoever is performing the work,
+right, they are a legal entity,
+
+27
+00:01:40,680 --> 00:01:42,430
+the organization is a legal entity.
+
+28
+00:01:43,080 --> 00:01:46,820
+And they can perform the work in this
+particular environment.
+
+29
+00:01:47,020 --> 00:01:48,740
+They're a solvent organization.
+
+30
+00:01:49,440 --> 00:01:52,980
+And then plus all the other legal jargon
+that goes behind that, people that are
+
+31
+00:01:52,981 --> 00:01:57,049
+signing the contract are
+authorized, right, from behalf of
+
+32
+00:01:57,050 --> 00:02:00,420
+the organization to make
+decisions and sign the contract.
+
+33
+00:02:00,520 --> 00:02:04,380
+Plus, there are sound mind, legal age,
+and so and so forth.
+
+34
+00:02:05,640 --> 00:02:07,340
+So that's what capacity refers to.
+
+35
+00:02:08,180 --> 00:02:09,780
+Then you have the consideration.
+
+36
+00:02:10,480 --> 00:02:13,000
+And consideration is something for
+something.
+
+37
+00:02:13,740 --> 00:02:17,900
+The seller is providing this good or
+service for something in return.
+
+38
+00:02:18,780 --> 00:02:21,720
+Normally it's money, but it doesn't have
+to be.
+
+39
+00:02:21,920 --> 00:02:24,820
+Another name for that is quid pro quo.
+
+40
+00:02:25,200 --> 00:02:27,280
+That's what quid pro quo means.
+
+41
+00:02:28,520 --> 00:02:30,300
+Basically something for something.
+
+42
+00:02:30,980 --> 00:02:34,940
+So the seller is providing this good or
+service for something in return now most
+
+43
+00:02:34,941 --> 00:02:40,820
+of the time with you know it's money but
+like said it doesn't have to be and then a
+
+44
+00:02:40,821 --> 00:02:45,900
+legal purpose right so this good or
+service that the seller is providing is a
+
+45
+00:02:45,901 --> 00:02:51,940
+legal good or service in the locale where
+it's been provided so whether it's in the
+
+46
+00:02:51,941 --> 00:02:56,940
+country whether it's in the state whether
+it's in the province right or whether it's
+
+47
+00:02:56,941 --> 00:03:01,980
+in the village in the town it's legal
+right so that's a very simple example,
+
+48
+00:03:02,480 --> 00:03:06,200
+let's say, you know, while we're in the
+subject of building a house, right,
+
+49
+00:03:07,000 --> 00:03:09,680
+I ask you to build me a house,
+right, you're my builder, I ask you to
+
+50
+00:03:09,681 --> 00:03:11,961
+build me a house, I
+tell you, I want you to
+
+51
+00:03:11,962 --> 00:03:14,674
+build this 200 foot tower in my backyard.
+
+52
+00:03:15,260 --> 00:03:17,210
+Well, that might be illegal in my town.
+
+53
+00:03:17,560 --> 00:03:21,940
+That might be illegal in my village,
+right, or in my locale, right?
+
+54
+00:03:21,941 --> 00:03:25,128
+So you and I will not be
+able to have a contract
+
+55
+00:03:25,129 --> 00:03:28,100
+for you to build this 200
+foot tower in my backyard.
+
+56
+00:03:30,440 --> 00:03:32,220
+There may be zoning, restrictions.
+
+57
+00:03:33,340 --> 00:03:38,860
+So a contract then has to be for a legal
+purpose.
+
+58
+00:03:40,100 --> 00:03:42,760
+So these are five basic elements of a
+contract.
+
+59
+00:03:45,240 --> 00:03:48,090
+Now, there are a couple of other
+components of a contract.
+
+60
+00:03:48,660 --> 00:03:53,100
+And this is not an exhaustive list by any
+means, but these are just some additional
+
+61
+00:03:53,101 --> 00:03:55,788
+components that you will
+see, you know, just some
+
+62
+00:03:55,789 --> 00:03:58,380
+common components that
+you also see in a contract.
+
+63
+00:03:58,500 --> 00:04:02,500
+I mean, there's many, many components that
+you would see typically in a contract.
+
+64
+00:04:02,940 --> 00:04:05,100
+So the schedule and the delivery date.
+
+65
+00:04:05,920 --> 00:04:10,040
+So when is the final delivery going to be
+of this particular product, whatever the
+
+66
+00:04:10,041 --> 00:04:13,700
+seller is delivering, right, whether it's
+a product or a service?
+
+67
+00:04:14,480 --> 00:04:14,560
+Right.
+
+68
+00:04:14,760 --> 00:04:17,610
+And then what are all the different
+milestones in between?
+
+69
+00:04:17,780 --> 00:04:17,900
+Right.
+
+70
+00:04:18,100 --> 00:04:20,477
+And then what's the basic schedule of
+these milestones?
+
+71
+00:04:20,560 --> 00:04:22,510
+So that could be written in a contract.
+
+72
+00:04:22,800 --> 00:04:26,820
+Plus what's the responsibility of both
+parties, buyer and seller.
+
+73
+00:04:28,280 --> 00:04:34,180
+So buyer, for example, or rather the
+seller, for example, cannot perform the
+
+74
+00:04:34,181 --> 00:04:38,521
+work until the buyer has given
+them enough information or
+
+75
+00:04:38,522 --> 00:04:41,961
+they've provided the appropriate
+tools for them to do the work.
+
+76
+00:04:42,420 --> 00:04:46,040
+So, again, that's all, you know,
+whose responsibility is what?
+
+77
+00:04:46,140 --> 00:04:48,790
+That's going to be documented in the
+contract as well.
+
+78
+00:04:49,180 --> 00:04:55,454
+And then any kind of guarantee and warranty
+that the seller might be providing.
+
+79
+00:04:55,660 --> 00:04:59,460
+And then along with the responsibilities,
+you've got the authority as well,
+
+80
+00:04:59,960 --> 00:05:04,700
+the authority of who is going to be
+signing off on the deliverable,
+
+81
+00:05:04,840 --> 00:05:10,960
+for example, who is going to be testing
+the deliverable, and so on and so forth.
+
+82
+00:05:11,700 --> 00:05:15,660
+Termination, we're going to talk about
+termination in a separate video,
+
+83
+00:05:16,160 --> 00:05:17,777
+but what are the provisions for that?
+
+84
+00:05:17,860 --> 00:05:20,610
+Again, that could be documented in the
+contract as well.
+
+85
+00:05:21,060 --> 00:05:25,040
+And then depending on the type of
+contract, there might be some incentive.
+
+86
+00:05:25,680 --> 00:05:30,020
+So we're going to talk about the different
+types of contracts, and different types of
+
+87
+00:05:30,021 --> 00:05:34,080
+contracts have, you know, some have
+incentive, incentive fees, penalties,
+
+88
+00:05:34,540 --> 00:05:35,540
+and so and so forth.
+
+89
+00:05:35,900 --> 00:05:38,400
+And then any kind of terms and conditions,
+right?
+
+90
+00:05:38,500 --> 00:05:41,220
+So on terms and conditions itself is a
+huge topic.
+
+91
+00:05:41,300 --> 00:05:44,940
+You don't necessarily need to know all of
+them for the PMB exam, but that in itself
+
+92
+00:05:44,941 --> 00:05:48,440
+is a huge section, typically on a
+contract.
+
+93
+00:05:49,100 --> 00:05:51,620
+So these are the basic elements then of a
+contract.
+
+94
+00:05:51,720 --> 00:05:54,880
+So you have the five basic elements that
+we just discussed.
+
+95
+00:05:55,060 --> 00:05:57,271
+the previous slide, the
+offer, the acceptance,
+
+96
+00:05:57,354 --> 00:05:59,860
+the capacity,
+consideration, legal purpose.
+
+97
+00:06:00,720 --> 00:06:03,460
+And these are just some,
+just a few of the additional
+
+98
+00:06:03,461 --> 00:06:06,000
+components that you
+often see in a contract.
+
+99
+00:06:06,760 --> 00:06:08,980
+Again, not an exhaustive list by any
+means.
+
+100
+00:06:09,380 --> 00:06:13,020
+There's many, many, many items that can go
+into a contract.
+

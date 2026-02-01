@@ -1,0 +1,673 @@
+﻿1
+00:00:06,010 --> 00:00:09,546
+Okay, so let's talk about
+some of the classifications
+
+2
+00:00:09,547 --> 00:00:12,550
+of risks that you need to
+be aware of for the exam.
+
+3
+00:00:13,410 --> 00:00:20,130
+Now, two basic classifications here,
+there's something called the effect-based
+
+4
+00:00:20,131 --> 00:00:23,110
+risk and something called the source-based
+risk.
+
+5
+00:00:23,930 --> 00:00:26,924
+So the effect-based
+risk is basically inherent
+
+6
+00:00:26,925 --> 00:00:30,310
+in the project, inherent
+in the endeavor, right?
+
+7
+00:00:30,490 --> 00:00:34,270
+So all of your constraints, for example,
+everything within the project,
+
+8
+00:00:34,710 --> 00:00:39,024
+right, your scope, your schedule, they
+could all identify risks on a project.
+
+9
+00:00:39,270 --> 00:00:42,327
+As you're developing your schedule,
+you're going to be identifying risk.
+
+10
+00:00:42,410 --> 00:00:43,928
+As you're figuring out the budget for your
+
+11
+00:00:43,929 --> 00:00:45,850
+project, you're going
+to be identifying risk.
+
+12
+00:00:46,170 --> 00:00:50,320
+As you're trying to identify the resources
+on your project, you're identifying risk.
+
+13
+00:00:50,590 --> 00:00:53,119
+As you're collecting requirements
+and coming up with the
+
+14
+00:00:53,202 --> 00:00:55,760
+scope of the project,
+again, you're identifying risk.
+
+15
+00:00:56,030 --> 00:00:58,410
+So it's always, it's inherent already
+there.
+
+16
+00:00:58,850 --> 00:01:01,090
+So it's always there on your project.
+
+17
+00:01:01,530 --> 00:01:03,280
+The main thing is to identify them.
+
+18
+00:01:03,470 --> 00:01:06,570
+So that is something called the
+effect-based risk, right?
+
+19
+00:01:06,950 --> 00:01:08,370
+It's always inherent there.
+
+20
+00:01:09,850 --> 00:01:12,890
+Then you have something
+called the source-based risk, and
+
+21
+00:01:12,891 --> 00:01:15,910
+source-based risk then is
+basically refers to the origin.
+
+22
+00:01:16,490 --> 00:01:17,990
+Where did that risk come from?
+
+23
+00:01:18,310 --> 00:01:21,731
+There could be internal
+factors, internal to
+
+24
+00:01:21,732 --> 00:01:24,804
+the organization, internal to the project.
+
+25
+00:01:25,070 --> 00:01:29,790
+There could be external factors,
+such as, for example, vendor delaying
+
+26
+00:01:29,791 --> 00:01:34,090
+shipment of raw materials, many risks are
+going to be external, right?
+
+27
+00:01:34,270 --> 00:01:37,270
+So raw materials, exchange rates,
+and so and so forth, right?
+
+28
+00:01:37,510 --> 00:01:40,010
+These can all be risk to your project.
+
+29
+00:01:40,670 --> 00:01:44,710
+You have trade union workers, again,
+that you could identify that as a risk on
+
+30
+00:01:44,711 --> 00:01:48,911
+your project as well, right, potential for
+them going on strike, as a simple example.
+
+31
+00:01:49,330 --> 00:01:53,690
+So you've got external factors internal
+within your organization, right?
+
+32
+00:01:53,770 --> 00:01:56,970
+You've got technical risks,
+industry-specific risks.
+
+33
+00:01:57,230 --> 00:02:00,090
+There's many, many different different
+types of risks.
+
+34
+00:02:00,610 --> 00:02:04,270
+So the source-based risk then refers to
+the actual origin.
+
+35
+00:02:04,630 --> 00:02:06,380
+Where does they actually come from?
+
+36
+00:02:07,990 --> 00:02:10,770
+And in fact, internal, internal to the
+organization.
+
+37
+00:02:11,090 --> 00:02:12,140
+Perfect example here.
+
+38
+00:02:12,590 --> 00:02:15,110
+A failure of one team can impact another
+team.
+
+39
+00:02:15,870 --> 00:02:19,110
+So internal to your project in this case,
+one team fails.
+
+40
+00:02:20,090 --> 00:02:22,970
+That could lead to the failure of another
+team.
+
+41
+00:02:23,750 --> 00:02:25,770
+Think of business partners, for example.
+
+42
+00:02:26,190 --> 00:02:27,540
+One business partner fails.
+
+43
+00:02:27,630 --> 00:02:29,830
+that could bring down the entire
+partnership.
+
+44
+00:02:32,110 --> 00:02:34,910
+Now, additional classifications of risks.
+
+45
+00:02:35,650 --> 00:02:40,010
+So something called a business risk and
+something called an insurable risk.
+
+46
+00:02:40,670 --> 00:02:45,330
+And a business risk is, again,
+an uncertainty that is, again,
+
+47
+00:02:46,010 --> 00:02:47,260
+inherent in the business.
+
+48
+00:02:47,970 --> 00:02:51,590
+It's already inherent in the actual
+business venture itself.
+
+49
+00:02:52,310 --> 00:02:55,081
+As we're doing this
+project, there's no guarantee
+
+50
+00:02:55,082 --> 00:02:57,864
+that this project is
+going to be a success.
+
+51
+00:02:58,490 --> 00:03:02,770
+And in fact, this then goes back to,
+well, what does success mean on a project?
+
+52
+00:03:03,550 --> 00:03:06,987
+Just being on budget
+and on schedule doesn't
+
+53
+00:03:06,988 --> 00:03:10,890
+necessarily mean that
+the project is a success.
+
+54
+00:03:11,490 --> 00:03:16,430
+You could be on budget and on schedule,
+but the entire business venture may fail.
+
+55
+00:03:17,050 --> 00:03:22,090
+You may fail to make enough sales,
+and you've lost all that money,
+
+56
+00:03:22,850 --> 00:03:24,300
+the whole business collapses.
+
+57
+00:03:25,250 --> 00:03:27,726
+Even though you're
+within schedule and within
+
+58
+00:03:27,727 --> 00:03:30,644
+budget, but was that a successful project?
+
+59
+00:03:30,970 --> 00:03:31,803
+No.
+
+60
+00:03:32,250 --> 00:03:36,130
+So business risk then is always inherent
+in the actual business itself.
+
+61
+00:03:36,930 --> 00:03:41,110
+So again, this project, even though it may
+be within schedule and within budget,
+
+62
+00:03:42,150 --> 00:03:43,667
+it might not be a successful project.
+
+63
+00:03:43,750 --> 00:03:46,600
+Or rather, it might not end up being a
+successful venture.
+
+64
+00:03:47,950 --> 00:03:52,930
+And this is, like I said, inherent, but
+it's not something you can insure against.
+
+65
+00:03:52,931 --> 00:03:54,270
+It's not insurable.
+
+66
+00:03:55,570 --> 00:03:58,520
+So they have a business risk and you have
+an insurable risk.
+
+67
+00:03:59,070 --> 00:04:03,210
+An insurable risk then, obviously,
+is something that you can insure against,
+
+68
+00:04:03,490 --> 00:04:08,290
+such as fire, theft and, you know,
+just the typical insurance, the types of
+
+69
+00:04:08,291 --> 00:04:12,210
+insurance that you buy, say, for your home
+or for your car, right?
+
+70
+00:04:12,310 --> 00:04:14,510
+You have insurance for your business as
+well.
+
+71
+00:04:16,410 --> 00:04:20,790
+Now, let's talk about some of the business,
+some of the common business risks.
+
+72
+00:04:20,791 --> 00:04:25,090
+right, and these four are really just some
+of the real common business type risks.
+
+73
+00:04:25,610 --> 00:04:26,443
+So competition.
+
+74
+00:04:27,470 --> 00:04:31,670
+So your competitor has a feature that you
+don't have, right?
+
+75
+00:04:32,110 --> 00:04:33,470
+That's a risk to you.
+
+76
+00:04:33,630 --> 00:04:35,130
+That's a risk to your project.
+
+77
+00:04:35,970 --> 00:04:40,524
+So you're building this product, but
+your competitor has a superior product.
+
+78
+00:04:41,210 --> 00:04:44,210
+Or even there's now increased competition
+in the marketplace.
+
+79
+00:04:44,830 --> 00:04:49,290
+When you started off, you were the only
+one, or there were only a few players out
+
+80
+00:04:49,291 --> 00:04:51,541
+there, There's only few competitors out
+there.
+
+81
+00:04:52,050 --> 00:04:54,350
+Now it's just being saturated with
+competitors.
+
+82
+00:04:54,730 --> 00:04:58,110
+Again, that can be a risk to your
+organization.
+
+83
+00:04:58,630 --> 00:05:00,480
+That could be a risk to your project.
+
+84
+00:05:01,250 --> 00:05:02,250
+Legislation as well.
+
+85
+00:05:02,530 --> 00:05:03,680
+Compliance is standard.
+
+86
+00:05:04,430 --> 00:05:05,730
+Compliance to regulations.
+
+87
+00:05:06,290 --> 00:05:08,924
+New law suddenly gets
+enacted and you might end
+
+88
+00:05:08,925 --> 00:05:11,050
+up having to extend the
+timeline for your project.
+
+89
+00:05:11,190 --> 00:05:12,890
+We need to implement this new law.
+
+90
+00:05:13,370 --> 00:05:15,670
+That's a very simple system back in my HR
+days.
+
+91
+00:05:16,250 --> 00:05:19,450
+There would always be new HIPAA laws
+coming in or tax law.
+
+92
+00:05:19,470 --> 00:05:22,290
+that would impact payroll and so and so
+forth.
+
+93
+00:05:22,670 --> 00:05:27,650
+So now we're either that could create a
+new project or if we're in the middle of a
+
+94
+00:05:27,651 --> 00:05:31,051
+project now we need to add in these
+additional items to this project.
+
+95
+00:05:31,390 --> 00:05:33,540
+That can extend the timeline on the
+project.
+
+96
+00:05:34,370 --> 00:05:38,370
+But these are again, these are all risks
+on your project, all uncertainties.
+
+97
+00:05:39,170 --> 00:05:41,203
+Monetary as well, I
+mean that's obviously the
+
+98
+00:05:41,286 --> 00:05:44,310
+biggest risk on your
+project, right, money, right?
+
+99
+00:05:44,490 --> 00:05:48,510
+So exchange rates, raw materials,
+price of raw materials suddenly increases.
+
+100
+00:05:48,511 --> 00:05:50,910
+There's not much you can do about that.
+
+101
+00:05:51,290 --> 00:05:55,396
+And again, you can't
+always identify, but if
+
+102
+00:05:55,397 --> 00:05:58,864
+you can identify it, we
+want to identify them.
+
+103
+00:05:59,110 --> 00:06:03,370
+We want to identify, oh, there might be a
+fluctuation in raw material prices,
+
+104
+00:06:03,750 --> 00:06:07,150
+just because of what we've been hearing on
+the news or anything else.
+
+105
+00:06:07,830 --> 00:06:12,130
+So operational risk then would be things
+like theft, fraud, injury.
+
+106
+00:06:12,790 --> 00:06:16,450
+So these again are all risks on your
+project, right?
+
+107
+00:06:16,451 --> 00:06:18,501
+So again, something you want to identify.
+
+108
+00:06:19,070 --> 00:06:21,770
+So remember, risk is an uncertainty,
+right?
+
+109
+00:06:21,890 --> 00:06:25,250
+But we want to try and prevent a negative
+risk from a current.
+
+110
+00:06:25,450 --> 00:06:27,827
+A positive risk, obviously we want to
+embrace it.
+
+111
+00:06:27,910 --> 00:06:31,170
+It's a negative risk we want to try to
+identify it early.
+
+112
+00:06:31,830 --> 00:06:35,410
+You know, we have something, or rather we
+have a plan to deal with it.
+
+113
+00:06:37,070 --> 00:06:39,650
+Now, risks exist at two levels.
+
+114
+00:06:40,430 --> 00:06:42,540
+You have something called individual risks
+
+115
+00:06:42,541 --> 00:06:45,704
+and something called
+overall project risks.
+
+116
+00:06:46,490 --> 00:06:52,510
+Individual risks, right, basically are
+risks that just affect one, you know,
+
+117
+00:06:52,511 --> 00:06:57,270
+it's really one objective, affects one
+team, affects one activity, right,
+
+118
+00:06:57,370 --> 00:07:02,150
+affects one requirement or it affects one
+area, just one objective at some kind,
+
+119
+00:07:02,950 --> 00:07:05,935
+whereas overall
+project risks refers to risk
+
+120
+00:07:05,936 --> 00:07:09,464
+that impact the entire project as a whole.
+
+121
+00:07:09,950 --> 00:07:15,250
+Now, how do we actually deal with these as
+we're talking about all of the analysis?
+
+122
+00:07:15,270 --> 00:07:18,690
+right, the risk analysis process,
+where we're going to be talking about
+
+123
+00:07:18,691 --> 00:07:23,390
+qualitative analysis and quantitative
+analysis and risk response strategies.
+
+124
+00:07:24,490 --> 00:07:29,250
+Well, there's no difference between the
+individual and overall project risk when
+
+125
+00:07:29,251 --> 00:07:32,510
+it comes to analysis, right, and how to
+respond to the risk.
+
+126
+00:07:32,870 --> 00:07:37,330
+Everything that we are going to be
+covering in risk management, like refers
+
+127
+00:07:37,331 --> 00:07:41,350
+to both individual risks as well as
+overall project risks.
+
+128
+00:07:42,130 --> 00:07:47,030
+And then just as a side note, there's
+another type of classification of risk,
+
+129
+00:07:47,150 --> 00:07:49,590
+if you like, something called the
+non-event risk.
+
+130
+00:07:50,370 --> 00:07:53,850
+And a non-event risk really is just
+something that can happen.
+
+131
+00:07:54,310 --> 00:07:56,930
+You don't really have much control over
+it.
+
+132
+00:07:57,030 --> 00:08:00,080
+So as a very simple example, you know,
+a perfect example here.
+
+133
+00:08:00,450 --> 00:08:01,807
+Customer changed their mind.
+
+134
+00:08:01,890 --> 00:08:05,384
+They changed their mind about functionality
+or change their mind about a product.
+
+135
+00:08:05,730 --> 00:08:08,070
+Well, nothing actually triggered them.
+
+136
+00:08:08,630 --> 00:08:10,130
+They just happened to change their mind.
+
+137
+00:08:10,131 --> 00:08:11,430
+and that's it.
+
+138
+00:08:12,030 --> 00:08:14,030
+They change their mind, project is over.
+
+139
+00:08:14,990 --> 00:08:17,210
+So there's nothing that triggered it.
+
+140
+00:08:17,430 --> 00:08:19,770
+So that is something known as a non-event
+risk.
+
+141
+00:08:20,710 --> 00:08:25,030
+So these are just some of the different
+classifications of risks and some
+
+142
+00:08:25,031 --> 00:08:28,930
+classifications of risks that you need to
+be aware of for the P&P exam.
+

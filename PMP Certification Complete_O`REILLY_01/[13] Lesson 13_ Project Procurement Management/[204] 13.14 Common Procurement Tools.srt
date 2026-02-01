@@ -1,0 +1,613 @@
+﻿1
+00:00:06,650 --> 00:00:09,383
+Okay, so in this video
+then, we are going to
+
+2
+00:00:09,384 --> 00:00:12,190
+discuss some additional
+common procurement tools.
+
+3
+00:00:12,530 --> 00:00:15,013
+So one very common
+tool that is asked about on
+
+4
+00:00:15,014 --> 00:00:17,451
+the exam is this one
+called a biddis conference.
+
+5
+00:00:18,130 --> 00:00:22,970
+Now, not every industry uses biddis
+conferences, but it is used heavily in
+
+6
+00:00:22,971 --> 00:00:27,410
+government contracting, and there are
+other industries that use it.
+
+7
+00:00:28,090 --> 00:00:33,350
+Now, a biddis conference is basically a
+meeting with all of the potential sellers,
+
+8
+00:00:34,210 --> 00:00:37,230
+at all of the potential vendors,
+they're in the same meeting.
+
+9
+00:00:37,690 --> 00:00:41,930
+It could be a face-to-face meeting or it
+could be a conference call, or a Zoom
+
+10
+00:00:41,931 --> 00:00:47,630
+meeting, but it is a meeting with all of
+the potential sellers in the same meeting.
+
+11
+00:00:48,430 --> 00:00:52,890
+And the whole idea is to make sure there's
+a clear and common understanding of the
+
+12
+00:00:52,891 --> 00:00:57,570
+procurement process, clear and common
+understanding of what the project is about.
+
+13
+00:00:58,110 --> 00:01:02,250
+Now, the whole principle behind this or
+one of the principles behind this is to
+
+14
+00:01:02,251 --> 00:01:09,470
+try and prevent any kind of favoritism
+towards one particular vendor on trying to
+
+15
+00:01:09,471 --> 00:01:14,230
+prevent any kind of collusion between the
+buyer and the seller organization.
+
+16
+00:01:14,570 --> 00:01:17,010
+It's supposed to be a level playing field.
+
+17
+00:01:17,610 --> 00:01:19,910
+Everyone has access to the same
+information.
+
+18
+00:01:20,850 --> 00:01:24,830
+So typically what happens then is the
+buyer, say a government agency,
+
+19
+00:01:25,370 --> 00:01:29,510
+will send an RFP, a
+request for a proposal to the
+
+20
+00:01:29,511 --> 00:01:32,611
+seller, inviting them to
+the business conference.
+
+21
+00:01:33,530 --> 00:01:39,450
+now they have a certain time period in
+which the vendor can ask questions right
+
+22
+00:01:39,451 --> 00:01:44,150
+so they'll reach out to several sellers
+and then they have a certain deadline
+
+23
+00:01:44,151 --> 00:01:49,010
+where they need to submit all of their
+questions by and all of those questions
+
+24
+00:01:49,011 --> 00:01:55,210
+will be answered by the buyer and those
+questions will be available to everybody
+
+25
+00:01:55,211 --> 00:01:58,241
+right not just the vendors
+ask those questions
+
+26
+00:01:58,242 --> 00:02:01,144
+but they will be available to everyone.
+
+27
+00:02:02,050 --> 00:02:04,600
+So again, it's supposed to be a level
+playing field.
+
+28
+00:02:06,090 --> 00:02:10,410
+So the bidders conference said,
+all of the vendors then, they basically
+
+29
+00:02:10,411 --> 00:02:14,530
+come to this bidders conference,
+and it's an open dialogue.
+
+30
+00:02:15,550 --> 00:02:17,650
+They all have the same information.
+
+31
+00:02:18,750 --> 00:02:24,750
+So no vendor can, like I said,
+no vendor can claim that another vendor
+
+32
+00:02:24,751 --> 00:02:27,790
+had preferential treatment is to try and
+prevent all of that.
+
+33
+00:02:28,830 --> 00:02:32,550
+So in the actual bidders conference
+itself, it's an open dialogue.
+
+34
+00:02:33,210 --> 00:02:35,667
+So the vendor is asking
+questions in front of
+
+35
+00:02:35,668 --> 00:02:38,564
+all of their, you know,
+all of their competitors.
+
+36
+00:02:39,030 --> 00:02:40,880
+And the buyer is answering questions.
+
+37
+00:02:41,090 --> 00:02:42,590
+The buyer is asking questions.
+
+38
+00:02:43,130 --> 00:02:45,580
+And the potential vendors are answering
+questions.
+
+39
+00:02:46,490 --> 00:02:46,550
+Right.
+
+40
+00:02:46,630 --> 00:02:48,230
+So again, it's an open dialogue.
+
+41
+00:02:48,510 --> 00:02:50,887
+Now, there are some different variations
+of bidders conferences.
+
+42
+00:02:50,970 --> 00:02:53,603
+Some of you may have gone
+to bidders conferences where
+
+43
+00:02:53,604 --> 00:02:55,967
+none of the potential
+vendors are allowed to speak.
+
+44
+00:02:56,050 --> 00:02:56,710
+I mean, sure, there is.
+
+45
+00:02:56,910 --> 00:02:58,360
+There's different variations.
+
+46
+00:02:58,470 --> 00:03:01,261
+But for the purpose of
+the PMP exam, assume
+
+47
+00:03:01,262 --> 00:03:04,184
+that the bidders conference
+is an open dialogue.
+
+48
+00:03:05,010 --> 00:03:09,070
+Now, most vendors actually dislike going
+to a biddis conference.
+
+49
+00:03:09,330 --> 00:03:11,230
+Most vendors don't like going to them.
+
+50
+00:03:11,590 --> 00:03:12,423
+And why?
+
+51
+00:03:12,830 --> 00:03:15,880
+Because they've got all their competitors
+in the same meeting.
+
+52
+00:03:16,130 --> 00:03:20,150
+If it's a face-to-face meeting,
+all the competitors are right there.
+
+53
+00:03:20,670 --> 00:03:22,020
+Or even in conference call.
+
+54
+00:03:22,310 --> 00:03:23,567
+All the competitors are there.
+
+55
+00:03:23,650 --> 00:03:26,770
+So they have to be careful about what
+they're going to say.
+
+56
+00:03:26,771 --> 00:03:30,801
+you want to try and show
+a competitive advantage,
+
+57
+00:03:30,802 --> 00:03:33,930
+but you don't want to
+let out any trade secrets.
+
+58
+00:03:34,850 --> 00:03:39,050
+And then plus, when you're asking
+questions, you don't want to show that
+
+59
+00:03:39,051 --> 00:03:41,430
+there's any weaknesses in your
+organization.
+
+60
+00:03:42,110 --> 00:03:46,550
+So all the attendees are very careful
+about what they're actually saying and
+
+61
+00:03:46,551 --> 00:03:49,401
+what they're actually discussing in a
+bidder's conference.
+
+62
+00:03:50,030 --> 00:03:54,850
+But either way, though, a bidder's
+conference is a, it's supposed to be a
+
+63
+00:03:54,851 --> 00:03:58,890
+meeting then with all of the potential,
+vendors, all of the potential sellers,
+
+64
+00:03:59,870 --> 00:04:01,190
+and an open dialogue.
+
+65
+00:04:02,310 --> 00:04:05,060
+Now, there may be several rounds of
+bidders conferences.
+
+66
+00:04:05,330 --> 00:04:08,370
+First round might be just more of a
+screening session, then they may have
+
+67
+00:04:08,371 --> 00:04:10,510
+another round of bidders conferences,
+right?
+
+68
+00:04:10,590 --> 00:04:13,390
+Or there might just be one bidders
+conference altogether.
+
+69
+00:04:14,010 --> 00:04:16,251
+And there's different
+names, different organizations
+
+70
+00:04:16,252 --> 00:04:18,851
+have different names for a
+bidder's conference as well.
+
+71
+00:04:19,270 --> 00:04:20,952
+So generally then, you
+have a biddis conference
+
+72
+00:04:20,953 --> 00:04:24,350
+before the submission of
+any bids, naturally, right?
+
+73
+00:04:24,351 --> 00:04:30,590
+Because what they're doing is the vendors
+are trying to understand what the project
+
+74
+00:04:30,591 --> 00:04:34,310
+is about, they're supposed to come to,
+or the vendors are supposed to have a
+
+75
+00:04:34,311 --> 00:04:39,250
+clear and common understanding so that
+then they can supply an accurate bid.
+
+76
+00:04:40,050 --> 00:04:45,290
+And then after they've supplied these
+bids, these proposals, then the buyer is
+
+77
+00:04:45,291 --> 00:04:48,710
+going to review those proposals,
+right?
+
+78
+00:04:48,830 --> 00:04:52,730
+They're going to evaluate those proposals
+and then select one of those vendors.
+
+79
+00:04:53,470 --> 00:04:56,594
+Now, a couple of other,
+Other common procurement
+
+80
+00:04:56,595 --> 00:05:01,710
+tools, advertising and
+marketing, naturally, right?
+
+81
+00:05:01,950 --> 00:05:06,450
+So we've decided to outsource the work,
+well, how a vendor is going to come to us?
+
+82
+00:05:06,590 --> 00:05:08,810
+Well, let's advertise the opportunity,
+right?
+
+83
+00:05:08,830 --> 00:05:13,150
+Or we do our own market research,
+before we reach out to particular vendors,
+
+84
+00:05:13,370 --> 00:05:13,370
+right?
+
+85
+00:05:13,950 --> 00:05:15,591
+Let's say we don't want to reach out to
+
+86
+00:05:15,592 --> 00:05:17,870
+vendors, we want
+vendors to reach out to us.
+
+87
+00:05:18,390 --> 00:05:20,340
+So we would advertise that opportunity.
+
+88
+00:05:22,290 --> 00:05:28,150
+also a proposal evaluation vendors are
+going to give you their bids they're going
+
+89
+00:05:28,151 --> 00:05:33,490
+to give you their proposals so whether
+it's after a bidders conference or you
+
+90
+00:05:33,491 --> 00:05:36,470
+don't have a bidist conference you've
+reached out to a vendor they're going to
+
+91
+00:05:36,471 --> 00:05:39,850
+give you their bid they're going to give
+you their proposal and so you're going to
+
+92
+00:05:39,851 --> 00:05:43,770
+evaluate those proposals which of these
+proposals is going to work for us which
+
+93
+00:05:43,771 --> 00:05:48,770
+are the best one the best proposal and so
+then we would reach out to this vendor or
+
+94
+00:05:48,771 --> 00:05:53,110
+rather we would select this vendor and
+then negotiate a contract with them.
+
+95
+00:05:53,111 --> 00:06:00,910
+And there's many, many different ways of
+evaluating the proposal from your vendor.
+
+96
+00:06:01,250 --> 00:06:03,577
+It may have something
+called a simple screening
+
+97
+00:06:03,578 --> 00:06:06,690
+system where they have to
+meet this minimum criteria.
+
+98
+00:06:07,690 --> 00:06:11,530
+So as a very simple example, project
+managers have to be P&P certified.
+
+99
+00:06:12,670 --> 00:06:14,070
+That's the screening system.
+
+100
+00:06:14,350 --> 00:06:19,350
+So of all these vendors that have given us
+a proposal, If these project managers are
+
+101
+00:06:19,351 --> 00:06:23,210
+not P&P certified, those are the ones we
+will eliminate first.
+
+102
+00:06:23,750 --> 00:06:25,150
+That's our minimum criteria.
+
+103
+00:06:25,950 --> 00:06:29,400
+Or we may have something called a
+weighting system or a scoring model.
+
+104
+00:06:29,610 --> 00:06:33,230
+Based on certain criteria, we will give
+them an arbitrary score.
+
+105
+00:06:34,390 --> 00:06:38,090
+And then we would add up all of those
+scores and then we can see which is the
+
+106
+00:06:38,091 --> 00:06:40,650
+highest ranking proposal, lowest ranking
+proposal.
+
+107
+00:06:40,910 --> 00:06:43,630
+That can help us prioritize some of these
+vendors.
+
+108
+00:06:44,810 --> 00:06:49,110
+or it could just be based on some kind of
+seller's rating system, based on their
+
+109
+00:06:49,111 --> 00:06:53,430
+past performance or some review,
+online reviews, based on their online
+
+110
+00:06:53,431 --> 00:06:58,610
+ratings, based on how they're rated on,
+say, the Better Business Bureau,
+
+111
+00:06:59,010 --> 00:07:02,310
+right, and other types of rating systems
+as well.
+
+112
+00:07:02,750 --> 00:07:05,210
+So that's another way of evaluating
+proposals.
+
+113
+00:07:05,730 --> 00:07:07,187
+And there's many, many ways as well.
+
+114
+00:07:07,270 --> 00:07:11,130
+These are just a couple of ways that I've
+just mentioned, right?
+
+115
+00:07:11,131 --> 00:07:13,832
+So these are just a couple of
+examples, but there are many,
+
+116
+00:07:13,833 --> 00:07:17,170
+many ways that you would
+evaluate a seller's proposal.
+
+117
+00:07:17,490 --> 00:07:19,840
+And again, you're doing some work in your
+house.
+
+118
+00:07:19,970 --> 00:07:22,110
+You've reached out to a few contractors.
+
+119
+00:07:22,690 --> 00:07:23,687
+You've got these proposals.
+
+120
+00:07:23,770 --> 00:07:28,750
+Well, you're going to determine which of
+these is going to work for us.
+
+121
+00:07:29,510 --> 00:07:34,370
+And so the source selection criteria that
+we discussed in a prior video,
+
+122
+00:07:34,970 --> 00:07:37,020
+that would be very relevant here as well.
+
+123
+00:07:37,230 --> 00:07:39,167
+They have to meet this source selection.
+
+124
+00:07:39,250 --> 00:07:41,470
+They have to meet this minimum criteria.
+
+125
+00:07:41,870 --> 00:07:43,470
+For example, lowest cost vendor.
+
+126
+00:07:43,610 --> 00:07:45,527
+We're just going to go with the lowest
+cost vendor.
+
+127
+00:07:45,610 --> 00:07:47,660
+So that could be our proposal evaluation.
+
+128
+00:07:48,710 --> 00:07:51,960
+So these are just some of the additional
+common procurement tools.
+

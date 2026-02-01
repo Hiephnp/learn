@@ -1,0 +1,564 @@
+﻿1
+00:00:05,630 --> 00:00:09,607
+Okay, so in this video then,
+we are going to discuss the
+
+2
+00:00:09,608 --> 00:00:13,690
+differences between centralised
+and decentralized contracting.
+
+3
+00:00:14,230 --> 00:00:17,830
+Okay, so first of all, what is centralized
+and decentralized contracting?
+
+4
+00:00:18,170 --> 00:00:21,264
+Well, centralized contractor
+means that you have one
+
+5
+00:00:21,265 --> 00:00:23,927
+central procurement
+department in your organization.
+
+6
+00:00:24,010 --> 00:00:26,310
+There is one procurement department,
+right?
+
+7
+00:00:26,390 --> 00:00:30,990
+And all procurement activities has to go
+through this one procurement department.
+
+8
+00:00:31,770 --> 00:00:33,020
+And that's a centralized.
+
+9
+00:00:33,390 --> 00:00:36,290
+Whereas in a decentralized environment,
+right?
+
+10
+00:00:36,370 --> 00:00:38,120
+There is no procurement department.
+
+11
+00:00:38,390 --> 00:00:40,840
+You have a procurement
+manager on your project
+
+12
+00:00:40,841 --> 00:00:43,644
+or a procurement officer on your project.
+
+13
+00:00:43,930 --> 00:00:48,870
+There is no central procurement department
+as such that you have to go through.
+
+14
+00:00:49,770 --> 00:00:49,850
+Okay.
+
+15
+00:00:50,390 --> 00:00:51,910
+So these are the two extremes.
+
+16
+00:00:52,390 --> 00:00:55,790
+In a centralized, you have one central
+procurement department.
+
+17
+00:00:56,650 --> 00:01:00,210
+In a decentralized, there is no
+procurement department.
+
+18
+00:01:01,330 --> 00:01:04,830
+Now, in the exam, they will always ask you
+about these two.
+
+19
+00:01:04,850 --> 00:01:05,683
+extremes.
+
+20
+00:01:06,550 --> 00:01:11,410
+In reality, many organisations are going
+to fall somewhere in between, right?
+
+21
+00:01:11,510 --> 00:01:17,390
+You may have elements of centralised and
+elements of decentralised, or you may be
+
+22
+00:01:17,391 --> 00:01:21,510
+more towards one side versus another side,
+or it might be a mixture of the two.
+
+23
+00:01:22,050 --> 00:01:26,250
+But for the exam, generally, it's going to
+be either you're purely 100% centralized
+
+24
+00:01:26,251 --> 00:01:29,330
+or you purely 100% decentralized,
+right?
+
+25
+00:01:29,450 --> 00:01:32,007
+So they're going to be asking about the
+two extremes.
+
+26
+00:01:32,090 --> 00:01:36,240
+All right, so let's talk about some of the
+advantages and disadvantages of each one.
+
+27
+00:01:36,970 --> 00:01:39,250
+So let's talk about centralized first.
+
+28
+00:01:39,550 --> 00:01:43,087
+So again, remember, in a centralized
+procurement or centralized contracting,
+
+29
+00:01:43,170 --> 00:01:48,290
+you have one procurement department,
+all procurement activities must go through
+
+30
+00:01:48,291 --> 00:01:50,441
+this one centralized procurement
+department.
+
+31
+00:01:50,690 --> 00:01:55,830
+So since it is a procurement department,
+it's a procurement department,
+
+32
+00:01:56,310 --> 00:01:58,950
+it's a procurement of contracting
+expertise.
+
+33
+00:01:59,550 --> 00:02:02,670
+You have procurement managers,
+procurement officers, you have a
+
+34
+00:02:02,671 --> 00:02:04,437
+procurement officers, you
+have an entire department,
+
+35
+00:02:04,438 --> 00:02:07,290
+they're just dedicated to
+contracts, to procurement.
+
+36
+00:02:08,030 --> 00:02:13,570
+They are, for those employees,
+there's standard career progression.
+
+37
+00:02:14,290 --> 00:02:16,450
+So it's an entire department of expertise.
+
+38
+00:02:17,810 --> 00:02:23,390
+And because it's a centralized department,
+because it's a department of contracting
+
+39
+00:02:23,391 --> 00:02:27,770
+expertise, there's standardized practices,
+standardized procedures.
+
+40
+00:02:28,270 --> 00:02:33,750
+Everybody knows, the entire organization
+knows what the procedures are and,
+
+41
+00:02:33,810 --> 00:02:36,342
+you know, as a project
+manager, you don't need
+
+42
+00:02:36,343 --> 00:02:38,830
+to worry too much about
+procurement activities.
+
+43
+00:02:39,690 --> 00:02:42,950
+Everything is done by the centralized
+procurement department.
+
+44
+00:02:43,770 --> 00:02:46,033
+So you don't have to
+spend as much time looking
+
+45
+00:02:46,034 --> 00:02:49,210
+at contracts, negotiating
+contracts, right?
+
+46
+00:02:49,211 --> 00:02:52,970
+You don't have to worry about terms and
+conditions as much.
+
+47
+00:02:54,050 --> 00:02:56,470
+Procurement department takes care of all
+of that.
+
+48
+00:02:56,990 --> 00:03:03,504
+So those are the biggest advantages of
+having a centralized procurement department.
+
+49
+00:03:04,570 --> 00:03:06,430
+What about some of the disadvantage?
+
+50
+00:03:07,870 --> 00:03:09,850
+Some of you may have experienced this.
+
+51
+00:03:10,650 --> 00:03:14,310
+Those of you that work for larger
+organizations and you have a centralized
+
+52
+00:03:14,311 --> 00:03:17,490
+procurement department, or at least some
+kind of centralized procurement
+
+53
+00:03:17,491 --> 00:03:21,430
+department, good luck getting hold to
+someone when you actually need them.
+
+54
+00:03:21,770 --> 00:03:23,370
+That's the biggest disadvantage.
+
+55
+00:03:23,590 --> 00:03:26,390
+There is nobody dedicated to your project.
+
+56
+00:03:26,910 --> 00:03:29,040
+There's no procurement
+officer, procurement
+
+57
+00:03:29,041 --> 00:03:31,710
+manager that is actually
+dedicated to your project.
+
+58
+00:03:32,290 --> 00:03:35,570
+So you can't always get hold of someone
+whenever you need them.
+
+59
+00:03:36,330 --> 00:03:39,470
+You're based on their schedule.
+
+60
+00:03:40,370 --> 00:03:43,270
+So, you know, staff isn't always
+available.
+
+61
+00:03:43,510 --> 00:03:47,550
+And each time you might get a different
+staff, right, a different procurement
+
+62
+00:03:47,551 --> 00:03:49,651
+manager or a different procurement
+officer.
+
+63
+00:03:49,990 --> 00:03:52,666
+Each time you might
+have to explain the same
+
+64
+00:03:52,667 --> 00:03:54,910
+thing over and over again
+and so on and so forth.
+
+65
+00:03:54,911 --> 00:03:57,690
+because there's nobody dedicated to your
+project.
+
+66
+00:03:58,370 --> 00:04:03,550
+So that is alleviated then in a
+decentralized contracting environment.
+
+67
+00:04:04,050 --> 00:04:09,210
+And in a decentralized contracting,
+you have one procurement manager or one
+
+68
+00:04:09,211 --> 00:04:12,930
+procurement officer that is dedicated to
+your project.
+
+69
+00:04:13,650 --> 00:04:15,590
+They are dedicated to your project.
+
+70
+00:04:15,750 --> 00:04:17,167
+They're just working on your project.
+
+71
+00:04:17,250 --> 00:04:20,050
+There is no central procurement department
+in this case.
+
+72
+00:04:20,470 --> 00:04:24,550
+Or you as a project manager may be the
+procurement manager.
+
+73
+00:04:25,330 --> 00:04:30,890
+So, the advantage there is, there's always
+somebody available, right, there's always
+
+74
+00:04:30,891 --> 00:04:34,650
+someone there, procurement staff,
+there's someone dedicated to your project,
+
+75
+00:04:35,370 --> 00:04:35,430
+right?
+
+76
+00:04:35,530 --> 00:04:37,181
+There's always someone
+there whenever you need
+
+77
+00:04:37,182 --> 00:04:39,404
+them for any kind of
+procurement activities.
+
+78
+00:04:39,810 --> 00:04:43,930
+Also, project manager then has more
+control over these activities.
+
+79
+00:04:44,510 --> 00:04:46,750
+So the project manager has more control.
+
+80
+00:04:47,350 --> 00:04:53,530
+They have more control over the timeline,
+right, over what can be negotiated,
+
+81
+00:04:54,450 --> 00:04:59,910
+or rather over what is negotiated,
+they have more control over when we're
+
+82
+00:04:59,911 --> 00:05:04,570
+going to be conducting procurement
+activities, right, you don't have to wait
+
+83
+00:05:04,571 --> 00:05:08,710
+for a procurement officer, so because
+there's always somebody dedicated.
+
+84
+00:05:09,530 --> 00:05:13,930
+The biggest disadvantage, though,
+in a decentralized environment is
+
+85
+00:05:13,931 --> 00:05:19,070
+basically you're limited to your own
+experience or you're limited to the
+
+86
+00:05:19,071 --> 00:05:21,021
+procurement manager's experience,
+right?
+
+87
+00:05:21,110 --> 00:05:24,570
+Whoever the procurement officer is,
+the procurement staff, right?
+
+88
+00:05:24,571 --> 00:05:26,285
+They're dedicated to
+your project, but you're just
+
+89
+00:05:26,286 --> 00:05:28,256
+limited to their experience
+because there is no central
+
+90
+00:05:28,257 --> 00:05:30,170
+procurement department
+that they can go back to.
+
+91
+00:05:30,630 --> 00:05:35,250
+Or if you are the procurement officer,
+right, you as a project manager,
+
+92
+00:05:35,450 --> 00:05:39,100
+if you're the procurement manager,
+then you're limited to your experience.
+
+93
+00:05:39,250 --> 00:05:43,810
+And so you must develop contracting
+experience as you go along.
+
+94
+00:05:44,590 --> 00:05:47,331
+So these are some of the
+advantages and disadvantages
+
+95
+00:05:47,332 --> 00:05:49,584
+then of centralized versus decentralized.
+
+96
+00:05:50,590 --> 00:05:54,550
+In reality, though, remember, many
+organizations, right, will be.
+
+97
+00:05:54,570 --> 00:05:57,097
+either swaying more to
+one side or more to the
+
+98
+00:05:57,098 --> 00:05:59,810
+other side, or there might
+be a mixture of the two.
+
+99
+00:06:00,370 --> 00:06:04,770
+You don't necessarily always have,
+you know, the two extremes.
+
+100
+00:06:05,030 --> 00:06:06,630
+So I have a very simple example.
+
+101
+00:06:06,870 --> 00:06:10,250
+I've worked for a couple of large global
+consulting firms.
+
+102
+00:06:10,690 --> 00:06:16,510
+So we're traveling around to Fortune 100
+clients implementing their IT systems,
+
+103
+00:06:16,790 --> 00:06:18,190
+implementing the HR systems.
+
+104
+00:06:18,630 --> 00:06:22,030
+Well, you can imagine then, you know,
+a large global consulting firm,
+
+105
+00:06:23,110 --> 00:06:25,930
+they would have many procurement
+departments, right?
+
+106
+00:06:26,030 --> 00:06:29,490
+They'd have several procurement
+departments, but then for each one of our
+
+107
+00:06:29,491 --> 00:06:34,670
+projects, any of our large projects,
+we would have one dedicated procurement
+
+108
+00:06:34,671 --> 00:06:38,790
+officer that would be a centralized and a
+decentralized environment.
+
+109
+00:06:39,750 --> 00:06:44,370
+And then sometimes if it's a very large
+project, we would have one procurement
+
+110
+00:06:44,371 --> 00:06:47,830
+officer specifically dedicated to our
+project or another project.
+
+111
+00:06:48,070 --> 00:06:50,727
+So maybe a procurement
+officer that was dedicated
+
+112
+00:06:50,728 --> 00:06:53,110
+to, you know, two or
+three different projects.
+
+113
+00:06:53,850 --> 00:06:56,850
+Again, a mixture, a mixture of centralized
+and decentralized.
+
+114
+00:06:57,910 --> 00:07:01,117
+But again, for the exam,
+remember, if they ask you a
+
+115
+00:07:01,118 --> 00:07:04,410
+question, generally it's going
+to be one of the two extremes.
+
+116
+00:07:04,970 --> 00:07:08,720
+Either purely centralized environment or a
+purely decentralized environment.
+
+117
+00:07:09,490 --> 00:07:10,323
+Okay.
+

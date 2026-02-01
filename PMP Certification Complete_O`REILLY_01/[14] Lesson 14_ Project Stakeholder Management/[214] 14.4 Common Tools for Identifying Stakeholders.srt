@@ -1,0 +1,151 @@
+﻿1
+00:00:05,920 --> 00:00:09,720
+Common tools and techniques for
+identifying the stakeholders.
+
+2
+00:00:10,900 --> 00:00:12,200
+We'll use expert judgment.
+
+3
+00:00:12,300 --> 00:00:13,800
+We've seen this over and over.
+
+4
+00:00:14,480 --> 00:00:18,200
+Ours or team members are SMEs,
+experience, expertise.
+
+5
+00:00:19,020 --> 00:00:22,585
+Just like when you
+identify risks, you want as
+
+6
+00:00:22,586 --> 00:00:25,580
+many people to help
+you identify stakeholders.
+
+7
+00:00:26,200 --> 00:00:28,829
+Anybody, individual group
+department organization
+
+8
+00:00:28,830 --> 00:00:31,260
+that's going to be
+impacted by your project.
+
+9
+00:00:31,860 --> 00:00:32,860
+We'll have meetings.
+
+10
+00:00:33,480 --> 00:00:34,400
+We'll gather data.
+
+11
+00:00:34,401 --> 00:00:39,020
+you can send out questionnaires and
+surveys, especially if you have a lot of
+
+12
+00:00:39,021 --> 00:00:45,340
+virtual teams spread out to figure out who
+all the stakeholders would be at each
+
+13
+00:00:45,341 --> 00:00:50,060
+location, for example, and brainstorming
+coming up with as many ideas as possible.
+
+14
+00:00:51,100 --> 00:00:56,320
+Data analysis will do stakeholder analysis
+and document analysis.
+
+15
+00:00:56,960 --> 00:01:02,088
+We are going to look at
+any plan, document that is
+
+16
+00:01:02,089 --> 00:01:05,760
+available, who is going to
+be impacted by our project.
+
+17
+00:01:06,720 --> 00:01:09,388
+Out of them, you'll see
+we need to figure out who's
+
+18
+00:01:09,389 --> 00:01:12,160
+going to impact us, who's
+going to be making decisions.
+
+19
+00:01:13,320 --> 00:01:18,980
+All right, we can use stakeholder mapping,
+a way to categorize the stakeholders by
+
+20
+00:01:18,981 --> 00:01:23,320
+creating a stakeholder grid like power and
+interest, power and influence,
+
+21
+00:01:23,560 --> 00:01:25,520
+influence and impact.
+
+22
+00:01:26,060 --> 00:01:27,910
+You can create three different grids.
+
+23
+00:01:28,480 --> 00:01:30,360
+You can create a salience model.
+
+24
+00:01:31,620 --> 00:01:35,040
+Both of those I will cover, in upcoming
+slides.
+
+25
+00:01:35,560 --> 00:01:37,740
+You can also use a stakeholder cube.
+
+26
+00:01:38,280 --> 00:01:41,480
+It's a 3D version of the stakeholder grid
+with three variables.
+
+27
+00:01:42,300 --> 00:01:47,260
+And we'll prioritize the stakeholders
+themselves based on their power,
+
+28
+00:01:47,760 --> 00:01:49,660
+interest, and influence.
+
+29
+00:01:50,780 --> 00:01:55,500
+Directions of influence, similar to
+communications that we saw earlier.
+
+30
+00:01:56,200 --> 00:02:00,284
+Upward to senior management,
+downward to the team, sideward
+
+31
+00:02:00,285 --> 00:02:05,200
+peers within the organization,
+out external stakeholders.
+
+32
+00:02:05,540 --> 00:02:09,920
+Let's look at them in some more detail in
+our upcoming lessons.
+

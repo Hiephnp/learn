@@ -1,0 +1,436 @@
+﻿1
+00:00:06,590 --> 00:00:11,150
+Okay, so let's just talk about a couple of
+additional quantitative risk analysis
+
+2
+00:00:11,151 --> 00:00:12,940
+tools that you just
+need to be aware of, you
+
+3
+00:00:12,941 --> 00:00:15,704
+don't need to know in
+a huge amount of detail.
+
+4
+00:00:16,550 --> 00:00:18,650
+The first one though, Monte Carlo
+analysis.
+
+5
+00:00:19,110 --> 00:00:22,210
+Now, this was actually covered in a prior
+video, so I'm not going to go through this
+
+6
+00:00:22,211 --> 00:00:25,736
+in a huge amount of
+detail, but just as a reminder,
+
+7
+00:00:25,737 --> 00:00:28,990
+Montecalo then is a random
+iterative computer model, right?
+
+8
+00:00:29,130 --> 00:00:32,690
+This is basically a whole series of
+probability distributions, right?
+
+9
+00:00:32,790 --> 00:00:35,570
+So when we had the optimistic,
+most likely pessimistic, right,
+
+10
+00:00:35,610 --> 00:00:39,610
+we may have many, like hundreds of them,
+thousands of them even, right,
+
+11
+00:00:39,970 --> 00:00:41,920
+across all of our different activities.
+
+12
+00:00:42,430 --> 00:00:45,544
+And so we plug all of those
+numbers into a Monte Carlo
+
+13
+00:00:45,545 --> 00:00:48,710
+analysis and you may
+come up with a graph like this.
+
+14
+00:00:49,790 --> 00:00:52,303
+And basically, what this
+is showing, right, on the, on
+
+15
+00:00:52,304 --> 00:00:55,890
+the y-axis, you've got the
+probability on the x-axis.
+
+16
+00:00:56,510 --> 00:00:58,107
+In this case, you've got timeline.
+
+17
+00:00:58,190 --> 00:01:00,346
+It could be cost, you
+know, it could be any
+
+18
+00:01:00,347 --> 00:01:02,530
+other factor, but let's
+just look at timeline.
+
+19
+00:01:02,910 --> 00:01:07,330
+And just based on this end, you can
+determine the probability of, you know,
+
+20
+00:01:07,410 --> 00:01:10,602
+when we think this project
+should finish based on all
+
+21
+00:01:10,603 --> 00:01:13,341
+these probability distribution
+that we've identified.
+
+22
+00:01:13,790 --> 00:01:17,970
+So, again, you know, it's exactly the same
+graph that we saw in the previous video.
+
+23
+00:01:18,170 --> 00:01:22,670
+But essentially, what's the probability of
+this project finishing by week 22?
+
+24
+00:01:22,970 --> 00:01:23,490
+Right.
+
+25
+00:01:23,530 --> 00:01:27,550
+Well, when we look at week 22, well,
+it's less than 25% probability, right?
+
+26
+00:01:27,570 --> 00:01:32,150
+About 23% maybe probability of this
+project finishing by week 22.
+
+27
+00:01:32,151 --> 00:01:35,050
+Is that high level of confidence for us,
+right?
+
+28
+00:01:35,170 --> 00:01:38,770
+All right, there's a, you know,
+23% probability finishing by week 22.
+
+29
+00:01:38,930 --> 00:01:43,950
+No, right, we're not going to set our
+timeline, our deadline for week 22.
+
+30
+00:01:44,430 --> 00:01:45,767
+So it looks highly unlikely.
+
+31
+00:01:45,850 --> 00:01:47,210
+It's only 23% probability.
+
+32
+00:01:47,850 --> 00:01:52,230
+So we're going to be looking at more
+towards the 80, 85%.
+
+33
+00:01:52,231 --> 00:01:57,050
+Right, so the 85% probability is around 24
+and a half weeks.
+
+34
+00:01:57,830 --> 00:02:01,230
+So that's what we really what should,
+where we should be looking, right?
+
+35
+00:02:01,231 --> 00:02:06,150
+24 to 25 weeks right that's a kind of like
+deadline kind of timeline we should be
+
+36
+00:02:06,151 --> 00:02:11,450
+looking at for finishing this project
+right 85% probability right that's that's
+
+37
+00:02:11,451 --> 00:02:13,697
+a much higher
+confidence level that we will
+
+38
+00:02:13,698 --> 00:02:16,904
+have right compared to obviously the 23%.
+
+39
+00:02:18,330 --> 00:02:23,390
+Now another tool then is this one called a
+sensitivity analysis again you don't need
+
+40
+00:02:23,391 --> 00:02:27,770
+to know a huge amount of detail you just
+need the very very high level basics but
+
+41
+00:02:27,771 --> 00:02:30,097
+sensitivity analysis is
+basically showing which
+
+42
+00:02:30,098 --> 00:02:32,744
+variables have the great
+impact on the project.
+
+43
+00:02:33,010 --> 00:02:35,267
+And in this case, variables
+meaning risk, which
+
+44
+00:02:35,268 --> 00:02:37,824
+risks have the greatest
+impact on the project?
+
+45
+00:02:38,030 --> 00:02:43,264
+And the results of the sensitivity
+analysis can be shown as a tornado diagram.
+
+46
+00:02:43,370 --> 00:02:48,370
+So here's a very simple example of a
+tornado diagram, and just by looking at
+
+47
+00:02:48,371 --> 00:02:52,050
+it, it's pretty obvious why it's called a
+tornado diagram.
+
+48
+00:02:53,450 --> 00:02:56,750
+Now let me just ask you guys a very simple
+question, right?
+
+49
+00:02:56,751 --> 00:03:03,470
+If I asked you, looking at this diagram,
+right, you've got all these risks listed
+
+50
+00:03:03,471 --> 00:03:06,357
+on the left and side,
+which of these risks is
+
+51
+00:03:06,358 --> 00:03:09,524
+going to have the greatest
+impact on the project?
+
+52
+00:03:10,190 --> 00:03:12,770
+And actually, most of you will go with the
+risk one.
+
+53
+00:03:13,850 --> 00:03:15,090
+And that's exactly it.
+
+54
+00:03:15,450 --> 00:03:18,150
+That's really about as much interpretation
+as you need.
+
+55
+00:03:18,630 --> 00:03:21,550
+Basically, it's showing you've got all
+these risks, remember, sensitivity is
+
+56
+00:03:21,551 --> 00:03:24,690
+showing which variables have the greatest
+impact on the project.
+
+57
+00:03:24,691 --> 00:03:29,110
+and variables in this case meaning risks
+which risks have the greatest impact so
+
+58
+00:03:29,111 --> 00:03:32,910
+here are these you know some of these
+risks or these could be risk categories
+
+59
+00:03:32,911 --> 00:03:38,710
+right and then you've got the impact on
+the x-axis here right and then wherever
+
+60
+00:03:38,711 --> 00:03:43,350
+the biggest bar is that's going to show
+the greatest impact right on the right on
+
+61
+00:03:43,351 --> 00:03:46,330
+the right hand side are positive risks on
+the left-hand side are negative risks
+
+62
+00:03:46,331 --> 00:03:50,070
+right and whatever is the biggest you know
+whichever of these risks have the biggest
+
+63
+00:03:50,071 --> 00:03:54,910
+bar that's the one that's going to show
+the have the greatest impact on on on your
+
+64
+00:03:54,911 --> 00:03:59,244
+project, really about as much interpretation
+as you need for the P&P exam on this.
+
+65
+00:03:59,550 --> 00:04:04,130
+And then another minor tool that,
+again, you just need to be aware of for
+
+66
+00:04:04,131 --> 00:04:07,570
+quantitative analysis is this one called
+the influence diagram.
+
+67
+00:04:08,170 --> 00:04:12,144
+And what an influence diagram
+is, is showing an outcome
+
+68
+00:04:12,145 --> 00:04:15,070
+and all the factors that
+could lead to that outcome.
+
+69
+00:04:15,430 --> 00:04:19,530
+And what the relationship is between each
+other, between each of these factors.
+
+70
+00:04:20,010 --> 00:04:22,860
+So just, again, as a very, very high-level
+simple example.
+
+71
+00:04:23,490 --> 00:04:24,627
+What's the outcome here?
+
+72
+00:04:24,710 --> 00:04:26,260
+The outcome, stopping distance.
+
+73
+00:04:26,790 --> 00:04:29,540
+What is going to cause an increase in
+stopping distance?
+
+74
+00:04:30,150 --> 00:04:32,200
+Well, you've got all these factors,
+right?
+
+75
+00:04:32,430 --> 00:04:35,530
+Thinking distance is increased,
+breaking distance is increased.
+
+76
+00:04:35,810 --> 00:04:37,630
+What increases a breaking distance?
+
+77
+00:04:37,910 --> 00:04:39,260
+Well, all of these factors.
+
+78
+00:04:39,410 --> 00:04:43,770
+Increasing speed, massive vehicle,
+poor road conditions, poor car conditions,
+
+79
+00:04:44,070 --> 00:04:45,687
+like bad tires, that kind of thing.
+
+80
+00:04:45,770 --> 00:04:48,790
+What's going to increase thinking distance
+of the driver?
+
+81
+00:04:49,450 --> 00:04:50,690
+Well, these factors.
+
+82
+00:04:51,430 --> 00:04:56,410
+Tiredness, increasing speed, DUI,
+other types of distractions.
+
+83
+00:04:57,210 --> 00:05:00,910
+So collectively, all of these are going to
+influence the thinking distance,
+
+84
+00:05:01,110 --> 00:05:03,360
+which is going to influence stopping
+distance.
+
+85
+00:05:04,190 --> 00:05:05,847
+And that's really what an influence
+diagram is.
+
+86
+00:05:05,930 --> 00:05:09,530
+So it's looking at an outcome,
+this is the outcome, looking at all of the
+
+87
+00:05:09,531 --> 00:05:12,321
+different factors and
+the relationship between
+
+88
+00:05:12,322 --> 00:05:14,570
+each factor that can lead to the outcome.
+
+89
+00:05:14,890 --> 00:05:19,153
+So these are just some of
+the additional minor tools you
+
+90
+00:05:19,154 --> 00:05:23,570
+should be aware of when it
+comes to quantitative risk analysis.
+

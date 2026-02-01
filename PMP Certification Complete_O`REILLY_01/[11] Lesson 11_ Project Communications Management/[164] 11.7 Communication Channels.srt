@@ -1,0 +1,149 @@
+﻿1
+00:00:06,010 --> 00:00:08,090
+Communication channels.
+
+2
+00:00:09,190 --> 00:00:11,730
+So communication involves body language.
+
+3
+00:00:11,910 --> 00:00:14,010
+I've mentioned this over and over and
+over.
+
+4
+00:00:16,150 --> 00:00:21,330
+Body language is the major part of
+communications.
+
+5
+00:00:22,490 --> 00:00:27,141
+Voice inflection, that's
+paralegal, the words we use,
+
+6
+00:00:27,142 --> 00:00:31,690
+gestures, facial expression
+are all ways we communicate.
+
+7
+00:00:33,070 --> 00:00:36,250
+Let's talk about the number of
+communication channels.
+
+8
+00:00:37,350 --> 00:00:43,310
+So the formula itself is n times n minus
+one divided by two.
+
+9
+00:00:43,750 --> 00:00:46,610
+So n is the number of stakeholders
+involved.
+
+10
+00:00:47,510 --> 00:00:54,550
+So an example here, if there are four
+people, four times three divided by two,
+
+11
+00:00:55,250 --> 00:00:57,050
+you have six lines of communication.
+
+12
+00:00:57,810 --> 00:01:02,890
+If there are 10 people, you end up with 45
+lines of communication.
+
+13
+00:01:03,690 --> 00:01:06,140
+The whole reason they want you to
+understand this.
+
+14
+00:01:06,370 --> 00:01:11,130
+They want you to remember, it's not just
+you sending out information communicating.
+
+15
+00:01:12,010 --> 00:01:15,030
+They will communicate back to you and to
+each other.
+
+16
+00:01:15,630 --> 00:01:18,449
+So the more stakeholders
+involved, the more
+
+17
+00:01:18,450 --> 00:01:21,150
+like a spider web it ends up looking like.
+
+18
+00:01:21,590 --> 00:01:23,490
+So something to keep in mind.
+
+19
+00:01:23,970 --> 00:01:25,370
+Let's note this.
+
+20
+00:01:25,890 --> 00:01:31,810
+Read the question carefully to determine
+whether you are included in the team or
+
+21
+00:01:31,811 --> 00:01:38,270
+you must add yourself or stakeholders
+might not just always be the team okay so
+
+22
+00:01:38,271 --> 00:01:45,650
+an example you're managing five people
+that means n is six you must add yourself
+
+23
+00:01:47,030 --> 00:01:56,390
+if your team has five five people you are
+already part of the team so n is five so
+
+24
+00:01:56,391 --> 00:02:06,170
+read the questions carefully and slowly
+there are five stakeholders and is five
+
+25
+00:02:06,171 --> 00:02:13,150
+you're communicating with five and is six
+you have to add yourself so just read it
+
+26
+00:02:13,151 --> 00:02:18,970
+carefully sometimes they'll say people
+will come and go some stakeholders will be
+
+27
+00:02:18,971 --> 00:02:26,510
+added some will be deleted and they'll ask
+you the difference how many additional
+
+28
+00:02:26,511 --> 00:02:30,257
+channels of communication
+there are, which means you have
+
+29
+00:02:30,258 --> 00:02:34,830
+to know how many you start
+with and how many you end with.
+
+30
+00:02:35,370 --> 00:02:39,950
+The difference is the number of additional
+communication channels.
+
+31
+00:02:40,450 --> 00:02:46,270
+So just read it carefully, very,
+very easy formula, but also important.
+

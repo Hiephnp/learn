@@ -1,0 +1,102 @@
+﻿1
+00:00:06,440 --> 00:00:11,480
+Risk management is a major topic for the
+PMP exam and this is lesson 12.
+
+2
+00:00:11,920 --> 00:00:14,917
+Now some of the learning objectives then
+for risk management.
+
+3
+00:00:15,000 --> 00:00:17,877
+First of all, you need to understand
+exactly what is a risk.
+
+4
+00:00:17,960 --> 00:00:21,337
+So we'll be talking about that,
+talking about the different types of risk,
+
+5
+00:00:21,420 --> 00:00:25,900
+so you need to understand the reasons for
+doing risk management, right?
+
+6
+00:00:26,040 --> 00:00:29,890
+You need to comprehend the reason for
+performing risk management on a project.
+
+7
+00:00:30,020 --> 00:00:32,270
+We'll also be talking about some of the
+tools.
+
+8
+00:00:32,560 --> 00:00:34,642
+There's a lot of tools and
+techniques that we'll be
+
+9
+00:00:34,643 --> 00:00:37,800
+covering, right, for identifying
+risk and analyzing risks.
+
+10
+00:00:38,120 --> 00:00:41,920
+We're talking about quantitative risk
+analysis and qualitative risk analysis.
+
+11
+00:00:42,420 --> 00:00:44,820
+So you need to understand all the tools
+for that.
+
+12
+00:00:44,980 --> 00:00:50,480
+Also, you'll need to know how to calculate
+EMV, expected monetary value.
+
+13
+00:00:51,020 --> 00:00:53,160
+So we'll cover that in one of the videos.
+
+14
+00:00:53,740 --> 00:00:58,000
+Also, we're going to use expected monetary
+value to create a decision tree.
+
+15
+00:00:58,860 --> 00:01:00,960
+So we'll learn how to create decision
+tree.
+
+16
+00:01:01,560 --> 00:01:06,140
+And then once you've identified risk and
+you've done all the analysis on the risk,
+
+17
+00:01:06,260 --> 00:01:08,180
+then how do we respond to the risk?
+
+18
+00:01:08,640 --> 00:01:11,099
+Right, and there's different
+ways of responding to a risk
+
+19
+00:01:11,100 --> 00:01:13,920
+based on whether it's a
+negative risk or a positive risk.
+
+20
+00:01:14,340 --> 00:01:15,890
+So you need to understand that.
+
+21
+00:01:16,100 --> 00:01:19,180
+How are we going to respond to negative
+and positive risks?
+

@@ -1,0 +1,910 @@
+﻿1
+00:00:06,660 --> 00:00:10,430
+Okay, so in this video then, we are going
+to talk about decision trees.
+
+2
+00:00:11,590 --> 00:00:18,410
+Decision trees use as EMV, expected
+monetary values, right, to come up with a
+
+3
+00:00:18,411 --> 00:00:21,790
+decision, to make a decision about your
+project.
+
+4
+00:00:22,570 --> 00:00:26,710
+All right, so this is a typical type of
+question that you could get on the exam.
+
+5
+00:00:27,490 --> 00:00:31,410
+And then based on this question,
+we are going to create a decision tree.
+
+6
+00:00:31,411 --> 00:00:32,290
+Okay.
+
+7
+00:00:33,350 --> 00:00:35,727
+All right, so let's first read the
+question here.
+
+8
+00:00:35,810 --> 00:00:39,970
+So it says here, you're deciding to build
+a new plant or upgrade an existing plant.
+
+9
+00:00:40,790 --> 00:00:43,010
+Building a new plant will cost $200
+million.
+
+10
+00:00:44,230 --> 00:00:46,250
+Upgrading will cost $80 million.
+
+11
+00:00:46,550 --> 00:00:49,685
+Either way, there's a
+65% chance of getting a
+
+12
+00:00:49,686 --> 00:00:52,510
+strong demand and a 35%
+chance of a weak demand.
+
+13
+00:00:53,270 --> 00:00:57,650
+If you build and you get a strong demand,
+you will make 320 million.
+
+14
+00:00:58,010 --> 00:01:01,160
+Otherwise, if you have a weak demand,
+you will make 150 million.
+
+15
+00:01:01,410 --> 00:01:06,210
+If you upgrade and have a strong demand,
+you will make $190 million, otherwise you
+
+16
+00:01:06,211 --> 00:01:09,510
+will make $95 million if you have a weak
+demand.
+
+17
+00:01:10,130 --> 00:01:14,410
+What are the EMVs to build and upgrade and
+which option should you choose?
+
+18
+00:01:15,370 --> 00:01:19,250
+Okay, all right, so there's a lot of
+numbers in this question.
+
+19
+00:01:19,590 --> 00:01:21,340
+There's numbers all over the place.
+
+20
+00:01:21,670 --> 00:01:25,570
+So the first thing we want to do is we
+want to organize.
+
+21
+00:01:26,070 --> 00:01:27,367
+I want to organize these numbers.
+
+22
+00:01:27,450 --> 00:01:29,770
+Understand what these numbers actually
+mean, right?
+
+23
+00:01:29,771 --> 00:01:31,327
+Where are these numbers coming from?
+
+24
+00:01:31,410 --> 00:01:34,207
+or rather, where are these numbers going
+more than anything else?
+
+25
+00:01:34,290 --> 00:01:36,340
+And that's where decision tree is coming.
+
+26
+00:01:36,430 --> 00:01:40,650
+So the first thing we need to recognize is
+that, you know, we're making a decision,
+
+27
+00:01:40,830 --> 00:01:42,730
+that this is a decision tree question.
+
+28
+00:01:43,590 --> 00:01:46,254
+And basically it tells us at
+the beginning, says you're
+
+29
+00:01:46,255 --> 00:01:49,370
+deciding to build a new plant
+or upgrade an existing plant.
+
+30
+00:01:50,030 --> 00:01:53,480
+And it's also saying right at the end,
+which option should you choose?
+
+31
+00:01:53,950 --> 00:01:57,050
+So first up then, we have to come up with
+our decision.
+
+32
+00:01:57,310 --> 00:01:58,410
+What is our decision?
+
+33
+00:01:58,411 --> 00:02:03,410
+So, our decisions are, either we build or
+we upgrade.
+
+34
+00:02:04,110 --> 00:02:05,160
+That is our decision.
+
+35
+00:02:05,450 --> 00:02:07,250
+We either build or we upgrade.
+
+36
+00:02:08,210 --> 00:02:09,043
+Right.
+
+37
+00:02:09,870 --> 00:02:13,107
+And then it says in the second paragraph,
+or rather in the second sentence,
+
+38
+00:02:13,190 --> 00:02:17,410
+it says, building a new plant will cost
+$200 million.
+
+39
+00:02:18,110 --> 00:02:20,250
+Upgrading will cost $80 million.
+
+40
+00:02:20,910 --> 00:02:25,270
+So our decision then, if we build,
+it's going to cost $200 million.
+
+41
+00:02:25,610 --> 00:02:27,090
+And it's a negative number.
+
+42
+00:02:27,091 --> 00:02:27,970
+It's a cost.
+
+43
+00:02:28,470 --> 00:02:29,587
+Therefore, it's a negative number.
+
+44
+00:02:29,670 --> 00:02:31,520
+If we build, it'll cost $200 million.
+
+45
+00:02:32,230 --> 00:02:34,930
+However, if we upgrade, it says it'll cost
+$80 million.
+
+46
+00:02:35,150 --> 00:02:37,590
+So upgrading is going to cost $80 million.
+
+47
+00:02:38,790 --> 00:02:44,230
+Now, if that was our only consideration,
+then obviously, we would upgrade.
+
+48
+00:02:44,750 --> 00:02:48,450
+Why would we build for $200 million when
+we can upgrade for $80 million?
+
+49
+00:02:49,010 --> 00:02:55,210
+However, that's not our only consideration
+because now one of two things can happen.
+
+50
+00:02:56,270 --> 00:02:58,436
+And these one of two things are known as
+
+51
+00:02:58,437 --> 00:03:02,790
+uncertainties, or they could
+be called chance, right?
+
+52
+00:03:03,410 --> 00:03:04,670
+Uncertainties or chance.
+
+53
+00:03:05,630 --> 00:03:06,930
+So what's our uncertainty?
+
+54
+00:03:07,170 --> 00:03:11,070
+Well, in the next sentence, it says either
+way, so whether we build or whether we
+
+55
+00:03:11,071 --> 00:03:16,411
+upgrade, either way, there's
+a 65% chance of getting
+
+56
+00:03:16,412 --> 00:03:20,190
+a strong demand and a 35%
+chance of a weak demand.
+
+57
+00:03:21,750 --> 00:03:23,650
+So that's how we're uncertain to then.
+
+58
+00:03:24,430 --> 00:03:28,290
+Either we get a strong demand or we get a
+weak demand.
+
+59
+00:03:29,450 --> 00:03:32,964
+So, and it says either
+way, so if we build, we
+
+60
+00:03:32,965 --> 00:03:35,871
+can get a strong demand
+or we get a weak demand.
+
+61
+00:03:36,470 --> 00:03:39,170
+And it says either way, whether we build
+or we upgrade.
+
+62
+00:03:39,270 --> 00:03:42,670
+If we upgrade, we either get a strong
+demand or we get a weak demand.
+
+63
+00:03:43,670 --> 00:03:50,290
+And it tells us, it tells in the question,
+if we get a strong demand, there's a 65%
+
+64
+00:03:50,291 --> 00:03:54,337
+chance or rather, there is
+a 65% chance of getting a
+
+65
+00:03:54,338 --> 00:03:57,507
+strong demand and a 35%
+chance of getting a weak demand.
+
+66
+00:03:57,590 --> 00:04:01,430
+So either way, strong is 65%, weak is 35%.
+
+67
+00:04:01,431 --> 00:04:03,531
+So whether we build or whether we upgrade.
+
+68
+00:04:04,290 --> 00:04:08,390
+Now, don't worry about what strong demand
+or weak demand actually means.
+
+69
+00:04:08,750 --> 00:04:11,690
+Don't get hung up by the meaning of these
+terms.
+
+70
+00:04:12,210 --> 00:04:14,930
+It's just a scenario they've given to in a
+question.
+
+71
+00:04:15,550 --> 00:04:20,510
+Okay, now, the next sentence then says,
+if you build and you get a strong demand.
+
+72
+00:04:20,810 --> 00:04:23,010
+So now we're looking at one branch at a
+time.
+
+73
+00:04:23,170 --> 00:04:29,590
+If we build and we get a strong demand,
+it says we are going to make $320 million.
+
+74
+00:04:30,330 --> 00:04:35,090
+So if we build and we get a strong demand,
+we'll make $320 million.
+
+75
+00:04:35,770 --> 00:04:38,690
+And it's a revenue, therefore it's a
+positive number.
+
+76
+00:04:39,250 --> 00:04:42,210
+Otherwise, if you have a weak demand,
+we'll make $150.
+
+77
+00:04:42,510 --> 00:04:45,590
+If we get a weak demand, we'll make $150
+million.
+
+78
+00:04:45,591 --> 00:04:50,770
+And then it says here, again, in the next
+sentence, if you upgrade, if we upgrade,
+
+79
+00:04:51,510 --> 00:04:54,790
+and we get a strong demand, we're going to
+make 190 million.
+
+80
+00:04:55,410 --> 00:04:59,190
+Otherwise, if we get a weak demand,
+we're going to make 95 million,
+
+81
+00:04:59,490 --> 00:05:00,010
+as it says here.
+
+82
+00:05:00,370 --> 00:05:02,270
+Right, we're going to make 95 million.
+
+83
+00:05:02,370 --> 00:05:07,150
+So everything that we have written up here
+so far, right, on this decision tree,
+
+84
+00:05:07,970 --> 00:05:10,470
+this has all been given to us in the
+question.
+
+85
+00:05:10,810 --> 00:05:12,310
+We have all of these values.
+
+86
+00:05:12,311 --> 00:05:13,961
+They're all here in the question.
+
+87
+00:05:14,330 --> 00:05:16,030
+Now, we haven't done any math yet.
+
+88
+00:05:17,090 --> 00:05:20,179
+So, when you're reading
+the question, it just,
+
+89
+00:05:20,180 --> 00:05:22,890
+initially, it just seems
+very daunting, right?
+
+90
+00:05:22,970 --> 00:05:24,820
+Got these numbers all over the place.
+
+91
+00:05:25,050 --> 00:05:29,530
+But the main thing about decision tree is
+break these numbers down, right?
+
+92
+00:05:29,810 --> 00:05:30,807
+Organize these numbers.
+
+93
+00:05:30,890 --> 00:05:32,947
+And that's really all we're doing in this
+decision tree.
+
+94
+00:05:33,030 --> 00:05:35,080
+All we've done is organize these numbers.
+
+95
+00:05:35,570 --> 00:05:39,450
+So now that we've got these numbers,
+now we can figure out our EMB,
+
+96
+00:05:39,790 --> 00:05:42,707
+and then we can figure out whether to
+build or whether to upgrade.
+
+97
+00:05:42,790 --> 00:05:44,640
+Now, also, let's look at this,
+though.
+
+98
+00:05:45,650 --> 00:05:49,350
+If we build and we get a strong demand,
+we're going to make $320 million.
+
+99
+00:05:50,370 --> 00:05:53,970
+If we upgrade and we get a strong demand,
+we're only making $190 million.
+
+100
+00:05:54,730 --> 00:05:58,770
+If we build and we get weak demand,
+we'll make $150 million.
+
+101
+00:05:58,990 --> 00:06:01,290
+But if we upgrade, we'll only make $95
+million.
+
+102
+00:06:01,790 --> 00:06:06,390
+So looking from a purely revenue
+perspective, well, we would want to,
+
+103
+00:06:06,410 --> 00:06:10,770
+you know, we'd probably want to build
+because we're getting much more revenue,
+
+104
+00:06:11,210 --> 00:06:12,087
+right, in building.
+
+105
+00:06:12,170 --> 00:06:15,850
+than we are in upgrading, but when we're
+looking at the cost perspective,
+
+106
+00:06:16,510 --> 00:06:20,710
+right, we would rather upgrade than build
+because upgrade is costing a lot less.
+
+107
+00:06:21,190 --> 00:06:24,942
+So we want to take all of
+these into consideration, and
+
+108
+00:06:24,943 --> 00:06:27,890
+that's the reason why we
+perform these decision trees.
+
+109
+00:06:28,890 --> 00:06:33,270
+All right, so we're going to use EMV,
+expected monetary value, right,
+
+110
+00:06:33,350 --> 00:06:35,627
+to figure out, should we build or should
+we upgrade?
+
+111
+00:06:35,710 --> 00:06:36,960
+How do you calculate EMV?
+
+112
+00:06:37,230 --> 00:06:39,550
+Right, well, probability times impact.
+
+113
+00:06:40,290 --> 00:06:43,667
+They've given us a probability in the
+exam, they will always give a probability,
+
+114
+00:06:43,750 --> 00:06:47,950
+65%, 35%, I mean, they don't, it doesn't
+always have to be, obviously 65,
+
+115
+00:06:48,170 --> 00:06:50,507
+35, but they will always give it the
+probability.
+
+116
+00:06:50,590 --> 00:06:53,490
+We first have to figure out the impact,
+what is the impact.
+
+117
+00:06:54,070 --> 00:06:57,390
+So what we have here is a revenue and a
+cost situation.
+
+118
+00:06:58,270 --> 00:07:03,723
+So our net impact then in this case is
+going to be really our profit, our return.
+
+119
+00:07:04,070 --> 00:07:09,070
+So if we build and we have a strong demand
+and we're going to do an EMB for each of
+
+120
+00:07:09,071 --> 00:07:11,090
+the four branches, if
+we build and we get a
+
+121
+00:07:11,091 --> 00:07:13,270
+strong demand, we're
+going to make 320 million.
+
+122
+00:07:13,390 --> 00:07:16,967
+So we get a strong demand,
+we're going to make 320 million,
+
+123
+00:07:16,968 --> 00:07:21,030
+but we'll have spent $200
+million in actually building.
+
+124
+00:07:21,950 --> 00:07:23,850
+So what's our net profit in this case?
+
+125
+00:07:24,370 --> 00:07:25,750
+Right, well, 120 million.
+
+126
+00:07:26,030 --> 00:07:31,964
+The 320 million minus a 200 million, we
+are going to make a profit of 120 million.
+
+127
+00:07:32,390 --> 00:07:35,790
+However, that's not guaranteed,
+right?
+
+128
+00:07:36,170 --> 00:07:38,770
+There's a 65% chance of that happening.
+
+129
+00:07:40,010 --> 00:07:45,150
+So 65% then of 120 million, the EMV is 78
+million.
+
+130
+00:07:45,890 --> 00:07:49,050
+Now that's our EMV, if we get a strong
+demand.
+
+131
+00:07:49,890 --> 00:07:52,810
+However, we may not get a strong demand.
+
+132
+00:07:53,730 --> 00:07:55,930
+We may end up with a weak demand instead.
+
+133
+00:07:56,470 --> 00:07:58,407
+Only one of these two things can happen.
+
+134
+00:07:58,490 --> 00:08:01,230
+Either we get a strong demand or we get a
+weak demand.
+
+135
+00:08:02,170 --> 00:08:06,270
+If we get a weak demand, we'll only make
+150 million.
+
+136
+00:08:06,950 --> 00:08:09,030
+We'll have still spent $200 million.
+
+137
+00:08:09,830 --> 00:08:12,430
+Right, we're going to spend $200 million
+in building.
+
+138
+00:08:13,270 --> 00:08:15,073
+Either we get a strong
+demand and make $120
+
+139
+00:08:15,074 --> 00:08:17,664
+million, or we end up with a weak demand.
+
+140
+00:08:17,750 --> 00:08:19,150
+We make a revenue of $150.
+
+141
+00:08:20,510 --> 00:08:22,690
+So what's our net impact now?
+
+142
+00:08:24,550 --> 00:08:28,250
+Well, make a loss, negative $50 million.
+
+143
+00:08:28,990 --> 00:08:33,370
+We may end up potentially making a loss
+now with $50 million, right, which is
+
+144
+00:08:33,371 --> 00:08:40,010
+basically the $150,000 minus the cost 200
+million and there's a 35% chance of that
+
+145
+00:08:40,011 --> 00:08:47,830
+happening so 35% then of negative 50 is
+negative 17.5 million dollars so that's a
+
+146
+00:08:47,831 --> 00:08:52,110
+major consideration to make now we may end
+up actually making a loss if we if we
+
+147
+00:08:52,111 --> 00:08:57,470
+build and so now we do exactly the same
+calculations for the upgrade branch if we
+
+148
+00:08:57,471 --> 00:09:01,750
+get a strong demand we're going to make
+190 million but we'll have spent 80
+
+149
+00:09:01,751 --> 00:09:10,350
+million in upgrading so what's our net
+impact now net profit 110 million dollars
+
+150
+00:09:10,351 --> 00:09:18,250
+and there's a 65% chance of that happening
+so 65% of 110 million is 71.5 million
+
+151
+00:09:18,251 --> 00:09:23,250
+dollars 7.1 million five million dollars
+if we end up with a weak demand though
+
+152
+00:09:23,251 --> 00:09:30,230
+we're going to make 95 million but we'll
+have spent 80 million in upgrading and so
+
+153
+00:09:30,231 --> 00:09:33,934
+our net impact 15
+million right we're going to
+
+154
+00:09:33,935 --> 00:09:37,144
+make 95 million 95
+million minus the 80 million.
+
+155
+00:09:37,350 --> 00:09:39,590
+And the 35% chance of that happening.
+
+156
+00:09:39,730 --> 00:09:42,680
+Again, the percentages are given to us in
+the question here.
+
+157
+00:09:43,690 --> 00:09:46,310
+And so the total EMV then 5.25 million.
+
+158
+00:09:46,810 --> 00:09:51,490
+So now we want to look at the total EMV
+for build and for upgrade.
+
+159
+00:09:51,910 --> 00:09:56,190
+So if you look at build, the 65% EMV is 78
+million.
+
+160
+00:09:56,690 --> 00:10:00,230
+The 35% EMV is 17.5 million.
+
+161
+00:10:00,710 --> 00:10:07,010
+So the 100% EMV, the total EMV,
+for building, you add them up.
+
+162
+00:10:07,590 --> 00:10:08,790
+You have to add them up.
+
+163
+00:10:09,030 --> 00:10:10,730
+Or subtract, cost one is negative.
+
+164
+00:10:11,750 --> 00:10:15,496
+So the total EMV then is
+going to be the 78 million
+
+165
+00:10:15,497 --> 00:10:19,870
+minus the 17.5 million or
+plus negative 17.5 million.
+
+166
+00:10:20,290 --> 00:10:21,970
+And so it's $60.5 million.
+
+167
+00:10:22,550 --> 00:10:24,300
+Do the same thing with the upgrade.
+
+168
+00:10:24,870 --> 00:10:26,290
+With the upgrade branch.
+
+169
+00:10:27,410 --> 00:10:33,267
+The strong EMV, right, the 65%
+EMV, if we get a strong demand, it's 71.
+
+170
+00:10:33,268 --> 00:10:34,184
+5 million.
+
+171
+00:10:34,470 --> 00:10:40,550
+that we calculated, the weak demand,
+the 35% EMV is 5.25 million.
+
+172
+00:10:41,190 --> 00:10:47,950
+And so the 100% EMV add those two together
+and you get 76.5 million.
+
+173
+00:10:48,190 --> 00:10:49,650
+So what's the answer?
+
+174
+00:10:49,890 --> 00:10:50,510
+What should we do?
+
+175
+00:10:50,690 --> 00:10:53,267
+So the question is, what are the EMVs to
+build an upgrade?
+
+176
+00:10:53,350 --> 00:10:55,450
+So these are the EMVs to build an upgrade.
+
+177
+00:10:55,550 --> 00:10:56,787
+Which option should we choose?
+
+178
+00:10:56,870 --> 00:10:59,720
+Well, naturally, we would, in this case,
+we would upgrade.
+
+179
+00:11:00,390 --> 00:11:02,940
+Because potentially we're getting the
+higher return.
+
+180
+00:11:04,230 --> 00:11:07,790
+So that's generally how you calculate
+decision trees.
+
+181
+00:11:08,270 --> 00:11:10,120
+Now what do we do with these numbers?
+
+182
+00:11:10,390 --> 00:11:12,267
+Well, we don't really do anything with
+them.
+
+183
+00:11:12,350 --> 00:11:16,770
+It's not like the EMV calculation that we
+talked about in a previous slide,
+
+184
+00:11:17,270 --> 00:11:19,379
+where we would take the
+total EMV and then make
+
+185
+00:11:19,380 --> 00:11:22,104
+some adjustments to
+our contingency result.
+
+186
+00:11:22,230 --> 00:11:24,850
+Here, we're just using these to make a
+decision.
+
+187
+00:11:25,450 --> 00:11:26,283
+That's it.
+
+188
+00:11:26,390 --> 00:11:28,850
+It's just purely and simply for decision
+making.
+
+189
+00:11:29,550 --> 00:11:33,750
+So in the exam then, as I said,
+they'll always give you, probability they
+
+190
+00:11:33,751 --> 00:11:37,310
+will always give you the impact I mean
+they'll always give a probability they'll
+
+191
+00:11:37,311 --> 00:11:41,910
+always give you all these numbers you just
+literally have to first of all figure out
+
+192
+00:11:41,911 --> 00:11:48,390
+what the net impact is and then multiply
+with the probabilities okay so here this
+
+193
+00:11:48,391 --> 00:11:51,051
+is a very very simple
+example a typical example of a
+
+194
+00:11:51,052 --> 00:11:54,810
+decision tree type of question
+that you could get on the PMP
+

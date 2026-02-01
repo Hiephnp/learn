@@ -1,0 +1,542 @@
+﻿1
+00:00:06,530 --> 00:00:11,830
+Okay, so in this section, we're going to
+be talking about SWAT analysis,
+
+2
+00:00:12,250 --> 00:00:14,850
+right, and this other term here called a
+prompt list.
+
+3
+00:00:15,050 --> 00:00:17,050
+So let's talk about SWAT analysis first.
+
+4
+00:00:18,550 --> 00:00:22,930
+Now, SWAT analysis is generally done more
+at an organizational level, right?
+
+5
+00:00:23,070 --> 00:00:26,287
+If you use as something senior management
+perform for their organization,
+
+6
+00:00:26,370 --> 00:00:28,870
+but it can also be done at a project level
+as well.
+
+7
+00:00:29,190 --> 00:00:32,290
+In fact, it can be done at any level of
+your organization, right?
+
+8
+00:00:32,370 --> 00:00:33,687
+So it can be done at a project level.
+
+9
+00:00:33,770 --> 00:00:35,752
+And in fact, in the
+earlier video, we talked
+
+10
+00:00:35,753 --> 00:00:38,224
+about doing a SWAT analysis for your team.
+
+11
+00:00:38,790 --> 00:00:44,430
+Now SWAT stands for strengths,
+weaknesses, opportunities, and threats.
+
+12
+00:00:46,050 --> 00:00:49,900
+So essentially what we're doing is,
+in this case, if we're at a project level,
+
+13
+00:00:50,270 --> 00:00:53,530
+we are identifying the strengths of our
+project.
+
+14
+00:00:54,210 --> 00:00:56,947
+What are all the strengths that we've
+identified, right?
+
+15
+00:00:57,030 --> 00:01:00,267
+Potentially our strengths could be,
+you know, we have a great team.
+
+16
+00:01:00,350 --> 00:01:02,850
+Right, we have a team that have worked
+with each other before.
+
+17
+00:01:02,851 --> 00:01:06,230
+They have a team that know one another,
+they have a team that work really well
+
+18
+00:01:06,231 --> 00:01:08,630
+together, and they're a well-experienced
+team.
+
+19
+00:01:08,930 --> 00:01:09,930
+That's our strength.
+
+20
+00:01:10,490 --> 00:01:12,190
+We might identify some weaknesses.
+
+21
+00:01:12,590 --> 00:01:13,790
+What are our weaknesses?
+
+22
+00:01:14,310 --> 00:01:17,710
+Well, weaknesses might be, you know,
+let's say, you know, we've got a couple of
+
+23
+00:01:17,711 --> 00:01:24,050
+new team members that don't have the
+experience, or this is a new activity or
+
+24
+00:01:24,051 --> 00:01:26,390
+new project we've never done before,
+right?
+
+25
+00:01:26,470 --> 00:01:27,927
+We don't have the experience on this.
+
+26
+00:01:28,010 --> 00:01:29,960
+So, you know, that could be a weakness.
+
+27
+00:01:30,830 --> 00:01:32,747
+But let me, don't know,
+these are just a couple
+
+28
+00:01:32,748 --> 00:01:35,024
+of very high-level
+examples I'm giving here.
+
+29
+00:01:35,250 --> 00:01:37,200
+Then we have opportunities and threats.
+
+30
+00:01:37,390 --> 00:01:39,530
+Opportunities are positive risks.
+
+31
+00:01:40,390 --> 00:01:41,790
+Threats are negative risks.
+
+32
+00:01:42,430 --> 00:01:44,430
+So what are the opportunities out there?
+
+33
+00:01:44,730 --> 00:01:49,804
+What opportunities do we have to finish
+the project within budget, within timeline?
+
+34
+00:01:50,290 --> 00:01:51,627
+And then what threats are there?
+
+35
+00:01:51,710 --> 00:01:53,510
+What potential issues are out there?
+
+36
+00:01:53,930 --> 00:01:54,930
+Potential issues.
+
+37
+00:01:55,110 --> 00:01:56,930
+A potential issue is a risk.
+
+38
+00:01:57,510 --> 00:01:59,130
+So a threat is a negative.
+
+39
+00:01:59,150 --> 00:01:59,983
+risk.
+
+40
+00:02:00,610 --> 00:02:06,190
+So, essentially, then, we could be using
+this to highlight some risks on our
+
+41
+00:02:06,191 --> 00:02:11,010
+project, right, whether it's a positive
+risk or a negative risk.
+
+42
+00:02:11,670 --> 00:02:14,663
+And this is one of the
+risk identification tools,
+
+43
+00:02:14,664 --> 00:02:17,250
+right, one of the ways
+of identifying risks.
+
+44
+00:02:17,450 --> 00:02:20,470
+He could be potentially doing a SWAT
+analysis, right?
+
+45
+00:02:20,550 --> 00:02:23,850
+So some of the strengths then could
+identify some opportunities, some of your
+
+46
+00:02:23,851 --> 00:02:27,270
+weaknesses could identify some negative
+risks, some threats.
+
+47
+00:02:27,590 --> 00:02:30,643
+Then you'll be utilizing
+your strengths, how
+
+48
+00:02:30,644 --> 00:02:33,230
+we've identified some
+opportunities out there.
+
+49
+00:02:33,430 --> 00:02:36,990
+How can we utilize our strengths to
+capitalize on these opportunities?
+
+50
+00:02:37,730 --> 00:02:42,015
+And how can we utilize the
+strengths in our team or in our
+
+51
+00:02:42,016 --> 00:02:45,470
+project to eliminate or reduce
+the impact of a negative risk?
+
+52
+00:02:46,010 --> 00:02:48,060
+And then we've got these weaknesses here.
+
+53
+00:02:48,350 --> 00:02:53,293
+What do we need to do, how,
+rather, how can we improve our
+
+54
+00:02:53,294 --> 00:02:56,590
+weaknesses so we can take
+advantage of these opportunities?
+
+55
+00:02:56,750 --> 00:03:01,130
+So these are again just some analysis that
+you're going to be performing.
+
+56
+00:03:01,330 --> 00:03:06,604
+So this is a very simple, high-level
+introduction to a SWAT, to a SWAT analysis.
+
+57
+00:03:06,790 --> 00:03:09,887
+As I said, generally, it's done more at an
+organizational level, right?
+
+58
+00:03:09,970 --> 00:03:12,719
+Senior management
+performs SWAT analysis all the
+
+59
+00:03:12,720 --> 00:03:15,190
+time when it comes to
+their organization, right?
+
+60
+00:03:15,270 --> 00:03:16,920
+It's a strategic management tool.
+
+61
+00:03:17,690 --> 00:03:20,170
+Now, along with SWAT,
+there is another term
+
+62
+00:03:20,171 --> 00:03:22,864
+I want to mention here
+called a prompt list.
+
+63
+00:03:23,170 --> 00:03:26,476
+So this is another tool that
+PMI have mentioned in PIMBOC,
+
+64
+00:03:26,477 --> 00:03:29,790
+Another tool for identifying
+risks on your project.
+
+65
+00:03:29,970 --> 00:03:33,830
+And a prompt list really is just
+predetermined categories of risks.
+
+66
+00:03:34,430 --> 00:03:37,050
+So these are just predetermined
+categories.
+
+67
+00:03:37,510 --> 00:03:40,737
+So remember, you may
+potentially have hundreds,
+
+68
+00:03:40,738 --> 00:03:43,964
+maybe thousands of risks on your project.
+
+69
+00:03:44,110 --> 00:03:49,950
+So we need a way of managing all of these
+risks, controlling all of these risks.
+
+70
+00:03:50,610 --> 00:03:53,670
+So you may create different categories of
+risk.
+
+71
+00:03:53,671 --> 00:03:56,890
+well, there's some categories that are
+already predetermined.
+
+72
+00:03:57,910 --> 00:04:03,210
+Now, let me just go back to the previous
+slide and just talk about SWAT again.
+
+73
+00:04:04,390 --> 00:04:08,930
+Strengths and weaknesses are generally
+internal to your organization.
+
+74
+00:04:10,010 --> 00:04:12,105
+So when we're talking
+about an organizational level,
+
+75
+00:04:12,106 --> 00:04:14,330
+strengths and weaknesses
+are usually internal.
+
+76
+00:04:14,590 --> 00:04:16,609
+For the most part, there
+might be some external as well,
+
+77
+00:04:16,610 --> 00:04:19,270
+but normally they're
+internal to your organization.
+
+78
+00:04:19,271 --> 00:04:24,284
+And if they're internal to your organization,
+they're a lot easier to identify.
+
+79
+00:04:25,350 --> 00:04:27,918
+Opportunities and
+threats, on the other hand,
+
+80
+00:04:27,919 --> 00:04:30,050
+are usually external to the organization.
+
+81
+00:04:30,210 --> 00:04:33,161
+Again, as a general rule,
+most opportunities and
+
+82
+00:04:33,162 --> 00:04:35,621
+threats will be external
+to your organization.
+
+83
+00:04:35,730 --> 00:04:37,980
+They'll be some internal, but mostly
+external.
+
+84
+00:04:38,290 --> 00:04:40,738
+And because they're
+external, they're a lot harder
+
+85
+00:04:40,739 --> 00:04:43,091
+to identify, a lot more
+challenging to identify.
+
+86
+00:04:43,470 --> 00:04:48,170
+So in addition to doing a SWAT,
+right, or in conjunction with a SWAT
+
+87
+00:04:48,171 --> 00:04:53,710
+analysis, There's a couple of other types
+of analyses, right, that you might
+
+88
+00:04:53,711 --> 00:04:56,361
+perform, and certainly that senior
+management perform.
+
+89
+00:04:56,730 --> 00:04:59,219
+And PMI have just listed
+these as a prompt list
+
+90
+00:04:59,220 --> 00:05:01,824
+because these are
+predetermined categories.
+
+91
+00:05:02,610 --> 00:05:06,890
+And these are three very
+common types of additional analysis
+
+92
+00:05:06,891 --> 00:05:10,110
+that senior management
+do, right, or you can perform.
+
+93
+00:05:10,590 --> 00:05:15,090
+Something called a pestle analysis,
+a VUCA and a T-cup analysis.
+
+94
+00:05:15,550 --> 00:05:19,690
+So Pestle stands for political,
+economic, social, technological,
+
+95
+00:05:20,270 --> 00:05:21,520
+legal, and environmental.
+
+96
+00:05:22,170 --> 00:05:24,290
+And this is very, very common,
+right?
+
+97
+00:05:24,410 --> 00:05:28,690
+There's from senior management and,
+you know, so in addition, or rather not in
+
+98
+00:05:28,691 --> 00:05:31,590
+addition, in conjunction with a SWAT,
+right?
+
+99
+00:05:31,830 --> 00:05:35,850
+So these, if I go back, the opportunities
+and threats, how do we identify
+
+100
+00:05:35,851 --> 00:05:39,330
+opportunities and threats, external
+opportunities and threats?
+
+101
+00:05:39,850 --> 00:05:41,300
+You may do a pestle analysis.
+
+102
+00:05:41,830 --> 00:05:44,990
+That just stands for political,
+economic, social, technological,
+
+103
+00:05:45,590 --> 00:05:46,587
+legal, environmental.
+
+104
+00:05:46,670 --> 00:05:49,020
+And these are all different categories of
+risks.
+
+105
+00:05:49,110 --> 00:05:51,170
+That's something very common.
+
+106
+00:05:52,110 --> 00:05:57,590
+For financial institutes, another very
+common analysis is something called a
+
+107
+00:05:57,591 --> 00:06:04,090
+VUCA, VUCA analysis, which stands for
+volatility, uncertainty, complexity,
+
+108
+00:06:04,470 --> 00:06:07,630
+ambiguity, primarily this for financial
+institutes.
+
+109
+00:06:08,470 --> 00:06:11,330
+And then another common one is something
+called T-COP.
+
+110
+00:06:11,870 --> 00:06:17,330
+That's another type of analysis,
+and the predetermined categories of risks
+
+111
+00:06:17,331 --> 00:06:21,181
+there, and where Where it stands for are
+technical, environmental, commercial,
+
+112
+00:06:21,850 --> 00:06:23,150
+operational and political.
+
+113
+00:06:23,610 --> 00:06:26,540
+So these are just a
+couple of additional types
+
+114
+00:06:26,582 --> 00:06:29,231
+of analysis that you might be performing.
+

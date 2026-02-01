@@ -1,0 +1,394 @@
+﻿1
+00:00:06,110 --> 00:00:09,430
+Okay, so in this video
+then we are just going to
+
+2
+00:00:09,431 --> 00:00:12,670
+talk about some additional
+risk management terms.
+
+3
+00:00:13,770 --> 00:00:17,370
+Now the first term I want to talk about is
+this one called the contingent response
+
+4
+00:00:17,371 --> 00:00:20,050
+strategy, right, which relates to
+contingency plan.
+
+5
+00:00:20,510 --> 00:00:24,710
+Really, what this refers to is our primary
+risk response strategy.
+
+6
+00:00:25,130 --> 00:00:29,310
+So all of the risk response strategy that
+we talked about in a couple of previous
+
+7
+00:00:29,311 --> 00:00:32,329
+videos, we have risk response
+strategies for a negative
+
+8
+00:00:32,330 --> 00:00:35,010
+risk and risk response
+strategies for a positive risk.
+
+9
+00:00:35,011 --> 00:00:38,510
+They are our primary risk response
+strategies.
+
+10
+00:00:38,930 --> 00:00:42,950
+It's as a result of any warning or
+trigger, we're going to take these steps.
+
+11
+00:00:43,590 --> 00:00:49,010
+Avoid transfer, mitigate, escalate or
+accept, and if it's a positive risk,
+
+12
+00:00:49,190 --> 00:00:52,710
+then share, enhance and exploit,
+as well as escalate or accept.
+
+13
+00:00:53,590 --> 00:00:57,095
+So that is our primary risk
+response strategy, right, and
+
+14
+00:00:57,096 --> 00:01:00,110
+it's purely as a result of
+any warning, any trigger sign.
+
+15
+00:01:00,630 --> 00:01:03,130
+So we are going to then implement this
+response.
+
+16
+00:01:03,650 --> 00:01:07,550
+and that is our plan A, our primary risk
+response strategy.
+
+17
+00:01:08,290 --> 00:01:09,707
+Now, what if that plan doesn't work?
+
+18
+00:01:09,790 --> 00:01:11,140
+What if it's not effective?
+
+19
+00:01:11,590 --> 00:01:15,250
+Then we may have a plan B, which is known
+as a fallback plan.
+
+20
+00:01:15,770 --> 00:01:17,070
+So we may have a fallback.
+
+21
+00:01:17,250 --> 00:01:20,530
+If plan A doesn't work, if our contingency
+response strategy doesn't work,
+
+22
+00:01:20,590 --> 00:01:23,340
+then we may have a fallback, right,
+which is our plan B.
+
+23
+00:01:23,870 --> 00:01:29,604
+And we may have several fallback plans,
+right, plan C, plan D, and so and so forth.
+
+24
+00:01:30,710 --> 00:01:33,195
+Now, another term that
+you might come across, us is
+
+25
+00:01:33,196 --> 00:01:36,210
+this one called Strategies
+for an Overall project risk.
+
+26
+00:01:37,630 --> 00:01:40,869
+Now remember we mentioned
+in an early video, there
+
+27
+00:01:40,870 --> 00:01:43,850
+are individual risks as
+well as overall project risks.
+
+28
+00:01:44,450 --> 00:01:49,790
+Individual risks impact one objective,
+one activity, one team, you know,
+
+29
+00:01:50,750 --> 00:01:54,890
+again, one one part of the scope of the
+project, you know, and that kind of thing,
+
+30
+00:01:55,330 --> 00:01:59,090
+whereas overall project risk impact the
+entire project to the whole.
+
+31
+00:01:59,890 --> 00:02:03,410
+Now, everything that we have discussed in
+the risk management section.
+
+32
+00:02:04,230 --> 00:02:07,630
+Everything that we've discussed relates to
+both, individual risks as well as the
+
+33
+00:02:07,631 --> 00:02:11,750
+overall project risk, identifying the
+risk, updating the risk register,
+
+34
+00:02:12,610 --> 00:02:15,482
+doing some qualitative
+and quantitative risk
+
+35
+00:02:15,483 --> 00:02:17,990
+analysis, and then responding to the risk.
+
+36
+00:02:18,310 --> 00:02:20,924
+Everything that we've
+talked about relates to both,
+
+37
+00:02:20,925 --> 00:02:23,411
+individual risks as well
+as overall project risks.
+
+38
+00:02:24,490 --> 00:02:27,850
+Then secondary risk, which was mentioned
+in a previous video as well, secondary
+
+39
+00:02:27,851 --> 00:02:31,010
+risk is as a result of any of these risk
+response strategies.
+
+40
+00:02:31,490 --> 00:02:32,010
+There might be a new risk.
+
+41
+00:02:32,030 --> 00:02:33,730
+new risk that wasn't there before.
+
+42
+00:02:34,490 --> 00:02:39,070
+So this might trigger, or it might spawn
+off another risk, right?
+
+43
+00:02:39,230 --> 00:02:40,967
+So, you know, and that risk wasn't there
+before.
+
+44
+00:02:41,050 --> 00:02:45,310
+So the example that I gave, one of the
+previous videos, we decided to outsource
+
+45
+00:02:45,311 --> 00:02:49,330
+the work, right, because, you know,
+our current vendor may go on strike,
+
+46
+00:02:49,490 --> 00:02:51,830
+so we're going to outsource
+the work to a different vendor,
+
+47
+00:02:51,831 --> 00:02:54,490
+but we've never worked
+with this vendor before, right?
+
+48
+00:02:54,510 --> 00:02:55,870
+So there's an uncertainty.
+
+49
+00:02:55,890 --> 00:02:59,250
+They might not be up to the Mark and,
+you know, they might not be as efficient
+
+50
+00:02:59,251 --> 00:03:02,681
+as our preferred vendor,
+but these are new risks
+
+51
+00:03:02,682 --> 00:03:05,884
+called secondary risks
+that wasn't there before.
+
+52
+00:03:06,890 --> 00:03:11,910
+Now, a residual risk then is as a result
+of any of these risk response strategies.
+
+53
+00:03:13,110 --> 00:03:16,618
+After all secondary risks
+have been identified, there
+
+54
+00:03:16,619 --> 00:03:21,110
+might be a new risk that
+you can't do anything about.
+
+55
+00:03:21,370 --> 00:03:23,510
+That is known as a residual risk.
+
+56
+00:03:23,750 --> 00:03:26,370
+So these are risks basically that are left
+over.
+
+57
+00:03:26,371 --> 00:03:29,610
+There's nothing we can do about,
+nothing we will do about.
+
+58
+00:03:30,230 --> 00:03:34,270
+And so for residual risk, you literally
+have to just passively accept them.
+
+59
+00:03:34,650 --> 00:03:36,147
+There's nothing else he can do.
+
+60
+00:03:36,230 --> 00:03:37,930
+You have to passively accept them.
+
+61
+00:03:38,390 --> 00:03:43,270
+So in my key technical analyst example
+that I gave in a previous video, right?
+
+62
+00:03:43,470 --> 00:03:47,131
+So that was where I said
+there's a key technical
+
+63
+00:03:47,132 --> 00:03:49,810
+analyst vital for the
+success of your project.
+
+64
+00:03:50,090 --> 00:03:53,550
+If that person leaves, your entire project
+is going to come to a standstill.
+
+65
+00:03:53,551 --> 00:03:57,437
+So you decide to cross-train
+all of your team members to
+
+66
+00:03:57,438 --> 00:04:00,591
+perform one task that this
+technical analyst can perform.
+
+67
+00:04:00,770 --> 00:04:07,290
+However, there is a risk that even all of
+your team members put together may not
+
+68
+00:04:07,291 --> 00:04:09,741
+work as efficiently as this one technical
+analyst.
+
+69
+00:04:10,550 --> 00:04:13,050
+However, we're just got to accept that.
+
+70
+00:04:13,450 --> 00:04:15,300
+There's nothing we can do about that.
+
+71
+00:04:15,510 --> 00:04:16,794
+It'll take a couple of weeks to find a
+
+72
+00:04:16,795 --> 00:04:19,564
+replacement, then we can
+try and get back on track.
+
+73
+00:04:19,730 --> 00:04:21,990
+But that is just a residual risk.
+
+74
+00:04:21,991 --> 00:04:24,830
+So we just have to passively accept it.
+
+75
+00:04:26,150 --> 00:04:28,686
+Now, a secondary risk
+can also end up being a
+
+76
+00:04:28,687 --> 00:04:31,367
+residual risk, right, if
+identified a secondary risk.
+
+77
+00:04:31,450 --> 00:04:35,470
+But the basic differences, though,
+the basic differences, with a secondary
+
+78
+00:04:35,471 --> 00:04:39,390
+risk, you always have some kind of
+implementation strategy.
+
+79
+00:04:39,850 --> 00:04:42,970
+You know, one of those, there are a share,
+enhanced exploit, or, you know,
+
+80
+00:04:43,050 --> 00:04:46,547
+any of those risk-response strategies,
+you're performing a secondary risk.
+
+81
+00:04:46,630 --> 00:04:50,030
+With a residual risk, it's always going to
+be a passive acceptance.
+
+82
+00:04:50,031 --> 00:04:51,250
+Okay.
+
