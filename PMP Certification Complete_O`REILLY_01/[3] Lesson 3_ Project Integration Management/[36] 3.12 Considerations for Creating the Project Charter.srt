@@ -1,0 +1,488 @@
+﻿1
+00:00:06,300 --> 00:00:10,320
+So considerations for creating our project
+charter.
+
+2
+00:00:11,460 --> 00:00:13,180
+Let's look at those EEFs again.
+
+3
+00:00:13,680 --> 00:00:17,274
+Remember those enterprise
+environmental factors are things
+
+4
+00:00:17,275 --> 00:00:21,840
+beyond our control that will
+impact us, impact our project.
+
+5
+00:00:23,140 --> 00:00:25,340
+They are external to the project.
+
+6
+00:00:26,480 --> 00:00:34,500
+The four main categories and those were
+back on page 3840-ish in your Pimbach.
+
+7
+00:00:34,501 --> 00:00:37,938
+But the four main
+categories for those enterprise
+
+8
+00:00:37,939 --> 00:00:40,774
+environmental factors
+to help you remember.
+
+9
+00:00:41,580 --> 00:00:44,760
+Organizational culture, structure,
+and governance.
+
+10
+00:00:45,700 --> 00:00:46,533
+Okay.
+
+11
+00:00:46,740 --> 00:00:49,673
+Remember, organizational
+structure will determine whether
+
+12
+00:00:49,674 --> 00:00:52,480
+or not you have power and
+authority on your projects.
+
+13
+00:00:53,400 --> 00:00:56,300
+Okay, so organizational culture,
+structure, and governance.
+
+14
+00:00:57,180 --> 00:01:00,580
+And we have the project management
+information system.
+
+15
+00:01:01,100 --> 00:01:04,480
+So they, I believe, have it noted as
+information.
+
+16
+00:01:04,500 --> 00:01:08,044
+software or technologies
+that we'll use, but most of the
+
+17
+00:01:08,045 --> 00:01:11,500
+time you will see project
+management information system.
+
+18
+00:01:12,560 --> 00:01:18,400
+Any softwares, whether it's Microsoft
+Project, Microsoft Office, Lotus Nodes,
+
+19
+00:01:19,320 --> 00:01:23,320
+Clarity, Timberline, Primavera,
+whatever it is you're using, any
+
+20
+00:01:23,321 --> 00:01:27,021
+softwares, all your project information
+will be coming in and out of there.
+
+21
+00:01:27,360 --> 00:01:27,520
+All right.
+
+22
+00:01:28,020 --> 00:01:30,117
+This will also be a tool and technique we
+use.
+
+23
+00:01:30,200 --> 00:01:32,340
+We use the PMIS.
+
+24
+00:01:32,860 --> 00:01:33,693
+All right.
+
+25
+00:01:33,780 --> 00:01:34,320
+Organizations.
+
+26
+00:01:34,500 --> 00:01:39,520
+resources any people material equipment
+supplies facilities already with the
+
+27
+00:01:39,521 --> 00:01:46,420
+organization these are EEFs we'll end up
+using them as well all right then we have
+
+28
+00:01:46,421 --> 00:01:50,700
+government and industry standards laws
+regulations we're going to have to follow
+
+29
+00:01:50,701 --> 00:01:59,420
+all right so um this will deal with
+compliance as well now our OPAs
+
+30
+00:01:59,421 --> 00:02:05,400
+organizational process assets that's a way
+to remember them so I want you to think
+
+31
+00:02:05,401 --> 00:02:12,880
+the PMO, PMO, is setting the policies,
+processes, procedures, guidelines,
+
+32
+00:02:13,160 --> 00:02:15,460
+methods we're going to follow on our
+projects.
+
+33
+00:02:16,620 --> 00:02:20,480
+All right, that's the first part of those
+OPAs.
+
+34
+00:02:20,940 --> 00:02:23,061
+Then the second part will be the knowledge
+
+35
+00:02:23,062 --> 00:02:26,520
+repository, the best way
+to think of this SharePoint.
+
+36
+00:02:28,020 --> 00:02:34,100
+All project information is compiled in
+SharePoint that we can pull and use.
+
+37
+00:02:34,500 --> 00:02:36,640
+these are assets that we can use.
+
+38
+00:02:37,160 --> 00:02:40,380
+I want you to think configuration
+management.
+
+39
+00:02:41,120 --> 00:02:45,660
+How we'll keep up and make sure we're
+working from the latest plans,
+
+40
+00:02:46,460 --> 00:02:49,380
+versions, baselines, documents.
+
+41
+00:02:50,540 --> 00:02:51,840
+So think version control.
+
+42
+00:02:52,080 --> 00:02:53,317
+That's the biggest thing.
+
+43
+00:02:53,400 --> 00:02:54,233
+All right.
+
+44
+00:02:55,000 --> 00:02:57,900
+Historical information and lessons learned
+huge.
+
+45
+00:02:59,240 --> 00:03:02,097
+History is bound to repeat itself if you
+don't know what it was.
+
+46
+00:03:02,180 --> 00:03:03,780
+We document these things.
+
+47
+00:03:04,500 --> 00:03:05,980
+and we'll pull from them.
+
+48
+00:03:06,500 --> 00:03:08,200
+Look at what's happened before.
+
+49
+00:03:09,160 --> 00:03:11,817
+And with the lessons learned, we're going
+to pull those as well.
+
+50
+00:03:11,900 --> 00:03:16,900
+What's gone well, what hasn't gone well on
+previous projects.
+
+51
+00:03:18,060 --> 00:03:22,640
+And we'll also pull previous similar
+recently completed project files.
+
+52
+00:03:23,000 --> 00:03:27,150
+Why would you reinvent the wheel if you do
+the same types of projects over and over?
+
+53
+00:03:27,560 --> 00:03:28,393
+Look at them.
+
+54
+00:03:28,540 --> 00:03:29,700
+See what you can pull.
+
+55
+00:03:32,000 --> 00:03:32,833
+All right.
+
+56
+00:03:33,100 --> 00:03:34,440
+You don't just use.
+
+57
+00:03:34,500 --> 00:03:38,176
+a previous project files,
+but see what is applicable
+
+58
+00:03:38,177 --> 00:03:41,194
+to your project, is what I was getting at.
+
+59
+00:03:41,540 --> 00:03:45,820
+All right, something else we consider when
+we're developing the project charter,
+
+60
+00:03:46,140 --> 00:03:47,540
+assumptions and constraints.
+
+61
+00:03:48,080 --> 00:03:53,080
+So you will see that this is where we will
+actually create as we develop the project
+
+62
+00:03:53,081 --> 00:03:56,500
+charter, our initial assumptions and
+constraints log.
+
+63
+00:03:56,840 --> 00:03:58,922
+So I know it says
+assumptions log, but I want
+
+64
+00:03:58,923 --> 00:04:01,340
+you to think assumptions
+and constraints log.
+
+65
+00:04:01,540 --> 00:04:04,860
+So it's going to document any assumptions
+we're making.
+
+66
+00:04:05,700 --> 00:04:08,050
+So assumptions are things we believe to be
+true.
+
+67
+00:04:08,320 --> 00:04:14,155
+Like we'll use the same
+contractors we use on the last project
+
+68
+00:04:14,156 --> 00:04:17,980
+or we assume certain
+resources will be available to us.
+
+69
+00:04:18,440 --> 00:04:19,908
+So we document those things because we're
+
+70
+00:04:19,909 --> 00:04:22,174
+going to have to validate
+those assumptions.
+
+71
+00:04:22,540 --> 00:04:24,580
+We also document constraints.
+
+72
+00:04:25,280 --> 00:04:28,526
+So a constraint is
+anything that will impede
+
+73
+00:04:28,527 --> 00:04:31,434
+or dictate the actions
+of the project team.
+
+74
+00:04:32,140 --> 00:04:36,220
+We have six constraints, and I believe
+these are mentioned on another lesson,
+
+75
+00:04:36,640 --> 00:04:39,780
+but let's cover them again, just to make
+sure we've got them.
+
+76
+00:04:40,280 --> 00:04:43,600
+So we have scope, time, and cost,
+triple constraints.
+
+77
+00:04:44,160 --> 00:04:47,380
+I believe I actually discussed those in a
+previous lesson.
+
+78
+00:04:48,220 --> 00:04:52,540
+But scope time and cost, those are triple
+constraints or iron triangle.
+
+79
+00:04:53,320 --> 00:04:55,700
+But those are not the only constraints.
+
+80
+00:04:56,020 --> 00:04:58,180
+We also have quality.
+
+81
+00:04:59,080 --> 00:05:05,900
+resources are lack thereof and risks
+uncertainties on our project these are all
+
+82
+00:05:05,901 --> 00:05:13,940
+constraints and often they are imposed on
+us by our stakeholders especially schedule
+
+83
+00:05:13,941 --> 00:05:20,180
+and costs we need this work done in this
+amount of time and this is the budget you
+
+84
+00:05:20,181 --> 00:05:25,540
+have to work with so we document all those
+things document if you don't document
+
+85
+00:05:25,541 --> 00:05:29,740
+you're going to forget things all right
+Other considerations.
+
+86
+00:05:30,200 --> 00:05:31,033
+Next slide.
+
+87
+00:05:31,360 --> 00:05:32,710
+We're going to gather data.
+
+88
+00:05:33,180 --> 00:05:38,840
+So we're trying to determine in our
+project charter high level information,
+
+89
+00:05:40,280 --> 00:05:46,060
+like overall project objectives,
+our high level requirements, summary
+
+90
+00:05:46,061 --> 00:05:53,140
+budgets, summary schedule, any
+stakeholders that we know about,
+
+91
+00:05:53,360 --> 00:05:56,440
+key stakeholders we know about,
+any risks we know about.
+
+92
+00:05:56,441 --> 00:06:02,800
+So ways of doing that, gathering the data,
+brainstorming, usually a small group tries
+
+93
+00:06:02,801 --> 00:06:06,260
+to generate as many ideas about that
+high-level information.
+
+94
+00:06:07,100 --> 00:06:12,980
+Focus groups, all right, we can get
+pre-qualified SMEs together, and we can
+
+95
+00:06:12,981 --> 00:06:18,480
+interview any stakeholders we already know
+about what are the high-level details.
+
+96
+00:06:19,140 --> 00:06:22,900
+And we'll use interpersonal and team
+skills.
+
+97
+00:06:23,200 --> 00:06:25,220
+You'll see, we use these a lot.
+
+98
+00:06:25,221 --> 00:06:29,480
+anytime you're dealing with stakeholders,
+including our team members.
+
+99
+00:06:29,980 --> 00:06:32,080
+We'll use those interpersonal team skills.
+
+100
+00:06:32,240 --> 00:06:36,909
+We're going to manage
+conflict, facilitate meetings,
+
+101
+00:06:36,910 --> 00:06:41,840
+as well as manage meetings
+as we have meetings.
+
+102
+00:06:43,080 --> 00:06:45,460
+So these interact with each other a lot.
+
+103
+00:06:45,900 --> 00:06:48,240
+So you'll see we'll use a lot of these
+tools.
+
+104
+00:06:48,480 --> 00:06:50,030
+These are tools that we'll use.
+

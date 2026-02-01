@@ -1,0 +1,507 @@
+﻿1
+00:00:06,010 --> 00:00:10,578
+So now we've gone through
+all of our integration processes
+
+2
+00:00:10,579 --> 00:00:14,770
+and we're at the end with
+closed project or phase.
+
+3
+00:00:14,890 --> 00:00:16,510
+Let's cover the ITTOs.
+
+4
+00:00:17,170 --> 00:00:20,090
+So 121 in your Pembuck, page 121.
+
+5
+00:00:20,590 --> 00:00:25,390
+Okay, so here we will finalize all the
+activities for the project.
+
+6
+00:00:25,650 --> 00:00:27,730
+Make sure all of the work has been done.
+
+7
+00:00:28,470 --> 00:00:34,150
+We will do lessons learned and then we'll
+release the team.
+
+8
+00:00:34,650 --> 00:00:42,910
+Now if it is a phase you close the phase
+this will be called an exit point or kill
+
+9
+00:00:42,911 --> 00:00:48,330
+gate exit gate or kill point and this is
+where the organization the stakeholders
+
+10
+00:00:48,331 --> 00:00:53,810
+will decide whether or not to keep moving
+forward so construction projects often
+
+11
+00:00:53,811 --> 00:01:01,730
+have the design phase that's what they
+start with so here we should have designs
+
+12
+00:01:01,731 --> 00:01:08,170
+done and then our customer key
+stakeholders sponsor, of course,
+
+13
+00:01:09,110 --> 00:01:14,440
+will have to accept the
+entire designs or decide,
+
+14
+00:01:14,441 --> 00:01:18,644
+again, whether or not
+they want to move forward.
+
+15
+00:01:19,350 --> 00:01:22,830
+So if they do, you'll go ahead and close
+the phase, then you'll go through
+
+16
+00:01:22,831 --> 00:01:26,190
+initiating, planning, executing,
+controlling, and closing again.
+
+17
+00:01:27,310 --> 00:01:33,210
+But let's concentrate here on closing the
+entire project.
+
+18
+00:01:34,230 --> 00:01:35,710
+So what comes in?
+
+19
+00:01:35,730 --> 00:01:41,190
+we have a lot of ITTOs so the project
+charter comes in had our high-level
+
+20
+00:01:41,191 --> 00:01:47,830
+project objectives in the first place
+probably exit criteria as well our project
+
+21
+00:01:47,831 --> 00:01:53,030
+management plan of course tells us how
+we're going to close the project and we'll
+
+22
+00:01:53,031 --> 00:01:56,310
+include our baselines again here we the p
+.m.
+
+23
+00:01:56,490 --> 00:02:02,716
+and team are ensuring that all
+the work has been completed
+
+24
+00:02:02,717 --> 00:02:07,310
+and before i forget even if
+a project is terminated early.
+
+25
+00:02:07,810 --> 00:02:08,710
+You still close.
+
+26
+00:02:09,930 --> 00:02:10,150
+All right.
+
+27
+00:02:10,450 --> 00:02:14,850
+Our project documents, everything we've
+created, really important here will be the
+
+28
+00:02:14,851 --> 00:02:18,170
+requirements documentation, making sure
+everything was done.
+
+29
+00:02:18,910 --> 00:02:22,730
+That is what was used to create those
+baselines in the first place.
+
+30
+00:02:23,850 --> 00:02:27,710
+Big, big, big here will be accepted
+deliverables.
+
+31
+00:02:28,850 --> 00:02:32,649
+So we will cover these in
+different processes, but direct
+
+32
+00:02:32,650 --> 00:02:38,070
+and manage a project work
+process creates the deliverables.
+
+33
+00:02:38,330 --> 00:02:42,670
+So remember, we're in executing,
+and we're up at the top in integration.
+
+34
+00:02:44,330 --> 00:02:46,580
+Well, do we just hand over those
+deliverables?
+
+35
+00:02:47,670 --> 00:02:48,503
+Nope.
+
+36
+00:02:48,590 --> 00:02:52,790
+We check them first in control quality.
+
+37
+00:02:53,550 --> 00:03:00,290
+So let's say a baby car seat is being
+upgraded for the new regulations.
+
+38
+00:03:00,291 --> 00:03:07,070
+so we will appraise check the baby car
+seat on the way along the way and when we
+
+39
+00:03:07,071 --> 00:03:14,750
+are done all of that is in control quality
+all right so what we want will be verified
+
+40
+00:03:14,751 --> 00:03:20,390
+deliverables we've checked them the
+deliverables for correctness conformance
+
+41
+00:03:20,391 --> 00:03:27,030
+completeness if they're good yep we've
+verified those deliverables then the
+
+42
+00:03:27,031 --> 00:03:31,610
+verified deliverables feed into validate
+scope process.
+
+43
+00:03:32,350 --> 00:03:37,870
+So it's invalidate scope where a sponsor
+customer or with the house Reno,
+
+44
+00:03:38,090 --> 00:03:43,050
+the homeowners are walking through
+inspecting.
+
+45
+00:03:44,130 --> 00:03:48,930
+So that's where we will get accepted
+deliverables.
+
+46
+00:03:49,730 --> 00:03:55,410
+And in the IT world, that's called user
+acceptance testing at the end of a review
+
+47
+00:03:55,411 --> 00:04:04,050
+demo they are customer sponsor product
+owner with agile will we will do that demo
+
+48
+00:04:04,051 --> 00:04:12,170
+this is the time to review do the user
+acceptance testing and hopefully we will
+
+49
+00:04:12,171 --> 00:04:19,050
+have accepted deliverables otherwise we'll
+have to go back and fix things which will
+
+50
+00:04:19,051 --> 00:04:24,710
+require a change request so that'll be
+covered in a process coming up so i had to
+
+51
+00:04:24,711 --> 00:04:27,730
+let you know how we we got to accepted
+deliverables.
+
+52
+00:04:28,630 --> 00:04:33,830
+So this is the reason you need to cover
+all of these integration processes again.
+
+53
+00:04:34,750 --> 00:04:41,510
+I'm covering at the main level,
+everything the PM we do to manage,
+
+54
+00:04:41,970 --> 00:04:44,777
+coordinate, unify this
+project, especially this is,
+
+55
+00:04:44,778 --> 00:04:47,790
+you know, focused on
+traditional predictive projects.
+
+56
+00:04:48,510 --> 00:04:49,343
+All right.
+
+57
+00:04:49,530 --> 00:04:53,470
+So you're going to want to review these
+because a lot of this we haven't covered
+
+58
+00:04:53,471 --> 00:05:00,330
+yet as you go through scope, schedule,
+quality, and whatnot, you will end up
+
+59
+00:05:00,331 --> 00:05:03,287
+seeing all these processes
+where we create all these plans
+
+60
+00:05:03,288 --> 00:05:07,950
+and documents and baselines
+and why they are coming in here.
+
+61
+00:05:08,590 --> 00:05:09,423
+All right.
+
+62
+00:05:09,590 --> 00:05:13,670
+Your business case, the business
+documents, which include the business case
+
+63
+00:05:13,671 --> 00:05:16,934
+and benefits management
+plans, were inputs to
+
+64
+00:05:16,935 --> 00:05:19,781
+develop project charter
+process in the first place.
+
+65
+00:05:20,350 --> 00:05:25,170
+In the very beginning, there was a reason,
+a need for the project in that business
+
+66
+00:05:25,171 --> 00:05:29,290
+case, along with the feasibility and
+justification of the project.
+
+67
+00:05:29,850 --> 00:05:33,010
+It goes hand-in-hand with the benefits
+management plan.
+
+68
+00:05:33,430 --> 00:05:36,070
+How is the project going to benefit the
+organization?
+
+69
+00:05:36,870 --> 00:05:40,830
+Usually make money, save money,
+promote goodwill, for example.
+
+70
+00:05:42,010 --> 00:05:45,468
+And then those agreements,
+contracts, which came in to
+
+71
+00:05:45,469 --> 00:05:48,401
+develop project charter
+process in the first place too.
+
+72
+00:05:49,570 --> 00:05:56,070
+legal binding documents we have to make
+sure everything was done and you will see
+
+73
+00:05:56,071 --> 00:06:02,790
+if we end up hiring sellers vendors
+contractors we will have agreements with
+
+74
+00:06:02,791 --> 00:06:09,570
+each of them so we again enclosing the
+entire project have to make sure that
+
+75
+00:06:09,571 --> 00:06:16,570
+everything all the work had been completed
+before we get here we're ensuring
+
+76
+00:06:16,571 --> 00:06:22,130
+everything is done in close the project So
+the contracts, if we get vendors,
+
+77
+00:06:22,790 --> 00:06:27,010
+we'll go hand in hand with our procurement
+documentation, like request for proposal,
+
+78
+00:06:27,590 --> 00:06:28,970
+invitation to bid, quote.
+
+79
+00:06:30,430 --> 00:06:32,090
+And then our OPAs will come in.
+
+80
+00:06:32,730 --> 00:06:35,770
+We'll follow the policies, processes,
+procedures to close.
+
+81
+00:06:36,590 --> 00:06:41,770
+We will use expert judgment, our brains,
+ours, our team member, Smease.
+
+82
+00:06:42,230 --> 00:06:43,690
+We will do data analysis.
+
+83
+00:06:43,810 --> 00:06:47,010
+We'll look at all the documentation,
+make sure everything was completed.
+
+84
+00:06:47,011 --> 00:06:51,050
+You can also go back in time, do
+regression analysis.
+
+85
+00:06:51,770 --> 00:06:57,290
+Trend analysis is we're documenting how we
+performed over time, better or worse.
+
+86
+00:06:58,170 --> 00:07:03,290
+And then variance analysis, how far off
+are we from our plan?
+
+87
+00:07:03,990 --> 00:07:09,370
+That will be especially important if your
+project is terminated early.
+
+88
+00:07:09,710 --> 00:07:12,850
+How far off are we from our original
+objectives?
+
+89
+00:07:13,050 --> 00:07:16,990
+And then, of course, we're having a
+meeting to close the entire project.
+
+90
+00:07:17,010 --> 00:07:17,230
+project.
+
+91
+00:07:17,810 --> 00:07:20,510
+But part of that will be lessons learned.
+
+92
+00:07:21,110 --> 00:07:23,985
+So before we officially
+release the team here, anybody
+
+93
+00:07:23,986 --> 00:07:27,690
+who's still part of the project,
+we will do lessons learn.
+
+94
+00:07:28,370 --> 00:07:28,590
+All right.
+
+95
+00:07:28,730 --> 00:07:30,780
+So that's a big part of the meeting here.
+
+96
+00:07:31,070 --> 00:07:33,370
+Your outputs will update project
+documents.
+
+97
+00:07:33,590 --> 00:07:36,630
+We'll update the lessons learned register
+for the last time.
+
+98
+00:07:37,310 --> 00:07:41,950
+This is where we will hand over,
+transition everything.
+
+99
+00:07:42,370 --> 00:07:43,630
+All our deliverables.
+
+100
+00:07:44,390 --> 00:07:46,810
+Those are product, services, processes,
+results.
+
+101
+00:07:47,010 --> 00:07:54,990
+your deliverables will be transitioned
+handed over to production or operations to
+
+102
+00:07:54,991 --> 00:08:01,710
+actually use we will send out a final
+report letting our stakeholders know we
+
+103
+00:08:01,711 --> 00:08:08,150
+are completing the project work and well
+that it's all done and we will update our
+
+104
+00:08:08,151 --> 00:08:11,021
+OPAs we've been
+pulling from them all along
+
+105
+00:08:11,064 --> 00:08:14,111
+we contribute to them
+organizational learning
+

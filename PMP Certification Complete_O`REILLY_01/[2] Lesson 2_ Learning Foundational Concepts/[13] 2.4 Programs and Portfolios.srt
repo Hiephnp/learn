@@ -1,0 +1,304 @@
+﻿1
+00:00:05,920 --> 00:00:11,040
+Okay, so let's discuss the differences
+then between a program, a portfolio,
+
+2
+00:00:11,760 --> 00:00:12,593
+and a project.
+
+3
+00:00:13,400 --> 00:00:15,650
+Now, first, let's talk about a program,
+right?
+
+4
+00:00:16,160 --> 00:00:19,620
+A program are a group of related projects.
+
+5
+00:00:20,200 --> 00:00:22,400
+And that's something important to
+understand.
+
+6
+00:00:22,640 --> 00:00:24,837
+This term here, that's why we've
+underlined it.
+
+7
+00:00:24,920 --> 00:00:25,840
+It's related.
+
+8
+00:00:26,560 --> 00:00:29,500
+Programs are a group of related projects.
+
+9
+00:00:30,240 --> 00:00:31,690
+Not just a group of projects.
+
+10
+00:00:32,200 --> 00:00:33,820
+They have to be related in some way.
+
+11
+00:00:33,821 --> 00:00:36,220
+And different organizations,
+different industries,
+
+12
+00:00:36,221 --> 00:00:38,801
+they're going to determine
+what they mean by related.
+
+13
+00:00:38,960 --> 00:00:43,700
+There's no single definition of what we
+mean by a related project.
+
+14
+00:00:44,300 --> 00:00:48,420
+The organization themselves are going to
+determine what they mean by related.
+
+15
+00:00:48,920 --> 00:00:51,140
+But they have to be related in some way.
+
+16
+00:00:51,900 --> 00:00:54,660
+So programs are groups of related
+projects.
+
+17
+00:00:55,620 --> 00:00:57,597
+Now, if you've got projects that are not
+
+18
+00:00:57,598 --> 00:01:00,714
+related, then they won't
+be part of a program.
+
+19
+00:01:00,820 --> 00:01:02,470
+They will be part of a portfolio.
+
+20
+00:01:03,160 --> 00:01:11,720
+A portfolio are a group of programs and
+projects, and plus other activities as
+
+21
+00:01:11,721 --> 00:01:15,920
+well, including ongoing operations that
+are not necessarily related.
+
+22
+00:01:16,800 --> 00:01:18,617
+And that's a key thing about portfolios.
+
+23
+00:01:18,700 --> 00:01:21,697
+You've got all these activities going on
+in your organisation.
+
+24
+00:01:21,780 --> 00:01:22,917
+They're part of a portfolio.
+
+25
+00:01:23,000 --> 00:01:25,620
+They're not necessarily related to one
+another.
+
+26
+00:01:26,160 --> 00:01:31,500
+Whereas programs, they have to be related,
+a group of related projects.
+
+27
+00:01:31,501 --> 00:01:34,220
+A one-off project would be part of a
+portfolio.
+
+28
+00:01:34,940 --> 00:01:37,767
+And then other activities
+such as ongoing operations,
+
+29
+00:01:37,768 --> 00:01:40,860
+as I mentioned, that would
+also be part of a portfolio.
+
+30
+00:01:41,840 --> 00:01:45,724
+So a program then is
+made up of many projects or
+
+31
+00:01:45,725 --> 00:01:48,860
+several projects, and
+they all have to be related.
+
+32
+00:01:49,060 --> 00:01:52,577
+I remember a project is a
+temporary endeavor undertaken
+
+33
+00:01:52,578 --> 00:01:54,981
+to create a unique
+product service or result.
+
+34
+00:01:55,340 --> 00:01:57,320
+That's the definition of a project.
+
+35
+00:01:57,760 --> 00:01:59,300
+Sometimes projects are large.
+
+36
+00:01:59,440 --> 00:02:01,417
+We want to break them down to a little
+sub-project.
+
+37
+00:02:01,500 --> 00:02:04,160
+And so, I mean, that's what sub-project
+is.
+
+38
+00:02:04,280 --> 00:02:09,580
+It's just subdividing your project into,
+you know, smaller projects, if you like.
+
+39
+00:02:10,620 --> 00:02:15,840
+Now, a very simple example of that
+is shown here on this next slide, right?
+
+40
+00:02:16,040 --> 00:02:19,520
+So you have Project A and B that are
+related to one another.
+
+41
+00:02:19,980 --> 00:02:22,660
+They would be part of this program,
+part of Program 1.
+
+42
+00:02:23,480 --> 00:02:27,220
+You've got Projects E and F, they're
+related to one another.
+
+43
+00:02:27,440 --> 00:02:29,480
+They are part of this program to A.
+
+44
+00:02:29,481 --> 00:02:30,314
+Right.
+
+45
+00:02:30,680 --> 00:02:34,880
+Then you have another project,
+Project D, that's related to the program.
+
+46
+00:02:35,440 --> 00:02:38,264
+They're not really related
+directly to either Project
+
+47
+00:02:38,265 --> 00:02:41,540
+E or F, but they're related
+overall to this program.
+
+48
+00:02:42,180 --> 00:02:44,680
+And so they would be part of another
+program.
+
+49
+00:02:44,860 --> 00:02:48,880
+So notice this program two includes a
+program and a project.
+
+50
+00:02:49,420 --> 00:02:51,680
+But then there's a one-off project,
+Project C.
+
+51
+00:02:52,200 --> 00:02:53,650
+It's not related to anything.
+
+52
+00:02:54,000 --> 00:02:55,700
+They would be part of a portfolio.
+
+53
+00:02:56,080 --> 00:02:59,460
+So all of these programs and projects are
+part of a portfolio.
+
+54
+00:02:59,480 --> 00:03:01,920
+And then there's additional activities.
+
+55
+00:03:02,620 --> 00:03:05,420
+In this case, for example, ongoing
+operations, right?
+
+56
+00:03:05,600 --> 00:03:07,550
+That would also be part of a portfolio.
+
+57
+00:03:08,140 --> 00:03:14,100
+So a portfolio is basically the strategic
+activities for your organization.
+
+58
+00:03:15,040 --> 00:03:15,120
+Right.
+
+59
+00:03:15,360 --> 00:03:18,760
+So all of the activities combined could be
+part of a portfolio.
+
+60
+00:03:18,940 --> 00:03:21,117
+Of course, you may have more than one
+portfolio.
+
+61
+00:03:21,200 --> 00:03:26,920
+But the key about a portfolio is it
+includes programs, projects, ongoing
+
+62
+00:03:26,921 --> 00:03:29,460
+operations, any other activities to meet
+the same.
+
+63
+00:03:29,480 --> 00:03:32,409
+strategic direction of the organization,
+
+64
+00:03:32,410 --> 00:03:36,320
+whereas a program,
+they have to be related.
+
+65
+00:03:36,500 --> 00:03:39,300
+The projects have to be related in a
+program.
+

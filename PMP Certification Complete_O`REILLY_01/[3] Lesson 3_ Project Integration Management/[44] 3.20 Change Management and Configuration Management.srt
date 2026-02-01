@@ -1,0 +1,402 @@
+﻿1
+00:00:06,010 --> 00:00:11,510
+Let's delve into change and configuration
+management in a little more detail.
+
+2
+00:00:12,450 --> 00:00:16,110
+So remember, change is a hot button.
+
+3
+00:00:17,010 --> 00:00:20,850
+We want to understand the change control
+process.
+
+4
+00:00:21,590 --> 00:00:24,850
+Remember, changes won't just happen
+Willy-nilly on our projects.
+
+5
+00:00:25,870 --> 00:00:29,990
+So it's important that we properly control
+all changes to our project.
+
+6
+00:00:30,670 --> 00:00:35,170
+And I've mentioned this over and over,
+prevent unnecessary changes.
+
+7
+00:00:36,010 --> 00:00:38,610
+We also want to prevent scope creep.
+
+8
+00:00:39,150 --> 00:00:43,028
+That's adding to the
+scope without giving us the
+
+9
+00:00:43,029 --> 00:00:46,730
+time, the money, the
+resources needed to do so.
+
+10
+00:00:47,810 --> 00:00:49,350
+That's a big no-no.
+
+11
+00:00:50,270 --> 00:00:52,530
+And we need to prevent goal plating.
+
+12
+00:00:53,210 --> 00:00:59,670
+So that's a form of scope creep where
+someone in the performing organization
+
+13
+00:00:59,671 --> 00:01:05,750
+decides to add some bells and whistles,
+some features that were not already agreed
+
+14
+00:01:05,751 --> 00:01:12,550
+upon, meaning within the scope baseline
+that's a huge no-no all right and if
+
+15
+00:01:12,551 --> 00:01:17,570
+you're working on government contracts
+that can even be considered bribery so we
+
+16
+00:01:17,571 --> 00:01:27,210
+do not add any more or less than the scope
+agreed upon all right on predictive
+
+17
+00:01:27,211 --> 00:01:32,450
+projects remember these are traditional
+deliverables are usually fixed.
+
+18
+00:01:32,850 --> 00:01:35,090
+Changes are strictly controlled.
+
+19
+00:01:35,750 --> 00:01:40,610
+Whereas agile, you are expecting change.
+
+20
+00:01:40,830 --> 00:01:44,790
+We'll discover, explore the requirements
+along the way.
+
+21
+00:01:45,630 --> 00:01:49,590
+So you can't control that.
+
+22
+00:01:50,310 --> 00:01:52,250
+That is something we adapt to.
+
+23
+00:01:52,670 --> 00:01:54,550
+We know change is coming.
+
+24
+00:01:55,890 --> 00:01:56,723
+All right.
+
+25
+00:01:56,950 --> 00:02:00,810
+So the change management plan,
+remember, that is created in the very
+
+26
+00:02:00,811 --> 00:02:03,650
+beginning when we develop the project
+management plan.
+
+27
+00:02:03,850 --> 00:02:04,970
+I have a small window.
+
+28
+00:02:05,430 --> 00:02:07,347
+That's why I'm doing it really smallly.
+
+29
+00:02:07,430 --> 00:02:12,230
+So remember, when we start developing the
+project management plan, the border of our
+
+30
+00:02:12,231 --> 00:02:17,030
+puzzle, change and configuration
+management plans are created immediately.
+
+31
+00:02:18,010 --> 00:02:21,069
+So the change management
+plan, let's go into detail,
+
+32
+00:02:21,070 --> 00:02:23,810
+documents all procedures
+regarding change control.
+
+33
+00:02:24,490 --> 00:02:26,790
+How changes will be made and controlled.
+
+34
+00:02:27,290 --> 00:02:32,850
+It identifies the authority levels for who
+can approve changes or reject them.
+
+35
+00:02:33,390 --> 00:02:36,150
+It identifies members of the CCB.
+
+36
+00:02:37,050 --> 00:02:41,770
+If there's not a CCB, the sponsor has
+authority to approve or reject changes.
+
+37
+00:02:43,070 --> 00:02:46,430
+An authority could be external like a
+government agency.
+
+38
+00:02:47,270 --> 00:02:50,602
+It will also outline the
+roles and responsibilities of
+
+39
+00:02:50,603 --> 00:02:54,670
+the CCB and the project
+manager regarding change control.
+
+40
+00:02:55,050 --> 00:03:01,650
+So usually, and I have mentioned this
+before, usually the the PM can approve
+
+41
+00:03:01,651 --> 00:03:08,090
+corrective and preventive action since it
+normally is not affecting a baseline.
+
+42
+00:03:08,970 --> 00:03:10,020
+So keep that in mind.
+
+43
+00:03:10,730 --> 00:03:12,630
+Corrective action, something is wrong.
+
+44
+00:03:13,070 --> 00:03:16,234
+We're getting trying to
+get back in alignment with
+
+45
+00:03:16,235 --> 00:03:18,871
+our plan what was agreed
+upon in the first place.
+
+46
+00:03:19,490 --> 00:03:22,040
+Like we're spending too much, we're taking
+too long.
+
+47
+00:03:22,450 --> 00:03:25,650
+Whereas preventive action, these are all
+through change requests.
+
+48
+00:03:25,930 --> 00:03:28,490
+Preventive action, something has already
+happened.
+
+49
+00:03:28,690 --> 00:03:34,341
+We want to make a
+change right now to stay in
+
+50
+00:03:34,342 --> 00:03:38,930
+alignment with the
+plan, not get off track.
+
+51
+00:03:39,430 --> 00:03:41,930
+The last one is defect repair.
+
+52
+00:03:43,170 --> 00:03:45,666
+So defect repair, we have a non-conforming
+
+53
+00:03:45,667 --> 00:03:49,204
+product or component
+that needs to be fixed.
+
+54
+00:03:49,490 --> 00:03:51,950
+Typically tangible, something tangible.
+
+55
+00:03:52,830 --> 00:03:55,370
+Let's say we're supposed to create
+markers.
+
+56
+00:03:55,371 --> 00:04:02,770
+so if any piece of this the lid is
+supposed to fit on here the top or the
+
+57
+00:04:02,771 --> 00:04:08,910
+bottom it's supposed to be a straight
+little pointy tip versus you know slanted
+
+58
+00:04:08,911 --> 00:04:16,450
+if any piece of this does not work that is
+called a defect non-conforming product or
+
+59
+00:04:16,451 --> 00:04:23,097
+component so it has to be
+repaired so i don't remember whether
+
+60
+00:04:23,098 --> 00:04:26,891
+or not i went into that in
+enough detail with when I talked
+
+61
+00:04:26,892 --> 00:04:29,190
+about performing
+integrated change control.
+
+62
+00:04:29,690 --> 00:04:31,790
+These are the reasons for change requests.
+
+63
+00:04:32,050 --> 00:04:39,184
+Preventive action, corrective action,
+defect repair, and adding or deleting scope.
+
+64
+00:04:39,830 --> 00:04:40,880
+So keep that in mind.
+
+65
+00:04:41,650 --> 00:04:42,483
+All right.
+
+66
+00:04:42,610 --> 00:04:48,059
+Now configuration management
+details how versions,
+
+67
+00:04:48,060 --> 00:04:52,990
+plans, baselines, documents
+will be made and controlled.
+
+68
+00:04:53,590 --> 00:04:54,450
+The details.
+
+69
+00:04:55,050 --> 00:05:00,670
+So the big thing to remember this is your
+version control to always make sure we're
+
+70
+00:05:00,671 --> 00:05:07,090
+working from the latest plans documents
+baselines versions the three components of
+
+71
+00:05:07,091 --> 00:05:11,830
+the configuration management system will
+be the identification status accounting
+
+72
+00:05:11,831 --> 00:05:18,970
+and verification and audit a little more
+than you really need to um know for the
+
+73
+00:05:18,971 --> 00:05:27,130
+exam so version control think version
+control and So if we're in the middle of
+
+74
+00:05:27,131 --> 00:05:32,570
+our project, we're executing and that
+house rento tearing out the tub,
+
+75
+00:05:32,950 --> 00:05:36,990
+found out there wasn't that water vapor
+barrier.
+
+76
+00:05:37,470 --> 00:05:43,210
+Now there's mold and all the walls and the
+structural beams have been eaten away.
+
+77
+00:05:43,810 --> 00:05:45,350
+All right.
+
+78
+00:05:45,890 --> 00:05:47,740
+So you have to have a change request.
+
+79
+00:05:47,930 --> 00:05:53,810
+The scope has to change, which will affect
+plans, baselines, and other documents,
+
+80
+00:05:53,930 --> 00:05:54,850
+resources, costs.
+
+81
+00:05:55,370 --> 00:06:00,650
+We cannot now work from a previous plan.
+
+82
+00:06:01,090 --> 00:06:03,090
+It is no longer valid.
+
+83
+00:06:03,630 --> 00:06:06,392
+So configuration management
+will always make sure we're
+
+84
+00:06:06,393 --> 00:06:11,630
+working from the latest
+plans, documents, versions.
+
+85
+00:06:13,250 --> 00:06:16,830
+The old ones archived, we now work from
+the latest.
+
+86
+00:06:16,970 --> 00:06:19,950
+That's version control, configuration
+management.
+

@@ -1,0 +1,297 @@
+﻿1
+00:00:06,520 --> 00:00:11,720
+So following the change control process,
+not the first time I've discussed this,
+
+2
+00:00:12,100 --> 00:00:13,580
+that's how important this is.
+
+3
+00:00:13,660 --> 00:00:15,280
+Let's go into more detail.
+
+4
+00:00:16,140 --> 00:00:19,027
+So the steps involved
+in change control, and
+
+5
+00:00:19,028 --> 00:00:22,540
+these are yes, on
+predictive traditional projects.
+
+6
+00:00:23,260 --> 00:00:25,760
+So first we have to identify the need for
+a change.
+
+7
+00:00:26,400 --> 00:00:31,560
+Now a change request can be initiated
+verbally, but it needs to be documented.
+
+8
+00:00:32,620 --> 00:00:35,180
+We perform an impact assessment.
+
+9
+00:00:36,480 --> 00:00:42,080
+How will each change request affect the
+budget, schedule, resources, constraints?
+
+10
+00:00:42,880 --> 00:00:48,080
+How will it affect any and every other
+part of our project?
+
+11
+00:00:49,240 --> 00:00:50,940
+And we'll look for alternatives.
+
+12
+00:00:51,900 --> 00:00:56,500
+So again, with the alternatives analysis,
+we'll do a cost benefit analysis.
+
+13
+00:00:56,880 --> 00:00:59,080
+The benefits should always outweigh the
+cost.
+
+14
+00:00:59,340 --> 00:01:01,040
+And we submit that change request.
+
+15
+00:01:01,900 --> 00:01:05,800
+We'll follow the steps outlined in our
+change management.
+
+16
+00:01:05,820 --> 00:01:11,980
+plan to obtain approval or rejection or
+possibly deferral.
+
+17
+00:01:11,981 --> 00:01:13,060
+Let's hold off.
+
+18
+00:01:13,260 --> 00:01:14,093
+Let's wait.
+
+19
+00:01:14,480 --> 00:01:15,500
+Let's delay this.
+
+20
+00:01:16,160 --> 00:01:19,600
+So we'll get approval from the appropriate
+authority.
+
+21
+00:01:20,740 --> 00:01:24,527
+We will update our change
+log and communicate the status
+
+22
+00:01:24,528 --> 00:01:28,140
+of the change request to
+all interested stakeholders.
+
+23
+00:01:29,500 --> 00:01:33,620
+Remember, any stakeholder involved in the
+project can submit a change request.
+
+24
+00:01:33,860 --> 00:01:35,510
+They never forget what they want.
+
+25
+00:01:35,820 --> 00:01:39,280
+So we will communicate the disposition of
+that change request.
+
+26
+00:01:39,960 --> 00:01:41,597
+And we might have to get their buy-in.
+
+27
+00:01:41,680 --> 00:01:45,400
+We update all plans and documents
+accordingly.
+
+28
+00:01:46,160 --> 00:01:47,060
+This is a trio.
+
+29
+00:01:48,340 --> 00:01:54,400
+The approved change request will lead to
+plan, might include changing our approach,
+
+30
+00:01:54,960 --> 00:01:59,520
+strategy, or baselines, and updating any
+documents affected.
+
+31
+00:01:59,860 --> 00:02:03,440
+So that's really important that we do all
+of these steps.
+
+32
+00:02:04,040 --> 00:02:08,900
+We'll implement the approved, change
+request in direct and manage the project
+
+33
+00:02:08,901 --> 00:02:16,920
+work, we will also in control quality,
+verify, test the approved change.
+
+34
+00:02:18,200 --> 00:02:21,785
+Make sure it's actually been
+implemented that a change
+
+35
+00:02:21,786 --> 00:02:27,540
+request for a defect repair has
+actually fixed the component.
+
+36
+00:02:28,760 --> 00:02:30,580
+So now it's conforming.
+
+37
+00:02:31,200 --> 00:02:32,040
+A little note here.
+
+38
+00:02:32,041 --> 00:02:35,254
+If there are sellers,
+vendors working on the
+
+39
+00:02:35,255 --> 00:02:38,640
+project, a contract change
+control system is used.
+
+40
+00:02:39,240 --> 00:02:41,420
+We have an extra level of complexity
+there.
+
+41
+00:02:41,980 --> 00:02:45,343
+So approved change
+requests will be implemented
+
+42
+00:02:45,344 --> 00:02:50,380
+in control procurements
+only with procurements.
+
+43
+00:02:51,000 --> 00:02:54,408
+Everything else, the approved
+change request will go to
+
+44
+00:02:54,409 --> 00:02:58,560
+direct and manage the
+project work to be implemented.
+
+45
+00:03:00,320 --> 00:03:05,560
+Exam tips and impact analysis always
+involves quantified values.
+
+46
+00:03:06,100 --> 00:03:08,880
+For example, the defect will take two
+weeks to prepare.
+
+47
+00:03:09,580 --> 00:03:12,500
+We need one additional resources and
+impact analysis.
+
+48
+00:03:13,080 --> 00:03:17,544
+Those are quantified
+values versus this defect
+
+49
+00:03:17,545 --> 00:03:21,200
+is quick and easy or
+this is a major change.
+
+50
+00:03:22,080 --> 00:03:24,360
+That is not an impact assessment.
+
+51
+00:03:25,120 --> 00:03:25,953
+Okay?
+
+52
+00:03:26,080 --> 00:03:27,820
+These are all too subjective.
+
+53
+00:03:28,560 --> 00:03:36,320
+definitely keep that in mind more exam
+tips the PM might not be performing the
+
+54
+00:03:36,321 --> 00:03:42,660
+actual analysis but utilizing SMEs team
+members if a question states that the team
+
+55
+00:03:42,661 --> 00:03:48,500
+has already performed an analysis no
+further analysis needs to be performed
+
+56
+00:03:48,501 --> 00:03:54,720
+keep that in mind all right it is not
+always just us we have team members SMEs
+
+57
+00:03:54,721 --> 00:03:59,980
+working with us so again if they have
+already done an impact assessment.
+
+58
+00:04:01,300 --> 00:04:03,680
+You do not need to do another one.
+
+59
+00:04:04,740 --> 00:04:09,480
+All right, the authority to approve,
+reject, or delay a change request may come
+
+60
+00:04:09,481 --> 00:04:13,640
+from an outside organization like a
+government agency.
+
+61
+00:04:13,860 --> 00:04:17,879
+For example, making changes
+to a building may require
+
+62
+00:04:17,880 --> 00:04:21,380
+approval, a permit from a
+local village or town council.
+
+63
+00:04:22,300 --> 00:04:24,460
+So something to keep in mind.
+

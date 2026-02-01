@@ -1,0 +1,539 @@
+﻿1
+00:00:05,820 --> 00:00:09,680
+Okay, so let's discuss scope management
+now.
+
+2
+00:00:11,920 --> 00:00:15,300
+Now scope management defines the
+boundaries of the project.
+
+3
+00:00:16,020 --> 00:00:20,100
+It's basically defining what is included,
+what is excluded.
+
+4
+00:00:20,720 --> 00:00:24,017
+This is what we're going to do,
+this is what we're not going to do.
+
+5
+00:00:24,100 --> 00:00:25,717
+That's what we mean by boundaries.
+
+6
+00:00:25,800 --> 00:00:27,357
+So think of though there's constraints.
+
+7
+00:00:27,440 --> 00:00:30,800
+Scope will contain the constraints of your
+project, right?
+
+8
+00:00:30,920 --> 00:00:35,340
+So it's basically making sure that you're
+doing all the work necessary to complete
+
+9
+00:00:35,341 --> 00:00:40,100
+your project, and only the work necessary
+to complete your project, right?
+
+10
+00:00:40,500 --> 00:00:43,420
+You're not doing anything additional,
+right?
+
+11
+00:00:43,480 --> 00:00:47,680
+You are meeting the scope of the project,
+you are meeting your customer's
+
+12
+00:00:47,681 --> 00:00:52,460
+requirements, and you're doing all of the
+work necessary to meet those customers'
+
+13
+00:00:52,680 --> 00:00:53,513
+requirements.
+
+14
+00:00:53,700 --> 00:00:56,982
+You are doing all the
+work necessary and only
+
+15
+00:00:56,983 --> 00:01:00,434
+the work necessary
+to complete the project.
+
+16
+00:01:00,680 --> 00:01:01,513
+Okay.
+
+17
+00:01:01,640 --> 00:01:04,399
+Now, a couple of things
+then that we are trying
+
+18
+00:01:04,400 --> 00:01:07,414
+to prevent, throughout this whole project.
+
+19
+00:01:08,100 --> 00:01:11,680
+We are trying to prevent scope creep and
+goal plating.
+
+20
+00:01:12,380 --> 00:01:17,003
+So scope management then
+is there to provide an entire
+
+21
+00:01:17,004 --> 00:01:20,497
+understanding what's to be
+delivered, what is not to be delivered.
+
+22
+00:01:20,580 --> 00:01:24,120
+So we can avoid scope creep and goal
+plating.
+
+23
+00:01:24,980 --> 00:01:27,057
+Now, let's talk about scope creep and goal
+plating.
+
+24
+00:01:27,140 --> 00:01:28,040
+What do they mean?
+
+25
+00:01:28,360 --> 00:01:33,780
+Well, scope creep and goal plating both
+refer to uncontrolled changes.
+
+26
+00:01:33,781 --> 00:01:34,614
+Right.
+
+27
+00:01:35,160 --> 00:01:39,080
+So scope creep, the official definition of
+scope creep is, you know, what I have in
+
+28
+00:01:39,081 --> 00:01:42,760
+this first bullet point here, the
+uncontrolled expansion of work while still
+
+29
+00:01:42,761 --> 00:01:45,940
+being held accountable to the original
+time and budget.
+
+30
+00:01:46,800 --> 00:01:47,540
+All right.
+
+31
+00:01:47,700 --> 00:01:51,960
+So let's say customer comes along and
+says, can you add in this functionality?
+
+32
+00:01:53,020 --> 00:01:55,840
+And you say, okay, well, that's scope
+creep.
+
+33
+00:01:56,400 --> 00:01:58,640
+Scope creep is the uncontrolled expansion.
+
+34
+00:01:59,440 --> 00:01:59,560
+Right.
+
+35
+00:01:59,760 --> 00:02:01,766
+So customer comes
+along, can you add in this
+
+36
+00:02:01,849 --> 00:02:04,580
+functionality and you just
+add it in, that is scope creep.
+
+37
+00:02:05,460 --> 00:02:10,400
+If, on the other hand, you can push back
+and you say, let's go through a change
+
+38
+00:02:10,401 --> 00:02:14,460
+control and you go through the whole
+change control process and the change
+
+39
+00:02:14,461 --> 00:02:19,900
+control board approves it, now it's no
+longer scope creep because as you're going
+
+40
+00:02:19,901 --> 00:02:23,037
+through the change control process,
+you're doing an impact analysis,
+
+41
+00:02:23,120 --> 00:02:26,920
+right, seeing how much extra it's going to
+cost, how long it's going to take.
+
+42
+00:02:27,840 --> 00:02:31,600
+And so now if it gets approved,
+then now it's no longer.
+
+43
+00:02:31,620 --> 00:02:34,345
+longer scope creep
+because now it's properly
+
+44
+00:02:34,346 --> 00:02:38,900
+controlled, it's properly approved, right?
+
+45
+00:02:39,000 --> 00:02:43,960
+So scope creep is always the uncontrolled
+expansion while still being held
+
+46
+00:02:43,961 --> 00:02:46,840
+accountable to your original time and
+budget.
+
+47
+00:02:47,880 --> 00:02:52,620
+So again, if the customer wants some
+additional requirements and they agree to
+
+48
+00:02:52,621 --> 00:02:57,000
+pay for it and extend the timeline,
+right, and we do the full impact analysis
+
+49
+00:02:57,001 --> 00:03:00,410
+and see, you know, what
+other impacts is going to be
+
+50
+00:03:00,411 --> 00:03:03,340
+to resources and other
+areas of the project, right?
+
+51
+00:03:03,720 --> 00:03:05,666
+And we go through the whole change control
+
+52
+00:03:05,749 --> 00:03:07,380
+process, everything gets approved, right?
+
+53
+00:03:07,500 --> 00:03:10,017
+The assumption is with
+the approval then, that takes
+
+54
+00:03:10,018 --> 00:03:12,360
+into consideration the
+budget and the timeline.
+
+55
+00:03:13,160 --> 00:03:14,710
+Now it's no longer scope creep.
+
+56
+00:03:14,860 --> 00:03:19,580
+And there's nothing wrong with having an
+addition to scope, right?
+
+57
+00:03:19,680 --> 00:03:22,320
+As long as it's been properly controlled.
+
+58
+00:03:22,860 --> 00:03:27,740
+And that's the biggest thing about scope
+creep, right, is it's uncontrolled.
+
+59
+00:03:28,260 --> 00:03:32,360
+As long as it is properly controlled,
+then it is no longer scope creep.
+
+60
+00:03:33,200 --> 00:03:33,280
+Right.
+
+61
+00:03:34,000 --> 00:03:37,880
+Now, the difference between scope creep
+and goal plating though, right,
+
+62
+00:03:38,040 --> 00:03:40,100
+scope creep is requested by the customer.
+
+63
+00:03:40,600 --> 00:03:43,440
+The customer is asking for some additional
+requirements.
+
+64
+00:03:44,520 --> 00:03:47,400
+Whereas goal plating is actually done by
+the team.
+
+65
+00:03:47,960 --> 00:03:53,094
+The team is giving freebies to the customer
+that they didn't originally request.
+
+66
+00:03:53,400 --> 00:03:56,634
+Right, let's add in this little functionality,
+customer's going to be really happy.
+
+67
+00:03:57,140 --> 00:04:00,500
+Well, if the customer didn't ask for it,
+why are we adding it in?
+
+68
+00:04:00,900 --> 00:04:05,920
+Right, okay, they might be really happy,
+but then these can have runaway costs.
+
+69
+00:04:06,400 --> 00:04:10,060
+Both scope creep and go plating can have
+runaway costs.
+
+70
+00:04:11,080 --> 00:04:14,971
+Again, what we're trying to
+do is we're basically trying to
+
+71
+00:04:14,972 --> 00:04:18,141
+do all the work necessary to
+complete the project and only
+
+72
+00:04:18,142 --> 00:04:21,174
+the work necessary
+to complete the project.
+
+73
+00:04:21,880 --> 00:04:24,660
+So we shouldn't be adding anything
+additional.
+
+74
+00:04:25,320 --> 00:04:25,320
+Right.
+
+75
+00:04:25,520 --> 00:04:29,240
+And even by, you know, even if it's not
+something that the customer is necessarily
+
+76
+00:04:29,241 --> 00:04:32,940
+going to be really happy about,
+goal plating is still just adding
+
+77
+00:04:32,941 --> 00:04:36,900
+additional functionality that wasn't part
+of the original scope of the project.
+
+78
+00:04:37,080 --> 00:04:41,780
+So, for example, in the IT world,
+right, one of the developers adds in an
+
+79
+00:04:41,781 --> 00:04:44,986
+additional module, right, an
+additional coding module to help
+
+80
+00:04:44,987 --> 00:04:48,200
+their coding being a lot
+easier, make their coding easier.
+
+81
+00:04:48,940 --> 00:04:49,080
+Right.
+
+82
+00:04:49,340 --> 00:04:50,800
+So that's not impacting the customer.
+
+83
+00:04:50,801 --> 00:04:53,392
+the customer is not
+going to really see that,
+
+84
+00:04:53,393 --> 00:04:56,374
+but that could impact
+other areas of the project.
+
+85
+00:04:56,500 --> 00:05:00,960
+If we didn't do a proper impact analysis
+of this module that the developer is
+
+86
+00:05:00,961 --> 00:05:05,500
+downloading, it's always important to do a
+proper, full impact analysis.
+
+87
+00:05:06,280 --> 00:05:10,480
+So scope creep and goal plating is
+something always to be avoided.
+
+88
+00:05:11,160 --> 00:05:13,820
+And it's scope management then,
+right?
+
+89
+00:05:13,880 --> 00:05:17,500
+The whole idea of scope management,
+managing your scope, right?
+
+90
+00:05:18,000 --> 00:05:21,380
+We want to collect our requirements from
+the customer, understand what the customer
+
+91
+00:05:21,381 --> 00:05:24,800
+wants, what the customer needs,
+understand what is to be delivered,
+
+92
+00:05:25,460 --> 00:05:29,794
+create the scope of the project, and
+then stick to the scope of the project.
+
+93
+00:05:29,940 --> 00:05:33,840
+And then any changes, then, need to go
+through a change control, right?
+
+94
+00:05:35,260 --> 00:05:38,440
+Now, how do we avoid scope creep and goal
+plating?
+
+95
+00:05:38,660 --> 00:05:39,980
+Well, I just said that.
+
+96
+00:05:40,720 --> 00:05:41,957
+Go through a change control.
+
+97
+00:05:42,040 --> 00:05:45,000
+First of all, understand the scope of the
+project.
+
+98
+00:05:45,600 --> 00:05:47,000
+Understand the requirements.
+
+99
+00:05:47,360 --> 00:05:50,577
+Understand what the customer wants,
+what the customer doesn't want,
+
+100
+00:05:50,660 --> 00:05:53,100
+understand what is to be delivered,
+right?
+
+101
+00:05:53,320 --> 00:05:57,000
+And that includes, not just about the
+requirements of the customer, but all
+
+102
+00:05:57,001 --> 00:06:02,600
+requirements, including standards, right,
+industry standards, regulations, right?
+
+103
+00:06:02,640 --> 00:06:05,100
+What regulations do we need to abide by,
+right?
+
+104
+00:06:05,101 --> 00:06:07,120
+Are we abiding by ISO standards?
+
+105
+00:06:07,340 --> 00:06:11,080
+If we're building a house, right, we need
+to abide by the building codes, right?
+
+106
+00:06:11,180 --> 00:06:13,898
+So all of that, that is all part of your
+
+107
+00:06:13,899 --> 00:06:16,700
+scope, all part of the
+scope of the project.
+
+108
+00:06:16,701 --> 00:06:17,534
+Right.
+
+109
+00:06:17,640 --> 00:06:21,060
+So understanding that up front at the
+beginning of the project and understanding
+
+110
+00:06:21,061 --> 00:06:25,700
+that throughout the project, effectively
+communicating throughout the project and
+
+111
+00:06:25,701 --> 00:06:28,720
+then going through a proper change control
+process.
+
+112
+00:06:29,580 --> 00:06:33,903
+And as I mentioned, addition
+to scope is acceptable as
+
+113
+00:06:33,904 --> 00:06:37,940
+long as it is properly controlled
+and properly approved.
+

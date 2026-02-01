@@ -1,0 +1,825 @@
+﻿1
+00:00:06,200 --> 00:00:11,660
+Okay, so let's briefly discuss the ITTOs
+of schedule management now.
+
+2
+00:00:12,520 --> 00:00:16,700
+Now again, when it comes to ITTO's input
+tools and techniques and outputs,
+
+3
+00:00:17,120 --> 00:00:20,517
+you don't need to spend a huge amount of
+time trying to memorize them.
+
+4
+00:00:20,600 --> 00:00:22,480
+Definitely do not memorize them.
+
+5
+00:00:22,860 --> 00:00:25,010
+You just need to have a basic
+understanding.
+
+6
+00:00:25,240 --> 00:00:26,980
+You will not be necessarily asked.
+
+7
+00:00:27,140 --> 00:00:28,937
+At least not tons of
+questions of what's an
+
+8
+00:00:28,938 --> 00:00:30,760
+input of this and
+what's an output of that.
+
+9
+00:00:31,220 --> 00:00:33,340
+You just need to have a basic
+understanding.
+
+10
+00:00:33,341 --> 00:00:39,240
+And all the important artifacts and tools
+and techniques, we have separate videos on
+
+11
+00:00:39,241 --> 00:00:41,077
+all of the important ones that you need to
+know.
+
+12
+00:00:41,160 --> 00:00:44,480
+Now, there are six processes again in
+schedule management.
+
+13
+00:00:45,040 --> 00:00:47,400
+So there's a lot of ITTOs altogether.
+
+14
+00:00:48,260 --> 00:00:53,520
+The first process, right, just like any of
+the knowledge areas, the very first
+
+15
+00:00:53,521 --> 00:00:57,860
+process always starts off with plan
+knowledge area management, in this case,
+
+16
+00:00:58,480 --> 00:00:58,480
+schedule.
+
+17
+00:00:58,700 --> 00:01:01,300
+So plan schedule management
+and the artifact that we
+
+18
+00:01:01,301 --> 00:01:03,320
+created in each of those
+is always that management.
+
+19
+00:01:03,340 --> 00:01:04,173
+management plan.
+
+20
+00:01:04,600 --> 00:01:06,850
+So in this case, the schedule management
+plan.
+
+21
+00:01:07,140 --> 00:01:12,120
+And the schedule management plan is
+documenting how, right, determining the
+
+22
+00:01:12,121 --> 00:01:14,360
+approach to develop and control the
+schedule.
+
+23
+00:01:15,000 --> 00:01:17,120
+How are we going to create the schedule?
+
+24
+00:01:17,720 --> 00:01:20,094
+And again, there's a
+separate video outlining
+
+25
+00:01:20,095 --> 00:01:22,354
+the details of the
+schedule management plan.
+
+26
+00:01:23,080 --> 00:01:25,286
+And then remember, as
+a general rule and output
+
+27
+00:01:25,287 --> 00:01:27,954
+is this is the artifact
+that we're creating.
+
+28
+00:01:28,540 --> 00:01:33,320
+And input is these are the artifacts that
+we need, that we need to review.
+
+29
+00:01:33,340 --> 00:01:34,173
+view.
+
+30
+00:01:34,280 --> 00:01:37,530
+This is what we need to consider in order
+to develop our schedule.
+
+31
+00:01:37,800 --> 00:01:40,018
+So first of all, in
+order to, in this case,
+
+32
+00:01:40,019 --> 00:01:42,694
+how are we going to develop our schedule?
+
+33
+00:01:42,820 --> 00:01:46,100
+So we might be looking at our development
+approach, for example.
+
+34
+00:01:46,340 --> 00:01:47,957
+Also the scope, what is the scope?
+
+35
+00:01:48,040 --> 00:01:50,361
+And how we develop in
+the scope of the project can
+
+36
+00:01:50,362 --> 00:01:52,751
+determine how we're going
+to develop the schedule.
+
+37
+00:01:53,040 --> 00:01:54,517
+And then our development approach.
+
+38
+00:01:54,600 --> 00:01:56,377
+What kind of methodology are we using?
+
+39
+00:01:56,460 --> 00:01:57,760
+Are we using an iterative?
+
+40
+00:01:57,880 --> 00:01:58,713
+Is it agile?
+
+41
+00:01:59,020 --> 00:01:59,160
+Right.
+
+42
+00:01:59,300 --> 00:02:02,650
+And then that can determine how we're
+going to develop our schedule.
+
+43
+00:02:02,960 --> 00:02:06,780
+And then the common tools and techniques
+across all of the plan management
+
+44
+00:02:06,781 --> 00:02:10,640
+processes, expert judgment, you need to
+utilize their own knowledge and
+
+45
+00:02:10,641 --> 00:02:15,054
+experience, going to be analyzing data,
+and then we're going to be having meetings.
+
+46
+00:02:15,640 --> 00:02:19,000
+Now, the next process then is define
+activities.
+
+47
+00:02:20,480 --> 00:02:23,180
+So these are the basic ITTO then in
+defined activities.
+
+48
+00:02:23,280 --> 00:02:25,117
+Well, first of all, let's think about
+this.
+
+49
+00:02:25,200 --> 00:02:26,100
+Define activities.
+
+50
+00:02:26,600 --> 00:02:28,722
+Define activities is
+the next stage, if you
+
+51
+00:02:28,723 --> 00:02:30,740
+like, from the work breakdown structure.
+
+52
+00:02:30,741 --> 00:02:34,916
+In WBS, you're breaking or
+you are decomposing your
+
+53
+00:02:34,917 --> 00:02:39,320
+project down to the work
+package in define activities.
+
+54
+00:02:39,500 --> 00:02:43,660
+It's the next stage where you are
+decomposing, notice decomposition is a
+
+55
+00:02:43,661 --> 00:02:46,462
+tool and technique again,
+so you're decomposing
+
+56
+00:02:46,463 --> 00:02:49,540
+your work package
+into individual activities.
+
+57
+00:02:50,120 --> 00:02:54,180
+And so if it's individual activities,
+the artifact is called the activity list.
+
+58
+00:02:54,620 --> 00:02:56,520
+These are the list of your activities.
+
+59
+00:02:56,720 --> 00:02:59,020
+Some of those activities are going to
+define as a milestone.
+
+60
+00:02:59,021 --> 00:03:00,960
+So that's why we have milestone.
+
+61
+00:03:01,880 --> 00:03:06,700
+Now, we also see this as an output in
+many, many processes, change requests.
+
+62
+00:03:07,180 --> 00:03:11,130
+And essentially what that is saying is,
+you know, as you're executing your work,
+
+63
+00:03:11,660 --> 00:03:13,507
+you know, any process
+that you perform, you
+
+64
+00:03:13,508 --> 00:03:16,094
+might need to go through a change control.
+
+65
+00:03:16,280 --> 00:03:18,037
+You might need to make some changes.
+
+66
+00:03:18,120 --> 00:03:19,957
+And so you might need to go through a
+change control.
+
+67
+00:03:20,040 --> 00:03:24,060
+And that's why we see change requests as
+an output for, you know, most processes.
+
+68
+00:03:25,240 --> 00:03:28,651
+Now, our starting point,
+in order to develop our
+
+69
+00:03:28,652 --> 00:03:31,841
+activity, in order to figure
+out what activities we need.
+
+70
+00:03:32,500 --> 00:03:34,700
+Remember, you can't do your schedule.
+
+71
+00:03:35,160 --> 00:03:37,310
+Your schedule is made up of your
+activities.
+
+72
+00:03:37,500 --> 00:03:38,960
+So what's our consideration?
+
+73
+00:03:39,200 --> 00:03:40,033
+What do we need?
+
+74
+00:03:40,120 --> 00:03:42,070
+How do we know what activities we need?
+
+75
+00:03:42,460 --> 00:03:46,100
+Remember, one of the starting points is
+going to be the work package.
+
+76
+00:03:46,600 --> 00:03:48,740
+Work package is made up of many
+activities.
+
+77
+00:03:49,560 --> 00:03:51,277
+Where does the work package come from?
+
+78
+00:03:51,360 --> 00:03:55,180
+The work breakdown structure, which is
+part of the scope baseline.
+
+79
+00:03:55,820 --> 00:03:58,920
+And so that's why one of the inputs here
+is the scope baseline.
+
+80
+00:03:59,280 --> 00:04:01,999
+Another tool and technique,
+rolling wave planning,
+
+81
+00:04:02,000 --> 00:04:04,541
+remember that's a type
+of progressive elaboration.
+
+82
+00:04:04,760 --> 00:04:08,620
+Planning near-term items in detail,
+longer term at a much more high level.
+
+83
+00:04:09,280 --> 00:04:12,930
+Now, once we've defined our activities,
+then we can start sequencing them,
+
+84
+00:04:13,180 --> 00:04:14,797
+putting them in the proper order.
+
+85
+00:04:14,880 --> 00:04:17,530
+This is the first activity, this is the
+next activity.
+
+86
+00:04:17,640 --> 00:04:20,207
+These activities can be run in parallel,
+
+87
+00:04:20,208 --> 00:04:23,574
+determining the optimum
+order of the activities.
+
+88
+00:04:24,080 --> 00:04:27,430
+And essentially what we're creating is the
+Schedule Network Diagram.
+
+89
+00:04:27,700 --> 00:04:30,777
+And then some of the consideration,
+then, again, we need our activities.
+
+90
+00:04:30,860 --> 00:04:32,860
+We need to know what our activities are.
+
+91
+00:04:33,460 --> 00:04:36,197
+Other things to consider, right,
+our tools and techniques here.
+
+92
+00:04:36,280 --> 00:04:39,920
+So one of the tools, and again, we have
+separate videos on all of these tools.
+
+93
+00:04:40,300 --> 00:04:41,800
+Precedence diagramming method.
+
+94
+00:04:42,140 --> 00:04:45,323
+That uses a methodology
+called Critical Path
+
+95
+00:04:45,324 --> 00:04:48,720
+Method, which is, again,
+covered in separate videos.
+
+96
+00:04:49,840 --> 00:04:50,360
+Dependencies.
+
+97
+00:04:50,361 --> 00:04:54,320
+right so again covered in a separate video
+so these are things like mandatory
+
+98
+00:04:54,321 --> 00:04:58,880
+dependency discretionary dependency and
+that's also going to determine our finish
+
+99
+00:04:58,881 --> 00:05:03,760
+to start start to finish relationships and
+so and so forth right so again with all
+
+100
+00:05:03,761 --> 00:05:07,520
+these tools and techniques we have
+separate videos and all of them PMIS just
+
+101
+00:05:07,521 --> 00:05:11,760
+want to take a side step here project
+management information system is a tool or
+
+102
+00:05:11,761 --> 00:05:16,820
+tools that you use to manage your project
+all the different software tools so in
+
+103
+00:05:16,821 --> 00:05:20,780
+this case we're sequencing them we're
+developing our schedule you're going to be
+
+104
+00:05:20,781 --> 00:05:23,381
+using some kind of software to develop
+your schedule.
+
+105
+00:05:25,040 --> 00:05:28,777
+Now, also, as you're
+identifying activities, you're going
+
+106
+00:05:28,778 --> 00:05:31,821
+to figure out how long these
+activities are going to take.
+
+107
+00:05:32,100 --> 00:05:35,860
+So estimate activity duration,
+that's the name of this process.
+
+108
+00:05:37,000 --> 00:05:40,540
+And then the Pimbox 6 output of that was
+the duration estimate.
+
+109
+00:05:41,000 --> 00:05:44,780
+These are the tools and techniques that
+you might be utilizing, and we're going to
+
+110
+00:05:44,781 --> 00:05:46,897
+have the separate videos and all of these,
+right?
+
+111
+00:05:46,980 --> 00:05:49,000
+So these are all covered in separate
+videos.
+
+112
+00:05:49,001 --> 00:05:52,100
+some of the input, what do we need to
+create our estimate?
+
+113
+00:05:52,520 --> 00:05:55,979
+One of the key things
+that impact your duration
+
+114
+00:05:55,980 --> 00:05:59,214
+estimate is availability
+of your resources.
+
+115
+00:05:59,800 --> 00:06:04,000
+They're going to impact when you can
+perform certain activities.
+
+116
+00:06:04,540 --> 00:06:05,840
+You need to use a machine.
+
+117
+00:06:06,340 --> 00:06:09,417
+That machine is being shared
+amongst other team members,
+
+118
+00:06:09,418 --> 00:06:12,471
+sorry, amongst other teams
+and amongst other business units.
+
+119
+00:06:13,080 --> 00:06:16,060
+Well, the availability of
+that machine is going to
+
+120
+00:06:16,061 --> 00:06:19,260
+determine when you can
+run those activities, right?
+
+121
+00:06:19,460 --> 00:06:20,910
+Those machines are resources.
+
+122
+00:06:21,280 --> 00:06:25,320
+So naturally, these resources then are
+going to be an input, a starting point,
+
+123
+00:06:25,520 --> 00:06:29,780
+a consideration for determining when
+you're going to be performing your
+
+124
+00:06:29,781 --> 00:06:33,180
+activities, your schedule, and then
+duration estimates.
+
+125
+00:06:34,260 --> 00:06:35,560
+And then develop schedule.
+
+126
+00:06:36,180 --> 00:06:39,800
+Now, once you've identified all the
+details of individual activities,
+
+127
+00:06:40,400 --> 00:06:43,700
+now we can figure out how long the entire
+project is going to take.
+
+128
+00:06:43,880 --> 00:06:46,217
+And that's really what the developed
+schedule refers to.
+
+129
+00:06:46,300 --> 00:06:49,300
+Right, one of the key tools is a critical
+path method, right?
+
+130
+00:06:49,520 --> 00:06:51,617
+Again, which is covered in, in separate
+videos.
+
+131
+00:06:51,700 --> 00:06:55,637
+In fact, all of the important tools and
+techniques are covered in separate videos.
+
+132
+00:06:55,720 --> 00:06:58,460
+The key output is the Schedule Baseline.
+
+133
+00:06:59,120 --> 00:07:02,160
+This baseline, this is, remember this
+three baselines.
+
+134
+00:07:02,360 --> 00:07:05,460
+We've got the scope baseline, Schedule
+baseline, cost baseline.
+
+135
+00:07:05,760 --> 00:07:09,110
+So one of the key outputs here is going to
+be the Schedule baseline.
+
+136
+00:07:09,320 --> 00:07:11,652
+And then, finally,
+throughout the project, we're
+
+137
+00:07:11,653 --> 00:07:14,294
+going to be monitoring,
+controlling our schedule.
+
+138
+00:07:14,960 --> 00:07:17,210
+We're monitoring and controlling our
+schedule.
+
+139
+00:07:17,860 --> 00:07:21,160
+Making sure then either we're ahead of
+schedule or behind schedule.
+
+140
+00:07:21,300 --> 00:07:22,637
+Making sure that we're on schedule.
+
+141
+00:07:22,720 --> 00:07:25,520
+If we're behind schedule, how do we get
+back on schedule?
+
+142
+00:07:25,680 --> 00:07:29,456
+It's good to be ahead
+of schedule, but it's
+
+143
+00:07:29,457 --> 00:07:32,200
+not always possible to
+be ahead of schedule.
+
+144
+00:07:32,480 --> 00:07:35,097
+More than likely our project ends up going
+behind schedule.
+
+145
+00:07:35,180 --> 00:07:37,180
+So that's what we want to try and avoid.
+
+146
+00:07:37,360 --> 00:07:38,817
+And that's what control schedule is.
+
+147
+00:07:38,900 --> 00:07:41,305
+Monitoring controlling
+the schedule, managing
+
+148
+00:07:41,306 --> 00:07:44,020
+changes to any of the
+baselines and so and so forth.
+
+149
+00:07:44,160 --> 00:07:49,440
+In this case, managing changes to the
+schedule, to the schedule baseline.
+
+150
+00:07:50,520 --> 00:07:54,880
+So, one of the key outputs then of
+control, now, of any monitoring
+
+151
+00:07:54,881 --> 00:07:56,558
+controlling process, what
+we're doing in monitoring
+
+152
+00:07:56,559 --> 00:08:01,060
+control and we're comparing
+actual results to our plan.
+
+153
+00:08:01,440 --> 00:08:04,297
+This is what we've accomplished,
+this is what we should have accomplished.
+
+154
+00:08:04,380 --> 00:08:05,730
+Why is there a discrepancy?
+
+155
+00:08:05,920 --> 00:08:08,517
+And that's what work performance
+information refers to.
+
+156
+00:08:08,600 --> 00:08:11,040
+The information, remember, is it
+interpretation.
+
+157
+00:08:11,660 --> 00:08:13,820
+Are we head a schedule or behind schedule,
+right?
+
+158
+00:08:13,821 --> 00:08:14,654
+in this case.
+
+159
+00:08:14,920 --> 00:08:16,770
+So we need our work performance data.
+
+160
+00:08:17,340 --> 00:08:18,640
+So that's a consideration.
+
+161
+00:08:18,940 --> 00:08:20,690
+Workformist data is from executing.
+
+162
+00:08:20,880 --> 00:08:22,230
+That's our raw observation.
+
+163
+00:08:22,820 --> 00:08:24,557
+And then we compare it with our plan.
+
+164
+00:08:24,640 --> 00:08:29,140
+So our workforce data might say,
+we finished this activity on this date.
+
+165
+00:08:29,680 --> 00:08:33,040
+Our plan would say we should have finished
+it on this other date.
+
+166
+00:08:33,820 --> 00:08:36,281
+And so our information
+interpretation is, well, we
+
+167
+00:08:36,282 --> 00:08:38,617
+either were ahead of schedule
+or we're behind schedule.
+
+168
+00:08:38,700 --> 00:08:40,897
+And again, these tools
+and techniques, they're
+
+169
+00:08:40,898 --> 00:08:43,420
+all covered in in separate videos as well.
+
+170
+00:08:43,560 --> 00:08:43,660
+All right.
+
+171
+00:08:43,860 --> 00:08:45,261
+So, so these are, there's just a summary
+
+172
+00:08:45,262 --> 00:08:48,480
+then, a quick summary
+of all of these ITTOs.
+
+173
+00:08:48,880 --> 00:08:51,020
+Again, don't sit down and memorize them.
+
+174
+00:08:51,440 --> 00:08:53,600
+Just have a decent understanding of them.
+
+175
+00:08:53,880 --> 00:08:54,713
+Okay.
+

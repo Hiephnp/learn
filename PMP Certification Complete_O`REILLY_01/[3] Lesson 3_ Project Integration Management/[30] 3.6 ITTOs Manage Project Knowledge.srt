@@ -1,0 +1,277 @@
+﻿1
+00:00:05,920 --> 00:00:10,700
+Let's discuss managed project knowledge
+ITTOs now.
+
+2
+00:00:11,880 --> 00:00:13,500
+Page 98 in your PINBOC.
+
+3
+00:00:13,980 --> 00:00:16,440
+All right, so here we're documenting.
+
+4
+00:00:17,160 --> 00:00:20,980
+So those OPAs keep coming in, inputs.
+
+5
+00:00:21,900 --> 00:00:26,540
+Well, we are also supposed to contribute
+to project knowledge.
+
+6
+00:00:27,540 --> 00:00:30,960
+So let's cover our ITTOs.
+
+7
+00:00:31,600 --> 00:00:33,750
+So our inputs are a project management
+plan.
+
+8
+00:00:34,060 --> 00:00:34,540
+It's given.
+
+9
+00:00:34,960 --> 00:00:35,793
+It's coming in.
+
+10
+00:00:37,060 --> 00:00:41,133
+Project documents,
+you will see the Lessons
+
+11
+00:00:41,134 --> 00:00:45,174
+Learned Register, but this is the process.
+
+12
+00:00:45,360 --> 00:00:47,410
+I'm going right over here to the outputs.
+
+13
+00:00:47,880 --> 00:00:52,340
+This is the actual process that will
+create our Lessons Learned Register.
+
+14
+00:00:53,000 --> 00:00:56,320
+We will be documenting what's going well,
+what's not going well.
+
+15
+00:00:57,480 --> 00:01:03,300
+We won't do this just once, so that's why
+later Lessons Learned Register will come
+
+16
+00:01:03,301 --> 00:01:08,860
+into a lot of our processes will update it
+on the way out again a register is
+
+17
+00:01:08,861 --> 00:01:15,700
+something we hold in our hot little hands
+with all the details the deliverables will
+
+18
+00:01:15,701 --> 00:01:22,600
+come in also those EEFs and OPAs so
+remember four main topics will be
+
+19
+00:01:22,601 --> 00:01:27,560
+organizational culture structure and
+governance the project management
+
+20
+00:01:27,561 --> 00:01:32,560
+information system PMIS huge all our
+project information is coming in and out
+
+21
+00:01:32,561 --> 00:01:37,120
+of there organizational resources,
+people, material, equipment, supplies,
+
+22
+00:01:37,840 --> 00:01:41,574
+facilities, and government
+and industry standards,
+
+23
+00:01:41,575 --> 00:01:44,461
+laws, regulations we're
+going to have to follow.
+
+24
+00:01:44,700 --> 00:01:49,440
+Our OPAs, again, we follow the policies,
+processes, procedures, guidelines,
+
+25
+00:01:49,880 --> 00:01:51,030
+methods on our project.
+
+26
+00:01:51,140 --> 00:01:54,713
+PMO is telling us what to
+do, how to do our projects,
+
+27
+00:01:54,714 --> 00:01:57,920
+and huge, we'll pull from
+that knowledge repository.
+
+28
+00:01:58,580 --> 00:02:05,340
+Those are your OPAs, historical
+information, lessons learn, repositories,
+
+29
+00:02:06,000 --> 00:02:10,260
+what's happened in previous, similar
+recently completed project files.
+
+30
+00:02:10,720 --> 00:02:11,553
+We use those.
+
+31
+00:02:12,100 --> 00:02:15,677
+All right, so tools and techniques,
+what we'll do to manage project knowledge?
+
+32
+00:02:15,760 --> 00:02:17,360
+We'll use expert judgment again.
+
+33
+00:02:18,080 --> 00:02:20,080
+Then we have knowledge management.
+
+34
+00:02:20,740 --> 00:02:25,740
+And to make it very clear, I would like
+you to go to your PIMBOC over on page 102.
+
+35
+00:02:25,741 --> 00:02:34,740
+two and you'll see on the second line
+tacit knowledge tacit knowledge so here
+
+36
+00:02:34,741 --> 00:02:41,920
+these are usually this is usually
+knowledge not readily codified these are
+
+37
+00:02:41,921 --> 00:02:48,320
+feelings beliefs and we want to try to
+document them so we have to create an
+
+38
+00:02:48,321 --> 00:02:56,740
+atmosphere of trust so that people will
+actually open up for example, we've done
+
+39
+00:02:56,741 --> 00:03:00,320
+similar projects, a few similar projects
+in the past.
+
+40
+00:03:00,880 --> 00:03:04,937
+We keep getting to a point where we start
+getting kicked back from the stakeholders.
+
+41
+00:03:05,020 --> 00:03:08,960
+We need this tacit knowledge.
+
+42
+00:03:09,460 --> 00:03:10,460
+We need to document.
+
+43
+00:03:10,840 --> 00:03:12,037
+Well, what are you feeling?
+
+44
+00:03:12,120 --> 00:03:16,560
+What is making you feel uncomfortable
+right now?
+
+45
+00:03:17,240 --> 00:03:17,360
+Okay.
+
+46
+00:03:18,120 --> 00:03:19,980
+So that is knowledge management.
+
+47
+00:03:20,240 --> 00:03:23,880
+Then over on the next page, we have
+information management.
+
+48
+00:03:24,200 --> 00:03:28,140
+And I believe, yep, it's on the second
+line again like in the middle explicit
+
+49
+00:03:28,141 --> 00:03:35,360
+knowledge so this is usually readily
+codified we can document we can create a
+
+50
+00:03:35,361 --> 00:03:44,820
+document a diagram so that's information
+management and again because we will get
+
+51
+00:03:44,821 --> 00:03:51,260
+this knowledge from our team members they
+are stakeholders and other stakeholders we
+
+52
+00:03:51,261 --> 00:03:53,635
+use those interpersonal
+team skills you'll see
+
+53
+00:03:53,636 --> 00:03:59,020
+active listening nodding,
+repeating back will be big.
+
+54
+00:03:59,680 --> 00:04:01,537
+All right, we'll facilitate the meetings.
+
+55
+00:04:01,620 --> 00:04:07,660
+We will use leadership, in part vision,
+networking, and using political awareness.
+
+56
+00:04:08,600 --> 00:04:12,020
+What do we create when we manage project
+knowledge?
+
+57
+00:04:12,340 --> 00:04:16,400
+Again, this is very important,
+our lessons learned register.
+
+58
+00:04:17,340 --> 00:04:20,840
+We will document what's going well,
+what's not going well.
+
+59
+00:04:21,480 --> 00:04:28,701
+We'll update any plans that might be
+affected and contribute to update the OPAs.
+

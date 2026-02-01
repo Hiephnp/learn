@@ -1,0 +1,544 @@
+﻿1
+00:00:05,440 --> 00:00:09,860
+Okay, so let's do a comparison then of the
+two methods.
+
+2
+00:00:10,100 --> 00:00:12,640
+So we did the zero method and the one
+method.
+
+3
+00:00:13,080 --> 00:00:14,730
+Let's do a comparison of the two.
+
+4
+00:00:14,880 --> 00:00:17,200
+So here then, we have the two methods.
+
+5
+00:00:18,100 --> 00:00:20,940
+On the right-in side at the top is a zero
+method.
+
+6
+00:00:21,420 --> 00:00:24,180
+At the bottom, on the left side,
+is the one method.
+
+7
+00:00:25,200 --> 00:00:27,780
+So let's see what's the difference between
+the two.
+
+8
+00:00:28,520 --> 00:00:32,600
+Well basically, what you'll notice is,
+critical path, is exactly the same.
+
+9
+00:00:32,601 --> 00:00:34,420
+No change on the critical path.
+
+10
+00:00:34,660 --> 00:00:37,860
+A, D, E, H and I is the same in both.
+
+11
+00:00:38,880 --> 00:00:40,900
+Float values are exactly the same.
+
+12
+00:00:41,420 --> 00:00:43,270
+There's no change in the float value.
+
+13
+00:00:43,600 --> 00:00:45,700
+B has a float of three in the zero method.
+
+14
+00:00:45,900 --> 00:00:47,950
+B has a float of three in the one method.
+
+15
+00:00:48,140 --> 00:00:50,240
+C has a float of three in the zero method.
+
+16
+00:00:50,520 --> 00:00:52,520
+C has a flow of three in the one method.
+
+17
+00:00:52,760 --> 00:00:53,880
+Same with F and G.
+
+18
+00:00:54,440 --> 00:00:56,890
+Like both of them have a float of one in
+the zero.
+
+19
+00:00:57,000 --> 00:00:59,350
+They both have a float of one in the one
+method.
+
+20
+00:00:59,840 --> 00:01:00,820
+No change there.
+
+21
+00:01:01,540 --> 00:01:04,880
+Also, there's no change in the finish
+dates.
+
+22
+00:01:05,500 --> 00:01:06,657
+Early finish, late finish.
+
+23
+00:01:06,740 --> 00:01:08,640
+For each activity is exactly the same.
+
+24
+00:01:08,740 --> 00:01:10,500
+If you look at B, it's 6 and 9.
+
+25
+00:01:10,880 --> 00:01:12,080
+For B, 6 and 9.
+
+26
+00:01:12,540 --> 00:01:14,320
+For C, 13 and 16.
+
+27
+00:01:14,960 --> 00:01:17,100
+For C, in the zero method, 13 and 16.
+
+28
+00:01:17,740 --> 00:01:20,920
+In the zero method, for F is 15 and 16.
+
+29
+00:01:21,280 --> 00:01:22,640
+For F, 15 and 16.
+
+30
+00:01:23,480 --> 00:01:26,725
+I, the end of the activity,
+the rather I, end of
+
+31
+00:01:26,726 --> 00:01:30,800
+the project, still finishing
+on day 19, 19 and 19.
+
+32
+00:01:30,820 --> 00:01:33,180
+The finished dates are exactly the same.
+
+33
+00:01:34,240 --> 00:01:38,040
+The only difference between the two
+methods, the only difference in the two
+
+34
+00:01:38,041 --> 00:01:42,020
+diagrams that you can see is early start,
+late start.
+
+35
+00:01:42,880 --> 00:01:44,280
+Left-hand side of the boxes.
+
+36
+00:01:44,860 --> 00:01:46,498
+In the one method, they have just been
+
+37
+00:01:46,499 --> 00:01:49,474
+increased by one
+compared to the zero method.
+
+38
+00:01:49,560 --> 00:01:54,800
+So for A, you have a zero and a zero,
+for A is one and one in the one method.
+
+39
+00:01:55,240 --> 00:01:59,300
+If you look at B, the early start is two,
+late start is five.
+
+40
+00:01:59,860 --> 00:02:04,340
+for the zero method, for the one method,
+is just increased by one, right?
+
+41
+00:02:04,520 --> 00:02:05,353
+Three and six.
+
+42
+00:02:06,040 --> 00:02:10,600
+For C, six and nine, in the zero,
+in the one method, it's seven.
+
+43
+00:02:10,920 --> 00:02:12,670
+They've just been increased by one.
+
+44
+00:02:13,460 --> 00:02:18,720
+So in fact, if you have the zero method in
+front of you, right, if you have the zero
+
+45
+00:02:18,721 --> 00:02:23,268
+method, the easiest way of
+converting this into the one method
+
+46
+00:02:23,269 --> 00:02:26,660
+is simply by adding ones to
+the left inside of the boxes.
+
+47
+00:02:27,680 --> 00:02:28,040
+That's it.
+
+48
+00:02:28,560 --> 00:02:32,239
+Just increase the early start
+and late start by one for each
+
+49
+00:02:32,240 --> 00:02:35,520
+activity and you've simply
+converted it into the one method.
+
+50
+00:02:36,240 --> 00:02:36,520
+That's it.
+
+51
+00:02:36,840 --> 00:02:39,379
+That's really essentially
+the only difference
+
+52
+00:02:39,380 --> 00:02:42,074
+between the zero method
+and the one method.
+
+53
+00:02:42,540 --> 00:02:47,100
+So all those calculations that we did
+using the one method, right, remembering
+
+54
+00:02:47,101 --> 00:02:51,640
+when to plus one, when to minus one,
+well, one way of trying to avoid that
+
+55
+00:02:51,641 --> 00:02:55,740
+could be calculate everything using the
+zero method.
+
+56
+00:02:55,760 --> 00:02:59,122
+first, because it's so much
+easier to calculate, and
+
+57
+00:02:59,123 --> 00:03:01,891
+then just add ones to
+the left inside of the boxes.
+
+58
+00:03:02,660 --> 00:03:05,960
+And now you've converted it into the one
+method.
+
+59
+00:03:06,780 --> 00:03:12,120
+Again, just as another check with E,
+E is 7 and 7, early start, late start,
+
+60
+00:03:12,460 --> 00:03:16,380
+7 and 7, with a 1 method, it's just
+increased by 1, 8 and 8.
+
+61
+00:03:17,520 --> 00:03:22,580
+In the 0 method, G is a 2 and a 3,
+in the 1 method, it's a 3 and a 4.
+
+62
+00:03:22,780 --> 00:03:23,920
+It's just been increased by 1.
+
+63
+00:03:23,921 --> 00:03:25,220
+And that's it.
+
+64
+00:03:25,700 --> 00:03:28,900
+Now the question is, which method do you
+actually do on the exam?
+
+65
+00:03:29,220 --> 00:03:32,860
+Now, for the most part, it's irrelevant
+which method to use.
+
+66
+00:03:33,520 --> 00:03:35,920
+For the most part, right?
+
+67
+00:03:36,320 --> 00:03:40,780
+If they ask you simply, what is a float
+of, say, B?
+
+68
+00:03:41,000 --> 00:03:42,317
+Now, what's the total float of B?
+
+69
+00:03:42,400 --> 00:03:45,953
+Well, whichever method you use, you're
+still going to get the same answer, three.
+
+70
+00:03:46,280 --> 00:03:47,897
+Now, what is the total float of C?
+
+71
+00:03:47,980 --> 00:03:50,677
+Again, whichever method you use,
+you get the same answer.
+
+72
+00:03:50,760 --> 00:03:52,940
+If they ask you for an end date,
+right?
+
+73
+00:03:52,941 --> 00:03:54,440
+what's the early finish of C?
+
+74
+00:03:55,080 --> 00:03:58,760
+Early finish is 13 in the zero method,
+and it's 13 in the one method.
+
+75
+00:03:59,340 --> 00:04:03,160
+The only time, really, it makes a
+difference is if they're specifically
+
+76
+00:04:03,161 --> 00:04:05,400
+asking for the early start or the late
+start.
+
+77
+00:04:06,400 --> 00:04:08,020
+What's the early start of D?
+
+78
+00:04:08,600 --> 00:04:10,340
+In the zero method, it's two.
+
+79
+00:04:10,800 --> 00:04:12,300
+In the one method, it's three.
+
+80
+00:04:13,080 --> 00:04:14,397
+It's just been increased by one.
+
+81
+00:04:14,480 --> 00:04:17,660
+One exam tip can be, now everybody is
+different.
+
+82
+00:04:18,020 --> 00:04:19,970
+So you do what's going to work for you.
+
+83
+00:04:20,120 --> 00:04:24,900
+If they're asking for the one method,
+right, one approach could be, calculate
+
+84
+00:04:24,901 --> 00:04:29,580
+everything using the zero method,
+and then just add ones to the left-hand
+
+85
+00:04:29,581 --> 00:04:32,100
+side of the boxes to convert it to the one
+method.
+
+86
+00:04:32,200 --> 00:04:34,900
+That might be easy for some people,
+right?
+
+87
+00:04:35,340 --> 00:04:38,100
+But that is definitely a strategy that you
+can use.
+
+88
+00:04:39,200 --> 00:04:42,990
+Now, the other thing
+is, in the exam, they will
+
+89
+00:04:42,991 --> 00:04:46,174
+never, never say one
+method or zero method.
+
+90
+00:04:46,420 --> 00:04:49,540
+They will not tell you, they will not use
+those terms.
+
+91
+00:04:50,040 --> 00:04:52,160
+Instead, what they'll
+do is, if it's relevant
+
+92
+00:04:52,161 --> 00:04:54,674
+to the question, they
+might drop you a hint.
+
+93
+00:04:55,280 --> 00:04:56,597
+They might drop you a hint.
+
+94
+00:04:56,680 --> 00:05:00,257
+They might say something like subsequent
+activities start the following week,
+
+95
+00:05:00,340 --> 00:05:03,040
+right, the following day, or the following
+time period.
+
+96
+00:05:03,720 --> 00:05:07,600
+If it's a following time period,
+then it's a one method.
+
+97
+00:05:07,920 --> 00:05:11,420
+Or if it's the same time period,
+it's the zero method.
+
+98
+00:05:12,040 --> 00:05:15,760
+Or they may say assume a 24-hour workday,
+which is a zero method.
+
+99
+00:05:16,040 --> 00:05:19,160
+Or assume an eight-hour workday,
+which is a one method.
+
+100
+00:05:19,540 --> 00:05:20,373
+Okay.
+
+101
+00:05:21,120 --> 00:05:27,020
+Now, generally speaking, though,
+if it's relevant to the question and they
+
+102
+00:05:27,021 --> 00:05:31,240
+don't tell you which method you should be
+using, they don't drop your hint,
+
+103
+00:05:31,880 --> 00:05:34,260
+generally the default is the one method.
+
+104
+00:05:35,100 --> 00:05:38,121
+And that is the
+methodology, that's a method
+
+105
+00:05:38,122 --> 00:05:41,300
+that's specifically been
+shown in PIMBOC as well.
+
+106
+00:05:41,520 --> 00:05:45,767
+So you can almost assume
+the one method will be
+
+107
+00:05:45,847 --> 00:05:48,440
+the default if, you know,
+if they don't mention.
+
+108
+00:05:48,441 --> 00:05:52,000
+if there's no wording on whether it's a
+zero method or the one method.
+
+109
+00:05:52,440 --> 00:05:56,080
+But again, the only difference is,
+as it says here, the only difference,
+
+110
+00:05:56,640 --> 00:06:00,940
+early start and late start have increased
+by one in the one method.
+
+111
+00:06:01,560 --> 00:06:01,960
+That's it.
+
+112
+00:06:02,160 --> 00:06:03,557
+Everything else is the same.
+
+113
+00:06:03,640 --> 00:06:07,440
+Critical path, float, early finish,
+late finish, everything else is the same.
+
+114
+00:06:07,820 --> 00:06:11,146
+So you can take the zero
+method, add ones to the left
+
+115
+00:06:11,147 --> 00:06:13,751
+and side of the boxes
+for each of the activities.
+
+116
+00:06:13,980 --> 00:06:15,400
+Early start, late start, add a one.
+
+117
+00:06:15,401 --> 00:06:16,900
+you've converted it.
+
+118
+00:06:16,960 --> 00:06:19,460
+You've converted it into the one method.
+

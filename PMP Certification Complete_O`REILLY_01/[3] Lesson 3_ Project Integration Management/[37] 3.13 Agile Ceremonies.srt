@@ -1,0 +1,859 @@
+﻿1
+00:00:06,500 --> 00:00:09,700
+In this section then, we're going to
+discuss Agile Ceremonies.
+
+2
+00:00:11,000 --> 00:00:15,360
+Now, a ceremony in Agile is really nothing
+more than a meeting.
+
+3
+00:00:15,860 --> 00:00:16,817
+I mean, that's really all it is.
+
+4
+00:00:16,900 --> 00:00:20,840
+An Agile meeting, for some reason,
+is known as a ceremony, right?
+
+5
+00:00:21,440 --> 00:00:23,890
+It is what it is, and it's just called a
+ceremony.
+
+6
+00:00:24,120 --> 00:00:25,057
+It's just a meeting, though.
+
+7
+00:00:25,140 --> 00:00:29,220
+But there are several, there are a few
+common types of meetings, though,
+
+8
+00:00:29,360 --> 00:00:30,460
+that you need to know.
+
+9
+00:00:30,600 --> 00:00:33,477
+So one of them, then, is this one called a
+release planning, right?
+
+10
+00:00:33,560 --> 00:00:35,820
+Release planning, that's a agile ceremony.
+
+11
+00:00:35,821 --> 00:00:35,980
+many.
+
+12
+00:00:36,640 --> 00:00:37,473
+Okay.
+
+13
+00:00:37,740 --> 00:00:43,140
+Now, remember the general life cycle at
+the beginning of a project, right,
+
+14
+00:00:43,320 --> 00:00:44,170
+an agile project.
+
+15
+00:00:44,440 --> 00:00:47,900
+So an agile project is known as a release,
+right?
+
+16
+00:00:48,120 --> 00:00:49,470
+That is known as a release.
+
+17
+00:00:50,140 --> 00:00:55,240
+And the team facilitator, the product
+owner, the agile team, you know,
+
+18
+00:00:55,380 --> 00:00:56,217
+they get together.
+
+19
+00:00:56,300 --> 00:00:58,260
+And in this case, they plan the work.
+
+20
+00:00:58,440 --> 00:00:59,980
+They plan the release, right?
+
+21
+00:01:00,040 --> 00:01:01,925
+They plan how many sprints we're going to
+
+22
+00:01:01,926 --> 00:01:04,854
+have, how many user
+stories in each sprint.
+
+23
+00:01:05,120 --> 00:01:09,100
+The product owner is going to be creating
+the product backlog as well.
+
+24
+00:01:09,600 --> 00:01:13,320
+That product backlog, remember,
+is a prioritized list of user stories.
+
+25
+00:01:14,060 --> 00:01:17,077
+So you're collecting the user stories from
+the customer, right?
+
+26
+00:01:17,160 --> 00:01:20,577
+User stories are the requirements,
+collecting requirements from the customer,
+
+27
+00:01:20,660 --> 00:01:23,777
+right, which are in the agile world,
+they're known as user stories.
+
+28
+00:01:23,860 --> 00:01:28,860
+So the agile team, team facilitator
+product owner, right, work together with
+
+29
+00:01:28,861 --> 00:01:32,120
+the customer to get the list of user
+stories.
+
+30
+00:01:32,140 --> 00:01:35,620
+but it's a product owner who represents
+the customer.
+
+31
+00:01:35,980 --> 00:01:39,300
+It's a product owner who is going to
+prioritize those user stories.
+
+32
+00:01:39,900 --> 00:01:45,260
+And then during release, all players,
+right, the product owner, team
+
+33
+00:01:45,261 --> 00:01:50,020
+facilitator, agile team, now plan the
+release, plan how many iterations,
+
+34
+00:01:50,620 --> 00:01:51,870
+how many sprints we need.
+
+35
+00:01:52,240 --> 00:01:55,360
+Now, Agile does have some planning,
+right?
+
+36
+00:01:55,920 --> 00:01:58,177
+Even though Agile allows
+for change, that doesn't
+
+37
+00:01:58,178 --> 00:02:00,394
+mean you're just making
+it up as you go along.
+
+38
+00:02:00,480 --> 00:02:01,830
+No, you still need to plan.
+
+39
+00:02:02,980 --> 00:02:05,180
+Plans can change, but you still need to
+plan.
+
+40
+00:02:05,500 --> 00:02:08,600
+So as a very simple example, let's say we
+have 60 user stories.
+
+41
+00:02:08,760 --> 00:02:10,810
+This is just a very, very simple example.
+
+42
+00:02:11,320 --> 00:02:17,380
+We have 60 user stories, and we've got
+this release is a six-month release.
+
+43
+00:02:18,360 --> 00:02:21,360
+So immediately we know then 10 user
+stories per month.
+
+44
+00:02:21,880 --> 00:02:25,780
+If we're going to have two week sprint,
+therefore five user stories per sprint.
+
+45
+00:02:26,380 --> 00:02:27,730
+Just a very simple example.
+
+46
+00:02:29,060 --> 00:02:30,900
+So that would be release planning.
+
+47
+00:02:30,901 --> 00:02:31,160
+Right.
+
+48
+00:02:31,320 --> 00:02:35,580
+And then also part of release planning as
+well, the team is going to be doing some
+
+49
+00:02:35,581 --> 00:02:41,300
+high level relative estimating of these
+user stories, right, which is a large user
+
+50
+00:02:41,301 --> 00:02:44,237
+story, which is a medium-sized user story
+and so and so forth.
+
+51
+00:02:44,320 --> 00:02:48,340
+We're going to get into these relative
+estimating in a separate video.
+
+52
+00:02:49,240 --> 00:02:54,320
+Now, another ceremony, another meeting,
+another ceremony, is sprint planning,
+
+53
+00:02:54,880 --> 00:02:54,980
+right?
+
+54
+00:02:55,160 --> 00:02:57,860
+And, or it could be called iteration
+planning, right?
+
+55
+00:02:58,000 --> 00:02:59,000
+Sprint or iteration.
+
+56
+00:02:59,780 --> 00:03:02,695
+And this is where the Agile
+team now plans the work
+
+57
+00:03:02,696 --> 00:03:05,261
+for this current sprint
+or the current iteration.
+
+58
+00:03:05,900 --> 00:03:05,980
+Right.
+
+59
+00:03:06,280 --> 00:03:09,740
+So they are going to take them,
+they're going to work with the product
+
+60
+00:03:09,741 --> 00:03:13,691
+owner, right, to select
+highest priority user stories,
+
+61
+00:03:13,692 --> 00:03:17,100
+right, these high priority
+user stories, right?
+
+62
+00:03:17,440 --> 00:03:20,290
+And that's what they're going to implement
+in this sprint.
+
+63
+00:03:20,520 --> 00:03:24,220
+And then during the sprint there,
+they're going to create a sprint backlog.
+
+64
+00:03:24,400 --> 00:03:28,380
+So what is the highest priority user
+stories for this sprint.
+
+65
+00:03:28,940 --> 00:03:31,306
+And then from those
+user stories, they're going
+
+66
+00:03:31,307 --> 00:03:33,680
+to break those down
+into individual activities.
+
+67
+00:03:34,120 --> 00:03:38,520
+What are all the tasks that need to be
+done in order to fulfill the sprint?
+
+68
+00:03:39,100 --> 00:03:41,440
+Rather, in order to fulfill this user
+story.
+
+69
+00:03:42,420 --> 00:03:46,720
+And then based on that now, they're going
+to be doing some additional estimating,
+
+70
+00:03:47,100 --> 00:03:51,560
+right, and eventually estimating how long
+each of these tasks are going to take.
+
+71
+00:03:52,040 --> 00:03:54,720
+And then they're going to be working on
+those tasks, right?
+
+72
+00:03:54,721 --> 00:03:57,957
+They're going to be implementing them,
+testing them, and so and so forth.
+
+73
+00:03:58,040 --> 00:04:00,490
+So, but that all needs to be planned
+first, right?
+
+74
+00:04:00,640 --> 00:04:02,340
+So that's what sprint planning is.
+
+75
+00:04:02,820 --> 00:04:04,920
+Then you've got the daily stand-up
+meeting.
+
+76
+00:04:05,560 --> 00:04:10,680
+Right, so on a daily basis during the
+sprint, right, or during the two to
+
+77
+00:04:10,681 --> 00:04:14,820
+four-week iteration, right, you have the
+daily stand-up meeting, that also known as
+
+78
+00:04:14,821 --> 00:04:17,521
+the daily scrum, right, if it's in a scrum
+environment.
+
+79
+00:04:17,960 --> 00:04:22,176
+And it's hosted by the
+team facilitator, and the team
+
+80
+00:04:22,177 --> 00:04:24,680
+is basically, all the team
+is all going to be there.
+
+81
+00:04:24,840 --> 00:04:27,490
+It should only be 10 to 15 minutes,
+no more than that.
+
+82
+00:04:27,720 --> 00:04:30,381
+It's just very timebox,
+10 to 15 minutes, and
+
+83
+00:04:30,382 --> 00:04:33,654
+each team member is
+addressing three items.
+
+84
+00:04:33,800 --> 00:04:35,420
+What did I accomplish yesterday?
+
+85
+00:04:36,120 --> 00:04:37,420
+What will I work on today?
+
+86
+00:04:37,780 --> 00:04:39,317
+And what impediments are there?
+
+87
+00:04:39,400 --> 00:04:42,500
+What impediments, blockers, issues,
+what impediments are there?
+
+88
+00:04:42,860 --> 00:04:46,161
+And then the team
+facilitator is going to discuss
+
+89
+00:04:46,162 --> 00:04:49,340
+those offline because
+it's a team facilitator's job.
+
+90
+00:04:49,420 --> 00:04:51,157
+Remember, there's a servant leader.
+
+91
+00:04:51,240 --> 00:04:52,180
+It's their job.
+
+92
+00:04:52,181 --> 00:04:57,474
+part of their job is to remove impediments,
+remove issues, remove obstacles.
+
+93
+00:04:58,040 --> 00:05:02,400
+Just as a side note, the basic difference
+between an impediment and an obstacle,
+
+94
+00:05:02,900 --> 00:05:07,180
+an impediment is something that slows down
+the work, right?
+
+95
+00:05:07,580 --> 00:05:11,460
+Whereas an obstacle or a blocker is
+something that completely stops the work.
+
+96
+00:05:12,340 --> 00:05:16,440
+That's a high-level difference between an
+impediment and a blocker.
+
+97
+00:05:16,640 --> 00:05:19,260
+So an impediment slows down the work.
+
+98
+00:05:19,680 --> 00:05:24,760
+So for example, if halfway through your
+sprint, your senior executives are asking
+
+99
+00:05:24,761 --> 00:05:28,180
+your team members to run tons and tons of
+reports.
+
+100
+00:05:29,020 --> 00:05:30,370
+Well, that's an impediment.
+
+101
+00:05:30,460 --> 00:05:32,840
+It's slowing down the work.
+
+102
+00:05:33,820 --> 00:05:34,653
+Right.
+
+103
+00:05:34,740 --> 00:05:38,280
+And so that's something that you,
+you meaning the team facilitator now,
+
+104
+00:05:38,840 --> 00:05:40,240
+is going to have to address.
+
+105
+00:05:40,800 --> 00:05:42,986
+Whereas a blocker
+would be, for example, we
+
+106
+00:05:42,987 --> 00:05:45,794
+can't move forward until we get a license.
+
+107
+00:05:46,300 --> 00:05:49,100
+Once we've gotten this license,
+then we can start.
+
+108
+00:05:49,480 --> 00:05:51,700
+Until we get this license, there's
+nothing.
+
+109
+00:05:51,800 --> 00:05:52,240
+we can do.
+
+110
+00:05:52,500 --> 00:05:55,850
+That's completely stopped the work or
+completely prevented the work.
+
+111
+00:05:56,340 --> 00:06:00,340
+And in either case, it's a team
+facilitator then that has to address that.
+
+112
+00:06:01,260 --> 00:06:06,100
+Other meetings, right, or other
+ceremonies, you have this sprint review,
+
+113
+00:06:06,760 --> 00:06:08,137
+right, or the iteration review.
+
+114
+00:06:08,220 --> 00:06:11,419
+So at the end of each
+sprint, at the end of each
+
+115
+00:06:11,420 --> 00:06:14,920
+iteration, right, you have
+this sprint review meeting.
+
+116
+00:06:15,300 --> 00:06:18,417
+And this is really a meeting with the team
+and the product owner.
+
+117
+00:06:18,500 --> 00:06:20,650
+And of course, the team facilitator as
+well.
+
+118
+00:06:21,800 --> 00:06:26,740
+team is basically now delivering their
+product to the product owner.
+
+119
+00:06:27,540 --> 00:06:31,120
+Whatever they've delivered or they're
+deliverable, they're delivering it to the
+
+120
+00:06:31,121 --> 00:06:35,021
+product owner and the product owner is
+either going to approve it or reject it.
+
+121
+00:06:35,540 --> 00:06:39,120
+Now other stakeholders can be there as
+well, right, other customer stakeholders
+
+122
+00:06:39,121 --> 00:06:43,700
+but the primary stakeholder, the primary
+customer is going to be the product owner.
+
+123
+00:06:43,960 --> 00:06:46,484
+Remember product owner
+represents the customer and
+
+124
+00:06:46,485 --> 00:06:48,861
+they're either going
+to approve it or reject it.
+
+125
+00:06:49,360 --> 00:06:53,432
+And then After the sprint
+review, then you have a sprint
+
+126
+00:06:53,433 --> 00:06:56,460
+retrospective, right, or
+an iteration retrospective.
+
+127
+00:06:56,980 --> 00:07:00,140
+And a retrospective is basically for the
+benefit of the team.
+
+128
+00:07:00,820 --> 00:07:02,769
+So the team is going
+to be there, the Agile
+
+129
+00:07:02,770 --> 00:07:05,214
+Team, right, as well
+as the team facilitator.
+
+130
+00:07:05,480 --> 00:07:07,097
+The product owner can be there as well.
+
+131
+00:07:07,180 --> 00:07:09,540
+And it really is just a lessons learned
+meeting.
+
+132
+00:07:10,340 --> 00:07:12,440
+Right, that's really all it is part of it.
+
+133
+00:07:12,700 --> 00:07:14,800
+Most of it is a lessons learned meeting,
+right?
+
+134
+00:07:14,840 --> 00:07:17,597
+What went right, what went wrong,
+and that kind of thing.
+
+135
+00:07:17,680 --> 00:07:21,960
+One of the principles of the Agile
+Manifesto is Reflect, right?
+
+136
+00:07:22,140 --> 00:07:24,300
+So that's what the retrospective is.
+
+137
+00:07:25,120 --> 00:07:30,180
+And then also the close-out, or rather,
+it also serves as the iteration close-out,
+
+138
+00:07:30,360 --> 00:07:31,940
+the sprint close-out, right?
+
+139
+00:07:32,060 --> 00:07:36,180
+Because now we're going to go into a new
+sprint, so they can also be discussing,
+
+140
+00:07:36,800 --> 00:07:39,176
+you know, just high-level,
+just high-level they can
+
+141
+00:07:39,177 --> 00:07:42,020
+discuss what we're going
+to be doing in the next sprint.
+
+142
+00:07:43,300 --> 00:07:47,500
+All right, then other, just a couple of
+other ceremonies.
+
+143
+00:07:48,020 --> 00:07:50,470
+I've got the backlog grooming and scrum of
+scrums.
+
+144
+00:07:51,140 --> 00:07:55,040
+So backlog grooming just refers to
+reprioritization of backlog items.
+
+145
+00:07:55,600 --> 00:07:59,140
+So remember in a scrum environment or
+rather in an agile environment,
+
+146
+00:07:59,660 --> 00:08:03,040
+new user stories can be added at any time,
+right, as things change.
+
+147
+00:08:03,620 --> 00:08:08,380
+So we've realized there's another
+dependency or we've realized there's some
+
+148
+00:08:08,381 --> 00:08:10,200
+additional activities that need to be
+done.
+
+149
+00:08:10,201 --> 00:08:12,429
+or there's a regulatory
+requirement, or there's
+
+150
+00:08:12,430 --> 00:08:14,651
+a change in the external
+business environment.
+
+151
+00:08:14,960 --> 00:08:18,140
+So now we need to add in some additional
+user stories.
+
+152
+00:08:18,540 --> 00:08:20,440
+Everything needs to get reprioritized.
+
+153
+00:08:21,000 --> 00:08:22,900
+So that's what backlog grooming is.
+
+154
+00:08:23,080 --> 00:08:27,820
+Or estimates may need to be modified based
+on some new information we've identified.
+
+155
+00:08:28,400 --> 00:08:32,360
+So again, that might end up reprioritizing
+some of your backlog items.
+
+156
+00:08:32,900 --> 00:08:34,700
+So that's known as backlog grooming.
+
+157
+00:08:34,860 --> 00:08:38,940
+And then scrum of scrums, if you ever come
+across this, and this is obviously
+
+158
+00:08:38,941 --> 00:08:42,620
+primarily for the scrum environment or the
+scrum methodology.
+
+159
+00:08:42,860 --> 00:08:47,860
+Remember, in an agile world, agile teams
+are generally small teams, teams of
+
+160
+00:08:47,861 --> 00:08:52,620
+developers, testers, designers,
+business analysts with T-shaped skills.
+
+161
+00:08:53,060 --> 00:08:54,660
+They have these T-shaped skills.
+
+162
+00:08:55,200 --> 00:08:58,920
+And we're going to be discussing T-shaped
+skills in a separate video.
+
+163
+00:08:59,640 --> 00:09:01,200
+But they're all small teams.
+
+164
+00:09:02,060 --> 00:09:04,160
+Now, what happens if it's a large project?
+
+165
+00:09:04,640 --> 00:09:07,380
+In which case, then, we're not going to
+have a large team.
+
+166
+00:09:07,381 --> 00:09:10,631
+what we're going to do is we're going to
+have several small teams.
+
+167
+00:09:11,180 --> 00:09:15,020
+However, we don't want these teams to be
+working in silos either.
+
+168
+00:09:15,440 --> 00:09:19,660
+So we're going to have what's known as
+scrum of scrum meetings, where a
+
+169
+00:09:19,661 --> 00:09:23,700
+representative from each team uses the
+scrum master, is going to attend,
+
+170
+00:09:23,960 --> 00:09:26,110
+discuss progress and so and so and so
+forth.
+
+171
+00:09:26,560 --> 00:09:31,500
+And that's really all a scrum of scrum is,
+it's just a meeting with, you know,
+
+172
+00:09:31,620 --> 00:09:34,380
+it's like a team lead meeting,
+if you like, or a manager's meeting.
+
+173
+00:09:34,381 --> 00:09:39,080
+So all the managers that go to one
+meeting, the whole team doesn't go there.
+
+174
+00:09:39,580 --> 00:09:41,327
+It's just a team lead or the manager, the
+
+175
+00:09:41,328 --> 00:09:43,100
+team lead meeting,
+the team leads go there.
+
+176
+00:09:43,600 --> 00:09:45,397
+In this case, then
+Scrum of Scrum, it's just
+
+177
+00:09:45,398 --> 00:09:48,380
+all the scrum masters
+that generally go there.
+
+178
+00:09:48,420 --> 00:09:51,417
+Now, it doesn't have to be the team
+facilitator, scrum master.
+
+179
+00:09:51,500 --> 00:09:55,920
+It could be another representative,
+right, but generally speaking.
+
+180
+00:09:56,500 --> 00:09:59,326
+But it has to be at least a
+representative from each
+
+181
+00:09:59,327 --> 00:10:01,981
+team, attend one of these
+scrum of scrum ceremonies.
+

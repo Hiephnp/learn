@@ -1,0 +1,547 @@
+﻿1
+00:00:06,010 --> 00:00:08,670
+Okay, so let's talk about relationships
+then.
+
+2
+00:00:09,230 --> 00:00:12,080
+In this case, we're talking activity
+relationships, right?
+
+3
+00:00:12,230 --> 00:00:14,480
+Relationship between one activity and
+another.
+
+4
+00:00:15,150 --> 00:00:21,650
+Now, remember the methodology that we're
+covering, our methodology that PMI tests
+
+5
+00:00:21,651 --> 00:00:24,550
+you regarding schedule is critical path
+method.
+
+6
+00:00:25,110 --> 00:00:30,390
+And critical path method is part of the
+PDM, or the precedence diagramming method,
+
+7
+00:00:30,970 --> 00:00:33,410
+also known as AON, activity or node.
+
+8
+00:00:33,790 --> 00:00:35,290
+So you could see either of those terms.
+
+9
+00:00:35,291 --> 00:00:38,598
+You could see CPM, which
+is critical path method, PDM,
+
+10
+00:00:38,599 --> 00:00:42,010
+precedence diagramming
+method, A-O-N, activity on note.
+
+11
+00:00:43,530 --> 00:00:47,048
+And the PDM, precedence
+diagramming method, uses
+
+12
+00:00:47,049 --> 00:00:49,901
+the critical path method
+to develop the schedule.
+
+13
+00:00:50,270 --> 00:00:52,843
+And there are four
+PDM relationships, right,
+
+14
+00:00:52,844 --> 00:00:55,844
+which we're going to
+cover in just a second.
+
+15
+00:00:56,110 --> 00:01:00,250
+However, there's a couple of important
+terms, though, that you need to know,
+
+16
+00:01:00,310 --> 00:01:04,770
+that you need to be aware of, and these
+terms here, predecessors and successor.
+
+17
+00:01:05,530 --> 00:01:09,670
+So a predecessor basically
+means it comes before an
+
+18
+00:01:09,671 --> 00:01:14,210
+activity, and a successor
+means it comes after an activity.
+
+19
+00:01:15,070 --> 00:01:18,150
+So you've got two activities, A and B,
+right?
+
+20
+00:01:18,470 --> 00:01:23,490
+So A is a predecessor of B and B is a
+successor of A.
+
+21
+00:01:24,750 --> 00:01:28,830
+And the general convention, whenever you
+see a box like this, right, on the
+
+22
+00:01:28,831 --> 00:01:32,850
+left-hand side is the start of the activity,
+on the right-hand side of the finish.
+
+23
+00:01:33,150 --> 00:01:35,200
+So we're always going from left to right.
+
+24
+00:01:36,490 --> 00:01:42,370
+okay so let's talk about the uh the four
+types of relationships right so you have a
+
+25
+00:01:42,371 --> 00:01:47,630
+finish to start a start to start on the
+next slide a finish to finish and a start
+
+26
+00:01:47,631 --> 00:01:52,110
+to finish these are the four relationship
+so let's talk about each of these uh in
+
+27
+00:01:52,111 --> 00:01:57,650
+turn so a finish to start relationship so
+finish to start as the name suggests you
+
+28
+00:01:57,651 --> 00:02:03,910
+have to finish one activity before you can
+start the next activity right so a finish
+
+29
+00:02:03,911 --> 00:02:05,816
+to start is always you
+finish to start is always you
+
+30
+00:02:05,817 --> 00:02:08,251
+finish one activity before
+you start the next activity.
+
+31
+00:02:08,490 --> 00:02:10,890
+And this is the most common type of
+relationship.
+
+32
+00:02:10,990 --> 00:02:12,227
+This is the most common type.
+
+33
+00:02:12,310 --> 00:02:16,470
+We always want to try and finish one
+activity before we start another activity.
+
+34
+00:02:16,850 --> 00:02:20,250
+So the very simple example here,
+when you're building a house, right?
+
+35
+00:02:20,650 --> 00:02:22,400
+You need to finish the foundations.
+
+36
+00:02:22,590 --> 00:02:25,847
+We need to dig the foundations before we
+can start putting up the walls.
+
+37
+00:02:25,930 --> 00:02:29,087
+You don't start, you don't put up the
+walls first, and then, I mean,
+
+38
+00:02:29,170 --> 00:02:31,667
+you don't frame the house first and then
+dig the foundations.
+
+39
+00:02:31,750 --> 00:02:35,270
+No, you have to dig the foundations first,
+and then you can start frame.
+
+40
+00:02:35,271 --> 00:02:38,170
+So it has a finished start relationship.
+
+41
+00:02:38,390 --> 00:02:41,440
+You have to finish one activity before you
+can start the next.
+
+42
+00:02:41,870 --> 00:02:44,350
+Then you have a start to start
+relationship.
+
+43
+00:02:45,410 --> 00:02:49,275
+And in a start to start
+then, basically saying one
+
+44
+00:02:49,276 --> 00:02:52,690
+activity has to start before
+another activity can start.
+
+45
+00:02:54,030 --> 00:02:58,525
+So an example here, let's see
+you've got an author writing a
+
+46
+00:02:58,526 --> 00:03:02,310
+book and you have an editor
+that's going to review the book.
+
+47
+00:03:02,850 --> 00:03:06,861
+Now the author doesn't
+necessarily need to finish
+
+48
+00:03:06,862 --> 00:03:10,470
+writing the book before
+the editor starts reviewing.
+
+49
+00:03:11,030 --> 00:03:13,390
+The author can start writing the book.
+
+50
+00:03:13,870 --> 00:03:16,047
+They can write the first chapter,
+for example.
+
+51
+00:03:16,130 --> 00:03:17,792
+While they're writing
+the second chapter, the
+
+52
+00:03:17,793 --> 00:03:20,304
+editor can start
+reviewing the first chapter.
+
+53
+00:03:20,630 --> 00:03:23,750
+So that is a start-to-start relationship.
+
+54
+00:03:24,250 --> 00:03:28,110
+One activity has to start before the other
+activity can start.
+
+55
+00:03:28,450 --> 00:03:29,750
+Now, be very careful here.
+
+56
+00:03:30,930 --> 00:03:36,050
+Because some organisations or some
+methodologies, a start to start can
+
+57
+00:03:36,051 --> 00:03:38,790
+sometimes mean both activities start at
+the same time.
+
+58
+00:03:40,080 --> 00:03:43,850
+Not for PDM and therefore not for the PMP
+exam.
+
+59
+00:03:44,910 --> 00:03:48,713
+A start to start specifically
+means one activity
+
+60
+00:03:48,714 --> 00:03:51,830
+has to start before the
+other activity can start.
+
+61
+00:03:52,250 --> 00:03:53,083
+Okay.
+
+62
+00:03:55,410 --> 00:03:58,090
+Now another relationship is this one here.
+
+63
+00:03:58,091 --> 00:04:00,090
+a finish-to-finish relationship.
+
+64
+00:04:01,430 --> 00:04:05,170
+One activity has to finish before the
+other activity can finish.
+
+65
+00:04:05,950 --> 00:04:08,690
+Again, not both finish at the same time.
+
+66
+00:04:09,490 --> 00:04:14,470
+For PDM, one activity has to finish before
+the other activity can finish.
+
+67
+00:04:15,470 --> 00:04:20,610
+So, in our kitchen remodeling example,
+right, remember the work breakdown
+
+68
+00:04:20,611 --> 00:04:22,907
+structure example, where we have the
+kitchen remodeling.
+
+69
+00:04:22,990 --> 00:04:27,011
+Well, one of those tasks that
+we need to perform, One of
+
+70
+00:04:27,012 --> 00:04:30,310
+the work that we need to
+perform might be say rewiring.
+
+71
+00:04:30,990 --> 00:04:32,550
+We need to rewire our kitchen.
+
+72
+00:04:33,830 --> 00:04:38,310
+Well, we're rewiring our kitchen and we're
+installing new appliances.
+
+73
+00:04:39,450 --> 00:04:42,813
+Well, the rewiring
+activity has to finish before
+
+74
+00:04:42,814 --> 00:04:46,124
+the appliance installation
+activity can finish.
+
+75
+00:04:47,170 --> 00:04:51,250
+They can both be run in parallel,
+but one has to finish before the other.
+
+76
+00:04:51,930 --> 00:04:58,670
+So as we're rewiring our kitchen,
+as we're installing the electrical system,
+
+77
+00:04:59,970 --> 00:05:03,970
+we can order our appliances, well,
+we can select our appliances, we can order
+
+78
+00:05:03,971 --> 00:05:06,724
+them, we can have them
+delivered, but we can't physically
+
+79
+00:05:06,725 --> 00:05:09,241
+plug them in if there's
+no electrical system there.
+
+80
+00:05:09,950 --> 00:05:13,210
+So the electrical rewiring has to finish
+
+81
+00:05:13,211 --> 00:05:16,610
+before the appliance
+installation can finish.
+
+82
+00:05:16,770 --> 00:05:19,010
+So one has to finish before the other.
+
+83
+00:05:19,890 --> 00:05:27,210
+Another relationship then is this start to
+finish relationship, why one activity has
+
+84
+00:05:27,211 --> 00:05:30,610
+to start before the other activity can
+finish.
+
+85
+00:05:31,630 --> 00:05:33,510
+Now, that's not very common.
+
+86
+00:05:34,110 --> 00:05:35,360
+You don't often see that.
+
+87
+00:05:35,970 --> 00:05:40,010
+So that's, I wouldn't say it's rare,
+but it's not very common either.
+
+88
+00:05:40,530 --> 00:05:42,130
+So one very simple example here.
+
+89
+00:05:42,730 --> 00:05:44,930
+Let's say you're doing a bathroom
+remodeling.
+
+90
+00:05:45,610 --> 00:05:48,213
+And as part of your bathroom remodeling,
+
+91
+00:05:48,214 --> 00:05:51,624
+you're installing a dry
+wall and a doorway.
+
+92
+00:05:52,110 --> 00:05:54,890
+And you're also going to be installing
+this bathtub.
+
+93
+00:05:55,550 --> 00:05:56,030
+It's a bathroom.
+
+94
+00:05:56,210 --> 00:05:57,647
+So you can install a bathtub.
+
+95
+00:05:57,730 --> 00:06:01,180
+And this bathtub is so big, it's not going
+to fit through the doorway.
+
+96
+00:06:01,510 --> 00:06:03,843
+Once the doorway is built,
+that bathtub is not going to
+
+97
+00:06:03,844 --> 00:06:06,361
+get into, we're not going
+to fit it into the bathroom.
+
+98
+00:06:06,910 --> 00:06:11,370
+So we need to get that bathtub into the
+bathroom.
+
+99
+00:06:11,650 --> 00:06:15,644
+So we need to start the
+bathtub installation before
+
+100
+00:06:15,645 --> 00:06:18,441
+we finish the dry wall
+and doorway installation.
+
+101
+00:06:19,050 --> 00:06:23,530
+So that would be a very simple example
+then of a start-to-finish relationship.
+
+102
+00:06:24,090 --> 00:06:27,743
+We need to start the
+bathtub installation before
+
+103
+00:06:27,744 --> 00:06:30,784
+we finish the dry wall
+doorway installation.
+
+104
+00:06:31,610 --> 00:06:35,010
+Another simple example of the start to
+finish is think of shift work.
+
+105
+00:06:35,830 --> 00:06:39,170
+New shift has to start before the old
+shift can finish.
+
+106
+00:06:40,330 --> 00:06:44,030
+The new shift has to start before the old
+shift can finish.
+
+107
+00:06:44,150 --> 00:06:46,967
+It's not the all-shift finisher then the
+new shift starts.
+
+108
+00:06:47,050 --> 00:06:50,970
+No, while the old shift is still working,
+the new shift has to start.
+
+109
+00:06:51,170 --> 00:06:54,020
+Once a new shift is started, now the old
+shift can finish.
+
+110
+00:06:54,890 --> 00:06:58,810
+So that would be another example then of a
+start-to-finish relationship.
+
+111
+00:06:59,510 --> 00:07:02,072
+So these are the four
+relationships that you
+
+112
+00:07:02,073 --> 00:07:05,004
+need to know, that
+you need to be aware of.
+
+113
+00:07:05,170 --> 00:07:10,030
+So you have a finish to start,
+start to start, finish to finish,
+
+114
+00:07:10,750 --> 00:07:11,850
+and a start-to-finish.
+

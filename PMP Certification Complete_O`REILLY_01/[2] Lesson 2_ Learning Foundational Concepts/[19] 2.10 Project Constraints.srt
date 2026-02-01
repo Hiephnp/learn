@@ -1,0 +1,619 @@
+﻿1
+00:00:06,590 --> 00:00:10,570
+Alright, so in this video then, we are
+going to discuss project constraints.
+
+2
+00:00:11,630 --> 00:00:14,930
+Now constraint is a limiting factor on a
+project.
+
+3
+00:00:16,230 --> 00:00:18,950
+Every project is bound by certain
+constraints.
+
+4
+00:00:19,610 --> 00:00:22,551
+So as a very simple example,
+let's say when you're building
+
+5
+00:00:22,552 --> 00:00:26,330
+a house, one of the major
+constraints is cost, money.
+
+6
+00:00:26,990 --> 00:00:29,078
+You don't have unlimited
+budget, I mean, the
+
+7
+00:00:29,079 --> 00:00:31,470
+average person does
+not have unlimited budget.
+
+8
+00:00:32,130 --> 00:00:35,280
+You have to finish the project within a
+certain amount of money.
+
+9
+00:00:36,010 --> 00:00:37,630
+money would be a constraint.
+
+10
+00:00:38,390 --> 00:00:39,940
+Say the project has a deadline.
+
+11
+00:00:40,170 --> 00:00:42,370
+You have to finish this project by this
+date.
+
+12
+00:00:43,050 --> 00:00:44,770
+That deadline is a constraint.
+
+13
+00:00:45,230 --> 00:00:49,670
+Now traditionally there was, we used to
+talk about triple constraints,
+
+14
+00:00:50,470 --> 00:00:55,544
+also known as a golden triangle or
+sometimes referred to as the iron triangle.
+
+15
+00:00:56,030 --> 00:01:00,010
+And these three were traditionally known
+as the triple constraints, right,
+
+16
+00:01:00,230 --> 00:01:01,570
+scope, time and cost.
+
+17
+00:01:02,270 --> 00:01:05,150
+These were traditionally known as triple
+constraints.
+
+18
+00:01:05,770 --> 00:01:08,910
+And again, a constraint is a limiting
+factor.
+
+19
+00:01:09,490 --> 00:01:11,770
+Your project is based on these
+constraints.
+
+20
+00:01:12,230 --> 00:01:16,363
+And therefore, the way
+the team operates are
+
+21
+00:01:16,364 --> 00:01:19,724
+going to be limited by these constraints.
+
+22
+00:01:20,630 --> 00:01:23,170
+Now, these are high-level constraints,
+right?
+
+23
+00:01:23,350 --> 00:01:27,650
+But throughout the project, you are going
+to be identifying detailed constraints.
+
+24
+00:01:28,330 --> 00:01:30,230
+So as a very, very simple example.
+
+25
+00:01:30,890 --> 00:01:34,590
+Let's say that we need to use this
+machine.
+
+26
+00:01:34,591 --> 00:01:39,030
+There's a machine that we need to use in
+order to do some work on our project.
+
+27
+00:01:39,810 --> 00:01:45,050
+And this machine is being shared by many
+teams, right, different departments,
+
+28
+00:01:45,590 --> 00:01:48,671
+anybody in the organization,
+you know, can select,
+
+29
+00:01:48,672 --> 00:01:51,441
+we can basically reserve
+a time to use this machine.
+
+30
+00:01:51,550 --> 00:01:55,570
+So let's say this machine is available for
+two hours a day, right?
+
+31
+00:01:55,630 --> 00:01:58,170
+Just for two hours a day, it's available
+to us, right?
+
+32
+00:01:58,171 --> 00:02:01,290
+Let's say between the hours of 1 and 3 p
+.m.
+
+33
+00:02:02,050 --> 00:02:02,410
+every day.
+
+34
+00:02:02,411 --> 00:02:08,010
+So now any activity that we perform,
+that we need to perform that user that
+
+35
+00:02:08,011 --> 00:02:12,385
+machine, we now know that
+we have to schedule those
+
+36
+00:02:12,386 --> 00:02:15,541
+activities based on the
+availability of this machine.
+
+37
+00:02:15,750 --> 00:02:18,330
+So in this case, between one and three
+every day.
+
+38
+00:02:18,690 --> 00:02:22,370
+So that time is a constraint on our
+project.
+
+39
+00:02:22,950 --> 00:02:27,850
+The availability of that machine is a
+constraint on our project.
+
+40
+00:02:28,090 --> 00:02:31,310
+So that is going to impact our schedule.
+
+41
+00:02:31,311 --> 00:02:36,170
+right so that the availability then is
+going to impact our timeline is going to
+
+42
+00:02:36,171 --> 00:02:40,950
+impact our schedule right it's going to
+impact when we perform the work how we
+
+43
+00:02:40,951 --> 00:02:45,470
+perform the work so a constraint is
+basically anything that could either
+
+44
+00:02:45,471 --> 00:02:51,590
+impede or dictate the actions of the
+project team right so in this case then we
+
+45
+00:02:51,591 --> 00:02:56,548
+have to perform the work if
+we need to use that machine our
+
+46
+00:02:56,549 --> 00:03:00,091
+activity has to be based on
+the availability of that machine.
+
+47
+00:03:00,530 --> 00:03:04,570
+Now, these triple constraints was the old
+view, right?
+
+48
+00:03:04,590 --> 00:03:08,530
+The modern view is that there are many,
+many constraints in the project,
+
+49
+00:03:08,970 --> 00:03:09,803
+not just three.
+
+50
+00:03:10,590 --> 00:03:15,550
+So this list of, you know, high-level
+constraints has really been, you know,
+
+51
+00:03:15,670 --> 00:03:18,747
+the modern view is there's actually,
+you know, it's been updated, if you like,
+
+52
+00:03:18,830 --> 00:03:22,470
+to six constraints that you get on every
+project.
+
+53
+00:03:22,970 --> 00:03:25,507
+So we still have the original scope,
+time and cost, right?
+
+54
+00:03:25,590 --> 00:03:29,970
+Scope, schedule, budget, instead of
+schedule, or rather instead of time,
+
+55
+00:03:30,150 --> 00:03:32,406
+it could be called schedules,
+so time and schedule are
+
+56
+00:03:32,407 --> 00:03:34,647
+the same thing, then budget
+and cost are the same thing.
+
+57
+00:03:34,730 --> 00:03:38,398
+So these three are the
+original triple constraints, but
+
+58
+00:03:38,399 --> 00:03:42,450
+in addition, we also have
+resources, quality, and risk.
+
+59
+00:03:43,230 --> 00:03:48,250
+So these are six constraints that you
+could get on every project.
+
+60
+00:03:48,950 --> 00:03:52,230
+However, there could be many, many more
+constraints on a project.
+
+61
+00:03:52,850 --> 00:03:54,350
+So it's a very simple example.
+
+62
+00:03:55,030 --> 00:03:58,371
+Government regulations
+is a major constraint on
+
+63
+00:03:58,372 --> 00:04:01,970
+many projects, but not
+on every project, right?
+
+64
+00:04:02,330 --> 00:04:04,730
+And that's why it's not necessarily on
+this list.
+
+65
+00:04:05,290 --> 00:04:08,830
+And any of the other constraints then is
+going to have an impact, a potential
+
+66
+00:04:08,831 --> 00:04:12,810
+impact on scope, schedule, budget,
+resources, quality, or risk.
+
+67
+00:04:13,710 --> 00:04:19,110
+Now, the way constraints behave with one
+another, essentially a change in one
+
+68
+00:04:19,111 --> 00:04:23,870
+constraint could potentially lead to a
+change in any of these other constraints.
+
+69
+00:04:24,270 --> 00:04:27,170
+So let's just take one as an example,
+this one here, scope.
+
+70
+00:04:28,310 --> 00:04:31,730
+Senior management decides to increase the
+scope of the project.
+
+71
+00:04:32,870 --> 00:04:36,450
+They have decided halfway through the
+project to increase the scope of the project.
+
+72
+00:04:36,910 --> 00:04:38,910
+Well, you've got additional work to do.
+
+73
+00:04:39,070 --> 00:04:41,170
+There's additional scope, additional work.
+
+74
+00:04:41,350 --> 00:04:43,850
+So that's going to have an impact on your
+schedule.
+
+75
+00:04:44,170 --> 00:04:45,328
+Because there's
+additional work to do, that's
+
+76
+00:04:45,329 --> 00:04:47,364
+going to have an impact on your budget.
+
+77
+00:04:47,770 --> 00:04:50,120
+That will also have an impact on your
+resources.
+
+78
+00:04:50,950 --> 00:04:53,290
+Equipment, supplies, labor, raw materials.
+
+79
+00:04:53,870 --> 00:04:56,530
+Your team members will need to be on the
+project longer.
+
+80
+00:04:56,531 --> 00:04:56,610
+Right.
+
+81
+00:04:57,350 --> 00:05:00,100
+You might need to bring in some additional
+team members.
+
+82
+00:05:00,330 --> 00:05:02,280
+You might need some more raw materials.
+
+83
+00:05:02,650 --> 00:05:04,687
+It's going to have an impact on machines.
+
+84
+00:05:04,770 --> 00:05:08,710
+You might need some more machines and
+tools and so and so forth, which again is
+
+85
+00:05:08,711 --> 00:05:11,161
+going to have an impact of increasing your
+budget.
+
+86
+00:05:12,310 --> 00:05:15,190
+Your increased work, right?
+
+87
+00:05:15,370 --> 00:05:16,507
+The scope has been increased.
+
+88
+00:05:16,590 --> 00:05:19,907
+That's going to have a direct impact on
+equality management process.
+
+89
+00:05:19,990 --> 00:05:23,467
+Some of the testing that you've done,
+for example, might need to be retested.
+
+90
+00:05:23,550 --> 00:05:24,830
+You've got additional work to do.
+
+91
+00:05:24,910 --> 00:05:26,510
+You need to create new test plans.
+
+92
+00:05:26,530 --> 00:05:30,580
+plans, new test cases, which might affect
+some of the testing you've already done,
+
+93
+00:05:31,030 --> 00:05:31,210
+right?
+
+94
+00:05:31,390 --> 00:05:34,350
+That has an impact on your project.
+
+95
+00:05:35,090 --> 00:05:38,607
+And then based on this, you might be
+identifying risks all over the place.
+
+96
+00:05:38,690 --> 00:05:43,190
+So a change in any of these constraints,
+a change in one constraint could
+
+97
+00:05:43,191 --> 00:05:46,570
+potentially lead to a change in any of the
+other constraints.
+
+98
+00:05:47,250 --> 00:05:50,170
+And these constraints are changing all the
+time.
+
+99
+00:05:51,010 --> 00:05:52,410
+They're constantly changing.
+
+100
+00:05:52,870 --> 00:05:56,027
+Right, your schedule is changing,
+you may be going ahead of schedule,
+
+101
+00:05:56,110 --> 00:05:58,788
+behind schedule, You may
+be going over budget, under
+
+102
+00:05:58,789 --> 00:06:01,131
+budget, your resources
+may be coming and going.
+
+103
+00:06:01,610 --> 00:06:06,370
+All of a sudden, one of your raw materials
+may suddenly become a scarce raw material.
+
+104
+00:06:07,430 --> 00:06:11,270
+So now that might have an impact on your
+schedule on your budget, which might have
+
+105
+00:06:11,271 --> 00:06:14,121
+a direct impact on your scope and the
+quality of the work.
+
+106
+00:06:14,930 --> 00:06:18,530
+So again, a change in one constraint could
+lead to a change in another.
+
+107
+00:06:19,090 --> 00:06:22,240
+Let's say you've identified a major,
+major risk on your project.
+
+108
+00:06:22,410 --> 00:06:24,860
+Again, that could impact any of these
+other areas.
+
+109
+00:06:25,710 --> 00:06:31,010
+How you handle these constraints is going
+to determine success and failures of the
+
+110
+00:06:31,011 --> 00:06:36,630
+project, whether or not the customer or
+the stakeholder is satisfied or not.
+
+111
+00:06:36,730 --> 00:06:38,680
+It can determine customer satisfaction.
+
+112
+00:06:39,650 --> 00:06:42,579
+And as a project manager,
+you need to be able
+
+113
+00:06:42,580 --> 00:06:45,644
+to adjust to all of these
+changing constraints.
+
+114
+00:06:46,570 --> 00:06:48,470
+Now, where are constraints documented?
+
+115
+00:06:49,510 --> 00:06:52,523
+Well, high-level constraints
+generally are going to be documented
+
+116
+00:06:52,524 --> 00:06:55,910
+in the project chart, but
+all the detailed constraints.
+
+117
+00:06:56,330 --> 00:06:59,130
+Remember, there are many,
+many constraints on a project
+
+118
+00:06:59,131 --> 00:07:01,871
+you're going to be identifying
+throughout your project.
+
+119
+00:07:02,290 --> 00:07:05,040
+The example I just gave was availability
+of one machine.
+
+120
+00:07:05,770 --> 00:07:07,890
+That is a constraint on the project.
+
+121
+00:07:08,710 --> 00:07:10,310
+Where would those be documented?
+
+122
+00:07:10,530 --> 00:07:11,887
+Where would that be documented?
+
+123
+00:07:11,970 --> 00:07:14,070
+Could be documented in the scope
+statement.
+
+124
+00:07:14,250 --> 00:07:16,300
+It'd be documented in the assumption log.
+
+125
+00:07:16,390 --> 00:07:18,207
+A document called the assumption log.
+
+126
+00:07:18,290 --> 00:07:23,130
+So the assumption log then is documenting
+all detailed assumptions and constraints.
+
+127
+00:07:23,970 --> 00:07:26,890
+So these were then of the major
+constraints.
+
+128
+00:07:26,990 --> 00:07:30,740
+Remember, these are the six major
+constraints that you get on every project,
+
+129
+00:07:30,910 --> 00:07:33,550
+scope, scheduled budget, resources,
+quality and risk.
+
+130
+00:07:34,390 --> 00:07:38,750
+Remember, there could potentially be many,
+many more constraints on a project.
+

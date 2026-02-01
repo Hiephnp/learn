@@ -1,0 +1,603 @@
+﻿1
+00:00:06,440 --> 00:00:10,220
+OK, so let's talk about the three types of
+float in this video.
+
+2
+00:00:10,880 --> 00:00:13,020
+Now, three types of float, then.
+
+3
+00:00:13,880 --> 00:00:17,880
+There is something called the Total Float,
+the Free Float, and the Project Float.
+
+4
+00:00:18,480 --> 00:00:22,220
+So we already talked about the Total Float
+before, right?
+
+5
+00:00:22,280 --> 00:00:24,385
+Now with discussion
+in the Forward Pass and
+
+6
+00:00:24,386 --> 00:00:26,420
+Backward Pass, we
+talked about the total float.
+
+7
+00:00:26,600 --> 00:00:29,550
+So anyway, let's do a quick review here
+what Total Float is.
+
+8
+00:00:29,780 --> 00:00:35,540
+Now the official definition of Total Float
+is basically the time and activity can be
+
+9
+00:00:35,541 --> 00:00:38,360
+delayed, without delaying the end date of
+the project.
+
+10
+00:00:38,840 --> 00:00:41,999
+How long can an
+activity be delayed without
+
+11
+00:00:42,000 --> 00:00:45,074
+delaying the actual
+end date of the project?
+
+12
+00:00:45,920 --> 00:00:52,340
+So if I go to the next slide, so this is
+the network diagram that we just looked at
+
+13
+00:00:52,341 --> 00:00:57,514
+and this one is the zero method, always
+easier to understand with the zero method.
+
+14
+00:00:58,120 --> 00:01:03,060
+So the total float then is the total float
+that we calculated for each activity.
+
+15
+00:01:03,520 --> 00:01:04,980
+B has a total flow of three.
+
+16
+00:01:05,340 --> 00:01:06,820
+C has a total flow of three.
+
+17
+00:01:07,440 --> 00:01:09,240
+B can be delayed back to three days.
+
+18
+00:01:09,720 --> 00:01:11,180
+No impact on the schedule.
+
+19
+00:01:12,240 --> 00:01:13,980
+No impact on the end date.
+
+20
+00:01:14,760 --> 00:01:20,660
+If G gets delayed by one day, no impact on
+the end date, no impact on the schedule.
+
+21
+00:01:21,480 --> 00:01:26,460
+So if I go back, so the total float then
+is how long an activity can be delayed
+
+22
+00:01:26,461 --> 00:01:30,140
+without delaying the schedule, without
+delaying the end date of the project.
+
+23
+00:01:30,580 --> 00:01:34,900
+I remember a lot of times they'll ask you
+what is a total float of a path,
+
+24
+00:01:35,480 --> 00:01:36,700
+of an entire path.
+
+25
+00:01:38,500 --> 00:01:44,460
+And so if they ask you what is a total
+float of, say, A, B, C, I, the total float
+
+26
+00:01:44,461 --> 00:01:47,340
+of A, B, C, I, in this case, would be
+three.
+
+27
+00:01:48,420 --> 00:01:52,000
+You never, never add float values
+together.
+
+28
+00:01:52,520 --> 00:01:53,720
+They are not cumulative.
+
+29
+00:01:54,100 --> 00:01:56,340
+It's always wherever is the highest float.
+
+30
+00:01:57,580 --> 00:02:01,320
+So A, B, C, I, the float will be three,
+because that is the highest float.
+
+31
+00:02:01,321 --> 00:02:04,941
+I mean, B and C have the
+same float, so by default,
+
+32
+00:02:04,942 --> 00:02:07,461
+three will be the
+total float for that path.
+
+33
+00:02:07,720 --> 00:02:11,220
+If the floats are different, then it's
+wherever is the highest one.
+
+34
+00:02:11,960 --> 00:02:19,494
+So, A, B, F, I, for example, right, path
+A, B, FI, total float will still be three.
+
+35
+00:02:19,780 --> 00:02:25,280
+F has a float of one, B has a float of
+three, total float will not be four,
+
+36
+00:02:25,840 --> 00:02:29,260
+total float will be three, wherever is the
+highest float.
+
+37
+00:02:29,820 --> 00:02:33,660
+Remember, never, never add float values
+together.
+
+38
+00:02:34,580 --> 00:02:37,140
+Okay, so if we go back
+to the previous slide
+
+39
+00:02:37,141 --> 00:02:40,060
+again, let's talk about
+this term here, free float.
+
+40
+00:02:40,700 --> 00:02:44,444
+Now, free float is the time
+and activity can be delayed
+
+41
+00:02:44,445 --> 00:02:49,020
+without delaying the early
+start of the successor activity.
+
+42
+00:02:49,500 --> 00:02:52,299
+How long can an
+activity be delayed without
+
+43
+00:02:52,300 --> 00:02:55,420
+delaying the early
+start of the next activity?
+
+44
+00:02:55,421 --> 00:03:00,800
+right the successor activity all right so
+let's look at this on the network diagram
+
+45
+00:03:00,801 --> 00:03:06,040
+if we look at b b has a total flow of
+three right we establish that it has a
+
+46
+00:03:06,041 --> 00:03:15,860
+total floor of three however b finishes on
+day six c will start on day six so how
+
+47
+00:03:15,861 --> 00:03:22,606
+long can b be delayed without
+delaying the early start of
+
+48
+00:03:22,666 --> 00:03:28,100
+c the answer is zero so b
+then has a free float of zero.
+
+49
+00:03:28,720 --> 00:03:30,020
+That's what free float is.
+
+50
+00:03:30,700 --> 00:03:33,312
+It's how long an activity
+can be delayed without
+
+51
+00:03:33,313 --> 00:03:36,014
+delaying the early start of the successor.
+
+52
+00:03:36,160 --> 00:03:37,780
+C is a successor of B.
+
+53
+00:03:38,480 --> 00:03:40,720
+Early start is this number here,
+top left.
+
+54
+00:03:41,500 --> 00:03:44,520
+B finishes on day six, C will start on day
+six.
+
+55
+00:03:45,280 --> 00:03:48,840
+So how long can B be delayed without
+delaying the early start of C?
+
+56
+00:03:49,320 --> 00:03:50,153
+Zero.
+
+57
+00:03:50,340 --> 00:03:54,780
+So B has a total float of three,
+but a free float of zero.
+
+58
+00:03:55,420 --> 00:03:55,560
+Right?
+
+59
+00:03:56,180 --> 00:03:58,100
+Now, again, let's think about this.
+
+60
+00:03:59,400 --> 00:04:02,360
+B and C are kind of like related.
+
+61
+00:04:02,840 --> 00:04:04,660
+Or rather, C is dependent on B.
+
+62
+00:04:05,220 --> 00:04:09,140
+So if you delay B, you will delay the
+earliest start of C.
+
+63
+00:04:09,840 --> 00:04:15,500
+Naturally, right, since they share this
+float, if B finishes on day seven,
+
+64
+00:04:16,080 --> 00:04:18,040
+C will start on day seven.
+
+65
+00:04:18,800 --> 00:04:21,000
+So that's what free float is.
+
+66
+00:04:21,200 --> 00:04:23,293
+How long an activity
+can be delayed without
+
+67
+00:04:23,294 --> 00:04:25,714
+delaying the early
+start of the next activity.
+
+68
+00:04:27,280 --> 00:04:30,254
+Now, the official formula is
+early start of the successor
+
+69
+00:04:30,255 --> 00:04:33,680
+minus early finish of the
+current, right, or the predecessor.
+
+70
+00:04:34,040 --> 00:04:37,740
+So early start of the successor between B
+and C, C is a successor.
+
+71
+00:04:38,400 --> 00:04:43,180
+So the early start is C minus the early
+finish of the current or the predecessor,
+
+72
+00:04:43,600 --> 00:04:44,433
+which is six.
+
+73
+00:04:44,680 --> 00:04:49,200
+Now, if that's easy to see when it's a
+zero method, if it's a one method,
+
+74
+00:04:49,740 --> 00:04:51,390
+you have to remember to plus one.
+
+75
+00:04:51,700 --> 00:04:55,050
+So the other reason why one method is a
+little bit more challenging.
+
+76
+00:04:55,920 --> 00:04:58,600
+Now, project float, let's talk about
+project float.
+
+77
+00:04:59,620 --> 00:05:02,366
+Project float is how
+long the entire project can
+
+78
+00:05:02,367 --> 00:05:05,520
+be delayed without impacting
+some kind of deadline.
+
+79
+00:05:07,030 --> 00:05:10,200
+Now for this, they have to give you some
+additional information.
+
+80
+00:05:10,860 --> 00:05:14,900
+Let's say the customer came to us and
+said, we have to finish by day 21.
+
+81
+00:05:15,440 --> 00:05:17,360
+They've given us the date of day 21.
+
+82
+00:05:17,780 --> 00:05:21,200
+We have calculated our date of day 19.
+
+83
+00:05:22,200 --> 00:05:24,680
+our critical path is day 19.
+
+84
+00:05:25,660 --> 00:05:28,071
+So technically be delayed
+by another two days and
+
+85
+00:05:28,072 --> 00:05:30,561
+that's not going to impact
+the customer's deadline.
+
+86
+00:05:31,080 --> 00:05:34,140
+So we have a project float of two days.
+
+87
+00:05:35,180 --> 00:05:37,855
+So that is what project float refers to,
+
+88
+00:05:37,856 --> 00:05:40,420
+how long the entire
+project can be delayed.
+
+89
+00:05:40,820 --> 00:05:44,470
+And like said, they have to give you this
+additional piece of information.
+
+90
+00:05:44,620 --> 00:05:46,420
+They have to give you that deadline.
+
+91
+00:05:46,580 --> 00:05:50,030
+So technically then, if you wanted a
+formula for that, is essentially,
+
+92
+00:05:50,380 --> 00:05:53,880
+project float is the deadline minus the
+critical path.
+
+93
+00:05:54,440 --> 00:05:57,924
+So if our deadline is
+day 21, critical path is 19,
+
+94
+00:05:57,925 --> 00:06:00,900
+so our project float then
+is going to be two days.
+
+95
+00:06:01,120 --> 00:06:05,580
+Now, just as a little side note,
+and again, a little exam tip, what
+
+96
+00:06:05,581 --> 00:06:10,180
+normally happens in reality, in reality
+what normally happens, a lot of times
+
+97
+00:06:10,181 --> 00:06:14,094
+senior management will
+give you a deadline and then
+
+98
+00:06:14,095 --> 00:06:17,420
+you will develop a schedule
+based on that deadline.
+
+99
+00:06:18,240 --> 00:06:23,080
+And that is exactly what PMI standards
+state that you should not be doing.
+
+100
+00:06:23,760 --> 00:06:26,780
+Senior management are not subject matter
+experts.
+
+101
+00:06:27,860 --> 00:06:30,977
+So when it comes to any of the planning,
+whether you're planning your budget,
+
+102
+00:06:31,060 --> 00:06:35,000
+whether you're planning your timeline,
+your scope or whatever it is, you don't
+
+103
+00:06:35,001 --> 00:06:39,120
+just take senior management's word for it,
+especially with the budget and the
+
+104
+00:06:39,121 --> 00:06:41,880
+timeline because they're not subject
+matter experts.
+
+105
+00:06:41,881 --> 00:06:42,940
+right.
+
+106
+00:06:43,220 --> 00:06:45,252
+So senior management
+might just give you some
+
+107
+00:06:45,253 --> 00:06:47,520
+unrealistic deadline,
+some unrealistic budget.
+
+108
+00:06:48,200 --> 00:06:52,180
+And if you are basing your plan,
+right, if you are planning your project
+
+109
+00:06:52,181 --> 00:06:56,680
+based on those unrealistic numbers,
+then your project is already a failure.
+
+110
+00:06:57,300 --> 00:07:03,540
+So the correct approach is you utilize
+subject matter experts to come up with
+
+111
+00:07:03,541 --> 00:07:07,820
+some kind of assessment, accurate
+assessment or some kind of assessment,
+
+112
+00:07:08,560 --> 00:07:12,629
+you know, based on some
+confidence level of when the project,
+
+113
+00:07:12,630 --> 00:07:15,494
+or rather of how long the
+project will take or how much it will
+
+114
+00:07:15,495 --> 00:07:17,954
+cost if we're talking
+about cost management.
+
+115
+00:07:18,400 --> 00:07:22,840
+And then you present that to your senior
+management, to your customer, and that's
+
+116
+00:07:22,841 --> 00:07:25,891
+where the conversation should start,
+not the other way around.
+
+117
+00:07:27,100 --> 00:07:28,800
+So always remember that.
+
+118
+00:07:29,620 --> 00:07:30,777
+You're a project manager.
+
+119
+00:07:30,860 --> 00:07:36,080
+So whether you are a command and control
+project manager or whether you are a
+
+120
+00:07:36,081 --> 00:07:40,160
+servant leader in an agile project,
+the key is collaboration.
+
+121
+00:07:40,940 --> 00:07:43,280
+You want to engage your stakeholders.
+
+122
+00:07:43,560 --> 00:07:48,054
+You want to collaborate with your
+stakeholders, collaborate with team members.
+
+123
+00:07:48,260 --> 00:07:52,840
+So you don't just always blindly take
+senior management's word for it.
+
+124
+00:07:53,520 --> 00:07:57,669
+So you utilize and
+collaborate with subject matter
+
+125
+00:07:57,670 --> 00:08:00,601
+experts to come up with
+an accurate assessment.
+
+126
+00:08:01,540 --> 00:08:06,960
+Okay, so these then were three types of
+float, total float, free float,
+
+127
+00:08:07,360 --> 00:08:08,193
+project float.
+

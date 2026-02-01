@@ -1,0 +1,469 @@
+﻿1
+00:00:06,010 --> 00:00:09,619
+The ITTOs of integration
+management, now we're
+
+2
+00:00:09,620 --> 00:00:13,770
+discussing direct and
+managed project work process.
+
+3
+00:00:14,910 --> 00:00:18,970
+So page 90 in your PIMBOC to follow along.
+
+4
+00:00:20,190 --> 00:00:24,450
+So now we are moving into the executing
+process group.
+
+5
+00:00:25,130 --> 00:00:29,570
+Now we're going to do the work according
+to the plan.
+
+6
+00:00:30,290 --> 00:00:34,750
+And this is where we will create work
+performance data.
+
+7
+00:00:34,751 --> 00:00:37,310
+These are our actuals.
+
+8
+00:00:37,710 --> 00:00:41,930
+They're called raw observations of
+measurements taken during executing.
+
+9
+00:00:42,590 --> 00:00:46,030
+So again, we're doing the work of the
+project according to the plan.
+
+10
+00:00:46,790 --> 00:00:49,590
+So our inputs, the project management
+plan.
+
+11
+00:00:50,170 --> 00:00:54,010
+As soon as we create it, it's an input to
+every other process.
+
+12
+00:00:54,890 --> 00:00:59,894
+It tells us how we will go
+through our process groups,
+
+13
+00:00:59,895 --> 00:01:04,410
+taking our project from
+beginning, initiating to end.
+
+14
+00:01:05,270 --> 00:01:07,750
+What else comes in project documents?
+
+15
+00:01:08,390 --> 00:01:11,784
+I'm not going to list
+them all when you guys
+
+16
+00:01:11,785 --> 00:01:15,384
+have gone through the
+entire course material.
+
+17
+00:01:15,710 --> 00:01:19,157
+You want to come back and go
+through these integration processes
+
+18
+00:01:19,158 --> 00:01:23,530
+because then we will have
+discussed creating these documents.
+
+19
+00:01:24,310 --> 00:01:26,687
+First go around, it's going to be a little
+too much for you.
+
+20
+00:01:26,770 --> 00:01:27,603
+All right.
+
+21
+00:01:27,810 --> 00:01:32,570
+But big here will be approved change
+requests.
+
+22
+00:01:32,571 --> 00:01:39,110
+So once we have completed planning,
+so we'll develop the project management
+
+23
+00:01:39,111 --> 00:01:43,990
+plan, plan all of the other pieces of our
+puzzle, those subsidiary plans,
+
+24
+00:01:45,030 --> 00:01:49,490
+then we go through the rest of the
+planning processes like collecting
+
+25
+00:01:49,491 --> 00:01:53,050
+requirements to finding the scope,
+creating the WBS.
+
+26
+00:01:54,090 --> 00:02:00,970
+We will keep planning until we have our
+initial references for our three baselines.
+
+27
+00:02:01,350 --> 00:02:02,183
+Scope.
+
+28
+00:02:02,570 --> 00:02:07,190
+Scope always has to be established first
+and agreed upon.
+
+29
+00:02:08,010 --> 00:02:12,730
+Based on the scope of the project that's
+being agreed upon, we'll figure out how
+
+30
+00:02:12,731 --> 00:02:17,190
+long it's going to take, schedule
+baseline, how much it will cost,
+
+31
+00:02:17,570 --> 00:02:18,610
+the cost baseline.
+
+32
+00:02:19,270 --> 00:02:23,850
+Those baselines will become components of
+our project management plan.
+
+33
+00:02:24,250 --> 00:02:25,500
+They will be added to it.
+
+34
+00:02:25,950 --> 00:02:30,570
+So your plan will state what you're
+setting out to accomplish, how you'll do
+
+35
+00:02:30,571 --> 00:02:36,590
+your processes as well as include,
+your baseline scope time and cost so we do
+
+36
+00:02:36,591 --> 00:02:42,850
+have three separate baselines altogether
+they make up the performance measurement
+
+37
+00:02:42,851 --> 00:02:48,390
+baseline for your project all right so
+that will come in your project documents
+
+38
+00:02:48,391 --> 00:02:52,770
+but the big piece will be the approved
+change request that's why i kind had to
+
+39
+00:02:52,771 --> 00:02:58,730
+step back a little bit we are baseline we
+would have completed our planning
+
+40
+00:02:58,731 --> 00:03:03,030
+processes and at least our initial
+references for scope, time, and cost,
+
+41
+00:03:03,770 --> 00:03:04,620
+we are baselined.
+
+42
+00:03:05,090 --> 00:03:08,150
+Then you move into executing to do the
+work of the project.
+
+43
+00:03:08,750 --> 00:03:14,330
+Now, if anything has to change,
+adding or deleting scope, taking
+
+44
+00:03:14,331 --> 00:03:19,750
+corrective preventive action, defect
+repair, these approved change requests
+
+45
+00:03:19,751 --> 00:03:22,751
+will have to go to perform integrated
+change control process.
+
+46
+00:03:22,950 --> 00:03:24,300
+We will cover that shortly.
+
+47
+00:03:25,130 --> 00:03:29,450
+That's where every change request will be
+reviewed for an impact.
+
+48
+00:03:29,470 --> 00:03:33,110
+assessment, we'll look for alternatives to
+a cost-benefit analysis.
+
+49
+00:03:33,950 --> 00:03:37,890
+Each change request will either be
+approved, rejected, or delayed,
+
+50
+00:03:38,290 --> 00:03:45,430
+deferred by us, the sponsor, or CCB,
+change control board.
+
+51
+00:03:46,290 --> 00:03:51,750
+If a change request is approved,
+all that's documented in the change log.
+
+52
+00:03:52,410 --> 00:03:55,190
+We'll update plans and documents
+accordingly.
+
+53
+00:03:56,630 --> 00:03:58,987
+And there's a reason I'm holding up three
+fingers.
+
+54
+00:03:59,070 --> 00:04:02,320
+I will show that when we get to perform
+integrated change control.
+
+55
+00:04:02,550 --> 00:04:03,600
+They go hand in hand.
+
+56
+00:04:03,690 --> 00:04:06,621
+If a change request is
+approved, you have to update any
+
+57
+00:04:06,622 --> 00:04:10,410
+plans, baselines that are
+impacted, and any documents.
+
+58
+00:04:11,010 --> 00:04:11,843
+All right.
+
+59
+00:04:12,410 --> 00:04:15,315
+So the approved change
+request will come here to
+
+60
+00:04:15,316 --> 00:04:18,750
+direct a managed project
+work to be implemented.
+
+61
+00:04:19,470 --> 00:04:21,910
+This is where we will make that change.
+
+62
+00:04:22,930 --> 00:04:25,210
+Then you have those EFs and OPAs.
+
+63
+00:04:25,390 --> 00:04:29,390
+You're going to see them coming in
+throughout all the planning and all our
+
+64
+00:04:29,391 --> 00:04:34,790
+integration processes tools and techniques
+again we'll use expert judgment we use
+
+65
+00:04:34,791 --> 00:04:40,110
+that project management information system
+it has all our scheduling information all
+
+66
+00:04:40,111 --> 00:04:45,970
+our performance information in it and all
+the softwares we're using and of course
+
+67
+00:04:45,971 --> 00:04:51,630
+we're having meetings we live in meetings
+status review meetings all right so the
+
+68
+00:04:51,631 --> 00:04:56,470
+output of director-managed project work
+the ultimate goal will be those
+
+69
+00:04:56,471 --> 00:05:03,250
+deliverables Because again, we're in
+executing, this is the whole crux of that
+
+70
+00:05:03,251 --> 00:05:07,630
+process group, is to ultimately create the
+deliverables.
+
+71
+00:05:08,370 --> 00:05:13,150
+We probably won't create them day one,
+but that will be our ultimate goal.
+
+72
+00:05:14,550 --> 00:05:20,450
+Along the way, we will create work
+performance data, the actuals,
+
+73
+00:05:21,550 --> 00:05:27,850
+like number of change requests,
+number of validation cycles, actual start
+
+74
+00:05:27,851 --> 00:05:31,110
+dates, actual finish dates, actual costs,
+for example.
+
+75
+00:05:32,450 --> 00:05:36,150
+Along the way, we also create the issue
+log.
+
+76
+00:05:36,530 --> 00:05:37,730
+We move into executing.
+
+77
+00:05:37,970 --> 00:05:41,810
+This is where we're going to start having
+problems, gaps, inconsistencies.
+
+78
+00:05:42,510 --> 00:05:44,890
+So we have an issue log, three pieces.
+
+79
+00:05:45,550 --> 00:05:49,770
+It will list the issue, who is supposed to
+resolve it, and by when.
+
+80
+00:05:50,610 --> 00:05:53,470
+Issues left unresolved can become risks to
+our projects.
+
+81
+00:05:53,630 --> 00:05:54,580
+We don't want that.
+
+82
+00:05:55,270 --> 00:05:57,673
+And it's our job to make sure we and our
+
+83
+00:05:57,674 --> 00:06:00,884
+team to make sure
+issues are being resolved.
+
+84
+00:06:01,970 --> 00:06:05,550
+Along the way, we will also create change
+requests.
+
+85
+00:06:06,530 --> 00:06:07,830
+We start a house Reno.
+
+86
+00:06:08,410 --> 00:06:09,470
+We pull out a tub.
+
+87
+00:06:09,670 --> 00:06:11,570
+Find out there wasn't a water barrier.
+
+88
+00:06:12,070 --> 00:06:14,330
+Water has been leaking through the walls.
+
+89
+00:06:14,790 --> 00:06:21,070
+There's now mold all over and leaking down
+to the structural beams below.
+
+90
+00:06:21,490 --> 00:06:24,047
+We don't know how that second floor hasn't
+fallen in.
+
+91
+00:06:24,130 --> 00:06:30,990
+So you have to have a change request the
+scope is going to change okay so with that
+
+92
+00:06:30,991 --> 00:06:34,970
+change request it still has to go to
+perform integrated change control if the
+
+93
+00:06:34,971 --> 00:06:41,650
+change request is approved update any
+plans baselines impacted and any documents
+
+94
+00:06:41,651 --> 00:06:47,870
+baselines can definitely be affected they
+all affect each other and documents the
+
+95
+00:06:47,871 --> 00:06:53,030
+requirements the resources are going to
+change for example we also will contribute
+
+96
+00:06:53,031 --> 00:06:57,650
+to the OPAs so Remember, OPAs,
+we follow the policies, procedures,
+
+97
+00:06:57,870 --> 00:07:00,750
+guidelines, we pull from the knowledge
+repository.
+
+98
+00:07:01,210 --> 00:07:05,090
+Well, all along, we will contribute to the
+OPAs as well.
+

@@ -1,0 +1,832 @@
+﻿1
+00:00:06,010 --> 00:00:10,970
+Okay, in this section then, let's talk
+about the duration estimate, right?
+
+2
+00:00:11,270 --> 00:00:14,630
+Activity duration estimating and some
+estimating methods.
+
+3
+00:00:15,030 --> 00:00:19,830
+Now this section is primarily going to be
+discussing the predictive life cycle.
+
+4
+00:00:20,330 --> 00:00:22,306
+There's a separate video
+where we're going to be talking
+
+5
+00:00:22,307 --> 00:00:26,070
+about estimating methods
+using the agile life cycle.
+
+6
+00:00:26,270 --> 00:00:29,570
+So this one particularly is about the
+predictive life cycle.
+
+7
+00:00:29,850 --> 00:00:33,050
+Now, a couple of the important terms you
+need to understand here.
+
+8
+00:00:33,051 --> 00:00:36,150
+First of all, what does duration estimate
+mean?
+
+9
+00:00:36,370 --> 00:00:40,370
+Well, as the name suggests, how long
+something is going to take, right?
+
+10
+00:00:40,490 --> 00:00:44,530
+The duration, how long an activity is
+going to take, right, how long it'll take
+
+11
+00:00:44,531 --> 00:00:47,185
+to complete an activity,
+or how long it'll take
+
+12
+00:00:47,186 --> 00:00:50,304
+to complete a work
+package and so and so forth.
+
+13
+00:00:50,390 --> 00:00:53,363
+And the key here is it's a
+quantitative assessment,
+
+14
+00:00:53,364 --> 00:00:56,021
+quantitative meaning that
+there's numbers involved.
+
+15
+00:00:56,270 --> 00:00:57,996
+So, you know, for
+example, it'll take three
+
+16
+00:00:57,997 --> 00:01:00,370
+hours or it'll take three
+weeks to do, right?
+
+17
+00:01:00,371 --> 00:01:03,030
+This activity is going to, you know,
+it's a month long.
+
+18
+00:01:03,050 --> 00:01:07,730
+activity, one month, three weeks,
+two hours, these are all numbers,
+
+19
+00:01:07,970 --> 00:01:09,750
+these are all quantitative values.
+
+20
+00:01:10,210 --> 00:01:13,330
+As opposed to, for example, a relative
+estimate.
+
+21
+00:01:13,790 --> 00:01:16,610
+In the agile world, we talk about relative
+estimating.
+
+22
+00:01:17,190 --> 00:01:20,299
+But here, since this
+video is about predictive,
+
+23
+00:01:20,300 --> 00:01:23,104
+we'll stick to the predictive terminology.
+
+24
+00:01:23,550 --> 00:01:26,258
+So it's a quantitative
+assessment of actually
+
+25
+00:01:26,259 --> 00:01:29,204
+how long this particular
+activity will take.
+
+26
+00:01:29,730 --> 00:01:34,610
+Whereas, this other term here,
+elapsed time, is basically saying how long
+
+27
+00:01:34,611 --> 00:01:37,750
+has it actually taken from start to
+finish.
+
+28
+00:01:38,130 --> 00:01:44,290
+And that's going to include stoppage time,
+things like lags, and so and so forth.
+
+29
+00:01:44,870 --> 00:01:47,830
+The actual duration does not consider
+lags.
+
+30
+00:01:48,090 --> 00:01:51,910
+The duration is the actual physical time
+to do the work.
+
+31
+00:01:52,330 --> 00:01:58,230
+The elapsed time is going to include the
+total time it has taken, including start
+
+32
+00:01:58,231 --> 00:02:03,310
+stop and, you know, any lags that you have
+in between and so and so forth.
+
+33
+00:02:03,610 --> 00:02:05,110
+So just a very simple example.
+
+34
+00:02:05,330 --> 00:02:07,609
+The example that I've
+been given, right, we've
+
+35
+00:02:07,610 --> 00:02:10,230
+been using, building a
+house as an example.
+
+36
+00:02:10,470 --> 00:02:12,470
+So let's just stick with that theme.
+
+37
+00:02:12,930 --> 00:02:18,430
+So let's just say, you know, we're digging
+the foundations and pour in concrete.
+
+38
+00:02:18,770 --> 00:02:20,920
+And that's going to take us two weeks to
+do.
+
+39
+00:02:21,270 --> 00:02:25,320
+It's going to take us two weeks to dig the
+foundations and pour down the concrete.
+
+40
+00:02:25,730 --> 00:02:29,449
+But then we can't immediately
+start the next task of
+
+41
+00:02:29,450 --> 00:02:32,581
+framing until the concrete
+has settled, cured, hardened.
+
+42
+00:02:32,970 --> 00:02:36,470
+So if it takes one week for the concrete
+to cure, to settle, to harden,
+
+43
+00:02:37,070 --> 00:02:39,370
+then we can't do anything during that one
+week.
+
+44
+00:02:39,550 --> 00:02:40,970
+That is a one week lag.
+
+45
+00:02:41,550 --> 00:02:45,530
+So the total elapsed time in this case
+then will be three weeks.
+
+46
+00:02:46,270 --> 00:02:51,650
+Two weeks to actually perform the work,
+right, dig the foundations and pour the
+
+47
+00:02:51,651 --> 00:02:55,590
+concrete, and then one week of lag where
+we're not actually doing anything.
+
+48
+00:02:56,250 --> 00:02:59,930
+So the total elapsed time, in that case,
+will be three weeks.
+
+49
+00:03:00,450 --> 00:03:05,230
+The two weeks will be the duration
+estimate, right?
+
+50
+00:03:05,290 --> 00:03:07,340
+The two week will be the actual duration.
+
+51
+00:03:07,770 --> 00:03:09,007
+Then there's a one week lag.
+
+52
+00:03:09,090 --> 00:03:11,270
+So the total elapsed time is three weeks.
+
+53
+00:03:12,630 --> 00:03:14,770
+Now, another important term then is
+effort.
+
+54
+00:03:15,710 --> 00:03:19,810
+An effort then refers to, as it says here,
+the number of labour units.
+
+55
+00:03:20,410 --> 00:03:23,460
+So, for example, this activity will be 10
+hours worth of work.
+
+56
+00:03:23,730 --> 00:03:25,790
+It'll take 10 hours to do this activity.
+
+57
+00:03:26,590 --> 00:03:29,650
+So let's say we give our team member two
+weeks.
+
+58
+00:03:30,170 --> 00:03:33,850
+So you've got two weeks, we've got a
+deadline of two weeks to complete this work.
+
+59
+00:03:34,370 --> 00:03:37,670
+But it'll only really take them 10 hours
+to actually do the work.
+
+60
+00:03:38,070 --> 00:03:39,830
+Right, they could start and stop.
+
+61
+00:03:40,090 --> 00:03:44,090
+They could start, you know, do one hour
+here, stop the work, then, you know,
+
+62
+00:03:44,230 --> 00:03:47,770
+start at a later date and do one hour
+here, you know, one hour here,
+
+63
+00:03:47,890 --> 00:03:51,930
+one hour there, half an hour here,
+two hours there, until they finish the
+
+64
+00:03:51,931 --> 00:03:55,183
+work, and the time that
+they actually spent on
+
+65
+00:03:55,184 --> 00:03:58,110
+the activity would have
+been about 10 hours.
+
+66
+00:03:58,450 --> 00:04:00,730
+So level of effort then would be 10 hours.
+
+67
+00:04:01,190 --> 00:04:05,450
+Although we've given them two weeks to
+actually perform the work, if they deliver
+
+68
+00:04:05,451 --> 00:04:08,357
+it on that deadline, it
+means it is taken them, or
+
+69
+00:04:08,358 --> 00:04:12,610
+rather it means that the
+elapsed time is two weeks.
+
+70
+00:04:13,570 --> 00:04:16,820
+But the actual level of effort,
+the actual work that they've done,
+
+71
+00:04:17,270 --> 00:04:18,707
+is only 10 hours worth of work.
+
+72
+00:04:18,790 --> 00:04:23,270
+If we were hiring somebody, like an
+external consultant or an external
+
+73
+00:04:23,271 --> 00:04:26,950
+contractor to do the work, we would pay
+them for 10 hours.
+
+74
+00:04:27,130 --> 00:04:28,970
+We would not pay them for two weeks.
+
+75
+00:04:29,410 --> 00:04:33,610
+We would pay them for 10 hours because
+that is the actual level of effort.
+
+76
+00:04:34,690 --> 00:04:38,807
+Now, there are four
+estimating methods that
+
+77
+00:04:38,808 --> 00:04:42,330
+you need to know about for the PMP exam.
+
+78
+00:04:42,650 --> 00:04:44,067
+And these are for predictive.
+
+79
+00:04:44,150 --> 00:04:47,070
+There are four predictive estimating
+methods.
+
+80
+00:04:47,450 --> 00:04:49,800
+So let's talk about each and every one of
+these.
+
+81
+00:04:50,330 --> 00:04:56,610
+So, first one then, analogous, analogous
+estimating, also known as top-down, right?
+
+82
+00:04:56,730 --> 00:04:58,407
+So you can see either of those terms.
+
+83
+00:04:58,490 --> 00:05:01,140
+You can see analogous estimating or
+top-down estimate.
+
+84
+00:05:02,130 --> 00:05:04,738
+Now, analogous or
+top-down is basically saying
+
+85
+00:05:04,739 --> 00:05:07,484
+that this activity is
+similar to a prior activity.
+
+86
+00:05:07,690 --> 00:05:09,810
+It's using historical information.
+
+87
+00:05:10,390 --> 00:05:12,950
+And we've done this kind of activity
+before, right?
+
+88
+00:05:13,170 --> 00:05:17,390
+So last time we did this activity,
+it was, whatever, 50 hours worth of work.
+
+89
+00:05:17,810 --> 00:05:19,710
+So there's our analogous estimate.
+
+90
+00:05:19,711 --> 00:05:23,490
+We performed this activity before,
+right, we installed the server, right?
+
+91
+00:05:23,491 --> 00:05:25,550
+We need to install another server,
+right?
+
+92
+00:05:25,630 --> 00:05:28,430
+It was, you know, let's just say 100 hours
+worth of work.
+
+93
+00:05:28,550 --> 00:05:30,250
+So there's our analogous estimate.
+
+94
+00:05:31,370 --> 00:05:35,390
+So analogous estimating then, it's quick
+and easy, right?
+
+95
+00:05:35,490 --> 00:05:37,957
+Because it's using
+prior similar activity, this
+
+96
+00:05:37,958 --> 00:05:40,684
+is something similar to
+what we've done before.
+
+97
+00:05:41,030 --> 00:05:42,570
+So it's quick and easy.
+
+98
+00:05:43,330 --> 00:05:46,570
+However, the disadvantages, it might not
+be very accurate.
+
+99
+00:05:47,050 --> 00:05:51,770
+Just because it took us, whatever,
+50, hours last time, it doesn't
+
+100
+00:05:51,771 --> 00:05:54,410
+necessarily mean it'll take us 50 hours
+this time.
+
+101
+00:05:54,810 --> 00:05:58,930
+There's different technology, for example,
+right, we might use different equipment,
+
+102
+00:05:59,470 --> 00:06:04,430
+we might be using different raw materials,
+we might have different team members,
+
+103
+00:06:05,350 --> 00:06:06,287
+and so on and so and so forth.
+
+104
+00:06:06,370 --> 00:06:08,670
+There's many factors that's going to
+impact it.
+
+105
+00:06:09,010 --> 00:06:12,610
+So it might not be very accurate,
+but it's a ballpark figure.
+
+106
+00:06:13,330 --> 00:06:15,687
+And that's really what an analogous
+estimating is.
+
+107
+00:06:15,770 --> 00:06:17,850
+It's a quick and easy ballpark figure.
+
+108
+00:06:19,710 --> 00:06:23,264
+Now, another estimating method, and
+remember, again, these are all predicted.
+
+109
+00:06:23,770 --> 00:06:27,490
+Another estimating method is something
+called parametric estimating.
+
+110
+00:06:28,330 --> 00:06:33,450
+And parametric estimating uses a rule of
+thumb or a first principle, uses first
+
+111
+00:06:33,451 --> 00:06:36,407
+principle mathematics, or a statistical
+
+112
+00:06:36,408 --> 00:06:40,224
+relationship, right,
+to extrapolate results.
+
+113
+00:06:40,330 --> 00:06:43,189
+You can also use historical
+data as well, but you're
+
+114
+00:06:43,190 --> 00:06:47,270
+always doing some kind of
+math with parametric estimating.
+
+115
+00:06:47,650 --> 00:06:49,230
+So a very simple example here.
+
+116
+00:06:50,370 --> 00:06:53,989
+If it takes us one hour to lay
+down 25 meters a cable, how
+
+117
+00:06:53,990 --> 00:06:57,690
+long will it take us to lay down
+a thousand meters of cable?
+
+118
+00:06:58,770 --> 00:07:02,110
+So you do the math, and you're going to
+come up with 40 hours.
+
+119
+00:07:02,990 --> 00:07:06,062
+So, I mean, very simple
+math here, it takes us 25
+
+120
+00:07:06,063 --> 00:07:09,230
+meters, sorry, it takes one
+hour to lay down 25 meters.
+
+121
+00:07:09,730 --> 00:07:12,410
+We've got a thousand meters, so 1,000
+divided by 25.
+
+122
+00:07:12,630 --> 00:07:15,190
+It'll take us 40 hours to do this work.
+
+123
+00:07:16,450 --> 00:07:23,730
+Now, just because it takes us one hour to
+lay down 25 meters doesn't necessarily
+
+124
+00:07:23,731 --> 00:07:28,690
+mean it'll take us 40 hours an entire week
+to lay down a thousand meters of cable.
+
+125
+00:07:29,850 --> 00:07:36,690
+So the advantage generally with parametric
+is it can be more accurate than an algus.
+
+126
+00:07:37,330 --> 00:07:41,019
+However, the disadvantage
+is that these parameters
+
+127
+00:07:41,020 --> 00:07:44,191
+may not scale, like the
+example that I just gave here.
+
+128
+00:07:45,190 --> 00:07:49,430
+Just because it takes us one hour to lay
+down 25 meters doesn't necessarily mean
+
+129
+00:07:49,431 --> 00:07:53,130
+it's going to take us 40 hours to lay down
+1,000 meters.
+
+130
+00:07:54,010 --> 00:07:58,750
+So straight parametric estimating does not
+take into consideration things like
+
+131
+00:07:58,751 --> 00:08:03,230
+learning curves and economies of scale and
+so and so forth.
+
+132
+00:08:04,050 --> 00:08:10,390
+So the same scenario, same example,
+same situation, you know, if we could
+
+133
+00:08:10,391 --> 00:08:16,915
+think, well, if we have five
+team members, then this activity
+
+134
+00:08:16,916 --> 00:08:20,590
+will take us two weeks to
+perform with five team members.
+
+135
+00:08:20,910 --> 00:08:25,130
+So why do we get 10 team members and it'll
+only take us one week to perform?
+
+136
+00:08:26,010 --> 00:08:28,160
+That's not necessarily going to be the
+case.
+
+137
+00:08:29,530 --> 00:08:32,473
+Doubling the number of
+resources is not necessarily
+
+138
+00:08:32,474 --> 00:08:34,981
+going to halve the time
+in which to do the work.
+
+139
+00:08:35,850 --> 00:08:39,850
+So that's the disadvantage of parametric,
+right, parametric estimate.
+
+140
+00:08:40,590 --> 00:08:45,050
+However, in certain situations, though,
+parametric can be very accurate, right?
+
+141
+00:08:45,190 --> 00:08:47,352
+we don't have to deal
+with economies of scale
+
+142
+00:08:47,353 --> 00:08:50,144
+and learning curves and so and so forth.
+
+143
+00:08:52,890 --> 00:08:59,890
+Now another tool, or another estimating
+method, and remember, these are all
+
+144
+00:08:59,891 --> 00:09:04,884
+estimating methods, right, so for predictive
+in this case, bottom-up estimating.
+
+145
+00:09:05,170 --> 00:09:08,810
+Now, bottom-up estimating is a very,
+very detailed estimate.
+
+146
+00:09:09,630 --> 00:09:12,007
+So it's basically going down to the
+granular level.
+
+147
+00:09:12,090 --> 00:09:15,890
+It's looking at each activity,
+you're further analyzing each activity,
+
+148
+00:09:16,690 --> 00:09:17,682
+right, you're, you're you're breaking each
+
+149
+00:09:17,683 --> 00:09:20,350
+activity down to your
+little sub-activities, right?
+
+150
+00:09:20,490 --> 00:09:22,490
+And then you're aggregating the results.
+
+151
+00:09:22,950 --> 00:09:26,500
+You go on, you're rolling up each layer of
+the work breakdown structure.
+
+152
+00:09:27,170 --> 00:09:29,964
+So a bottom-up estimate
+out of all of these is
+
+153
+00:09:30,044 --> 00:09:32,650
+the most accurate, very,
+very accurate estimate.
+
+154
+00:09:33,410 --> 00:09:34,787
+Right, so that's the advantage.
+
+155
+00:09:34,870 --> 00:09:35,820
+It's very accurate.
+
+156
+00:09:36,270 --> 00:09:40,830
+But the disadvantage is, it's
+time-consuming and therefore expensive.
+
+157
+00:09:41,290 --> 00:09:44,162
+You can't always do a
+bottom-up estimate for
+
+158
+00:09:44,222 --> 00:09:47,663
+every single activity
+or every single project.
+
+159
+00:09:47,950 --> 00:09:51,167
+And it can only really do a bottom-up when
+it's a well-understood project.
+
+160
+00:09:51,250 --> 00:09:54,300
+If there's a lot of variables,
+a lot of unknowns, right, then,
+
+161
+00:09:54,670 --> 00:09:57,407
+you know, you can't really always do a
+bottom-up estimate.
+
+162
+00:09:57,490 --> 00:10:00,530
+And then the other type, then,
+the fourth type then is this one called a
+
+163
+00:10:00,531 --> 00:10:03,070
+three-point estimate, three-point
+estimating.
+
+164
+00:10:03,630 --> 00:10:05,987
+And there are two types of three-point
+estimating.
+
+165
+00:10:06,070 --> 00:10:09,920
+You've got something called a triangular
+distribution and a beta distribution,
+
+166
+00:10:10,110 --> 00:10:12,970
+or a pert, which is a weighted average.
+
+167
+00:10:13,110 --> 00:10:15,627
+So you have a straight average and a
+weighted average.
+
+168
+00:10:15,710 --> 00:10:17,710
+And this is covered in a separate video.
+
+169
+00:10:18,910 --> 00:10:24,130
+But it uses three values, optimistic,
+most likely, and pessimistic.
+
+170
+00:10:24,830 --> 00:10:27,127
+And based on that, you're going to be
+coming up with an average.
+
+171
+00:10:27,210 --> 00:10:30,410
+It could be a straight average or it could
+be a weighted average.
+
+172
+00:10:30,810 --> 00:10:33,610
+And again, we're going to cover this in a
+separate video.
+
+173
+00:10:34,010 --> 00:10:34,843
+Okay.
+

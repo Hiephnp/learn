@@ -1,0 +1,337 @@
+﻿1
+00:00:06,750 --> 00:00:09,200
+Okay, so let's talk about two more types
+of float.
+
+2
+00:00:09,930 --> 00:00:13,710
+And you have something called a positive
+float and a negative float.
+
+3
+00:00:14,890 --> 00:00:16,990
+Now let's talk about negative float first.
+
+4
+00:00:17,790 --> 00:00:19,890
+Negative float can mean one of two things.
+
+5
+00:00:20,250 --> 00:00:25,270
+Either the project has gone behind a
+schedule, and the project going behind
+
+6
+00:00:25,271 --> 00:00:28,730
+schedule means something has gone wrong
+with the critical path.
+
+7
+00:00:29,230 --> 00:00:31,730
+It's a critical path that has gone behind
+schedule.
+
+8
+00:00:32,910 --> 00:00:35,860
+So negative flow can either mean we've
+gone behind schedule.
+
+9
+00:00:36,010 --> 00:00:38,470
+or time has been taken away.
+
+10
+00:00:39,250 --> 00:00:39,410
+All right.
+
+11
+00:00:39,710 --> 00:00:41,460
+So, let's talk about each of these.
+
+12
+00:00:42,470 --> 00:00:47,630
+So here is the critical path activity that
+we've just been talking about.
+
+13
+00:00:48,870 --> 00:00:51,290
+Activity D here is on the critical path.
+
+14
+00:00:52,510 --> 00:00:56,030
+Let's say activity D, you know,
+it's supposed to finish on day seven.
+
+15
+00:00:56,970 --> 00:01:00,250
+Let's say it finished on day eight
+instead.
+
+16
+00:01:01,030 --> 00:01:02,280
+It finished on day eight.
+
+17
+00:01:02,910 --> 00:01:05,850
+That means we have one day of negative.
+
+18
+00:01:06,010 --> 00:01:06,330
+float.
+
+19
+00:01:06,790 --> 00:01:08,790
+We have a negative float of one day.
+
+20
+00:01:09,550 --> 00:01:10,750
+We went behind schedule.
+
+21
+00:01:11,310 --> 00:01:14,170
+Going behind schedule always refers to the
+critical path.
+
+22
+00:01:15,310 --> 00:01:19,510
+If a non-critical path activity went
+behind schedule, not a problem.
+
+23
+00:01:20,050 --> 00:01:22,938
+If B goes behind schedule
+by one day, for example,
+
+24
+00:01:22,939 --> 00:01:25,591
+that's not going to impact
+the schedule whatsoever.
+
+25
+00:01:26,490 --> 00:01:28,910
+B ends up finishing one day late.
+
+26
+00:01:29,550 --> 00:01:31,250
+Well, it has a flow of three days.
+
+27
+00:01:31,490 --> 00:01:36,550
+So going behind schedule always refers to
+the critical path.
+
+28
+00:01:37,690 --> 00:01:43,370
+So D finishes on day 8 instead of day 7,
+we finish one day late.
+
+29
+00:01:43,710 --> 00:01:46,510
+That means we have a negative float of one
+day.
+
+30
+00:01:48,290 --> 00:01:52,950
+Negative float can also mean that time has
+been taken away.
+
+31
+00:01:53,350 --> 00:01:57,810
+So if I go back to the previous slide,
+so negative float means project is either
+
+32
+00:01:57,811 --> 00:02:00,690
+behind schedule or time has been taken
+away.
+
+33
+00:02:00,870 --> 00:02:02,390
+customer took some time away.
+
+34
+00:02:03,550 --> 00:02:06,525
+So as a simple example,
+our project, we have
+
+35
+00:02:06,526 --> 00:02:10,024
+calculated our critical path of 19 days.
+
+36
+00:02:10,110 --> 00:02:11,960
+Our project is going to take 19 days.
+
+37
+00:02:12,410 --> 00:02:14,943
+Let's say halfway through
+the project, our customer
+
+38
+00:02:15,026 --> 00:02:17,427
+comes along and says, hey,
+we made a new discovery.
+
+39
+00:02:17,510 --> 00:02:19,350
+We need to finish by day 17 now.
+
+40
+00:02:20,370 --> 00:02:22,410
+We need to finish by day 17.
+
+41
+00:02:23,410 --> 00:02:26,190
+So that means they have taken two days
+away from us.
+
+42
+00:02:26,910 --> 00:02:29,970
+And therefore, we have a negative float of
+two days.
+
+43
+00:02:30,870 --> 00:02:33,050
+Critical path still remains the same.
+
+44
+00:02:33,130 --> 00:02:34,630
+Critical path does not change.
+
+45
+00:02:35,550 --> 00:02:38,110
+It's just that we have a negative float of
+two days.
+
+46
+00:02:38,610 --> 00:02:40,560
+Okay, so that's what negative float is.
+
+47
+00:02:40,770 --> 00:02:44,790
+Either we're behind schedule or time has
+been taken away.
+
+48
+00:02:45,110 --> 00:02:46,747
+Enough for one reason or another.
+
+49
+00:02:46,830 --> 00:02:50,530
+In the same token, you might come across
+this term called a positive float.
+
+50
+00:02:51,450 --> 00:02:54,030
+And a positive float means we're ahead of
+schedule.
+
+51
+00:02:55,490 --> 00:02:55,510
+Right?
+
+52
+00:02:55,930 --> 00:02:57,130
+We're ahead of schedule.
+
+53
+00:02:57,250 --> 00:02:59,450
+Critical path activity has finished early.
+
+54
+00:03:00,050 --> 00:03:05,830
+So, in our example here, D, D is supposed
+to finish on day seven.
+
+55
+00:03:06,370 --> 00:03:09,950
+Instead of finishing on day seven,
+let's say it finished on day six,
+
+56
+00:03:10,570 --> 00:03:11,403
+one day early.
+
+57
+00:03:11,830 --> 00:03:14,750
+That means we have a positive float of one
+day.
+
+58
+00:03:15,890 --> 00:03:18,850
+Finish a day early, we have a positive
+float of one day.
+
+59
+00:03:19,210 --> 00:03:21,950
+So we're, you know, one day ahead of
+schedule.
+
+60
+00:03:22,450 --> 00:03:25,009
+So now, this takes us
+all the way back right to
+
+61
+00:03:25,010 --> 00:03:28,150
+the beginning of the
+discussion on critical path.
+
+62
+00:03:28,151 --> 00:03:30,010
+What is critical path?
+
+63
+00:03:30,470 --> 00:03:31,610
+It's the longest path.
+
+64
+00:03:32,010 --> 00:03:34,660
+It represents the earliest completion for
+the project.
+
+65
+00:03:35,390 --> 00:03:38,990
+And initially, critical path is going to
+have zero float.
+
+66
+00:03:40,330 --> 00:03:42,896
+However, once you start
+executing, you can end
+
+67
+00:03:42,897 --> 00:03:45,324
+up going ahead of
+schedule or behind schedule.
+
+68
+00:03:46,530 --> 00:03:50,490
+So critical path then, you may end up with
+a positive float or a negative float.
+
+69
+00:03:51,590 --> 00:03:56,110
+So critical path doesn't necessarily
+always have just have a zero float.
+
+70
+00:03:56,111 --> 00:04:01,370
+is the longest path and it's going to have
+the shortest float right the smallest
+
+71
+00:04:01,371 --> 00:04:07,110
+float okay so this discussion when really
+was about negative and positive float
+
+72
+00:04:07,111 --> 00:04:11,590
+right so make sure you understand what
+they are negative float behind schedule
+
+73
+00:04:11,591 --> 00:04:15,910
+all time has been reduced positive float
+we're ahead of schedule
+

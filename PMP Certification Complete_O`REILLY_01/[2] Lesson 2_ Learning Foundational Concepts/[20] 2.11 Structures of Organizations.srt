@@ -1,0 +1,549 @@
+﻿1
+00:00:06,580 --> 00:00:09,890
+Now we're going to discuss structures of
+organizations.
+
+2
+00:00:10,630 --> 00:00:13,997
+Why this is so important
+is that it's going to
+
+3
+00:00:13,998 --> 00:00:18,110
+determine the level of
+power you do or do not have.
+
+4
+00:00:18,790 --> 00:00:23,046
+And that's very important
+because whether or not you
+
+5
+00:00:23,047 --> 00:00:26,331
+have power, your head is
+still on the chopping block.
+
+6
+00:00:26,470 --> 00:00:30,810
+Yeah, I'm being a little dramatic there,
+but you are ultimately responsible for
+
+7
+00:00:30,811 --> 00:00:34,390
+your project, even if you don't have any
+power.
+
+8
+00:00:34,930 --> 00:00:35,927
+So keep that in mind.
+
+9
+00:00:36,010 --> 00:00:36,750
+All right.
+
+10
+00:00:36,890 --> 00:00:40,990
+If we look at the second slide here,
+I'm going to start with a functional
+
+11
+00:00:40,991 --> 00:00:45,570
+organization and then move into matrix to
+project ties.
+
+12
+00:00:46,050 --> 00:00:49,900
+We'll start with functional, where you see
+over on the left side of the slide,
+
+13
+00:00:50,610 --> 00:00:55,210
+where we have the least amount of power
+until we get to the most amount of power.
+
+14
+00:00:55,890 --> 00:01:00,610
+So a functional organization structure,
+a picture an org chart.
+
+15
+00:01:00,970 --> 00:01:05,850
+You've got your CEO, senior executives,
+and then functional managers, marketing,
+
+16
+00:01:06,010 --> 00:01:09,550
+manager, finance manager, production
+manager, etc.
+
+17
+00:01:10,270 --> 00:01:12,420
+So let's say you are a marketing
+specialist.
+
+18
+00:01:13,710 --> 00:01:15,870
+You land a marketing project typically.
+
+19
+00:01:16,290 --> 00:01:18,107
+It's going to be within your department.
+
+20
+00:01:18,190 --> 00:01:18,350
+All right.
+
+21
+00:01:18,770 --> 00:01:22,470
+You report to the marketing manager,
+that functional manager.
+
+22
+00:01:23,210 --> 00:01:27,430
+So this is the organizational structure
+where you have the least amount of power.
+
+23
+00:01:27,990 --> 00:01:30,728
+The functional manager
+will be telling you what
+
+24
+00:01:30,729 --> 00:01:33,824
+the project is, what the
+scope of the project is.
+
+25
+00:01:34,190 --> 00:01:35,990
+How long you have, how much time.
+
+26
+00:01:36,010 --> 00:01:39,070
+time you have, the resources you have to
+use.
+
+27
+00:01:39,450 --> 00:01:41,750
+So you have little to know authority here.
+
+28
+00:01:42,870 --> 00:01:45,220
+The functional manager is calling all the
+shots.
+
+29
+00:01:46,090 --> 00:01:48,550
+Now let's move into a matrix organization.
+
+30
+00:01:49,170 --> 00:01:55,530
+So the organizational structure is set up
+similarly, but here where you report to
+
+31
+00:01:55,531 --> 00:01:58,259
+the functional manager
+still, same with your
+
+32
+00:01:58,260 --> 00:02:01,364
+resources, usually between
+different departments.
+
+33
+00:02:02,430 --> 00:02:06,321
+Your resources will
+report to those functional
+
+34
+00:02:06,322 --> 00:02:09,324
+managers as well as you for your projects.
+
+35
+00:02:10,250 --> 00:02:15,650
+So here, the functional managers still
+have all the power.
+
+36
+00:02:16,790 --> 00:02:18,890
+You still report to the functional
+manager.
+
+37
+00:02:19,410 --> 00:02:23,110
+So do all the resources who also report to
+you for this project.
+
+38
+00:02:23,610 --> 00:02:25,330
+You have little to know authority.
+
+39
+00:02:25,930 --> 00:02:28,080
+The functional manager is calling the
+shots.
+
+40
+00:02:28,430 --> 00:02:31,330
+Usually working between departments here
+though, all right?
+
+41
+00:02:31,490 --> 00:02:37,150
+The next matrix organizational structure
+we're talking about is balanced and this
+
+42
+00:02:37,151 --> 00:02:41,170
+is where we have a balance of power
+between you and this is where you
+
+43
+00:02:41,171 --> 00:02:46,570
+officially get the title of project
+manager you and the functional manager
+
+44
+00:02:46,571 --> 00:02:51,870
+meaning the marketing manager for example
+you still report to that marketing manager
+
+45
+00:02:51,871 --> 00:02:58,710
+but now most of the time you are focused
+on the project a lot of times full time
+
+46
+00:02:58,711 --> 00:03:05,050
+whereas a functional manager day in day
+out they are focused on operations.
+
+47
+00:03:05,850 --> 00:03:08,500
+So this is where the most contention will
+be here too.
+
+48
+00:03:08,970 --> 00:03:12,230
+Your focus is the project and that's your
+responsibility.
+
+49
+00:03:13,130 --> 00:03:13,963
+All right.
+
+50
+00:03:14,210 --> 00:03:16,132
+You're trying to get
+that project done, but the
+
+51
+00:03:16,133 --> 00:03:19,190
+functional manager is
+trying to get operations done.
+
+52
+00:03:20,050 --> 00:03:24,110
+And remember, you report to the functional
+manager, so do the resources.
+
+53
+00:03:25,550 --> 00:03:27,870
+Okay, so this is where the most contention
+will be.
+
+54
+00:03:27,871 --> 00:03:29,821
+You're trying to get your project done.
+
+55
+00:03:30,270 --> 00:03:32,942
+You still report to that
+functional manager,
+
+56
+00:03:32,943 --> 00:03:35,904
+okay, who's focused
+on operations every day.
+
+57
+00:03:36,490 --> 00:03:39,350
+Then we move up to a strong matrix.
+
+58
+00:03:40,130 --> 00:03:43,730
+And what's different about this one, we
+have a separate vertical structure here.
+
+59
+00:03:44,270 --> 00:03:48,670
+The project management office,
+PMO, project management office.
+
+60
+00:03:49,290 --> 00:03:52,350
+All the project managers report to the PMO
+here.
+
+61
+00:03:53,170 --> 00:03:57,610
+Okay, we are no longer reporting to
+functional managers.
+
+62
+00:03:57,870 --> 00:04:03,690
+So this is where we have the most power in
+a matrix organization, a strong matrix.
+
+63
+00:04:04,590 --> 00:04:05,970
+We report to the PMO.
+
+64
+00:04:06,650 --> 00:04:09,630
+We'll be assigned a project by the PMO.
+
+65
+00:04:10,530 --> 00:04:14,650
+And this is where you'll have the most
+authority in a matrix organization.
+
+66
+00:04:15,390 --> 00:04:15,550
+All right.
+
+67
+00:04:15,750 --> 00:04:17,730
+Now we move to projectized.
+
+68
+00:04:18,590 --> 00:04:25,183
+So this organizational structure,
+the focus is projects, day in, day out.
+
+69
+00:04:25,670 --> 00:04:26,090
+Okay?
+
+70
+00:04:26,091 --> 00:04:26,190
+Okay.
+
+71
+00:04:26,970 --> 00:04:31,370
+So this is where you have, as the PM,
+ultimate power.
+
+72
+00:04:32,090 --> 00:04:35,450
+You report directly to the CEO or a senior
+executive.
+
+73
+00:04:36,650 --> 00:04:38,567
+Functional managers are not in the way.
+
+74
+00:04:38,650 --> 00:04:39,570
+Neither are PMOs.
+
+75
+00:04:40,270 --> 00:04:40,350
+Okay.
+
+76
+00:04:41,070 --> 00:04:44,070
+So you have the ultimate authority here.
+
+77
+00:04:44,430 --> 00:04:46,448
+You'll work directly
+with the stakeholders to
+
+78
+00:04:46,449 --> 00:04:48,904
+figure out what the
+scope of the project is.
+
+79
+00:04:49,370 --> 00:04:51,426
+Based on the scope,
+how long it's going to take,
+
+80
+00:04:51,509 --> 00:04:54,030
+how much it's going to
+cost, the resources you need.
+
+81
+00:04:54,031 --> 00:04:56,130
+You'll do the hiring and firing here.
+
+82
+00:04:56,750 --> 00:04:59,530
+Okay, so this is where you have the
+ultimate power.
+
+83
+00:05:00,350 --> 00:05:02,167
+All right, let's look at this next slide.
+
+84
+00:05:02,250 --> 00:05:08,050
+When you go back to study, do focus on
+from the functional through project ties.
+
+85
+00:05:08,310 --> 00:05:10,710
+That's your focus, which is what we just
+covered.
+
+86
+00:05:11,290 --> 00:05:16,350
+And whether or not you have power,
+whether you are part-time or when you get
+
+87
+00:05:16,351 --> 00:05:21,530
+to a balanced, usually part-time to
+full-time on a project, and when your
+
+88
+00:05:21,531 --> 00:05:24,630
+resources are going to be available for
+your project as well.
+
+89
+00:05:25,730 --> 00:05:27,567
+I do want to cover while we're here,
+though.
+
+90
+00:05:27,650 --> 00:05:32,830
+Let's look over on the left top,
+organic or simple organization structures.
+
+91
+00:05:33,430 --> 00:05:37,730
+So those are usually a small, it could be
+a startup organization or just a small
+
+92
+00:05:37,731 --> 00:05:46,350
+organization that works on functional
+areas and will land some projects.
+
+93
+00:05:47,410 --> 00:05:51,770
+Way over on the right, well, next to last,
+virtual organizations.
+
+94
+00:05:52,230 --> 00:05:53,187
+These are organizations.
+
+95
+00:05:53,270 --> 00:06:00,250
+that have no or a small amount of
+face-to-face interaction.
+
+96
+00:06:00,730 --> 00:06:06,190
+They're usually not co-located,
+meaning all in the same location.
+
+97
+00:06:07,130 --> 00:06:11,310
+Little to know face-to-face interaction,
+okay?
+
+98
+00:06:11,890 --> 00:06:16,230
+That's why communication technology is so
+important using go-to meetings,
+
+99
+00:06:16,390 --> 00:06:20,050
+Zoom meetings, Microsoft meetings,
+all those types of things.
+
+100
+00:06:20,370 --> 00:06:23,250
+If you are not face-to-face, co-locating.
+
+101
+00:06:23,270 --> 00:06:25,630
+you need to be able to see each other.
+
+102
+00:06:26,130 --> 00:06:27,547
+Okay, that's really important.
+
+103
+00:06:27,630 --> 00:06:29,930
+And then we have last hybrid.
+
+104
+00:06:30,830 --> 00:06:32,050
+So that's a mixture.
+
+105
+00:06:33,870 --> 00:06:36,870
+So you could have a functional
+organizational structure.
+
+106
+00:06:37,830 --> 00:06:40,654
+Again, the organization is focused on
+
+107
+00:06:40,655 --> 00:06:45,144
+operations day in, day
+out, what they do best.
+
+108
+00:06:45,230 --> 00:06:48,598
+Well, the organization
+can take a different path,
+
+109
+00:06:48,599 --> 00:06:52,150
+decide they want to work
+on more projects, for example.
+
+110
+00:06:52,570 --> 00:06:58,116
+And, And they can create a
+PMO, a project management
+
+111
+00:06:58,117 --> 00:07:03,330
+office, where now you'll have
+a strong matrix organization.
+
+112
+00:07:04,390 --> 00:07:09,204
+So functional with a
+strong matrix organization
+
+113
+00:07:09,205 --> 00:07:12,224
+arm or move to a strong matrix matrix.
+
+114
+00:07:12,510 --> 00:07:14,850
+So a hybrid is a mixture.
+
+115
+00:07:15,450 --> 00:07:19,630
+You can change depending on what the
+organization's objectives are.
+
+116
+00:07:19,950 --> 00:07:20,783
+All right.
+
+117
+00:07:20,890 --> 00:07:22,540
+All these things to keep in mind.
+

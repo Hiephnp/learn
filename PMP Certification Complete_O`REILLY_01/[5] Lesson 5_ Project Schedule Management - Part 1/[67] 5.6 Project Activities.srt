@@ -1,0 +1,593 @@
+﻿1
+00:00:06,010 --> 00:00:10,730
+Okay, in this video we're going to be
+covering activities, project activities.
+
+2
+00:00:11,390 --> 00:00:15,590
+And there are a couple of different ways
+of creating activities based on whether
+
+3
+00:00:15,591 --> 00:00:18,650
+it's a predictive life cycle or an agile
+life cycle.
+
+4
+00:00:18,970 --> 00:00:22,420
+So let's talk about the predictive first,
+predictive life cycle first.
+
+5
+00:00:22,970 --> 00:00:27,990
+Now, in a predictive environment,
+remember the basic breakdown, right,
+
+6
+00:00:28,150 --> 00:00:32,882
+the basic progressive
+elaboration, if you like, is you take
+
+7
+00:00:32,883 --> 00:00:36,890
+your project and then you
+decompose it into work packages.
+
+8
+00:00:37,510 --> 00:00:40,530
+So this is what we talked about in the
+scope management section when we were
+
+9
+00:00:40,531 --> 00:00:42,930
+talking about the work breakdown
+structure.
+
+10
+00:00:43,530 --> 00:00:46,130
+You create the work breakdown structure
+first, right?
+
+11
+00:00:46,370 --> 00:00:48,874
+So the weight breakdown
+structure is decomposing
+
+12
+00:00:48,875 --> 00:00:51,464
+your project down to the work package.
+
+13
+00:00:51,770 --> 00:00:53,630
+That is scope management.
+
+14
+00:00:54,610 --> 00:00:59,190
+In this section though, in this knowledge
+area, which is the schedule, schedule
+
+15
+00:00:59,191 --> 00:01:04,230
+management, we're taking this a step
+further, in which case we're taking each
+
+16
+00:01:04,231 --> 00:01:10,970
+individual work package and then further
+decomposing it into individual activities.
+
+17
+00:01:11,770 --> 00:01:16,190
+So each work package then is broken down
+into individual activities.
+
+18
+00:01:16,350 --> 00:01:18,900
+And remember the tooling technique is
+decomposition.
+
+19
+00:01:19,210 --> 00:01:23,890
+So the tooling technique in create work
+breakdown structure, right, tooling
+
+20
+00:01:23,891 --> 00:01:26,441
+technique in the scope management was
+decomposition.
+
+21
+00:01:26,710 --> 00:01:30,790
+Also here in schedule management as well,
+you're taking each work package and
+
+22
+00:01:30,791 --> 00:01:34,810
+further breaking it down, further
+decomposing it into individual activity.
+
+23
+00:01:35,610 --> 00:01:39,637
+Now, also as a review,
+remember, activities
+
+24
+00:01:39,638 --> 00:01:42,571
+are not part of the work
+breakdown structure.
+
+25
+00:01:43,070 --> 00:01:47,310
+The lowest level of the WBS is the work
+package.
+
+26
+00:01:48,170 --> 00:01:51,690
+If you ever see that in a question,
+the lowest level is a work package.
+
+27
+00:01:52,570 --> 00:01:55,990
+So activities officially are not part of
+the work package.
+
+28
+00:01:56,930 --> 00:02:03,050
+So it's a separate document altogether,
+separate artifact altogether, separate
+
+29
+00:02:03,051 --> 00:02:08,570
+process altogether of taking each work
+package and further decomposing it into
+
+30
+00:02:08,571 --> 00:02:14,630
+individual activities okay so let's look
+at this in a bit more detail so on my next
+
+31
+00:02:14,631 --> 00:02:20,370
+slide here I have the work breakdown
+structure example that we had in the
+
+32
+00:02:20,371 --> 00:02:25,590
+previous video right now one of the
+previous videos so here we have the
+
+33
+00:02:25,591 --> 00:02:29,930
+kitchen remodeling project we're breaking
+it down to appliances countertops cabinets
+
+34
+00:02:29,931 --> 00:02:33,130
+flooring there's all the work that needs
+to be done, then we're further breaking it
+
+35
+00:02:33,131 --> 00:02:37,310
+down, like the appliances, we need old
+apply, we can keep one of the old
+
+36
+00:02:37,311 --> 00:02:40,422
+appliances like the microwave,
+and we need some new
+
+37
+00:02:40,423 --> 00:02:42,970
+appliances like refrigerator
+oven and dishwasher.
+
+38
+00:02:43,590 --> 00:02:47,790
+So the lowest level of the work breakdown
+structure is the work package.
+
+39
+00:02:48,770 --> 00:02:51,450
+Now, this is the WBS.
+
+40
+00:02:52,050 --> 00:02:55,107
+Now, for each work package,
+we're going to further break
+
+41
+00:02:55,108 --> 00:02:59,530
+that down, further decompose
+that into individual activities.
+
+42
+00:02:59,970 --> 00:03:02,970
+So let's just take one of in this case the
+refrigerator.
+
+43
+00:03:03,690 --> 00:03:07,117
+So on the next slide here,
+we're further decomposing the
+
+44
+00:03:07,118 --> 00:03:11,210
+refrigerator, the work package
+refrigerator, into activities.
+
+45
+00:03:11,950 --> 00:03:14,587
+And what would be the activities for the
+refrigerator?
+
+46
+00:03:14,670 --> 00:03:19,430
+Things like select the refrigerator,
+order the refrigerator, deliver it,
+
+47
+00:03:20,310 --> 00:03:25,130
+install the fridge, and then finally test
+the installation of the refrigerator.
+
+48
+00:03:25,730 --> 00:03:30,950
+So these would be the activities related
+to the work package called refrigerator.
+
+49
+00:03:31,710 --> 00:03:38,124
+Now notice, this box down here, notice
+the use of verbs to describe activities.
+
+50
+00:03:38,490 --> 00:03:42,130
+That is what distinguishes an activity
+from a work package.
+
+51
+00:03:42,830 --> 00:03:45,230
+Verbs, action words, right?
+
+52
+00:03:45,590 --> 00:03:50,350
+Select refrigerator, order refrigerator,
+deliver refrigerator.
+
+53
+00:03:50,850 --> 00:03:52,147
+These are all action works.
+
+54
+00:03:52,230 --> 00:03:56,210
+These are all verbs, something that you
+do, some action that you take.
+
+55
+00:03:57,210 --> 00:04:00,190
+Whereas a work package, just a noun.
+
+56
+00:04:00,191 --> 00:04:01,510
+Just refrigerator.
+
+57
+00:04:02,250 --> 00:04:03,800
+This is what we are delivering.
+
+58
+00:04:04,390 --> 00:04:08,330
+But what are all the steps required to
+deliver this refrigerator?
+
+59
+00:04:08,910 --> 00:04:10,560
+These are all the steps involved.
+
+60
+00:04:10,950 --> 00:04:14,050
+And that's how you distinguish a work
+package from an activity.
+
+61
+00:04:15,090 --> 00:04:17,740
+Okay, now, what we just talked about was a
+predictive.
+
+62
+00:04:18,030 --> 00:04:21,590
+In an agile environment, remember,
+the breakdown is slightly different.
+
+63
+00:04:22,050 --> 00:04:24,050
+The decomposition is slightly different.
+
+64
+00:04:24,590 --> 00:04:26,230
+You have user stories.
+
+65
+00:04:27,150 --> 00:04:30,990
+And user stories are broken down into
+individual activities.
+
+66
+00:04:31,570 --> 00:04:34,370
+However, you start off with a high-level
+user story.
+
+67
+00:04:34,810 --> 00:04:38,390
+A high-level user story, just like
+high-level requirements, right?
+
+68
+00:04:38,530 --> 00:04:41,100
+You're in a predictive, you
+have a high-level requirement,
+
+69
+00:04:41,101 --> 00:04:44,850
+you're further breaking it
+down into detail requirements.
+
+70
+00:04:45,470 --> 00:04:47,127
+Same thing here in an agile environment.
+
+71
+00:04:47,210 --> 00:04:48,860
+You have high-level user stories.
+
+72
+00:04:49,110 --> 00:04:51,430
+A high-level user story
+is known as an epic,
+
+73
+00:04:51,431 --> 00:04:53,310
+very large user story, very high-level.
+
+74
+00:04:53,590 --> 00:04:55,110
+This is broken down, right?
+
+75
+00:04:55,830 --> 00:05:00,910
+An epic is broken down into features,
+and features then will also contain
+
+76
+00:05:00,911 --> 00:05:06,950
+capabilities but several features make up
+an epic now features then are further
+
+77
+00:05:06,951 --> 00:05:12,770
+broken down into individual user stories
+and a user story is a functionality right
+
+78
+00:05:12,771 --> 00:05:18,170
+the functionality that adds value to to
+the customer right and it meets this
+
+79
+00:05:18,171 --> 00:05:22,730
+criteria of invest which we'll talk about
+in the in the next slide and then each
+
+80
+00:05:22,731 --> 00:05:25,275
+user story then is further
+broken down further
+
+81
+00:05:25,276 --> 00:05:29,990
+decomposed into individual
+tasks or activities Okay.
+
+82
+00:05:31,070 --> 00:05:35,210
+Now, let's talk about this acronym now,
+invest, right, on this next slide here.
+
+83
+00:05:36,130 --> 00:05:40,910
+So a user story has to meet this acronym,
+if you like, it has to meet this criteria,
+
+84
+00:05:41,550 --> 00:05:41,630
+right?
+
+85
+00:05:42,050 --> 00:05:47,010
+And basically the old saying is, you need
+to invest in good user stories, right?
+
+86
+00:05:47,170 --> 00:05:51,490
+And invest stands for independent,
+negotiable, valuable, estimable,
+
+87
+00:05:52,170 --> 00:05:55,290
+size, which has to be small, right,
+and testable.
+
+88
+00:05:55,830 --> 00:05:58,530
+So a user story then, remember,
+it needs to be broken down, right?
+
+89
+00:05:58,610 --> 00:06:00,787
+You have a high-level user story,
+you're further breaking it down,
+
+90
+00:06:00,870 --> 00:06:05,670
+well, how do we know we've broken it down
+enough, enough to create our activities?
+
+91
+00:06:05,950 --> 00:06:08,952
+Well, we know we've
+broken it down enough if it's
+
+92
+00:06:08,953 --> 00:06:11,824
+independent, independent
+of other user stories.
+
+93
+00:06:12,330 --> 00:06:16,970
+So it's not one user story is dependent on
+another user story, right?
+
+94
+00:06:17,010 --> 00:06:21,430
+We can't have all these complex
+dependencies, so we need to break it down.
+
+95
+00:06:21,610 --> 00:06:25,150
+So there isn't a lot of dependencies
+between one and the other.
+
+96
+00:06:25,530 --> 00:06:27,430
+And therefore, it can be prioritized a lot
+easier.
+
+97
+00:06:27,431 --> 00:06:33,790
+right negotiable right a user story is not
+a contract you know more of a discussion
+
+98
+00:06:33,791 --> 00:06:37,150
+more of a conversation remember what we're
+trying to do we're trying to add value
+
+99
+00:06:37,151 --> 00:06:42,530
+we're trying to add value to the customer
+right so you know customer collaboration
+
+100
+00:06:42,531 --> 00:06:48,490
+instead of contract negotiation right so
+or rather over not instead of customer
+
+101
+00:06:48,491 --> 00:06:51,714
+collaboration over
+contract negotiation right
+
+102
+00:06:51,715 --> 00:06:55,010
+so we're not trying to
+create a contract, right?
+
+103
+00:06:55,170 --> 00:06:58,130
+I mean, a user story, it has to be agreed
+to.
+
+104
+00:06:58,610 --> 00:07:01,460
+It has to be more of a discussion,
+more of a conversation.
+
+105
+00:07:02,450 --> 00:07:04,490
+Also, valuable, right?
+
+106
+00:07:04,590 --> 00:07:08,490
+So it is going to actually provide some
+kind of business value to the customer.
+
+107
+00:07:08,990 --> 00:07:09,823
+And estimable.
+
+108
+00:07:09,950 --> 00:07:13,770
+It has to be small enough so that team
+members can actually prioritize.
+
+109
+00:07:14,270 --> 00:07:16,170
+They can estimate the level of effort.
+
+110
+00:07:16,350 --> 00:07:19,700
+So it has to be small enough so we can
+estimate the level of effort.
+
+111
+00:07:19,870 --> 00:07:22,179
+And that goes to the next acronym or next
+
+112
+00:07:22,180 --> 00:07:25,270
+part of the acronym
+S, right, which is size.
+
+113
+00:07:25,530 --> 00:07:26,930
+It has to be small enough.
+
+114
+00:07:27,330 --> 00:07:31,190
+It has to be small enough so we can break
+it into individual activities.
+
+115
+00:07:31,530 --> 00:07:34,170
+It has to be small enough so it can be
+prioritized.
+
+116
+00:07:34,950 --> 00:07:39,090
+And so it's, and it is independent of
+other user stories.
+
+117
+00:07:39,690 --> 00:07:43,923
+And it can be small enough
+so we can estimate the
+
+118
+00:07:43,924 --> 00:07:47,410
+relative size and it can
+meet our definition of done.
+
+119
+00:07:47,470 --> 00:07:49,510
+We can identify the definition of done.
+
+120
+00:07:49,890 --> 00:07:55,590
+And again, we defined what the definition
+of done was in an early video and then
+
+121
+00:07:55,591 --> 00:08:01,730
+testable right it's small enough so that
+we can test it and ensure it meets this
+
+122
+00:08:01,731 --> 00:08:05,950
+definition of done so these are a couple
+of different approaches then right to
+
+123
+00:08:05,951 --> 00:08:11,050
+creating the activities based on whether
+it's a predictive or whether it's an agile
+

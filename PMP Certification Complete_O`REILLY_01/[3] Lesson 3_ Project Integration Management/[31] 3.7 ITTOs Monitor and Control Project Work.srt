@@ -1,0 +1,374 @@
+﻿1
+00:00:06,010 --> 00:00:11,570
+Now we're covering monitor and control the
+project work ITTOs.
+
+2
+00:00:12,810 --> 00:00:18,270
+So we are now moving into the monitoring
+and controlling process group.
+
+3
+00:00:18,870 --> 00:00:20,920
+Please look at your process map for that.
+
+4
+00:00:21,730 --> 00:00:26,810
+With every one of them, we are reviewing
+tracking against the plan.
+
+5
+00:00:28,090 --> 00:00:30,250
+All right, we are in integration.
+
+6
+00:00:30,890 --> 00:00:37,850
+This is what we, the PMs, focus on because
+we are managing, coordinating every aspect
+
+7
+00:00:37,851 --> 00:00:43,310
+of that project all right so everything
+happening below rolls up to us in
+
+8
+00:00:43,311 --> 00:00:49,610
+integration so just keep that in mind so
+here you will track progress of the
+
+9
+00:00:49,611 --> 00:00:57,550
+project so you should be on page one zero
+five in your pinback so the inputs of
+
+10
+00:00:57,551 --> 00:01:04,570
+course your project management plan comes
+in it will contain all the components plus
+
+11
+00:01:04,571 --> 00:01:08,110
+the baselines Remember scope, time,
+and cost.
+
+12
+00:01:09,430 --> 00:01:11,290
+Our project documents will come in.
+
+13
+00:01:12,430 --> 00:01:16,870
+You can't memorize all these, so I don't
+need to cover each of these here.
+
+14
+00:01:18,270 --> 00:01:22,030
+Big, big, big will be work performance
+information.
+
+15
+00:01:23,770 --> 00:01:29,610
+So I know this is covered in another
+section, but we talked about data when we
+
+16
+00:01:29,611 --> 00:01:31,990
+were directing and managing the project
+work.
+
+17
+00:01:32,490 --> 00:01:35,990
+Everything happening below, because we
+were in executing, everything happened.
+
+18
+00:01:36,010 --> 00:01:41,790
+below rolls up to us we put all that data
+together those were your actuals raw
+
+19
+00:01:41,791 --> 00:01:48,430
+observations and measurements well each of
+the controlling processes below us
+
+20
+00:01:48,431 --> 00:01:53,430
+remember we're up in integration each of
+the monitoring and controlling processes
+
+21
+00:01:53,431 --> 00:02:00,250
+below us will compare the plan so that
+always comes in your project management
+
+22
+00:02:00,251 --> 00:02:03,718
+plan to the data what's
+actually happening the
+
+23
+00:02:03,719 --> 00:02:07,344
+plan includes the baselines
+what was approved.
+
+24
+00:02:07,850 --> 00:02:12,350
+We're comparing it to the data,
+what's actually happening in executing.
+
+25
+00:02:13,470 --> 00:02:15,790
+All right, we're trying to look for
+variance.
+
+26
+00:02:16,590 --> 00:02:19,809
+So you're going to see that
+every monitoring and controlling
+
+27
+00:02:19,810 --> 00:02:24,550
+process below us creates
+work performance information.
+
+28
+00:02:25,550 --> 00:02:26,730
+That is the progress.
+
+29
+00:02:27,610 --> 00:02:32,630
+Progress, if you look at your process map,
+progress of validating scope, progress
+
+30
+00:02:32,631 --> 00:02:35,737
+with controlling scope,
+progress with controlling the
+
+31
+00:02:35,738 --> 00:02:40,550
+schedule, progress with
+controlling our costs, etc.
+
+32
+00:02:41,770 --> 00:02:46,810
+Every single monitoring and controlling
+process below us will create information.
+
+33
+00:02:47,570 --> 00:02:50,830
+All that will feed up to us.
+
+34
+00:02:51,870 --> 00:02:58,090
+We're going to put all that progress
+called information together to create work
+
+35
+00:02:58,091 --> 00:03:01,010
+performance reports that will go out to
+our stakeholders.
+
+36
+00:03:01,950 --> 00:03:03,950
+So that's where work performance.
+
+37
+00:03:03,970 --> 00:03:09,870
+information comes from all the monitoring
+and controlling processes below progress
+
+38
+00:03:09,871 --> 00:03:17,350
+so we up at the top in integration are
+comparing our plan what was agreed upon to
+
+39
+00:03:17,351 --> 00:03:24,150
+the information the total progress what
+else comes in agreements because we do
+
+40
+00:03:24,151 --> 00:03:28,850
+have to make sure we're meeting
+contractual obligations and then you have
+
+41
+00:03:28,851 --> 00:03:32,124
+those EEFs and OPAs
+so tools and techniques
+
+42
+00:03:32,125 --> 00:03:35,650
+will use expert judgment
+We'll do data analysis.
+
+43
+00:03:36,530 --> 00:03:39,330
+So the big thing we're looking for here is
+variance.
+
+44
+00:03:40,170 --> 00:03:46,570
+Are we off from our plan baselines so that
+we can quickly take action?
+
+45
+00:03:47,110 --> 00:03:49,554
+We're looking for variance as are every
+
+46
+00:03:49,555 --> 00:03:53,664
+monitoring and controlling
+process below us.
+
+47
+00:03:53,930 --> 00:03:59,310
+Doing so, we will then look for alternatives
+if things aren't going quite right.
+
+48
+00:03:59,590 --> 00:04:03,310
+What are different alternative ways of
+doing things?
+
+49
+00:04:03,970 --> 00:04:05,570
+do a cost benefit analysis.
+
+50
+00:04:06,390 --> 00:04:09,140
+The benefit should always outweigh the
+costs, of course.
+
+51
+00:04:09,570 --> 00:04:13,641
+And we will also do earn
+value analysis that will
+
+52
+00:04:13,642 --> 00:04:17,870
+be covered in detail when
+we're controlling costs.
+
+53
+00:04:18,430 --> 00:04:22,390
+So you'll see when controlling schedule
+and costs are done together.
+
+54
+00:04:23,630 --> 00:04:26,647
+We're actually monitoring
+and controlling every bit, but
+
+55
+00:04:26,648 --> 00:04:29,990
+that's where we will actually
+calculate earned value.
+
+56
+00:04:30,450 --> 00:04:33,590
+All right, we will also do root cause
+analysis.
+
+57
+00:04:33,890 --> 00:04:39,790
+If something is wrong, we need to find out
+what actually caused it.
+
+58
+00:04:40,490 --> 00:04:46,810
+So you'll see later, cause and effect
+diagrams are used, aka Ishikawa,
+
+59
+00:04:47,310 --> 00:04:48,310
+fish phone diagrams.
+
+60
+00:04:48,850 --> 00:04:55,184
+We need to uncover what's causing a problem
+so we can implement preventive action.
+
+61
+00:04:55,450 --> 00:04:56,500
+We'll make decisions.
+
+62
+00:04:56,930 --> 00:04:58,680
+It's not always just us, of course.
+
+63
+00:04:59,550 --> 00:05:01,970
+So we are team members can vote.
+
+64
+00:05:02,450 --> 00:05:08,050
+And of course, we, we're having a meeting
+to review every aspect of the project.
+
+65
+00:05:08,830 --> 00:05:12,119
+So big, big, big,
+information progress came
+
+66
+00:05:12,120 --> 00:05:16,024
+in from all the controlling
+processes below.
+
+67
+00:05:16,270 --> 00:05:22,124
+We put all that information progress
+together to create work performance reports.
+
+68
+00:05:22,770 --> 00:05:26,070
+That contains everything that's happening
+with our project.
+
+69
+00:05:26,650 --> 00:05:30,030
+It's and reports will be sent out to
+stakeholders.
+
+70
+00:05:30,870 --> 00:05:34,420
+Whoever wants to know what's happening
+with every aspect of the project.
+
+71
+00:05:35,110 --> 00:05:36,930
+It's with work performance reports.
+
+72
+00:05:37,470 --> 00:05:44,110
+We raise awareness, take action,
+and can make decisions only with the work
+
+73
+00:05:44,111 --> 00:05:48,744
+performance reports, knowing what's
+happening with every aspect of the project.
+
+74
+00:05:49,250 --> 00:05:51,430
+Things aren't progressing as planned.
+
+75
+00:05:52,150 --> 00:05:52,983
+Change requests.
+
+76
+00:05:53,810 --> 00:05:58,150
+Still has to go to perform integrated
+change control, but if the change request
+
+77
+00:05:58,151 --> 00:06:03,650
+is approved, we update any plans that
+include baselines and documents accordingly.
+
+78
+00:06:03,890 --> 00:06:06,230
+That's a trio every time.
+

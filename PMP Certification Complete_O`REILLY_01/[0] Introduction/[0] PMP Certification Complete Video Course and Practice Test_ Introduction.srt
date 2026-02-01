@@ -1,0 +1,496 @@
+﻿1
+00:00:06,640 --> 00:00:10,200
+Hello and welcome to the P&P Certification
+Complete video course.
+
+2
+00:00:10,760 --> 00:00:14,090
+My name is Asad Hauck and
+I'm the founder and owner of
+
+3
+00:00:14,091 --> 00:00:17,111
+First Choice Project Management
+Training based in Chicago.
+
+4
+00:00:17,460 --> 00:00:21,652
+I've been teaching PMP
+since 2010, the year I turned my
+
+5
+00:00:21,653 --> 00:00:24,741
+PMP certificate and back
+then it was based on PIMBock 4.
+
+6
+00:00:25,040 --> 00:00:28,373
+Over the years I've become
+well versed with all the exam
+
+7
+00:00:28,374 --> 00:00:31,100
+changes through to the
+current exam content outline.
+
+8
+00:00:31,860 --> 00:00:35,837
+So I totally understand what you are going
+through right now with all this studying.
+
+9
+00:00:35,920 --> 00:00:37,240
+I've been there myself.
+
+10
+00:00:38,420 --> 00:00:42,860
+My background has primarily been in the IT
+world and mostly HRS consulting,
+
+11
+00:00:43,160 --> 00:00:46,160
+but also in finance and accounting and
+regulatory compliance.
+
+12
+00:00:47,280 --> 00:00:52,280
+After 20 plus years as an IT professional,
+I decided to move into the training side
+
+13
+00:00:52,281 --> 00:00:56,900
+of things and really to teach people how
+to manage projects properly after
+
+14
+00:00:56,901 --> 00:01:00,700
+experiencing so many inefficiencies and
+management failures over the years.
+
+15
+00:01:01,000 --> 00:01:05,160
+In addition to PMP, I also teach
+fundamentals of project management,
+
+16
+00:01:05,161 --> 00:01:10,140
+facilitate leadership and strategic
+business management training, and develop
+
+17
+00:01:10,141 --> 00:01:14,540
+training curriculum for corporations,
+including this one, which I developed for
+
+18
+00:01:14,541 --> 00:01:19,720
+Pearson with the assistance of my fellow
+PMP instructor here, Kimberly Casperson.
+
+19
+00:01:20,760 --> 00:01:23,460
+Hi, I'm Kimberly Casperson PMP.
+
+20
+00:01:24,120 --> 00:01:28,231
+I'm the CEO and owner
+of KJC Consulting and PM
+
+21
+00:01:28,232 --> 00:01:31,880
+Training LLC, a veteran and
+woman-owned small business.
+
+22
+00:01:31,881 --> 00:01:38,140
+I am an adjunct instructor to universities
+and have been instructing PMP prep classes
+
+23
+00:01:38,141 --> 00:01:42,720
+full-time working on small projects on the
+side since November 2012.
+
+24
+00:01:43,380 --> 00:01:49,240
+My background includes over 11 years of
+training, as well as over 20 years of
+
+25
+00:01:49,241 --> 00:01:53,440
+project management and consulting in a
+variety of industries including
+
+26
+00:01:53,441 --> 00:01:58,180
+healthcare, marketing, biopharmaceutical
+research, and construction services.
+
+27
+00:01:58,400 --> 00:01:59,540
+I am a U.S.
+
+28
+00:01:59,720 --> 00:02:01,820
+Air Force veteran, voice processor,
+career.
+
+29
+00:02:01,880 --> 00:02:05,090
+and linguist and have
+worked for the Department of
+
+30
+00:02:05,091 --> 00:02:08,171
+Defense and the state of Ohio's
+Department of Development.
+
+31
+00:02:08,660 --> 00:02:13,680
+The primary purpose of this video course
+is to teach you how to pass the PMP exam.
+
+32
+00:02:14,240 --> 00:02:17,760
+This course will lead you through the
+topics you need to know as well as
+
+33
+00:02:17,761 --> 00:02:22,180
+pointers on how to navigate through the
+ambiguous PMP exam questions.
+
+34
+00:02:22,900 --> 00:02:28,200
+It will be important for you to study the
+lessons and flashcards plus take those
+
+35
+00:02:28,201 --> 00:02:31,916
+simulated exams that are
+provided to fully prepare
+
+36
+00:02:31,917 --> 00:02:36,040
+can't tell you how important
+those simulated exams are.
+
+37
+00:02:36,060 --> 00:02:42,520
+The PMP exam changed in January 2021 and
+one of the major changes was that 50% of
+
+38
+00:02:42,521 --> 00:02:45,749
+the exam is now based
+on agile and hybrid concepts
+
+39
+00:02:45,750 --> 00:02:48,774
+and 50% on traditional
+predictive principles.
+
+40
+00:02:49,220 --> 00:02:53,680
+Agile and predictive are two conflicting
+styles of project management but
+
+41
+00:02:53,681 --> 00:02:57,520
+understanding both of these styles is now
+required by PMI.
+
+42
+00:02:58,020 --> 00:03:02,340
+This complete video course will lead you
+through all the concepts of predictive and
+
+43
+00:03:02,341 --> 00:03:07,380
+agile, plus the older new topics that you
+need to know, as well as exam technique.
+
+44
+00:03:08,340 --> 00:03:11,586
+Success, however, is
+going to depend on you, the
+
+45
+00:03:11,587 --> 00:03:14,331
+candidate, having the
+right approach to studying.
+
+46
+00:03:14,760 --> 00:03:18,980
+And this is what we will start off with in
+lesson one getting prepared for the exam.
+
+47
+00:03:19,520 --> 00:03:22,848
+Here we introduce you to the
+format of the exam, the types
+
+48
+00:03:22,849 --> 00:03:26,400
+of questions you will encounter,
+as well as some exam tips.
+
+49
+00:03:27,220 --> 00:03:32,160
+We will continue on to lesson two learning
+foundational concepts which discusses the
+
+50
+00:03:32,161 --> 00:03:36,220
+basic definitions and terminology that we
+build on in subsequent lessons.
+
+51
+00:03:36,740 --> 00:03:40,980
+In all lessons, we will discuss both
+predictive and agile concepts.
+
+52
+00:03:41,760 --> 00:03:47,360
+In lesson three, project integration
+management, I'll discuss how the project
+
+53
+00:03:47,361 --> 00:03:52,160
+manager integrates the planning,
+executing, and monitoring activities to
+
+54
+00:03:52,161 --> 00:03:56,360
+lead project teams through the project,
+from beginning to end.
+
+55
+00:03:57,940 --> 00:04:01,680
+In Lesson 4, Project Scope Management,
+I will cover the importance of collecting
+
+56
+00:04:01,681 --> 00:04:05,540
+a good set of requirements, creating a
+scope statement and the work breakdown
+
+57
+00:04:05,541 --> 00:04:09,300
+structure to understand the work necessary
+to complete the project.
+
+58
+00:04:09,860 --> 00:04:13,660
+Project Schedule Management covers
+estimating duration using various
+
+59
+00:04:13,661 --> 00:04:17,340
+estimating tools for both predictive and
+agile environments.
+
+60
+00:04:17,960 --> 00:04:21,920
+Because this is a large topic area,
+it has been broken down into two lessons,
+
+61
+00:04:22,460 --> 00:04:24,200
+Lesson 5 and Lesson 6.
+
+62
+00:04:24,600 --> 00:04:29,600
+In Lesson 7, I will be covering cost
+management, which includes estimating
+
+63
+00:04:29,601 --> 00:04:32,460
+costs on the project and developing the
+budget.
+
+64
+00:04:33,180 --> 00:04:36,280
+One of the key success factors of a
+project is having a good quality
+
+65
+00:04:36,281 --> 00:04:39,054
+management process, and that is a topic of
+
+66
+00:04:39,055 --> 00:04:42,134
+discussion in Lesson
+8, Quality Management.
+
+67
+00:04:42,320 --> 00:04:46,480
+Here I will talk about the importance of
+the various quality tools and the
+
+68
+00:04:46,481 --> 00:04:49,980
+differences between quality assurance and
+quality control.
+
+69
+00:04:51,060 --> 00:04:54,860
+Now, you cannot perform a project without
+a team.
+
+70
+00:04:55,580 --> 00:04:58,398
+Project Resource Management
+discusses a management
+
+71
+00:04:58,399 --> 00:05:01,100
+of physical and team
+resources on a project.
+
+72
+00:05:01,660 --> 00:05:05,300
+Project Resource Management is another
+huge topic, and again, it has been broken
+
+73
+00:05:05,301 --> 00:05:08,500
+down into two lessons, lesson nine and
+lesson 10.
+
+74
+00:05:08,980 --> 00:05:13,180
+In these lessons, I will discuss the
+different roles on a project and introduce
+
+75
+00:05:13,181 --> 00:05:16,240
+new leadership topics that have been added
+for the new exam.
+
+76
+00:05:16,960 --> 00:05:20,471
+In lesson 11, Project Communication
+Management, I'll explain
+
+77
+00:05:20,472 --> 00:05:23,557
+the importance of communication
+throughout the project and
+
+78
+00:05:23,558 --> 00:05:27,054
+discuss some of the
+tools that we will use.
+
+79
+00:05:27,340 --> 00:05:31,760
+Lesson 12, project risk management is
+another area of critical focus for a
+
+80
+00:05:31,761 --> 00:05:35,960
+project manager because risks impact every
+area of a project.
+
+81
+00:05:36,520 --> 00:05:38,838
+In this lesson, I will talk about planning
+
+82
+00:05:38,839 --> 00:05:41,540
+risks, analyzing risks
+and responding to risks.
+
+83
+00:05:41,940 --> 00:05:46,460
+Many projects require resources from
+outside of the organization, such as
+
+84
+00:05:46,461 --> 00:05:49,020
+equipment, materials, consultants and
+contractors.
+
+85
+00:05:49,021 --> 00:05:54,500
+I will discuss the management of these
+external resources in Lesson 13,
+
+86
+00:05:54,620 --> 00:05:56,260
+Project Resource Management.
+
+87
+00:05:57,100 --> 00:06:02,080
+Last is Lesson 14, Project Stakeholder
+Management, which I discussed the
+
+88
+00:06:02,081 --> 00:06:07,180
+importance of identifying and engaging our
+stakeholders, leading to project success.
+
+89
+00:06:07,700 --> 00:06:11,049
+In addition to these videos,
+it is again important for you
+
+90
+00:06:11,050 --> 00:06:14,280
+to take practice exams as part
+of this complete video course.
+
+91
+00:06:14,480 --> 00:06:19,000
+You have access to quizzes and simulated
+exams, and you will need to take these.
+
+92
+00:06:19,020 --> 00:06:22,660
+simulated exams in order to practice exam
+technique.
+
+93
+00:06:22,840 --> 00:06:28,120
+We also highly recommend that you download
+a copy of PIMBOC version 6 and the Agile
+
+94
+00:06:28,121 --> 00:06:31,560
+Practice Guide and use these as a
+reference throughout your studies.
+
+95
+00:06:31,700 --> 00:06:37,500
+If you're a member of PMI or you can
+download these guides for free from the pm
+
+96
+00:06:37,501 --> 00:06:42,000
+.i.org website, but you do have to be a
+member in order to get these for free.
+
+97
+00:06:42,240 --> 00:06:44,467
+The Agile Practice
+Guide is appended at the
+
+98
+00:06:44,468 --> 00:06:46,914
+end of the PIMBOC guide when downloaded.
+
+99
+00:06:47,580 --> 00:06:50,500
+Even though this will be a very intensive
+training course.
+
+100
+00:06:50,620 --> 00:06:52,770
+Kimberly and I hope you all enjoy the
+class.
+
+101
+00:06:53,120 --> 00:06:54,400
+So let's get started.
+

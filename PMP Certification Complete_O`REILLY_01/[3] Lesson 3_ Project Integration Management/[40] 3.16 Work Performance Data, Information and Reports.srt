@@ -1,0 +1,328 @@
+﻿1
+00:00:06,010 --> 00:00:11,290
+Let's talk about work performance data,
+information, and reports.
+
+2
+00:00:12,790 --> 00:00:17,850
+So work performance data, when we are
+doing the work of the project,
+
+3
+00:00:18,150 --> 00:00:22,430
+we are in the executing process group,
+doing the work of the project.
+
+4
+00:00:23,070 --> 00:00:26,710
+So that's where we create data.
+
+5
+00:00:27,490 --> 00:00:31,810
+Our team is working to create the
+deliverables of the project.
+
+6
+00:00:32,530 --> 00:00:32,730
+All right.
+
+7
+00:00:33,410 --> 00:00:35,990
+So I want you to think of work
+performance.
+
+8
+00:00:35,991 --> 00:00:41,290
+performance data as raw observations and
+measurements taken during executing.
+
+9
+00:00:42,410 --> 00:00:46,460
+As we're doing the work of the project,
+our team is doing the work of the project,
+
+10
+00:00:46,870 --> 00:00:48,170
+creating the deliverables.
+
+11
+00:00:48,590 --> 00:00:55,230
+These are our actuals, like number of
+change requests, number of validation
+
+12
+00:00:55,231 --> 00:01:02,990
+cycles, actual start dates, actual finish
+dates, actual durations, actual costs.
+
+13
+00:01:03,510 --> 00:01:05,530
+Okay, so these are the things.
+
+14
+00:01:06,290 --> 00:01:09,950
+that are considered data, actuals.
+
+15
+00:01:10,290 --> 00:01:11,590
+So just keep that in mind.
+
+16
+00:01:11,750 --> 00:01:17,130
+So an example that we have on this second
+slide, task A finished June 1st.
+
+17
+00:01:17,770 --> 00:01:19,270
+We've spent 10,000.
+
+18
+00:01:20,110 --> 00:01:25,504
+We would list the number of change requests
+we've received at this point in time.
+
+19
+00:01:25,590 --> 00:01:28,390
+Okay, that is data, data.
+
+20
+00:01:29,050 --> 00:01:32,453
+Now, work performance
+data will feed into every
+
+21
+00:01:32,454 --> 00:01:35,751
+controlling process, monitoring
+and controlling process.
+
+22
+00:01:35,990 --> 00:01:42,430
+Because of monitoring and controlling,
+we're comparing our plan, our baselines,
+
+23
+00:01:42,910 --> 00:01:46,930
+scope, schedule, cost baselines,
+to the data.
+
+24
+00:01:47,090 --> 00:01:48,390
+What's actually happening?
+
+25
+00:01:48,650 --> 00:01:50,250
+We're looking for variance.
+
+26
+00:01:51,370 --> 00:01:55,910
+Our plan, which includes our baselines,
+is what was agreed upon.
+
+27
+00:01:56,490 --> 00:02:01,130
+We have to compare to what is actually
+being done.
+
+28
+00:02:01,790 --> 00:02:03,910
+Again, we're looking for variance.
+
+29
+00:02:03,911 --> 00:02:13,150
+So that comparison between our plan,
+which in the baselines, compared to data,
+
+30
+00:02:13,730 --> 00:02:20,570
+actuals, will give us what is called work
+performance information, progress,
+
+31
+00:02:21,690 --> 00:02:25,670
+progress, and this will be for every
+knowledge area.
+
+32
+00:02:27,010 --> 00:02:29,930
+Scope, schedule, cost, quality,
+on down.
+
+33
+00:02:29,931 --> 00:02:36,590
+all right so we compare the data to the
+plan what was agreed upon to figure out
+
+34
+00:02:36,591 --> 00:02:45,350
+our progress so the example for this
+information progress task a finished a
+
+35
+00:02:45,351 --> 00:02:52,830
+month late notice the difference this is
+the progress we're a month late whereas up
+
+36
+00:02:52,831 --> 00:02:58,140
+here just data this is when it
+finished comparing data what
+
+37
+00:02:58,160 --> 00:03:03,050
+actually happened to to the
+plan baselines give us progress.
+
+38
+00:03:03,530 --> 00:03:06,350
+Oh, we are a month late with task A.
+
+39
+00:03:07,450 --> 00:03:10,110
+We are 20,000 over budget.
+
+40
+00:03:12,530 --> 00:03:15,710
+Up here, data was just saying we've spent
+10,000.
+
+41
+00:03:16,030 --> 00:03:17,650
+That's our actual cost.
+
+42
+00:03:18,850 --> 00:03:22,489
+That tells us nothing
+really until we compare it
+
+43
+00:03:22,490 --> 00:03:25,630
+to what was agreed upon
+in our plan, our baselines.
+
+44
+00:03:26,010 --> 00:03:27,290
+We're 20,000 over.
+
+45
+00:03:28,130 --> 00:03:34,530
+So our progress will give us status of our
+deliverables what how we are progressing
+
+46
+00:03:34,531 --> 00:03:42,250
+with our project all the progress all the
+work performance information that we just
+
+47
+00:03:42,251 --> 00:03:48,130
+discussed that we will create comes out of
+every single monitoring and controlling
+
+48
+00:03:48,131 --> 00:03:55,150
+process what's the progress with the scope
+the schedule the cost quality etc is all
+
+49
+00:03:55,151 --> 00:04:03,430
+compiled into work performance reports
+Now, reports go out to stakeholders.
+
+50
+00:04:06,840 --> 00:04:13,520
+Reports are used to raise awareness,
+take action, and make decisions.
+
+51
+00:04:13,960 --> 00:04:17,457
+That's really important, so make sure to
+write that down somewhere, okay?
+
+52
+00:04:17,540 --> 00:04:19,760
+Reports go out to stakeholders.
+
+53
+00:04:21,020 --> 00:04:27,000
+It is with work performance reports that
+we, we, because we're sending out the
+
+54
+00:04:27,001 --> 00:04:33,614
+reports, we will raise awareness, take
+action and make decisions based on reports.
+
+55
+00:04:33,940 --> 00:04:37,040
+Reports are what's happening with every
+aspect of the project.
+
+56
+00:04:37,640 --> 00:04:40,339
+We're putting all the
+progress together, all that work
+
+57
+00:04:40,340 --> 00:04:44,520
+performance information
+together to create those reports.
+
+58
+00:04:45,580 --> 00:04:48,769
+Again, if you look at this third
+bullet, because I've mentioned
+
+59
+00:04:48,770 --> 00:04:52,320
+everything else already,
+reports go out to stakeholders.
+
+60
+00:04:52,620 --> 00:04:55,223
+So, yep, they'll be
+communicated to the stakeholders
+
+61
+00:04:55,224 --> 00:04:57,720
+because this is how
+we will raise awareness.
+
+62
+00:04:58,640 --> 00:05:01,100
+The reports are used to make.
+
+63
+00:05:01,120 --> 00:05:09,160
+decisions take action all right so types
+of reports and we'll talk about these in
+
+64
+00:05:09,161 --> 00:05:16,560
+the upcoming lesson status reports how the
+project currently stands okay status they
+
+65
+00:05:16,561 --> 00:05:23,700
+can be in the form of charts graphs tables
+all right so there are all kinds of
+
+66
+00:05:23,701 --> 00:05:29,800
+different ways reports can be depicted in
+agile their information radiators all
+
+67
+00:05:29,801 --> 00:05:36,340
+right showing what's happening with every
+aspect of the project like con bond boards
+
+68
+00:05:36,341 --> 00:05:42,080
+burn up burn down charts those are
+discussed in more detail on upcoming
+
+69
+00:05:42,081 --> 00:05:45,060
+lessons as well so hang in there for more
+information
+

@@ -1,0 +1,846 @@
+﻿1
+00:00:06,610 --> 00:00:09,503
+Okay, so in this video we're
+going to be talking about
+
+2
+00:00:09,504 --> 00:00:12,650
+some agile considerations
+for developing the schedule.
+
+3
+00:00:13,430 --> 00:00:17,230
+Now remember, basic difference between
+predictive and an agile.
+
+4
+00:00:17,810 --> 00:00:20,511
+In a predictive life cycle,
+the project manager
+
+5
+00:00:20,512 --> 00:00:22,750
+is the command and
+control project manager.
+
+6
+00:00:23,270 --> 00:00:27,850
+So the project manager is the one that is
+going to be developing the schedule.
+
+7
+00:00:28,310 --> 00:00:31,470
+The project manager is the one that is
+planning all the work on the project
+
+8
+00:00:31,471 --> 00:00:35,030
+manager is the one that is delegating
+tasks to team members.
+
+9
+00:00:36,010 --> 00:00:38,770
+That is not the case when it comes to
+Agile.
+
+10
+00:00:40,050 --> 00:00:43,970
+When it comes to Agile, it's a team that
+is responsible.
+
+11
+00:00:44,490 --> 00:00:48,470
+In the Agile environment, you don't have a
+command and control project manager.
+
+12
+00:00:49,110 --> 00:00:52,410
+You have the servant leader, who is a team
+facilitator.
+
+13
+00:00:53,390 --> 00:00:57,190
+And so it's a team that is responsible for
+the leadership.
+
+14
+00:00:57,750 --> 00:01:02,710
+It is a team that is responsible for the
+work that is going to be performed during
+
+15
+00:01:02,711 --> 00:01:07,070
+the sprint, during the release,
+it is a team that is going to be
+
+16
+00:01:07,071 --> 00:01:09,770
+determining what work needs to be done
+when.
+
+17
+00:01:09,830 --> 00:01:14,050
+So it's a team that's going to be
+developing the schedule, right,
+
+18
+00:01:14,150 --> 00:01:17,050
+if you like, right, when it comes to the
+agile environment.
+
+19
+00:01:17,590 --> 00:01:19,670
+Now, there are two basic approaches.
+
+20
+00:01:20,310 --> 00:01:23,530
+You have this one here, called the
+iterative scheduling with a product
+
+21
+00:01:23,531 --> 00:01:27,030
+backlog, and this is the one that is more
+commonly talked about.
+
+22
+00:01:27,350 --> 00:01:31,270
+So it's a team that's going to be
+determining the work, right?
+
+23
+00:01:31,310 --> 00:01:37,250
+So at the beginning of a project during
+release, the product owner and the team
+
+24
+00:01:37,251 --> 00:01:42,230
+and the team facilitator, right,
+they're going to be creating or collecting
+
+25
+00:01:42,231 --> 00:01:47,210
+the requirements, collecting the user
+stories, if you like, and the product
+
+26
+00:01:47,211 --> 00:01:51,050
+owner is going to be prioritizing these
+user stories.
+
+27
+00:01:51,490 --> 00:01:54,374
+The prioritized list
+of user stories for an
+
+28
+00:01:54,375 --> 00:01:57,944
+entire release is known
+as the product backlog.
+
+29
+00:01:58,550 --> 00:02:01,750
+And so during this time, during release
+planning then.
+
+30
+00:02:02,230 --> 00:02:04,639
+The team themselves are then going to be
+
+31
+00:02:04,640 --> 00:02:07,630
+determining how many
+sprints are we going to have?
+
+32
+00:02:07,910 --> 00:02:13,530
+You know, we have this many backlog items,
+these, this many user stories.
+
+33
+00:02:13,870 --> 00:02:17,420
+So how many user stories are we going to
+be implementing in each sprint?
+
+34
+00:02:17,890 --> 00:02:21,850
+Which user stories are going to be
+implemented during the different sprints?
+
+35
+00:02:22,530 --> 00:02:24,630
+How long user stories are going to take?
+
+36
+00:02:24,870 --> 00:02:28,450
+Or rather, what's a level of effort if
+each of these user stories, right?
+
+37
+00:02:28,530 --> 00:02:29,530
+And so and so forth.
+
+38
+00:02:29,870 --> 00:02:35,150
+So they're going to be using remember what
+is known as rolling wave planning right so
+
+39
+00:02:35,151 --> 00:02:39,150
+remember what rolling wave planning is
+it's planning near-term items in detail
+
+40
+00:02:39,151 --> 00:02:44,750
+longer term items at a much more higher
+level so in this case a near-term item
+
+41
+00:02:44,751 --> 00:02:49,870
+then are going to be each sprint right
+each iteration so you're going to be
+
+42
+00:02:49,871 --> 00:02:55,670
+planning or rather the team is going to be
+planning the next iteration in a lot more
+
+43
+00:02:55,671 --> 00:03:00,450
+detail you know then subsequent iterations
+each iteration is first going to be
+
+44
+00:03:00,451 --> 00:03:05,510
+planned at a very high level, but then as
+you're getting to each iteration,
+
+45
+00:03:06,350 --> 00:03:09,710
+you're going to be planning each iteration
+in more and more detail.
+
+46
+00:03:10,250 --> 00:03:12,390
+So that is what rolling wave planning is.
+
+47
+00:03:12,710 --> 00:03:17,710
+It is planning near-term items in detail,
+longer term at much more higher level.
+
+48
+00:03:18,190 --> 00:03:24,130
+Now also remember, PMI will use the term
+iteration and sprint interchangeably.
+
+49
+00:03:25,070 --> 00:03:28,146
+So in an agile environment,
+you have short-term
+
+50
+00:03:28,147 --> 00:03:31,144
+iterations, which are known as sprints.
+
+51
+00:03:31,450 --> 00:03:35,930
+And so this then obviously allows for
+changes throughout the release and the
+
+52
+00:03:35,931 --> 00:03:39,881
+whole idea, the whole principle behind
+Agile is obviously it allows for changes,
+
+53
+00:03:40,210 --> 00:03:40,270
+right?
+
+54
+00:03:40,350 --> 00:03:43,710
+There's new user stories that are that
+have been identified.
+
+55
+00:03:44,830 --> 00:03:46,070
+They can be added.
+
+56
+00:03:46,770 --> 00:03:50,850
+Other user stories can be removed or can
+be lower priority.
+
+57
+00:03:51,270 --> 00:03:55,410
+I remember again with the whole principle
+behind Agile is that you are delivering,
+
+58
+00:03:55,690 --> 00:03:56,150
+right?
+
+59
+00:03:56,230 --> 00:03:58,210
+You are delivering functionality.
+
+60
+00:03:59,390 --> 00:04:03,570
+delivering business value early and
+incrementally.
+
+61
+00:04:05,950 --> 00:04:10,470
+So every two weeks or four weeks,
+depending on the length of the sprint,
+
+62
+00:04:11,370 --> 00:04:15,329
+the team is going to be
+delivering value to the customer,
+
+63
+00:04:15,330 --> 00:04:18,250
+the customer in this case
+being the product owner.
+
+64
+00:04:19,730 --> 00:04:23,270
+So the team is the one that is going to be
+responsible.
+
+65
+00:04:23,590 --> 00:04:27,710
+The team is responsible for planning the
+work that they need to do.
+
+66
+00:04:27,711 --> 00:04:33,190
+The product owner is not delegating tasks
+to the team.
+
+67
+00:04:33,470 --> 00:04:37,490
+The team facilitator is not delegating
+tasks to the team.
+
+68
+00:04:37,950 --> 00:04:41,706
+The agile team themselves are
+determining what work they are
+
+69
+00:04:41,707 --> 00:04:44,811
+going to be performing when
+they're going to be performing.
+
+70
+00:04:45,410 --> 00:04:47,770
+So that's a little exam tip there as well.
+
+71
+00:04:48,670 --> 00:04:53,970
+If you're in an agile environment,
+if the question is an agile question and
+
+72
+00:04:53,971 --> 00:04:59,790
+they start talking or give option choices
+about the project manager delegating tasks
+
+73
+00:04:59,791 --> 00:05:04,530
+to the agile team, that's going to be the
+wrong option, right?
+
+74
+00:05:04,930 --> 00:05:09,970
+The project manager does not delegate
+tasks, right, to the agile team.
+
+75
+00:05:10,050 --> 00:05:12,470
+The team facilitator does not delegate
+tasks.
+
+76
+00:05:13,130 --> 00:05:16,610
+The product owner does not delegate task
+to the agile team.
+
+77
+00:05:16,850 --> 00:05:20,965
+The project manager
+delegates tasks to a predictive,
+
+78
+00:05:20,966 --> 00:05:24,670
+or to the project team
+in a predictive life cycle.
+
+79
+00:05:24,671 --> 00:05:29,570
+So always kind of watch out for that when
+you're looking at these Agile questions.
+
+80
+00:05:30,970 --> 00:05:34,030
+Now, so these user stories then are going
+to be prioritized.
+
+81
+00:05:34,850 --> 00:05:38,173
+So again, remember,
+the team is responsible for
+
+82
+00:05:38,174 --> 00:05:40,661
+determining what tasks
+need to be done when.
+
+83
+00:05:41,390 --> 00:05:43,881
+And the whole principle
+behind Agile is high
+
+84
+00:05:43,882 --> 00:05:47,144
+value items are going
+to be delivered early.
+
+85
+00:05:47,470 --> 00:05:48,727
+So they need to be prioritized.
+
+86
+00:05:48,810 --> 00:05:52,527
+So we've got the prioritized list of user
+stories called the product backlog.
+
+87
+00:05:52,610 --> 00:05:54,650
+But then within each sprint, there's going
+to be.
+
+88
+00:05:54,670 --> 00:05:57,770
+going to be a prioritized list of user
+stories within a sprint.
+
+89
+00:05:58,310 --> 00:06:01,910
+And each of these user stories then are
+going to be broken up, further broken
+
+90
+00:06:01,911 --> 00:06:05,370
+down, further decomposed into individual
+tasks.
+
+91
+00:06:06,870 --> 00:06:10,990
+And of course, I mean the official
+definition of a user story is it's a small
+
+92
+00:06:10,991 --> 00:06:13,581
+piece of functionality that basically adds
+
+93
+00:06:13,582 --> 00:06:16,764
+value, that provides
+value to the customer.
+
+94
+00:06:16,950 --> 00:06:19,736
+Of course, new user stories
+can be added to the backlog at
+
+95
+00:06:19,737 --> 00:06:22,870
+any time, even within a sprint
+as well, even within a sprint.
+
+96
+00:06:22,871 --> 00:06:28,870
+If it's determined, a new user story has
+been identified that is very high priority
+
+97
+00:06:28,871 --> 00:06:33,150
+even within a sprint, then a new user
+story can also be implemented.
+
+98
+00:06:34,450 --> 00:06:35,970
+You try to avoid that.
+
+99
+00:06:36,770 --> 00:06:40,290
+That is something that within a sprint,
+you're going to try and avoid,
+
+100
+00:06:40,490 --> 00:06:42,190
+but sometimes it's unavoidable.
+
+101
+00:06:43,090 --> 00:06:46,550
+And so user stories then are going to be
+prioritized, reprioritized.
+
+102
+00:06:46,930 --> 00:06:50,610
+New user stories are going to be coming in
+as far as the release is concerned.
+
+103
+00:06:50,611 --> 00:06:53,976
+And I remember the reprioritization
+then is known as backlog
+
+104
+00:06:54,076 --> 00:06:57,250
+grooming, right, which we've
+covered in a separate slide.
+
+105
+00:06:58,390 --> 00:07:04,150
+Now, this whole principle behind,
+you know, which activities are going to be
+
+106
+00:07:04,151 --> 00:07:07,456
+performing when and so
+and so forth, it only works
+
+107
+00:07:07,457 --> 00:07:10,690
+really well when we don't
+have complex dependencies.
+
+108
+00:07:11,710 --> 00:07:16,759
+And that's a whole
+principle then behind why the
+
+109
+00:07:16,760 --> 00:07:20,530
+team needs to determine
+the level of effort for each.
+
+110
+00:07:20,610 --> 00:07:22,755
+the work, they're going
+to be doing the relative
+
+111
+00:07:22,756 --> 00:07:25,710
+estimate, so then they can
+be breaking down, right?
+
+112
+00:07:25,730 --> 00:07:29,590
+You can break down, you use the stories
+into individual activities, so you can
+
+113
+00:07:29,591 --> 00:07:33,830
+then determine which work can be performed
+when.
+
+114
+00:07:34,470 --> 00:07:37,910
+Now, it says simple dependencies,
+you know, this activity has to be
+
+115
+00:07:37,911 --> 00:07:39,374
+performed before this activity can be
+
+116
+00:07:39,375 --> 00:07:42,504
+performed, and, you
+know, that's usually okay.
+
+117
+00:07:42,650 --> 00:07:45,107
+But it's just that if
+there's a lot of complexity,
+
+118
+00:07:45,108 --> 00:07:47,511
+right, then they need to
+further break them down.
+
+119
+00:07:47,790 --> 00:07:49,470
+Their team needs to further refine them.
+
+120
+00:07:49,490 --> 00:07:51,270
+So there isn't so much complexity.
+
+121
+00:07:53,090 --> 00:07:55,330
+Now, that's one approach.
+
+122
+00:07:56,050 --> 00:07:59,310
+Another approach then is something called
+on-demand scheduling.
+
+123
+00:08:00,630 --> 00:08:05,050
+And with on-demand scheduling,
+it's basically, it goes a little one step
+
+124
+00:08:05,051 --> 00:08:07,963
+further in that for
+each particular sprint,
+
+125
+00:08:07,964 --> 00:08:11,224
+the team members are
+going to pull the work.
+
+126
+00:08:11,770 --> 00:08:14,747
+They're going to pull the work themselves,
+right, from a queue.
+
+127
+00:08:14,830 --> 00:08:15,830
+So you have a queue.
+
+128
+00:08:16,090 --> 00:08:19,850
+So this is all the work that needs to be
+done during the sprint and all the work in
+
+129
+00:08:19,851 --> 00:08:24,090
+this case meaning individual activities
+and then team members themselves will
+
+130
+00:08:24,091 --> 00:08:28,450
+determine or i'm going to do this activity
+first right so you've got two three
+
+131
+00:08:28,451 --> 00:08:32,010
+different team members or five 10
+different team members and they're all
+
+132
+00:08:32,011 --> 00:08:35,690
+determining or I'll do this one I'll do
+this one I'll do this one as soon as
+
+133
+00:08:35,691 --> 00:08:40,030
+they've completed their work then they'll
+go look at the queue see what other
+
+134
+00:08:40,031 --> 00:08:45,730
+activities are are left on the queue and
+then they'll choose one right now that
+
+135
+00:08:45,731 --> 00:08:50,110
+only works well, again, when there are no
+complex dependencies.
+
+136
+00:08:51,090 --> 00:08:56,490
+If one activity is dependent on another
+activity, so you've got activity three,
+
+137
+00:08:56,970 --> 00:09:00,613
+that is dependent on activity
+two and activity four being
+
+138
+00:09:00,614 --> 00:09:03,590
+complete, then that's not
+really going to work as well.
+
+139
+00:09:03,690 --> 00:09:09,570
+So on-demand scheduling, then,
+pulling work from a queue can only really
+
+140
+00:09:09,571 --> 00:09:15,050
+be effective when each activity is
+independent of one another.
+
+141
+00:09:15,930 --> 00:09:19,340
+Team members can be working
+on any activity at any time,
+
+142
+00:09:19,341 --> 00:09:23,130
+then they don't have these
+complex dependencies there.
+
+143
+00:09:23,550 --> 00:09:27,730
+And it works best when the activities can
+be divided into equal amounts,
+
+144
+00:09:28,350 --> 00:09:29,630
+equal level of effort.
+
+145
+00:09:30,370 --> 00:09:34,510
+If one activity is three or four times a
+level of effort compared to another
+
+146
+00:09:34,511 --> 00:09:37,910
+activity, then that's not really going to
+work as well.
+
+147
+00:09:38,130 --> 00:09:42,453
+It's going to work best when
+you've broken down your activities,
+
+148
+00:09:42,454 --> 00:09:47,110
+right, into almost, you know,
+almost equal level of effort.
+
+149
+00:09:47,570 --> 00:09:52,050
+So at any time, any team member can just
+pull down an activity, work on it, right?
+
+150
+00:09:52,270 --> 00:09:54,195
+And then as soon as
+they finished, they can
+
+151
+00:09:54,196 --> 00:09:56,584
+pull down another activity and work on it.
+
+152
+00:09:56,670 --> 00:10:00,830
+If it turns out that one activity is so
+big that you need two team members to
+
+153
+00:10:00,831 --> 00:10:06,530
+work, two or three team members to work on
+it, then on demand scheduling is not going
+
+154
+00:10:06,531 --> 00:10:10,850
+to work as well, which is why it's even
+more important for team members again to
+
+155
+00:10:10,851 --> 00:10:14,470
+break down, break down these activities
+into little sub-activity.
+
+156
+00:10:14,690 --> 00:10:17,339
+And again, or just like any principles of
+
+157
+00:10:17,340 --> 00:10:21,284
+Agile, is providing
+incremental business value.
+
+158
+00:10:21,650 --> 00:10:26,370
+Now, this is all based on the principles
+of Canban and Lean methodologies.
+
+159
+00:10:27,450 --> 00:10:30,854
+Now, you don't need to know
+too much about Canban and
+
+160
+00:10:30,855 --> 00:10:36,390
+Lean, but they are covered
+briefly in another video.
+
+161
+00:10:37,310 --> 00:10:40,890
+But this whole principle is just based on
+Canban and Lean.
+
+162
+00:10:41,050 --> 00:10:43,777
+And one of the principles
+behind Canban and
+
+163
+00:10:43,778 --> 00:10:46,350
+Lean is leveling out the
+work of team members.
+
+164
+00:10:46,750 --> 00:10:51,150
+It's making sure all resources are
+utilized at the optimum level.
+
+165
+00:10:51,770 --> 00:10:56,070
+In this case, then, with team members,
+there's no peaks and valleys.
+
+166
+00:10:56,950 --> 00:11:02,230
+One of the principles of Agile,
+one of the 12 principles of Agile,
+
+167
+00:11:02,550 --> 00:11:06,430
+remember, is that team members,
+the flow of work is going to be constant.
+
+168
+00:11:07,130 --> 00:11:11,570
+The whole idea is to try and prevent,
+you know, team members working over time,
+
+169
+00:11:11,730 --> 00:11:14,470
+some weeks, and then, you know,
+underutilize some weeks, over.
+
+170
+00:11:14,490 --> 00:11:15,590
+utilised of the weeks.
+
+171
+00:11:16,030 --> 00:11:19,290
+The whole principle is so that all the
+work is smoothed out.
+
+172
+00:11:19,550 --> 00:11:22,200
+So it's leveling out the work of all the
+team members.
+
+173
+00:11:22,810 --> 00:11:29,530
+So these are the two basic approaches then
+for schedule development, schedule
+
+174
+00:11:29,531 --> 00:11:32,550
+management or schedule development in an
+agile environment.
+

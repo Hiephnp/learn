@@ -1,0 +1,610 @@
+﻿1
+00:00:05,920 --> 00:00:09,040
+Okay, so let's do the backward pass now.
+
+2
+00:00:09,520 --> 00:00:13,120
+So in the previous video, we did the
+forward pass.
+
+3
+00:00:14,080 --> 00:00:16,795
+So now we're going to
+do the backward pass,
+
+4
+00:00:16,796 --> 00:00:19,974
+which is calculating
+late finish and late start.
+
+5
+00:00:20,360 --> 00:00:23,460
+The forward pass is calculating early
+start, early finish.
+
+6
+00:00:23,900 --> 00:00:26,015
+Now we're calculating
+the late finish and late
+
+7
+00:00:26,016 --> 00:00:29,360
+start in that order, hence
+the name backward pass.
+
+8
+00:00:30,200 --> 00:00:33,560
+Now the starting point is always going to
+be this.
+
+9
+00:00:35,060 --> 00:00:40,940
+our project in this example is finishing
+on day 19 that's a finish date for this
+
+10
+00:00:40,941 --> 00:00:47,500
+project day 19 so that is our early finish
+that is also going to be our late finish
+
+11
+00:00:47,501 --> 00:00:52,460
+that is always going to be the case right
+your project has to finish in this case on
+
+12
+00:00:52,461 --> 00:00:57,960
+day 19 so in this case late finish and
+early finish are going to be the same and
+
+13
+00:00:57,961 --> 00:01:02,580
+then since we're going backwards now in
+order to calculate the late start,
+
+14
+00:01:03,420 --> 00:01:05,480
+we have to now subtract the duration.
+
+15
+00:01:06,380 --> 00:01:08,618
+So the late start of
+any activity is always
+
+16
+00:01:08,619 --> 00:01:11,420
+going to be the late
+finish minus the duration.
+
+17
+00:01:12,060 --> 00:01:14,960
+So in this case, 19 minus 3, which is 16.
+
+18
+00:01:15,780 --> 00:01:20,080
+Now, something I want to point out here,
+and this is also a check imbalance that
+
+19
+00:01:20,081 --> 00:01:24,040
+you can be using as you're going through
+the whole critical path exercise.
+
+20
+00:01:25,900 --> 00:01:27,660
+I is on the critical path.
+
+21
+00:01:28,760 --> 00:01:32,400
+I notice the late start and early start
+are the same.
+
+22
+00:01:33,300 --> 00:01:35,420
+Late finish and early finish is the same.
+
+23
+00:01:35,820 --> 00:01:37,120
+It's on the critical path.
+
+24
+00:01:37,580 --> 00:01:42,600
+We have to start I on day 16 and we have
+to finish on day 19.
+
+25
+00:01:42,860 --> 00:01:44,380
+There's no slack, no cushion.
+
+26
+00:01:45,460 --> 00:01:50,660
+And that is going to be the case for all
+activities that are on the critical path.
+
+27
+00:01:51,060 --> 00:01:51,893
+Right.
+
+28
+00:01:52,040 --> 00:01:57,540
+So that'll be a check in balance for H,
+E, D and A, they are on the critical path.
+
+29
+00:01:57,820 --> 00:02:02,800
+And on the critical path, all activities,
+The late finish will equal the early
+
+30
+00:02:02,801 --> 00:02:05,401
+finish and the late start will equal the
+early start.
+
+31
+00:02:05,840 --> 00:02:08,050
+The bottom line and
+the top line will be the
+
+32
+00:02:08,051 --> 00:02:09,980
+same as it relates to starts and finishes.
+
+33
+00:02:10,400 --> 00:02:14,700
+They will not be the same on the
+non-critical path activities.
+
+34
+00:02:14,880 --> 00:02:17,300
+B, C, F and G are not on the critical
+path.
+
+35
+00:02:19,000 --> 00:02:20,660
+Those activities can have float.
+
+36
+00:02:20,960 --> 00:02:23,460
+So early start will be different to the
+late start.
+
+37
+00:02:23,840 --> 00:02:25,751
+Early finish will be different to the late
+
+38
+00:02:25,752 --> 00:02:28,294
+finish on the non-critical
+path activities.
+
+39
+00:02:28,980 --> 00:02:30,830
+So anyway, that will make more sense.
+
+40
+00:02:30,940 --> 00:02:33,190
+be more clearer as we go through the
+exercise.
+
+41
+00:02:33,540 --> 00:02:34,940
+Now, let's look at I though.
+
+42
+00:02:35,420 --> 00:02:38,000
+I, the latest that I can start is day 16.
+
+43
+00:02:38,680 --> 00:02:43,173
+If I is starting on day 16,
+that means the previous
+
+44
+00:02:43,174 --> 00:02:48,020
+activities, C, F, and H all
+have to finish by day 16.
+
+45
+00:02:48,380 --> 00:02:50,080
+I is starting on day 16.
+
+46
+00:02:50,860 --> 00:02:54,320
+That means C, F, and H, the latest they
+can finish is day 16.
+
+47
+00:02:54,780 --> 00:02:55,960
+So let's look at H.
+
+48
+00:02:56,700 --> 00:02:58,800
+I is starting on day 16.
+
+49
+00:02:58,801 --> 00:03:01,400
+that means H must have finished on day 16.
+
+50
+00:03:01,540 --> 00:03:03,290
+The latest it can finish is day 16.
+
+51
+00:03:03,540 --> 00:03:08,620
+So the late start then, the latest it can
+start, 16 minus 7, which is 9.
+
+52
+00:03:09,400 --> 00:03:13,600
+Now, again, as that check and balance that
+I mentioned here, the bottom line and top
+
+53
+00:03:13,601 --> 00:03:16,180
+line is the same as relates to start and
+finish.
+
+54
+00:03:16,720 --> 00:03:18,970
+The late start is the same as the early
+start.
+
+55
+00:03:19,060 --> 00:03:22,910
+Late finish is the same as the early
+finish because it's on the critical path.
+
+56
+00:03:23,220 --> 00:03:24,270
+Now, let's look at F.
+
+57
+00:03:24,840 --> 00:03:26,540
+What's the late finish of F?
+
+58
+00:03:26,541 --> 00:03:35,680
+well if i has started on day 16 that means
+the latest f can finish is day 16 so f and
+
+59
+00:03:35,681 --> 00:03:42,340
+h has to finish on day 16 so that i can
+start on day 16 and then again we're just
+
+60
+00:03:42,341 --> 00:03:49,300
+subtracting what's a late start 16 minus
+six which is 10 so let's look at this f
+
+61
+00:03:49,301 --> 00:03:56,480
+can either start on day 10 and it'll take
+six days and it'll finish on day 15 or it
+
+62
+00:03:56,481 --> 00:04:03,520
+can could start on day 10 it'll take six
+days and finish on day 16 right so f can
+
+63
+00:04:03,521 --> 00:04:08,820
+either start on day nine or it could start
+on day 10 it has slack or cushion right it
+
+64
+00:04:08,821 --> 00:04:15,020
+can be delayed by one day no impact on the
+schedule it's not on the critical path so
+
+65
+00:04:15,021 --> 00:04:22,340
+it has float it has uh you know it has a
+slack same with c right what's the latest
+
+66
+00:04:22,341 --> 00:04:27,540
+that c can finish if i is starting on day
+16 C has to finish on day 16.
+
+67
+00:04:27,680 --> 00:04:29,430
+The latest it can finish is day 16.
+
+68
+00:04:29,860 --> 00:04:32,740
+And 16 minus 7, what's the latest it would
+have started?
+
+69
+00:04:33,000 --> 00:04:34,860
+16 minus 7 is 9.
+
+70
+00:04:35,960 --> 00:04:38,920
+So again, C could start on day 6.
+
+71
+00:04:39,160 --> 00:04:41,160
+It'll take 7 days, finish on day 13.
+
+72
+00:04:41,960 --> 00:04:46,480
+Or if it gets delayed, it could be delayed
+up to 3 days and start on day 9.
+
+73
+00:04:46,800 --> 00:04:49,920
+It'll take 7 days and we'll finish on day
+16.
+
+74
+00:04:50,300 --> 00:04:54,612
+As long as C, F, and
+H all finish on day 16, I
+
+75
+00:04:54,613 --> 00:04:58,314
+can start on day 16, no
+impact on the schedule.
+
+76
+00:04:58,520 --> 00:05:00,497
+Now, let's look at the other activities
+then.
+
+77
+00:05:00,580 --> 00:05:01,413
+Let's look at E.
+
+78
+00:05:01,860 --> 00:05:06,580
+With E, you've got F and an H leading back
+into E.
+
+79
+00:05:07,160 --> 00:05:09,240
+F and H are both dependent on E.
+
+80
+00:05:09,380 --> 00:05:12,980
+So as we're going backwards, F and H is
+kind of like leading back into E.
+
+81
+00:05:13,640 --> 00:05:15,520
+F has a late start of 10.
+
+82
+00:05:15,940 --> 00:05:17,520
+H has a late start of 9.
+
+83
+00:05:18,340 --> 00:05:19,600
+So again, we have a choice.
+
+84
+00:05:19,660 --> 00:05:20,710
+Which one do we take?
+
+85
+00:05:20,940 --> 00:05:24,360
+This time, you always take the smallest
+number.
+
+86
+00:05:24,540 --> 00:05:28,840
+In the backward pass, you always take the
+smallest number when you have a choice.
+
+87
+00:05:28,900 --> 00:05:32,700
+In the forward pass, whenever you have a
+choice, you take the highest number,
+
+88
+00:05:32,960 --> 00:05:36,077
+in the backward pass, you take the
+smallest number, the lowest number.
+
+89
+00:05:36,160 --> 00:05:37,140
+So in this case, 9.
+
+90
+00:05:38,040 --> 00:05:38,660
+So let's look at it.
+
+91
+00:05:38,661 --> 00:05:41,326
+I mean, and think of
+this logically, E has to
+
+92
+00:05:41,327 --> 00:05:44,040
+finish on day 9 so that
+H can start on day 9.
+
+93
+00:05:44,360 --> 00:05:48,400
+If E finished on day 10, H wouldn't be
+able to start on day 9.
+
+94
+00:05:48,960 --> 00:05:51,560
+But the other checking balance is,
+it's on the critical path.
+
+95
+00:05:51,561 --> 00:05:54,580
+And so the late start, 9 minus 2 is 7.
+
+96
+00:05:54,700 --> 00:05:58,750
+Again, bottom line or bottom and top are
+the same for the starts and the finishes.
+
+97
+00:05:59,620 --> 00:06:00,470
+Same with D then.
+
+98
+00:06:01,200 --> 00:06:09,240
+E starts on day 7, so D must have finished
+on day 7, 7 minus 5, late start is 2.
+
+99
+00:06:09,580 --> 00:06:11,300
+And on the critical path.
+
+100
+00:06:12,140 --> 00:06:16,280
+So late start, early start is the same,
+late finish, early finish are the same.
+
+101
+00:06:16,820 --> 00:06:18,460
+Now, let's look at B here.
+
+102
+00:06:19,260 --> 00:06:21,540
+Again, same principle as when we were
+looking at E.
+
+103
+00:06:21,560 --> 00:06:25,560
+With B, you've got a C and an F leading
+back into it.
+
+104
+00:06:25,880 --> 00:06:27,660
+C has a late start of 9.
+
+105
+00:06:28,040 --> 00:06:29,700
+F has a late start 10.
+
+106
+00:06:30,280 --> 00:06:33,060
+So again, you take the smallest number,
+which is 9.
+
+107
+00:06:33,880 --> 00:06:35,460
+B has to finish on day 9.
+
+108
+00:06:36,140 --> 00:06:37,640
+So that C can start on day 9.
+
+109
+00:06:38,060 --> 00:06:41,160
+And then 9 minus 4, which is 5.
+
+110
+00:06:43,060 --> 00:06:46,460
+And now, and if you look at G then,
+very simple.
+
+111
+00:06:46,940 --> 00:06:48,880
+H, late start is 9.
+
+112
+00:06:49,060 --> 00:06:50,340
+So when does G finish?
+
+113
+00:06:50,540 --> 00:06:51,540
+That's to finish on day 9.
+
+114
+00:06:51,560 --> 00:06:57,820
+G has to finish on day 9 in order for F to
+start on day 9, and then 9 minus 6 is 3.
+
+115
+00:06:58,440 --> 00:07:00,440
+So the late start then is going to be 3.
+
+116
+00:07:01,220 --> 00:07:02,620
+Now, let's look at A here.
+
+117
+00:07:03,400 --> 00:07:07,200
+You've got both B, D and G leading back
+into A.
+
+118
+00:07:08,020 --> 00:07:10,820
+Right, so B has a late start of 5.
+
+119
+00:07:11,180 --> 00:07:12,740
+D has a late start of 2.
+
+120
+00:07:13,160 --> 00:07:14,860
+G has a late start of 3.
+
+121
+00:07:16,260 --> 00:07:18,060
+So you have a choice of 3 numbers.
+
+122
+00:07:18,240 --> 00:07:21,040
+Again, you take the smallest number,
+2.
+
+123
+00:07:21,560 --> 00:07:23,200
+A will finish on day two.
+
+124
+00:07:23,500 --> 00:07:28,480
+Again, thinking logically, A has to finish
+on day two so that D can start on day two.
+
+125
+00:07:29,340 --> 00:07:32,140
+And then 2 minus 2, which is 0.
+
+126
+00:07:33,860 --> 00:07:37,280
+So again, you can see anything on the
+critical path.
+
+127
+00:07:37,840 --> 00:07:41,814
+A, D, E, H and I, late
+start and early start is the
+
+128
+00:07:41,815 --> 00:07:44,717
+same, late finish and
+early finish are the same.
+
+129
+00:07:44,800 --> 00:07:46,860
+Because there is no slack, no cushion.
+
+130
+00:07:47,320 --> 00:07:50,470
+You have to start on that date,
+you have to finish on that date.
+
+131
+00:07:51,260 --> 00:07:55,880
+Whereas if anything on the non-critical
+path, anything not on the critical path,
+
+132
+00:07:56,320 --> 00:07:59,720
+the numbers are different because they
+have slack, they have cushion.
+
+133
+00:08:00,040 --> 00:08:02,240
+Okay, that was the backward pass.
+

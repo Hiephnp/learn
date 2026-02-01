@@ -1,0 +1,361 @@
+﻿1
+00:00:05,920 --> 00:00:08,460
+Okay, so let's talk about the schedule
+then.
+
+2
+00:00:09,400 --> 00:00:12,146
+So as we mentioned in one of the earlier
+
+3
+00:00:12,147 --> 00:00:16,014
+videos, schedule
+management is a huge topic.
+
+4
+00:00:16,500 --> 00:00:19,243
+There's a lot of sub-lessons
+in schedule management and
+
+5
+00:00:19,244 --> 00:00:23,800
+that's the reason why we've
+broken it up into two lessons.
+
+6
+00:00:24,040 --> 00:00:28,252
+So lesson five is Schedule
+Management Part 1 and then we have
+
+7
+00:00:28,253 --> 00:00:31,351
+Lesson 6, which is going to be
+Schedule Management Part 2.
+
+8
+00:00:32,860 --> 00:00:38,700
+now the schedule itself i mean what is
+schedule management about right well it's
+
+9
+00:00:38,701 --> 00:00:43,340
+about obviously the timeline right when do
+we start the project when do we finish the
+
+10
+00:00:43,341 --> 00:00:47,860
+project and then what's all the different
+timelines in between right what's our
+
+11
+00:00:47,861 --> 00:00:52,840
+major deliverables what's our major
+milestones within the project when does an
+
+12
+00:00:52,841 --> 00:00:56,320
+activity start when does an activity
+finish and so and so and so far so that's
+
+13
+00:00:56,321 --> 00:00:59,551
+obviously what the schedule
+uh refers to right so what's
+
+14
+00:00:59,552 --> 00:01:02,151
+our deadline when should
+we finish the project by.
+
+15
+00:01:03,640 --> 00:01:08,085
+Now, in scope management,
+just a quick review, in scope
+
+16
+00:01:08,086 --> 00:01:12,080
+management, we were determining
+what work needs to be done.
+
+17
+00:01:12,960 --> 00:01:17,280
+We were looking at the overall project,
+right, and then we're creating the scope
+
+18
+00:01:17,281 --> 00:01:19,346
+of the project, we're
+collecting some requirements,
+
+19
+00:01:19,429 --> 00:01:22,200
+creating the scope, creating
+the work breakdown structure.
+
+20
+00:01:22,340 --> 00:01:25,061
+Remember, the work breakdown structure is
+
+21
+00:01:25,062 --> 00:01:29,014
+decomposing your project
+down to the work package.
+
+22
+00:01:29,100 --> 00:01:31,750
+So now we know this is the work that needs
+to be done.
+
+23
+00:01:32,020 --> 00:01:35,546
+So in scope management,
+we were discussing what the
+
+24
+00:01:35,547 --> 00:01:38,561
+work is that needs to be
+accomplished for this project.
+
+25
+00:01:39,240 --> 00:01:45,460
+In schedule management, we're looking at
+when is that work going to be delivered.
+
+26
+00:01:46,540 --> 00:01:47,960
+That's the difference here.
+
+27
+00:01:48,700 --> 00:01:52,550
+In scope, we're talking about the what,
+in schedule, we're talking about when.
+
+28
+00:01:52,820 --> 00:01:54,470
+When is it going to be delivered?
+
+29
+00:01:55,180 --> 00:01:58,960
+And there's a couple different approaches
+of you know there's a few different
+
+30
+00:01:58,961 --> 00:02:02,000
+approaches based on whether you're
+predictive or whether it's a predictive
+
+31
+00:02:02,001 --> 00:02:08,280
+project whether it's a agile project right
+but so this whole of schedule management
+
+32
+00:02:08,281 --> 00:02:13,220
+then is all about planning and managing
+the processes to complete the deliverable
+
+33
+00:02:14,080 --> 00:02:18,940
+so whereas the work breakdown structure as
+part of scope management is decomposing
+
+34
+00:02:18,941 --> 00:02:23,300
+the project down to the work package in
+schedule management we're taking each work
+
+35
+00:02:23,301 --> 00:02:27,440
+package further decomposing it further
+breaking it down into individual
+
+36
+00:02:27,441 --> 00:02:33,800
+activities and these activities then that
+is going to be adding value that based on
+
+37
+00:02:33,801 --> 00:02:37,740
+or these activities are going to be adding
+value and that is what we are going to be
+
+38
+00:02:37,741 --> 00:02:42,540
+delivering we're going to be delivering
+this value now there's many ways of
+
+39
+00:02:42,541 --> 00:02:48,560
+developing our schedule the methodology
+that we are going to spend some time on in
+
+40
+00:02:48,561 --> 00:02:52,900
+subsequent videos there's something called
+critical path methodology but there's many
+
+41
+00:02:52,901 --> 00:02:58,280
+different ways of creating your schedule
+the one that you need to know for the exam
+
+42
+00:02:58,281 --> 00:03:02,460
+is a critical path and that's why we're
+going to spend several videos actually on
+
+43
+00:03:02,461 --> 00:03:08,140
+critical path but again what methodology
+we're going to be using we need to
+
+44
+00:03:08,141 --> 00:03:13,440
+determine that plus unit of measure right
+so when we cannot coming up with the
+
+45
+00:03:13,441 --> 00:03:18,640
+schedule it's not always days weeks months
+it could be FTE's full-time equivalents it
+
+46
+00:03:18,641 --> 00:03:22,146
+could be a level of effort
+this activity requires 20
+
+47
+00:03:22,147 --> 00:03:25,111
+hours worth of work and
+so on and so on and stuff up.
+
+48
+00:03:25,600 --> 00:03:29,420
+And also remember, a schedule is a major
+constraint on a project.
+
+49
+00:03:29,960 --> 00:03:31,520
+It is a major constraint.
+
+50
+00:03:32,240 --> 00:03:36,400
+So remember in one of the earlier video
+that we talked about the six constraints,
+
+51
+00:03:36,600 --> 00:03:41,700
+six major constraints, scope, schedule,
+budget, resources, quality and risk.
+
+52
+00:03:42,620 --> 00:03:45,177
+So schedule is one of the major
+constraints in a project.
+
+53
+00:03:45,260 --> 00:03:48,180
+You have to finish your project by a
+certain deadline.
+
+54
+00:03:49,420 --> 00:03:53,120
+A project is never going to be,
+oh, you know, finish it whenever you want
+
+55
+00:03:53,121 --> 00:03:54,862
+to, start it, and then, you
+know, it doesn't matter
+
+56
+00:03:54,945 --> 00:03:57,317
+when you finish it, just
+finish it whenever you want to.
+
+57
+00:03:57,400 --> 00:03:59,380
+That's not really a project then,
+right?
+
+58
+00:03:59,640 --> 00:04:02,320
+A project has to have some kind of
+deadline.
+
+59
+00:04:02,860 --> 00:04:05,480
+Now, obviously, deadlines can change,
+right?
+
+60
+00:04:05,740 --> 00:04:08,160
+But we have to have some kind of plan,
+right?
+
+61
+00:04:08,200 --> 00:04:12,000
+We need to finish this project by,
+you know, hopefully by this date.
+
+62
+00:04:13,000 --> 00:04:15,663
+And so, since we need to finish it by this
+
+63
+00:04:15,664 --> 00:04:18,380
+date, it is a major
+constraint on the project.
+
+64
+00:04:18,381 --> 00:04:23,000
+So schedule management then is a very,
+very important aspect, obviously,
+
+65
+00:04:23,280 --> 00:04:24,600
+of a project, right?
+
+66
+00:04:24,820 --> 00:04:27,120
+Schedule as well as cost, right?
+
+67
+00:04:27,320 --> 00:04:31,600
+Cost of which, you know, we're going to be
+covering in subsequent videos.
+
+68
+00:04:32,160 --> 00:04:37,120
+But scheduling costs are the two major,
+major constraints that senior management
+
+69
+00:04:37,121 --> 00:04:40,900
+are always looking at when it comes to,
+when it comes to projects.
+
+70
+00:04:41,340 --> 00:04:44,187
+Now, in Agile, the
+closest thing to a schedule
+
+71
+00:04:44,188 --> 00:04:46,760
+is something called a product roadmap.
+
+72
+00:04:46,761 --> 00:04:51,560
+So in the Agile world, you don't
+necessarily have a true schedule as such,
+
+73
+00:04:51,980 --> 00:04:54,130
+you have something called a product
+roadmap.
+
+74
+00:04:54,860 --> 00:04:59,600
+And we'll be discussing the product
+roadmap in a subsequent video as well.
+

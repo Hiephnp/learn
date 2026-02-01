@@ -1,0 +1,204 @@
+﻿1
+00:00:06,010 --> 00:00:08,110
+Let's look at the PIMBock Guide.
+
+2
+00:00:08,750 --> 00:00:10,690
+Processes and integration management.
+
+3
+00:00:12,470 --> 00:00:16,085
+So we have our initiating
+process group where we get
+
+4
+00:00:16,086 --> 00:00:20,050
+our project or phase
+authorized to begin started.
+
+5
+00:00:21,090 --> 00:00:23,540
+We'll develop the project charter in that
+process.
+
+6
+00:00:23,850 --> 00:00:26,235
+Remember, we're in
+the integration knowledge
+
+7
+00:00:26,236 --> 00:00:29,230
+area going across that
+row in your process map.
+
+8
+00:00:30,270 --> 00:00:31,103
+Planning.
+
+9
+00:00:31,750 --> 00:00:35,990
+Once we move out of initiating,
+we'll move in two weeks.
+
+10
+00:00:36,010 --> 00:00:36,843
+planning.
+
+11
+00:00:37,850 --> 00:00:41,500
+So based on all the high level information
+we have in our project charter,
+
+12
+00:00:41,950 --> 00:00:46,390
+we will then develop the project
+management plan, figure out what we're
+
+13
+00:00:46,391 --> 00:00:50,155
+setting out to accomplish,
+how we will do our processes,
+
+14
+00:00:50,156 --> 00:00:53,190
+how we'll take our project
+from beginning to end.
+
+15
+00:00:54,410 --> 00:00:56,550
+So we'll figure out our plan
+and then we'll go through the
+
+16
+00:00:56,551 --> 00:01:01,310
+other planning processes
+below to figure out baselines.
+
+17
+00:01:01,311 --> 00:01:03,530
+then we'll move into executing.
+
+18
+00:01:04,450 --> 00:01:07,729
+So the focus is integration,
+these processes, but
+
+19
+00:01:07,730 --> 00:01:10,551
+I'm giving you a little
+background at the same time.
+
+20
+00:01:11,150 --> 00:01:15,070
+So once we're done planning, we've
+developed our project management plan.
+
+21
+00:01:15,270 --> 00:01:16,470
+Think of it as a puzzle.
+
+22
+00:01:17,150 --> 00:01:21,910
+We'll move into executing to do the work
+of the project according to the plan.
+
+23
+00:01:22,510 --> 00:01:25,310
+And what do we, the PM, what do we do?
+
+24
+00:01:25,630 --> 00:01:27,930
+We direct and manage the project work.
+
+25
+00:01:28,170 --> 00:01:33,850
+We have our plan, what's been authorized,
+for our project the scope schedule and
+
+26
+00:01:33,851 --> 00:01:42,250
+costs now we will manage the work and our
+team members as well as manage project
+
+27
+00:01:42,251 --> 00:01:49,490
+knowledge we'll be documenting as soon as
+we're done planning we move into executing
+
+28
+00:01:49,491 --> 00:01:56,870
+and monitoring and controlling we do this
+as soon as we're baseline we start doing
+
+29
+00:01:56,871 --> 00:02:00,059
+the work according to
+the plan that's in executing
+
+30
+00:02:00,060 --> 00:02:02,904
+and move into of
+monitoring and controlling.
+
+31
+00:02:03,510 --> 00:02:07,430
+We, remember, we're at the top overseeing
+our entire project.
+
+32
+00:02:08,090 --> 00:02:13,924
+We will monitor and control the project
+work and perform integrated change control.
+
+33
+00:02:14,210 --> 00:02:17,610
+We will get into all these processes and a
+lot of detail in a minute.
+
+34
+00:02:18,630 --> 00:02:21,608
+All right, by the time
+we're done with all the
+
+35
+00:02:21,609 --> 00:02:25,124
+work, we'll close, it
+might just be a phase.
+
+36
+00:02:25,590 --> 00:02:28,010
+We'll close the project or phase.
+
+37
+00:02:28,170 --> 00:02:31,790
+If you have a phase project like
+construction, for example.
+
+38
+00:02:32,750 --> 00:02:34,470
+Usually there's a design phase.
+
+39
+00:02:35,050 --> 00:02:39,690
+Once all the designs, blueprints and
+everything's done, they'll be approved.
+
+40
+00:02:40,670 --> 00:02:46,430
+So closing, you'll get to an exit gate
+where, okay, our key stakeholders decide
+
+41
+00:02:46,431 --> 00:02:49,590
+they don't want to move forward or they
+do.
+
+42
+00:02:50,090 --> 00:02:51,640
+So we'll have our deliverables.
+
+43
+00:02:51,730 --> 00:02:57,630
+We'll close the project or phase and then
+repeat in the next phase.
+

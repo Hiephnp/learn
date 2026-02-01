@@ -1,0 +1,700 @@
+﻿1
+00:00:06,630 --> 00:00:10,970
+Okay, so in this lesson then, I'm going to
+give you a class overview and really
+
+2
+00:00:10,971 --> 00:00:14,890
+explain what to expect out of these video
+lessons.
+
+3
+00:00:15,170 --> 00:00:16,003
+Okay.
+
+4
+00:00:18,490 --> 00:00:21,770
+Now, the P&P exam is very challenging.
+
+5
+00:00:22,790 --> 00:00:24,247
+Make sure you understand that.
+
+6
+00:00:24,330 --> 00:00:26,270
+This is a challenging exam.
+
+7
+00:00:26,990 --> 00:00:29,410
+It's not an easy exam by any means.
+
+8
+00:00:30,130 --> 00:00:31,210
+You have to study.
+
+9
+00:00:31,211 --> 00:00:34,210
+you have to put in the time to study.
+
+10
+00:00:34,830 --> 00:00:41,470
+However, you also need to have the right
+mindset and the right approach to study.
+
+11
+00:00:42,210 --> 00:00:46,226
+You need to understand
+how to first approach
+
+12
+00:00:46,227 --> 00:00:49,484
+this class and how to study afterwards.
+
+13
+00:00:50,250 --> 00:00:53,930
+Okay, and that really is what this lesson
+is all about.
+
+14
+00:00:55,050 --> 00:01:00,750
+Now, there are many, many different ways
+of managing a project.
+
+15
+00:01:01,210 --> 00:01:02,043
+Right.
+
+16
+00:01:02,430 --> 00:01:04,787
+Different industries manage projects
+differently.
+
+17
+00:01:04,870 --> 00:01:08,910
+An IT project, for example, is managed
+very differently to a construction
+
+18
+00:01:08,911 --> 00:01:13,850
+project, which is managed very differently
+to a marketing project, which is managed
+
+19
+00:01:13,851 --> 00:01:18,324
+very differently to a research and development
+project or a pharmaceutical project.
+
+20
+00:01:18,910 --> 00:01:21,630
+Every industry manages projects
+differently.
+
+21
+00:01:22,210 --> 00:01:24,910
+There's many, many different methodologies
+out there.
+
+22
+00:01:25,610 --> 00:01:28,350
+There's no right or wrong way of managing
+a project.
+
+23
+00:01:28,830 --> 00:01:32,890
+There's obviously a good and bad way of
+managing a project, but there are many,
+
+24
+00:01:32,970 --> 00:01:37,710
+many different ways, many different
+methodologies and different industries,
+
+25
+00:01:37,890 --> 00:01:41,010
+different organizations manage projects
+their own way.
+
+26
+00:01:42,270 --> 00:01:46,290
+Now, there's many factors that go into how
+you manage your project as well,
+
+27
+00:01:47,230 --> 00:01:49,610
+such as, for example, geographical
+location.
+
+28
+00:01:50,530 --> 00:01:52,871
+You're going to manage
+a project differently in one
+
+29
+00:01:52,872 --> 00:01:55,611
+part of the world compared
+to another part of the world.
+
+30
+00:01:55,970 --> 00:01:59,844
+Just for example, there might be some
+cultural differences, regulatory differences.
+
+31
+00:02:00,390 --> 00:02:03,441
+So even the same
+project, you'd be managing
+
+32
+00:02:03,442 --> 00:02:06,504
+differently in another part of the world.
+
+33
+00:02:07,330 --> 00:02:11,150
+Now, what PMI have done is, they've taken
+all these different factors into
+
+34
+00:02:11,151 --> 00:02:15,390
+consideration, all these factors that
+impact your project and all these factors
+
+35
+00:02:15,391 --> 00:02:19,210
+we're going to be discussing as we go
+through these video lessons.
+
+36
+00:02:20,290 --> 00:02:24,690
+What PMI have done is taking all these
+factors into consideration and really
+
+37
+00:02:24,691 --> 00:02:28,510
+created their own generic standard,
+if you like.
+
+38
+00:02:28,511 --> 00:02:31,215
+They've created a standard for project
+
+39
+00:02:31,216 --> 00:02:34,864
+management or a framework
+for project management.
+
+40
+00:02:35,750 --> 00:02:39,390
+And it's the standard and framework that
+is documented in PIMBOC.
+
+41
+00:02:40,010 --> 00:02:42,067
+So every few years they update those
+standards.
+
+42
+00:02:42,150 --> 00:02:45,443
+So currently the latest
+version of PIMBOC that's
+
+43
+00:02:45,444 --> 00:02:48,684
+being tested on the exam
+is PIMBOC version 6.
+
+44
+00:02:50,330 --> 00:02:53,950
+Now here's something very important to
+understand.
+
+45
+00:02:54,390 --> 00:03:01,056
+The PMP exam is testing your
+knowledge and understanding of
+
+46
+00:03:01,057 --> 00:03:05,847
+PMI's standards is testing your
+knowledge and understanding
+
+47
+00:03:05,848 --> 00:03:08,530
+of the PMI framework
+of project management.
+
+48
+00:03:08,910 --> 00:03:11,330
+That's all the PMP exam is testing.
+
+49
+00:03:12,090 --> 00:03:16,110
+It is not testing how good of a project
+manager you are.
+
+50
+00:03:16,750 --> 00:03:20,622
+It is not testing how
+well you manage projects
+
+51
+00:03:20,623 --> 00:03:24,144
+in your organisation or in your industry.
+
+52
+00:03:25,130 --> 00:03:31,030
+The PMP exam is testing your knowledge and
+understanding of PMI's standards,
+
+53
+00:03:31,650 --> 00:03:32,890
+of PMI's framework.
+
+54
+00:03:34,970 --> 00:03:36,930
+And that's what this class is about.
+
+55
+00:03:37,670 --> 00:03:44,350
+This class is here purely and simply,
+we are preparing you to pass the P&P exam.
+
+56
+00:03:45,210 --> 00:03:49,530
+I'm not preparing you to manage a project.
+
+57
+00:03:49,790 --> 00:03:52,930
+I'm not teaching you how to manage a
+project.
+
+58
+00:03:54,150 --> 00:03:59,210
+We are going to teach you how to pass the
+PMP exam.
+
+59
+00:04:00,530 --> 00:04:07,330
+And that's something very, very important
+to understand because now you basically
+
+60
+00:04:07,331 --> 00:04:11,670
+almost have to unlearn everything you've
+learned about project management.
+
+61
+00:04:12,130 --> 00:04:14,380
+You have to put that at the back of your
+mind.
+
+62
+00:04:14,810 --> 00:04:15,390
+Right, and why?
+
+63
+00:04:15,610 --> 00:04:19,130
+Well, because you have to think in terms
+of PMI standards now.
+
+64
+00:04:19,290 --> 00:04:21,370
+You have to think the PMI way.
+
+65
+00:04:21,530 --> 00:04:26,430
+When you are answering a question,
+right, typically you'll get scenario
+
+66
+00:04:26,431 --> 00:04:29,227
+question, multiple choice
+or before option choices,
+
+67
+00:04:29,228 --> 00:04:31,744
+and one of those option
+choices will be correct.
+
+68
+00:04:32,450 --> 00:04:34,150
+Typically, what's going to happen?
+
+69
+00:04:34,430 --> 00:04:35,410
+It's very tempting.
+
+70
+00:04:35,830 --> 00:04:40,610
+Look at the option choices and choose the
+best option that you would take or the
+
+71
+00:04:40,611 --> 00:04:43,570
+best approach that you would take in your
+line of work.
+
+72
+00:04:44,230 --> 00:04:46,330
+But you have to take a step back because
+
+73
+00:04:46,331 --> 00:04:48,770
+that might not be in
+line with PMI standards.
+
+74
+00:04:48,771 --> 00:04:53,050
+you always have to think which of these is
+in line with PMI standards.
+
+75
+00:04:53,930 --> 00:04:56,191
+So, as I said, you almost have to unlearn
+
+76
+00:04:56,192 --> 00:04:59,464
+everything you've learned
+about project management.
+
+77
+00:04:59,570 --> 00:05:04,850
+You have to put that at the back of your
+mind and start thinking PMI standards.
+
+78
+00:05:05,690 --> 00:05:08,127
+Now, some of these standards you might not
+agree with.
+
+79
+00:05:08,210 --> 00:05:10,507
+There's some stuff that
+we are going to be teaching
+
+80
+00:05:10,508 --> 00:05:12,701
+you that you might not
+necessarily agree with.
+
+81
+00:05:13,250 --> 00:05:15,668
+In fact, there's a whole
+bunch of stuff we're going
+
+82
+00:05:15,669 --> 00:05:17,890
+to teach you that I don't
+necessarily agree with.
+
+83
+00:05:17,891 --> 00:05:20,854
+Kimberly doesn't necessarily
+agree with, but it makes no
+
+84
+00:05:20,855 --> 00:05:23,571
+difference whether we agree
+or whether we don't agree.
+
+85
+00:05:24,090 --> 00:05:27,693
+When you are answering a
+PMP exam question, you have to
+
+86
+00:05:27,694 --> 00:05:32,010
+answer it based on their
+standards, based on PMI standards.
+
+87
+00:05:32,970 --> 00:05:35,720
+And that's something very, very important
+to understand.
+
+88
+00:05:36,170 --> 00:05:40,270
+So part of passing the PMP exam is exam
+technique.
+
+89
+00:05:40,650 --> 00:05:43,710
+There's a lot of curveballs that PMI throw
+at you on the exam.
+
+90
+00:05:45,110 --> 00:05:47,870
+They'll give you irrelevant information or
+they'll give you.
+
+91
+00:05:47,890 --> 00:05:50,710
+give you irrelevant scenarios altogether,
+right?
+
+92
+00:05:50,870 --> 00:05:55,330
+So you need to be able to learn to pick
+out keywords and key phrases.
+
+93
+00:05:56,150 --> 00:06:00,470
+You need to be able to navigate through
+these ambiguous questions.
+
+94
+00:06:01,030 --> 00:06:03,450
+Many questions are going to be ambiguous.
+
+95
+00:06:04,470 --> 00:06:05,867
+You're reading the question.
+
+96
+00:06:05,950 --> 00:06:07,712
+Sometimes you're
+wondering what they're even
+
+97
+00:06:07,713 --> 00:06:09,710
+asking or you're
+looking at option choices.
+
+98
+00:06:09,890 --> 00:06:10,590
+They all look good.
+
+99
+00:06:10,690 --> 00:06:11,790
+They all look correct.
+
+100
+00:06:12,030 --> 00:06:15,636
+So there might be just one
+keyword here and there that's
+
+101
+00:06:15,637 --> 00:06:18,471
+separating the correct answer
+from the wrong answers.
+
+102
+00:06:18,730 --> 00:06:21,280
+So you need to learn how to pick out those
+keywords.
+
+103
+00:06:21,750 --> 00:06:25,290
+And again, something we're going to be
+covering during this class.
+
+104
+00:06:26,010 --> 00:06:30,510
+Now, the only way of learning all of that
+is by going through practice questions.
+
+105
+00:06:31,250 --> 00:06:33,470
+You need to practice what you learn.
+
+106
+00:06:35,270 --> 00:06:40,570
+Now, many of you are aware that the exam
+changed in 2021.
+
+107
+00:06:42,370 --> 00:06:45,090
+So now there are three domains.
+
+108
+00:06:45,350 --> 00:06:46,830
+We talk about three domains.
+
+109
+00:06:47,230 --> 00:06:51,910
+right you have something called the people
+domain right the process domain and the
+
+110
+00:06:51,911 --> 00:06:56,250
+business environment domain right so the
+exam is based off of those three domains
+
+111
+00:06:56,251 --> 00:07:03,790
+now the old PIMBOC domains though so the
+PIMBOC guide right so a sixth edition is
+
+112
+00:07:03,791 --> 00:07:09,490
+really currently what is being tested or
+the exam is partly based off of the sixth
+
+113
+00:07:09,491 --> 00:07:15,930
+edition there was five process groups
+initiating planning execute monitoring
+
+114
+00:07:15,931 --> 00:07:19,070
+controlling and closing you still need to
+know that, right?
+
+115
+00:07:19,170 --> 00:07:22,450
+You still need to be aware of the
+processes, right?
+
+116
+00:07:22,830 --> 00:07:29,070
+But one of the other things that PMI added
+to the exam or changed in January of 2021
+
+117
+00:07:29,071 --> 00:07:36,050
+is the fact that now 50% of the exam is
+agile and 50% is predictive, right?
+
+118
+00:07:36,150 --> 00:07:41,330
+Predictive is your traditional waterfall
+style of project management, right,
+
+119
+00:07:41,430 --> 00:07:43,830
+whereas agile is a completely different
+approach.
+
+120
+00:07:44,030 --> 00:07:48,410
+And they're almost like two conflicting
+approaches to project management.
+
+121
+00:07:49,150 --> 00:07:51,250
+However, you need to know both approaches.
+
+122
+00:07:51,510 --> 00:07:54,550
+50% of the exam is agile, 50% is
+predictive.
+
+123
+00:07:55,450 --> 00:07:58,610
+So the PIMBOC guide really refers to the
+predictive side.
+
+124
+00:07:59,430 --> 00:08:02,117
+The PIMBOC guide doesn't really have as
+
+125
+00:08:02,118 --> 00:08:05,344
+much bearing on agile
+as it does predictive.
+
+126
+00:08:07,370 --> 00:08:11,497
+We always recommend becoming
+a member of PMI and then
+
+127
+00:08:11,498 --> 00:08:14,950
+you can download a free
+copy of the PIMBock guide.
+
+128
+00:08:15,450 --> 00:08:19,810
+And you can also download a free copy of
+the Agile Practice Guide as well.
+
+129
+00:08:20,550 --> 00:08:25,130
+And for both of them, we just recommend
+using them as a reference guide.
+
+130
+00:08:26,090 --> 00:08:31,690
+So the PinBock Guide, version 6,
+and the Agile Practice Guide, you can
+
+131
+00:08:31,691 --> 00:08:36,490
+download them for free from the PMI.org
+website if you remember of PMI.
+
+132
+00:08:37,190 --> 00:08:42,110
+And then those are useful resources just
+as a reference guide.
+
+133
+00:08:42,810 --> 00:08:43,643
+Okay.
+
+134
+00:08:44,090 --> 00:08:47,370
+So one of the key things, though,
+to understand, right?
+
+135
+00:08:47,690 --> 00:08:50,050
+The PIMBock Guide is not a textbook.
+
+136
+00:08:50,810 --> 00:08:53,950
+It's not a textbook for managing a
+project.
+
+137
+00:08:54,650 --> 00:08:57,430
+It's not a textbook for passing the PMP
+exam.
+
+138
+00:08:58,310 --> 00:09:00,970
+The PIMBOT guide is just there as a
+framework.
+
+139
+00:09:01,210 --> 00:09:01,210
+Right.
+
+140
+00:09:01,870 --> 00:09:04,318
+It's just a reference guide
+for project managers,
+
+141
+00:09:04,319 --> 00:09:06,667
+just setting the standards
+for project management.
+
+142
+00:09:06,750 --> 00:09:07,950
+That's really all it is.
+
+143
+00:09:08,170 --> 00:09:11,610
+And really, it's just setting the
+standards for predictive projects.
+
+144
+00:09:12,570 --> 00:09:15,670
+So remember you need to understand both
+predictive and agile.
+
+145
+00:09:16,870 --> 00:09:22,670
+So make sure then you can think in terms
+of PMI and when you take in the exam you
+
+146
+00:09:22,671 --> 00:09:25,500
+have to think in terms of
+PMI's standards and you have
+
+147
+00:09:25,501 --> 00:09:29,230
+to think in terms of both
+predictive as well as agile.
+

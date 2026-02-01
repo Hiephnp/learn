@@ -1,0 +1,111 @@
+﻿1
+00:00:05,920 --> 00:00:09,840
+Okay, so Schedule Management Part 2 then
+is Lesson 6.
+
+2
+00:00:10,060 --> 00:00:13,820
+So these are the learning objectives then
+for Lesson 6.
+
+3
+00:00:14,920 --> 00:00:16,954
+One of the biggest things
+we're going to be covering
+
+4
+00:00:16,955 --> 00:00:18,951
+in this section is the
+Critical Path method.
+
+5
+00:00:19,280 --> 00:00:23,540
+There are several videos on Critical Path
+method, so you need to understand.
+
+6
+00:00:23,920 --> 00:00:26,447
+So one of the major
+objectives is to understand
+
+7
+00:00:26,448 --> 00:00:29,031
+all the steps involved in
+the Critical Path method.
+
+8
+00:00:29,300 --> 00:00:31,070
+So the forward pass and the backward pass,
+
+9
+00:00:31,071 --> 00:00:33,180
+understanding all the
+different types of float.
+
+10
+00:00:33,760 --> 00:00:35,992
+So we will be covering
+all of that, so make sure
+
+11
+00:00:35,993 --> 00:00:38,291
+that you do understand
+the critical path method.
+
+12
+00:00:39,020 --> 00:00:43,320
+Also, we'll be talking about other tools
+such as resource optimization, right?
+
+13
+00:00:43,440 --> 00:00:46,990
+So you need to understand what the
+resource optimization techniques are.
+
+14
+00:00:47,400 --> 00:00:49,150
+Also, there's a different approach.
+
+15
+00:00:49,340 --> 00:00:54,474
+Agile has a very different approach to
+schedule management, right, then predictive.
+
+16
+00:00:54,600 --> 00:00:58,320
+So you need to appreciate, again,
+the difference between the Agile release
+
+17
+00:00:58,321 --> 00:01:03,380
+planning and predictive schedule planning,
+two very different approaches.
+
+18
+00:01:03,381 --> 00:01:10,220
+And then we'll also talk about two
+important tools and techniques in Agile,
+
+19
+00:01:10,300 --> 00:01:13,640
+two important agile tools
+and techniques call the
+
+20
+00:01:13,641 --> 00:01:17,100
+iteration burn down chart
+and the iteration burnup chart.
+
+21
+00:01:17,520 --> 00:01:20,240
+So you need to be able to understand them.
+
+22
+00:01:20,500 --> 00:01:23,010
+You need to be able
+to interpret the iteration
+
+23
+00:01:23,053 --> 00:01:25,161
+burn down chart and the burn up chart.
+

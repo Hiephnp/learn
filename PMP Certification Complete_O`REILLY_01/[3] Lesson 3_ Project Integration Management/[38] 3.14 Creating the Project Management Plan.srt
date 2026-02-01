@@ -1,0 +1,345 @@
+﻿1
+00:00:06,540 --> 00:00:09,820
+Creating or developing the project
+management plan.
+
+2
+00:00:10,840 --> 00:00:15,160
+So we've gone from initiating where we
+developed the project charter.
+
+3
+00:00:15,860 --> 00:00:19,260
+Now we're moving across that process map
+or process matrix.
+
+4
+00:00:19,860 --> 00:00:26,060
+Remember page 25 in your pinback to
+develop the project management plan.
+
+5
+00:00:26,600 --> 00:00:27,433
+All right.
+
+6
+00:00:27,620 --> 00:00:30,296
+So the project management
+plan is a detailed
+
+7
+00:00:30,297 --> 00:00:32,974
+document defining
+the basis of all the work.
+
+8
+00:00:33,560 --> 00:00:35,120
+It will be signed off on.
+
+9
+00:00:35,820 --> 00:00:40,860
+by your sponsor, the PM, key stakeholders,
+key members of the team.
+
+10
+00:00:42,120 --> 00:00:47,140
+And it will create a baseline for the
+entire project.
+
+11
+00:00:47,920 --> 00:00:50,260
+So we will have all our plan components.
+
+12
+00:00:50,500 --> 00:00:52,350
+That's what I was telling you before.
+
+13
+00:00:52,560 --> 00:00:59,540
+The subsidiary plans, pieces of our
+puzzle, plus scope, schedule, cost
+
+14
+00:00:59,541 --> 00:01:01,815
+baselines, which make up altogether the
+
+15
+00:01:01,816 --> 00:01:04,660
+performance measurement
+baseline for your project.
+
+16
+00:01:04,661 --> 00:01:07,520
+So that's what your plan is made up of.
+
+17
+00:01:07,880 --> 00:01:11,960
+The subsidiary plans are baselines and
+additional documents.
+
+18
+00:01:12,580 --> 00:01:17,720
+So remember change management plans,
+configuration management plans are created
+
+19
+00:01:17,721 --> 00:01:21,880
+in the very beginning as we develop the
+project management plan.
+
+20
+00:01:22,440 --> 00:01:24,837
+We'll also create a requirements
+management plan.
+
+21
+00:01:24,920 --> 00:01:27,057
+We'll talk about some of the others coming
+up.
+
+22
+00:01:27,140 --> 00:01:33,960
+So throughout the PIMbox 6th edition,
+project documents are referred to as ITTOs.
+
+23
+00:01:33,961 --> 00:01:38,880
+we already discussed those inputs tools
+and techniques and outputs remember your
+
+24
+00:01:38,881 --> 00:01:45,060
+inputs and your outputs or nouns those are
+artifacts tools and techniques are things
+
+25
+00:01:45,061 --> 00:01:51,560
+we'll do and use all right so the
+subsidiary management plans pieces of our
+
+26
+00:01:51,561 --> 00:01:59,800
+puzzle every plan including all the pieces
+of the puzzle will address how the work
+
+27
+00:01:59,801 --> 00:02:05,920
+will be planned executed monitor and
+control controlled and how we'll close.
+
+28
+00:02:07,460 --> 00:02:11,980
+Subsidiary plans consist of scope and
+requirements.
+
+29
+00:02:12,640 --> 00:02:15,220
+Those are done when we plan scope
+management.
+
+30
+00:02:16,040 --> 00:02:20,320
+Schedule, cost, quality, resources,
+communications, risk, procurement,
+
+31
+00:02:20,740 --> 00:02:22,390
+and stakeholder management plans.
+
+32
+00:02:23,360 --> 00:02:27,920
+We go through the rest of our knowledge
+areas, but not just from top to bottom.
+
+33
+00:02:28,160 --> 00:02:29,980
+We plan, plan, plan, plan, plan.
+
+34
+00:02:30,220 --> 00:02:34,180
+Some of the first components, pieces of
+our puzzle.
+
+35
+00:02:34,880 --> 00:02:38,784
+Communications and stakeholder
+engagement are unbelievably
+
+36
+00:02:38,785 --> 00:02:42,660
+intertwined, and I will cover
+those later, along with risks.
+
+37
+00:02:43,200 --> 00:02:46,560
+Some of those plans are done early in the
+very beginning.
+
+38
+00:02:47,000 --> 00:02:49,980
+Then we keep planning going through our
+planning processes.
+
+39
+00:02:51,180 --> 00:02:53,060
+All right, additional components.
+
+40
+00:02:54,240 --> 00:02:57,412
+So parts of our plan, pieces
+of our puzzle, change in
+
+41
+00:02:57,413 --> 00:03:00,780
+configuration management
+done in the very beginning.
+
+42
+00:03:01,540 --> 00:03:03,260
+Remember how changes will be made.
+
+43
+00:03:04,040 --> 00:03:05,790
+Our stakeholders need to know that.
+
+44
+00:03:06,640 --> 00:03:08,340
+And then configuration management.
+
+45
+00:03:08,940 --> 00:03:12,020
+What is being documented, detailed?
+
+46
+00:03:12,660 --> 00:03:19,580
+How do we keep up with the latest
+documents, plans, baselines, versions,
+
+47
+00:03:20,160 --> 00:03:21,020
+version control.
+
+48
+00:03:21,320 --> 00:03:24,337
+That's what I want you to think of the
+most with configuration management.
+
+49
+00:03:24,420 --> 00:03:29,820
+The performance measurement baseline will
+include our three baselines over here.
+
+50
+00:03:30,680 --> 00:03:34,580
+Scope is always the first baseline that
+has to be created.
+
+51
+00:03:35,700 --> 00:03:38,249
+The scope has to be agreed
+upon before we can figure out
+
+52
+00:03:38,250 --> 00:03:41,057
+how long it's going to take
+and how much it's going to cost.
+
+53
+00:03:41,140 --> 00:03:42,290
+So our other baselines.
+
+54
+00:03:42,960 --> 00:03:48,240
+So the performance measurement baseline is
+including all three together.
+
+55
+00:03:48,560 --> 00:03:53,160
+Our project lifecycle, how we're going to
+take our project from beginning to end,
+
+56
+00:03:53,400 --> 00:03:58,520
+our development approach, strategy,
+management reviews, project implementation
+
+57
+00:03:58,521 --> 00:04:06,560
+plan, compliance management plan and then
+agile management plans baselining the
+
+58
+00:04:06,561 --> 00:04:11,980
+project management plan so the project
+plan is considered baselined when
+
+59
+00:04:11,981 --> 00:04:17,360
+appropriate stakeholders have signed off
+on our project management plan it again
+
+60
+00:04:17,361 --> 00:04:24,620
+includes our baselines so appropriate
+means our sponsor other key stakeholders
+
+61
+00:04:24,621 --> 00:04:32,600
+you the project team the baseline is our
+starting point where the work of the
+
+62
+00:04:32,601 --> 00:04:39,780
+project will be executed according to the
+baseline our plan actual results will be
+
+63
+00:04:39,781 --> 00:04:44,540
+compared to the baseline so remember all
+of our monitoring and controlling
+
+64
+00:04:44,541 --> 00:04:51,880
+processes everything below us remember
+we're up in integration overseeing
+
+65
+00:04:51,881 --> 00:05:00,000
+everything we'll compare the plan what was
+agreed upon to data what's actually
+
+66
+00:05:00,001 --> 00:05:05,140
+happening all right so actual results are
+compared to the baseline subsequent
+
+67
+00:05:05,141 --> 00:05:10,240
+changes must go through perform integrated
+change control process which i talked
+
+68
+00:05:10,241 --> 00:05:16,060
+about earlier project may be re-baselined
+after sign off from appropriate
+
+69
+00:05:16,061 --> 00:05:24,340
+stakeholders so if adding or deleting
+scope for example example will affect a
+
+70
+00:05:24,341 --> 00:05:32,880
+baseline the sponsor or CCB change control
+board has to authorize that then through
+
+71
+00:05:32,881 --> 00:05:36,880
+the approved change request we update
+plans and documents accordingly so
+
+72
+00:05:36,881 --> 00:05:39,840
+remember that's a trio discuss that
+earlier
+

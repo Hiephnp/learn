@@ -1,0 +1,928 @@
+﻿1
+00:00:06,010 --> 00:00:10,890
+Okay, so in this video, I want to discuss
+three types of life cycles.
+
+2
+00:00:11,950 --> 00:00:17,190
+The first life cycle I want to talk about
+is this one called the Project Lifecycle.
+
+3
+00:00:18,030 --> 00:00:21,509
+And the Project Life Cycle
+refers to the beginning of
+
+4
+00:00:21,510 --> 00:00:24,441
+the project all the way
+until the end of the project.
+
+5
+00:00:24,950 --> 00:00:27,930
+That is referred to as a project life
+cycle.
+
+6
+00:00:28,670 --> 00:00:33,150
+The importance of that is that in-between,
+there are many different phases,
+
+7
+00:00:33,750 --> 00:00:36,870
+many different iterations, many different
+sprints.
+
+8
+00:00:37,110 --> 00:00:42,190
+And it all depends on the type of project,
+where it's an agile project, predictive
+
+9
+00:00:42,191 --> 00:00:46,170
+project, and what industry we're talking
+about and so on and so forth.
+
+10
+00:00:47,030 --> 00:00:50,250
+Every industry manages projects
+differently, remember.
+
+11
+00:00:51,030 --> 00:00:54,990
+So an IT project is managed very
+differently to a construction project.
+
+12
+00:00:56,070 --> 00:01:00,610
+And if we're talking, say, predictive,
+there's going to be different phases.
+
+13
+00:01:01,650 --> 00:01:06,190
+IT projects are going to have different
+phases to a construction project, right?
+
+14
+00:01:06,550 --> 00:01:10,970
+So there's many, many different phases
+within a project life cycle.
+
+15
+00:01:12,170 --> 00:01:14,570
+PMI have no standards whatsoever on
+phases.
+
+16
+00:01:15,330 --> 00:01:16,950
+They're basically saying you break your
+
+17
+00:01:16,951 --> 00:01:19,964
+project down into whatever
+phase makes sense.
+
+18
+00:01:20,410 --> 00:01:25,130
+So again, a construction project,
+marketing project, think of all these
+
+19
+00:01:25,131 --> 00:01:29,090
+different, pharmaceutical project,
+every project is going to have different
+
+20
+00:01:29,091 --> 00:01:33,604
+phases, every industry, every organization,
+in fact, might have their own phases.
+
+21
+00:01:33,910 --> 00:01:35,750
+PMI have no standards for phases.
+
+22
+00:01:36,490 --> 00:01:39,887
+Depending on the industry, you break a
+phase down into, you know, whatever,
+
+23
+00:01:39,970 --> 00:01:42,950
+or you break a project down into whatever
+phase makes sense.
+
+24
+00:01:43,330 --> 00:01:49,490
+However, each phase, right, remember we
+talked about the initiating, planning,
+
+25
+00:01:49,790 --> 00:01:52,450
+execute, monitoring, controlling,
+and closing, right?
+
+26
+00:01:52,730 --> 00:01:54,470
+Those are the process groups.
+
+27
+00:01:54,950 --> 00:01:58,990
+Each phase is going to involve each of
+those five process groups.
+
+28
+00:01:59,350 --> 00:02:03,590
+Those five process groups are referred to
+as the project management lifecycle.
+
+29
+00:02:04,630 --> 00:02:09,310
+So each phase, then, we're going to
+include those five process groups.
+
+30
+00:02:09,610 --> 00:02:15,450
+However, I first want to talk about some
+characteristics of the project life cycle.
+
+31
+00:02:16,010 --> 00:02:17,299
+So again, remember, the project life cycle
+
+32
+00:02:17,300 --> 00:02:19,704
+then refers to the
+full life of the project.
+
+33
+00:02:19,830 --> 00:02:21,567
+So this is the start of the project.
+
+34
+00:02:21,650 --> 00:02:23,800
+So on the x-axis here, we have the
+timeline.
+
+35
+00:02:24,310 --> 00:02:26,027
+So this is the start of the project.
+
+36
+00:02:26,110 --> 00:02:27,660
+This is the end of the project.
+
+37
+00:02:27,810 --> 00:02:32,090
+And then these basic characteristics I'm
+going to be talking about, like we're
+
+38
+00:02:32,091 --> 00:02:34,590
+going to distinguish them between low and
+high.
+
+39
+00:02:35,190 --> 00:02:37,907
+Now, in between, there's going to be many,
+many different phases.
+
+40
+00:02:37,990 --> 00:02:41,707
+Phases are not shown here because every
+project is going to have different phases.
+
+41
+00:02:41,790 --> 00:02:44,510
+We're just looking at very, very overall
+high level.
+
+42
+00:02:44,630 --> 00:02:47,570
+And again, here, we're mostly looking at
+predictive, right?
+
+43
+00:02:48,030 --> 00:02:49,030
+Think of predictive.
+
+44
+00:02:49,770 --> 00:02:53,830
+Now, the first characteristic I want to
+refer to is stakeholder influence.
+
+45
+00:02:54,490 --> 00:02:56,729
+So your stakeholders'
+influence is going to
+
+46
+00:02:56,730 --> 00:02:58,970
+be highest at the
+beginning of the project.
+
+47
+00:02:58,971 --> 00:03:02,330
+right you're relying on your key
+stakeholders if they're giving you the
+
+48
+00:03:02,331 --> 00:03:07,770
+direction of the project they're giving
+you requirements if they want to add in
+
+49
+00:03:07,771 --> 00:03:10,910
+additional requirements at the beginning
+it's up to them it's their prerogative
+
+50
+00:03:10,911 --> 00:03:15,890
+it's their project so stakeholders
+influence is going to be the highest right
+
+51
+00:03:15,891 --> 00:03:21,970
+at the beginning of the project now as
+time goes by along the project right then
+
+52
+00:03:21,971 --> 00:03:27,150
+their influence is going to get less and
+less and why because well you're the
+
+53
+00:03:27,151 --> 00:03:30,510
+project manager you're the command and
+control project manager.
+
+54
+00:03:31,130 --> 00:03:33,490
+So you can give pushback, right?
+
+55
+00:03:33,810 --> 00:03:36,277
+You are one then, you
+are the one that is making
+
+56
+00:03:36,278 --> 00:03:38,310
+a decision about the
+direction of the project.
+
+57
+00:03:38,730 --> 00:03:40,175
+You are the one that's
+making decisions about
+
+58
+00:03:40,176 --> 00:03:42,444
+what work needs to be done on the project.
+
+59
+00:03:42,850 --> 00:03:44,827
+Right, so the influence is going to be
+highest.
+
+60
+00:03:44,910 --> 00:03:47,507
+Stakeholder's influence is going to be
+highest at the beginning.
+
+61
+00:03:47,590 --> 00:03:51,690
+If, for example, halfway through the
+project, your senior stakeholders or,
+
+62
+00:03:51,870 --> 00:03:56,210
+you know, a key stakeholder wants to add
+in additional requirements, you as a
+
+63
+00:03:56,211 --> 00:03:57,850
+project manager can give pushback at the
+project.
+
+64
+00:03:57,870 --> 00:03:58,703
+point.
+
+65
+00:03:59,070 --> 00:04:01,403
+You can say I wouldn't
+recommend this or this is going
+
+66
+00:04:01,404 --> 00:04:03,871
+to be the impact on the
+project and so and so forth.
+
+67
+00:04:04,510 --> 00:04:09,010
+So their influence is going to be highest
+at the beginning and then gradually get
+
+68
+00:04:09,011 --> 00:04:11,161
+less and less as you go through the
+project.
+
+69
+00:04:11,730 --> 00:04:15,730
+Same with another characteristic I want to
+mention, risk and uncertainty.
+
+70
+00:04:17,030 --> 00:04:21,890
+Now when it comes to project management,
+risk is an uncertainty.
+
+71
+00:04:22,990 --> 00:04:24,970
+Risk does not mean danger.
+
+72
+00:04:25,550 --> 00:04:27,650
+Risk always means uncertainty.
+
+73
+00:04:27,870 --> 00:04:31,810
+And there's an entire section on risk,
+on risk management, right?
+
+74
+00:04:32,350 --> 00:04:36,750
+But generally, there's going to be much
+higher uncertainty at the beginning of the
+
+75
+00:04:36,751 --> 00:04:39,351
+project than there is towards the end of
+the project.
+
+76
+00:04:40,730 --> 00:04:42,707
+Risk is going to be highest at the
+beginning.
+
+77
+00:04:42,790 --> 00:04:46,087
+Uncertainty is going to be highest at the
+beginning, especially, you know,
+
+78
+00:04:46,170 --> 00:04:50,070
+since we're thinking about, since we're
+talking about predictive projects here.
+
+79
+00:04:50,230 --> 00:04:51,306
+At the beginning of a
+project, you don't know if
+
+80
+00:04:51,307 --> 00:04:54,410
+you're going to be over
+budget behind schedule, right?
+
+81
+00:04:54,770 --> 00:04:55,810
+You don't know that at the beginning.
+
+82
+00:04:55,811 --> 00:05:00,210
+In fact, on a predictive project,
+you don't even know who all of your team
+
+83
+00:05:00,211 --> 00:05:02,511
+members are going to be right at the
+beginning.
+
+84
+00:05:03,070 --> 00:05:06,230
+Team members are coming and going as
+required on a project.
+
+85
+00:05:07,730 --> 00:05:12,130
+So there's going to be a much higher cone
+of uncertainty at the beginning of a
+
+86
+00:05:12,131 --> 00:05:14,731
+project than there is towards the end of
+the project.
+
+87
+00:05:15,650 --> 00:05:18,497
+So that's what they mean
+when they say risk and
+
+88
+00:05:18,498 --> 00:05:21,087
+uncertainty gradually
+decreases throughout the project.
+
+89
+00:05:21,170 --> 00:05:24,570
+Towards the end of the project,
+you can determine with some degree of
+
+90
+00:05:24,571 --> 00:05:28,290
+certainty, how much over budget or under
+budget we're going to be, how much ahead
+
+91
+00:05:28,291 --> 00:05:30,587
+of schedule, behind schedule we're going
+to be.
+
+92
+00:05:30,670 --> 00:05:32,370
+That's not clear at the beginning.
+
+93
+00:05:32,930 --> 00:05:36,850
+Another characteristic then is a resource
+utilization and rate of expenditure.
+
+94
+00:05:37,710 --> 00:05:39,485
+That's not going to be
+very high at the beginning
+
+95
+00:05:39,486 --> 00:05:41,901
+because you don't have too
+many people on your project.
+
+96
+00:05:42,130 --> 00:05:44,247
+You know, you're just doing some initial
+planning.
+
+97
+00:05:44,330 --> 00:05:48,530
+But then as more activities are performed,
+as you start using more resources,
+
+98
+00:05:48,790 --> 00:05:54,590
+more team members, raw materials,
+equipment, it's going to, your cost,
+
+99
+00:05:54,710 --> 00:05:56,307
+your expenditure rate is going to,
+increase.
+
+100
+00:05:56,390 --> 00:05:58,490
+Resource utilization is going to increase.
+
+101
+00:05:58,810 --> 00:06:02,190
+And then as it's going to peak at some
+point, but then as you're going towards
+
+102
+00:06:02,191 --> 00:06:05,030
+the end of the project, you don't use as
+many resources.
+
+103
+00:06:05,230 --> 00:06:08,770
+You don't use as many raw materials,
+for example.
+
+104
+00:06:09,270 --> 00:06:11,367
+Some of those machines are not needed
+anymore.
+
+105
+00:06:11,450 --> 00:06:13,387
+Some team members can roll off the
+project.
+
+106
+00:06:13,470 --> 00:06:17,250
+So expenditure rate, a resource
+utilization is going to start decreasing.
+
+107
+00:06:17,770 --> 00:06:19,620
+Now let's talk about cost of changes.
+
+108
+00:06:20,050 --> 00:06:23,200
+I think everybody would agree,
+in a predictive project at least.
+
+109
+00:06:23,790 --> 00:06:27,890
+Cost of changes is going to exponentially
+increase as you go through the project,
+
+110
+00:06:28,510 --> 00:06:28,630
+right?
+
+111
+00:06:28,990 --> 00:06:31,907
+You want to add in additional requirements
+at the beginning of the project?
+
+112
+00:06:31,990 --> 00:06:33,040
+Cheap and easy to do.
+
+113
+00:06:33,130 --> 00:06:36,830
+You want to add those same requirements
+towards the end of the project,
+
+114
+00:06:37,570 --> 00:06:38,567
+much more expensive.
+
+115
+00:06:38,650 --> 00:06:40,987
+Cost of change is going to be much more
+expensive.
+
+116
+00:06:41,070 --> 00:06:45,310
+On a predictive project, what happens in
+an Agile project?
+
+117
+00:06:46,770 --> 00:06:49,410
+Agile allows for change, remember.
+
+118
+00:06:50,350 --> 00:06:54,490
+The whole idea of Agile is, that it allows
+for change.
+
+119
+00:06:55,210 --> 00:06:59,350
+And so cost of changes are going to be a
+little bit more flatter.
+
+120
+00:06:59,550 --> 00:07:00,887
+Now, it's not going to be exact.
+
+121
+00:07:00,970 --> 00:07:03,820
+It's not going to be completely straight,
+completely flat.
+
+122
+00:07:04,230 --> 00:07:06,290
+It's just going to increase slightly,
+right?
+
+123
+00:07:06,330 --> 00:07:11,210
+Just very, very slightly, because the
+whole agile environment allows for change.
+
+124
+00:07:11,690 --> 00:07:17,210
+So this is the project lifecycle and some
+characteristics of the project life cycle.
+
+125
+00:07:17,890 --> 00:07:20,750
+Now let's talk about the project
+management lifecycle.
+
+126
+00:07:20,751 --> 00:07:26,864
+and the project management life cycle then
+refers to the five process groups, right?
+
+127
+00:07:27,170 --> 00:07:29,570
+This, you could use this acronym here.
+
+128
+00:07:30,570 --> 00:07:33,307
+IPEC, initiating, planning, executing, CFA
+
+129
+00:07:33,308 --> 00:07:36,790
+controlling, as a monitoring
+controlling, CFA closing.
+
+130
+00:07:37,710 --> 00:07:43,090
+And these are the five project management,
+or rather, these are the five process
+
+131
+00:07:43,091 --> 00:07:46,890
+groups that make up the project management
+life cycle.
+
+132
+00:07:47,010 --> 00:07:52,450
+So whenever you hear the term project
+management lifecycle, It refers to these
+
+133
+00:07:52,451 --> 00:07:55,651
+five process groups, initiating,
+planning, executing, monitoring,
+
+134
+00:07:55,830 --> 00:07:57,080
+controlling, and closing.
+
+135
+00:07:57,330 --> 00:08:02,830
+And as a project manager, you pick and
+choose which one of these processes and
+
+136
+00:08:02,831 --> 00:08:06,650
+which one of these process groups is going
+to be relevant for your project.
+
+137
+00:08:07,050 --> 00:08:09,850
+So remember, the five process groups have
+many processes.
+
+138
+00:08:10,510 --> 00:08:12,850
+There's 49 processes in PIMBox 6.
+
+139
+00:08:13,270 --> 00:08:15,430
+You pick and choose which one is relevant.
+
+140
+00:08:16,310 --> 00:08:20,090
+Now, also, the five process groups are
+performed simultaneously.
+
+141
+00:08:20,750 --> 00:08:20,750
+Right.
+
+142
+00:08:21,090 --> 00:08:24,764
+You could be planning, execute, monitoring,
+controlling, all at the same time.
+
+143
+00:08:25,210 --> 00:08:25,250
+Right.
+
+144
+00:08:25,710 --> 00:08:28,231
+Now, which of these
+processes you're going to be
+
+145
+00:08:28,232 --> 00:08:31,650
+performing for which phase
+that is known as tailoring.
+
+146
+00:08:32,450 --> 00:08:37,850
+Now, the other life cycle then is this
+one called the product life cycle, right?
+
+147
+00:08:37,930 --> 00:08:43,150
+And product lifecycle refers to the full
+life of the product from its starting,
+
+148
+00:08:43,790 --> 00:08:45,930
+from its inception to its demise.
+
+149
+00:08:46,630 --> 00:08:46,750
+Right.
+
+150
+00:08:46,850 --> 00:08:48,950
+And most of that is ongoing operations.
+
+151
+00:08:49,890 --> 00:08:52,546
+And so, Most of that, so
+really, most of the product
+
+152
+00:08:52,547 --> 00:08:54,910
+life cycle is beyond the
+scope of the PMP exam.
+
+153
+00:08:55,090 --> 00:08:58,255
+However, on the next slide,
+I'm just going to be talking about
+
+154
+00:08:58,256 --> 00:09:01,101
+just some basic principles
+behind the product life cycle.
+
+155
+00:09:01,210 --> 00:09:05,121
+However, just note, every
+project has a different project
+
+156
+00:09:05,122 --> 00:09:08,510
+life cycle, because project
+life cycle refers to phases.
+
+157
+00:09:09,270 --> 00:09:11,020
+Every project has different phases.
+
+158
+00:09:11,310 --> 00:09:14,990
+Every product is going to have a different
+product life cycle, right?
+
+159
+00:09:15,030 --> 00:09:16,847
+It's from its inception to its demise.
+
+160
+00:09:16,930 --> 00:09:20,730
+Every product will have a different
+product life cycle, but every product.
+
+161
+00:09:20,750 --> 00:09:26,010
+project is going to have the same project
+management lifecycle, which refers to
+
+162
+00:09:26,011 --> 00:09:29,710
+these five process groups, initiating,
+planning, executing, monitoring,
+
+163
+00:09:29,930 --> 00:09:31,130
+controlling and closing.
+
+164
+00:09:31,910 --> 00:09:34,670
+Now, let's talk about the product
+lifecycle then.
+
+165
+00:09:35,250 --> 00:09:38,410
+And as I said, this is from inception to
+its demise.
+
+166
+00:09:39,150 --> 00:09:42,470
+And most of that is going to be ongoing
+operations.
+
+167
+00:09:43,010 --> 00:09:46,450
+Now, every product is going to have a
+different product lifecycle.
+
+168
+00:09:47,050 --> 00:09:50,590
+But these are just the basic, basic
+stages.
+
+169
+00:09:50,750 --> 00:09:52,570
+involved, just the basic stages.
+
+170
+00:09:53,170 --> 00:09:57,270
+So the first stage really is to create the
+product, right?
+
+171
+00:09:57,390 --> 00:09:58,347
+So which is a project?
+
+172
+00:09:58,430 --> 00:10:00,880
+You have a project to actually create the
+product.
+
+173
+00:10:01,430 --> 00:10:04,669
+Then the product goes to
+an introduction stage, right,
+
+174
+00:10:04,670 --> 00:10:07,451
+where you introduce this
+product out into the market.
+
+175
+00:10:07,930 --> 00:10:10,650
+Sales are generally going to be slow to
+pick up, right?
+
+176
+00:10:10,770 --> 00:10:12,690
+Just maybe some early adopters there.
+
+177
+00:10:13,290 --> 00:10:15,507
+People don't really know much about this
+product.
+
+178
+00:10:15,590 --> 00:10:17,307
+The sales are going to be slow to pick up.
+
+179
+00:10:17,390 --> 00:10:21,930
+Then you have what's known as a growth
+stage, where sales, you know, the more
+
+180
+00:10:21,931 --> 00:10:25,770
+marketing you do, the more advertising,
+the more sales are going to increase,
+
+181
+00:10:26,130 --> 00:10:26,963
+growth stage.
+
+182
+00:10:27,370 --> 00:10:28,720
+Then you have the maturity.
+
+183
+00:10:28,870 --> 00:10:31,030
+At this point, your sales are leveled off.
+
+184
+00:10:31,130 --> 00:10:32,980
+You're not making any more new sales.
+
+185
+00:10:33,310 --> 00:10:37,310
+And then you have the decline and then
+finally, you know, end of life where the,
+
+186
+00:10:37,510 --> 00:10:39,210
+you know, product is now obsolete.
+
+187
+00:10:39,690 --> 00:10:43,490
+Now, as I said, every product is going to
+have a different product life cycle.
+
+188
+00:10:43,570 --> 00:10:45,910
+This is just a very, very high level.
+
+189
+00:10:46,410 --> 00:10:49,830
+or rather these are just a very high-level
+stages.
+
+190
+00:10:50,530 --> 00:10:52,827
+Every product is going to have a different
+product life cycle.
+
+191
+00:10:52,910 --> 00:10:56,910
+But in between the product life cycle,
+right, you may have different projects.
+
+192
+00:10:57,470 --> 00:10:59,046
+You may have projects to, say, improve the
+
+193
+00:10:59,047 --> 00:11:02,010
+process or upgrade the
+product, add new features.
+
+194
+00:11:02,470 --> 00:11:02,550
+Right.
+
+195
+00:11:02,810 --> 00:11:06,110
+So, you know, there might be projects
+within the product lifecycle.
+

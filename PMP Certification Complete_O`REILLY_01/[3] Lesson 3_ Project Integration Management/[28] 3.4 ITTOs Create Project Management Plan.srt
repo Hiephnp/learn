@@ -1,0 +1,334 @@
+﻿1
+00:00:05,820 --> 00:00:12,260
+Now let's cover the ITTOs of developing
+the project management plan.
+
+2
+00:00:12,540 --> 00:00:15,940
+That would be on page 82 of your PIMBuck.
+
+3
+00:00:16,600 --> 00:00:25,730
+All right, so this process, based on the
+high level information we have in the
+
+4
+00:00:25,731 --> 00:00:30,370
+project charter, we will figure out all
+the details.
+
+5
+00:00:31,610 --> 00:00:35,750
+All right, so we'll define, prepare,
+and coordinate all plan components and
+
+6
+00:00:35,751 --> 00:00:40,090
+consolidate them into an integrated
+project management plan.
+
+7
+00:00:41,250 --> 00:00:44,310
+So progressive elaboration is key here.
+
+8
+00:00:44,510 --> 00:00:45,870
+We have to start somewhere.
+
+9
+00:00:47,290 --> 00:00:51,730
+So think of developed the project
+management plan as the border of a puzzle.
+
+10
+00:00:52,910 --> 00:00:54,130
+We're starting.
+
+11
+00:00:55,270 --> 00:00:55,430
+All right.
+
+12
+00:00:56,030 --> 00:00:58,284
+So we're going to figure out our approach,
+
+13
+00:00:58,285 --> 00:01:02,004
+strategy, methodology
+that we're going to use.
+
+14
+00:01:02,330 --> 00:01:03,470
+That's planning.
+
+15
+00:01:03,930 --> 00:01:04,270
+All right.
+
+16
+00:01:04,770 --> 00:01:06,350
+So we will define.
+
+17
+00:01:06,370 --> 00:01:10,390
+prepare, coordinate all plan components.
+
+18
+00:01:11,350 --> 00:01:15,830
+So again, develop the project management
+plan is the first process where we will
+
+19
+00:01:15,831 --> 00:01:18,310
+start our puzzle, starting with the
+border.
+
+20
+00:01:18,770 --> 00:01:22,050
+All right, so our inputs, the project
+charter.
+
+21
+00:01:22,930 --> 00:01:24,270
+We did create that.
+
+22
+00:01:24,430 --> 00:01:30,710
+We just discussed it when we develop the
+project charter process in initiating.
+
+23
+00:01:31,270 --> 00:01:35,990
+So that contains all our high level
+information in it.
+
+24
+00:01:36,370 --> 00:01:41,610
+High level requirements, summary budgets,
+summary schedule, any stakeholders we know
+
+25
+00:01:41,611 --> 00:01:44,469
+about, any key stakeholders
+we know about, any
+
+26
+00:01:44,470 --> 00:01:47,430
+risks we know about,
+high level project objectives.
+
+27
+00:01:47,690 --> 00:01:50,570
+Now we're going to figure out the details.
+
+28
+00:01:51,610 --> 00:01:55,430
+We see the second input, outputs from
+other processes.
+
+29
+00:01:56,070 --> 00:01:58,930
+Well, these are mainly planning processes.
+
+30
+00:01:59,590 --> 00:02:05,150
+So again, we're starting right now to
+develop the project management plan.
+
+31
+00:02:05,151 --> 00:02:09,210
+Then we're going to go through our other
+knowledge areas.
+
+32
+00:02:09,630 --> 00:02:12,670
+Again, you can refer to page 25 in your
+Pimbach.
+
+33
+00:02:13,570 --> 00:02:18,354
+So we will plan each of the
+other knowledge areas and
+
+34
+00:02:18,355 --> 00:02:22,210
+create pieces of the puzzle
+called subsidiary plans.
+
+35
+00:02:23,110 --> 00:02:26,390
+So that's why you must understand
+progressive elaboration.
+
+36
+00:02:26,590 --> 00:02:27,940
+We have to start somewhere.
+
+37
+00:02:28,450 --> 00:02:31,016
+Then we'll move into
+another process, uncover
+
+38
+00:02:31,017 --> 00:02:33,670
+more details, go back
+and update what we started.
+
+39
+00:02:33,671 --> 00:02:36,264
+So just think we're
+going to have a planning
+
+40
+00:02:36,265 --> 00:02:39,001
+meeting and we'll plan
+all the pieces of our puzzle.
+
+41
+00:02:39,950 --> 00:02:42,370
+Then you have those EEFs and OPAs again.
+
+42
+00:02:43,090 --> 00:02:45,190
+You can see you can run but you can't
+hide.
+
+43
+00:02:45,370 --> 00:02:46,310
+They impact us.
+
+44
+00:02:46,890 --> 00:02:49,095
+So throughout integration and our planning
+
+45
+00:02:49,096 --> 00:02:52,644
+processes, we see them
+over and over and over.
+
+46
+00:02:53,530 --> 00:02:54,580
+Tools and techniques.
+
+47
+00:02:55,230 --> 00:02:56,530
+Remember, these are verbs.
+
+48
+00:02:56,850 --> 00:02:58,300
+We use expert judgment again.
+
+49
+00:02:58,930 --> 00:03:03,090
+Ours, our team members are SMEs,
+brains, experience and expertise.
+
+50
+00:03:03,670 --> 00:03:05,190
+We'll gather data again.
+
+51
+00:03:05,710 --> 00:03:12,090
+So now, again, we're trying to figure out
+our best approach strategy to planning,
+
+52
+00:03:12,590 --> 00:03:14,690
+to take our project from beginning to end.
+
+53
+00:03:15,330 --> 00:03:16,930
+So we'll do brainstorming again.
+
+54
+00:03:17,150 --> 00:03:18,370
+You can use checklists.
+
+55
+00:03:18,990 --> 00:03:21,770
+Those are OPAs, making sure steps are
+being followed.
+
+56
+00:03:22,490 --> 00:03:26,140
+Focus groups, just like we talked about
+and developed the project charter,
+
+57
+00:03:26,530 --> 00:03:30,690
+pre-qualified SMEs, and we're going to
+interview our key stakeholders.
+
+58
+00:03:32,470 --> 00:03:36,570
+Because we're dealing with stakeholders,
+we'll use those interpersonal team skills.
+
+59
+00:03:37,230 --> 00:03:39,080
+Remember, those are your soft skills.
+
+60
+00:03:39,570 --> 00:03:41,750
+So again, we're going to manage conflict.
+
+61
+00:03:41,950 --> 00:03:43,500
+Not everybody's going to agree.
+
+62
+00:03:44,170 --> 00:03:47,270
+We'll facilitate the meetings,
+come to a conclusion.
+
+63
+00:03:48,510 --> 00:03:50,570
+As we manage meetings, having meetings.
+
+64
+00:03:50,910 --> 00:03:52,060
+So these look familiar.
+
+65
+00:03:52,490 --> 00:03:54,683
+We'll see a lot of the, and use a lot of
+
+66
+00:03:54,684 --> 00:03:57,010
+the same tools and
+techniques over and over.
+
+67
+00:03:57,630 --> 00:03:59,730
+All right, what is the output?
+
+68
+00:04:00,150 --> 00:04:02,790
+Remember, inputs and outputs are nouns,
+artifacts.
+
+69
+00:04:03,950 --> 00:04:09,890
+inputs what's the information we need
+outputs what are we creating so the
+
+70
+00:04:09,891 --> 00:04:14,910
+process is develop the project management
+plan so what do we produce every time we
+
+71
+00:04:14,911 --> 00:04:21,410
+plan a plan the project management plan
+and it is considered the most important
+
+72
+00:04:21,411 --> 00:04:27,089
+project document which will
+tell us how and provide guidance
+
+73
+00:04:27,090 --> 00:04:31,310
+on how we will take our
+project from beginning to end
+

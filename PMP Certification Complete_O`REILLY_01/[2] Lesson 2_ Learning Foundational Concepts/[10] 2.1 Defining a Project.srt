@@ -1,0 +1,968 @@
+﻿1
+00:00:05,820 --> 00:00:09,100
+Okay, so let's talk about the definition
+of a project now.
+
+2
+00:00:10,380 --> 00:00:14,443
+Now, PMI defines the project
+as a temporary endeavor
+
+3
+00:00:14,444 --> 00:00:18,740
+undertaken to create a unique
+product, service, or result.
+
+4
+00:00:19,420 --> 00:00:24,660
+So this is PMI's exact definition of a
+project, and it has been for a long,
+
+5
+00:00:24,860 --> 00:00:25,693
+long time.
+
+6
+00:00:25,860 --> 00:00:29,448
+The exact definition from
+PMI is a temporary endeavor
+
+7
+00:00:29,449 --> 00:00:33,060
+undertaken to create a
+unique product service or result.
+
+8
+00:00:33,061 --> 00:00:35,640
+and there's three key terms here.
+
+9
+00:00:36,420 --> 00:00:42,040
+Three key terms are temporary,
+unique, and result.
+
+10
+00:00:42,800 --> 00:00:45,054
+So temporary, unique,
+and, you know, you're
+
+11
+00:00:45,055 --> 00:00:46,940
+creating something, some kind of result.
+
+12
+00:00:47,280 --> 00:00:49,497
+So let's talk about each of these three
+terms.
+
+13
+00:00:49,580 --> 00:00:50,630
+First one, temporary.
+
+14
+00:00:51,460 --> 00:00:54,240
+Temporary means it has a beginning and an
+end.
+
+15
+00:00:54,920 --> 00:00:59,100
+You start your project on one day,
+you finish it on another day, as opposed
+
+16
+00:00:59,101 --> 00:01:03,800
+to ongoing operations, where you're doing
+the same thing over, and over again,
+
+17
+00:01:04,400 --> 00:01:04,480
+right?
+
+18
+00:01:04,600 --> 00:01:06,740
+You're repeating the product, right?
+
+19
+00:01:06,840 --> 00:01:08,057
+You're repeating the service.
+
+20
+00:01:08,140 --> 00:01:10,490
+You're doing the same thing over and over
+again.
+
+21
+00:01:10,720 --> 00:01:15,040
+Now, there's a lot of overlap between
+projects and ongoing operations.
+
+22
+00:01:15,780 --> 00:01:18,781
+And every organization, every
+industry may have their own
+
+23
+00:01:18,782 --> 00:01:22,180
+definition of what they call a
+project or an ongoing operation.
+
+24
+00:01:22,780 --> 00:01:25,380
+Here, we're just looking at very,
+very high level.
+
+25
+00:01:26,100 --> 00:01:26,140
+Right.
+
+26
+00:01:26,320 --> 00:01:31,780
+So just overall, very broadly,
+from PMI's perspective, 60,000 foot level.
+
+27
+00:01:32,220 --> 00:01:34,160
+A project, is temporary.
+
+28
+00:01:34,760 --> 00:01:36,360
+It has a beginning and an end.
+
+29
+00:01:37,320 --> 00:01:39,020
+Now, what's a timeline in between?
+
+30
+00:01:39,480 --> 00:01:40,313
+Irrelevant.
+
+31
+00:01:40,920 --> 00:01:45,360
+It could be a few days, a few weeks,
+a few months, a few years, but you
+
+32
+00:01:45,361 --> 00:01:48,440
+definitely have a start date and then
+there's an end.
+
+33
+00:01:50,280 --> 00:01:53,400
+So that's one part of the definition of a
+project.
+
+34
+00:01:54,060 --> 00:01:56,340
+It's temporary at the beginning and an
+end.
+
+35
+00:01:56,680 --> 00:02:00,120
+Another part of the definition,
+you're producing something unique.
+
+36
+00:02:00,840 --> 00:02:04,894
+So, project is a temporary
+endeavor undertaken
+
+37
+00:02:04,895 --> 00:02:07,821
+to create a unique
+product service or result.
+
+38
+00:02:08,500 --> 00:02:11,450
+Unique means it's something different to
+what we had before.
+
+39
+00:02:12,220 --> 00:02:16,020
+Unique doesn't necessarily mean it's
+something we've never done before.
+
+40
+00:02:16,340 --> 00:02:19,497
+I mean, that does fall within that
+definition, but unique is more,
+
+41
+00:02:19,580 --> 00:02:21,880
+it's something different to what we had
+before.
+
+42
+00:02:22,060 --> 00:02:25,300
+So, for example, you're upgrading your
+computer system, right?
+
+43
+00:02:25,340 --> 00:02:27,940
+You're upgrading from version 1.0 to
+version 2.0.
+
+44
+00:02:28,100 --> 00:02:31,430
+Well, version 2.0, well,
+version 2.0, has some features
+
+45
+00:02:31,431 --> 00:02:34,041
+that make it unique
+compared to the prior version.
+
+46
+00:02:34,640 --> 00:02:36,980
+So unique is just it's something
+different.
+
+47
+00:02:38,040 --> 00:02:42,100
+So you could be doing the same project but
+for a different customer.
+
+48
+00:02:43,020 --> 00:02:44,170
+It's a unique customer.
+
+49
+00:02:44,600 --> 00:02:47,600
+Or you're doing the same project but in a
+different location.
+
+50
+00:02:47,960 --> 00:02:49,140
+It's a unique location.
+
+51
+00:02:50,080 --> 00:02:52,415
+So unique is just it's
+something different,
+
+52
+00:02:52,416 --> 00:02:55,034
+something different to what we had before.
+
+53
+00:02:55,980 --> 00:02:58,457
+And then the other part of the definition
+is a result.
+
+54
+00:02:58,540 --> 00:03:00,100
+There's some kind of result.
+
+55
+00:03:00,120 --> 00:03:01,100
+at the end of it.
+
+56
+00:03:01,720 --> 00:03:01,800
+Right?
+
+57
+00:03:02,020 --> 00:03:04,770
+It could be a product, a physical product,
+or a service.
+
+58
+00:03:05,480 --> 00:03:09,400
+It could be a change to a process,
+a new process, right?
+
+59
+00:03:09,500 --> 00:03:10,650
+Or a different process.
+
+60
+00:03:11,420 --> 00:03:13,900
+Or certainly it's going to be some
+documentation.
+
+61
+00:03:14,540 --> 00:03:16,340
+The result could be a documentation.
+
+62
+00:03:16,520 --> 00:03:18,437
+But there's something at the end of it.
+
+63
+00:03:18,520 --> 00:03:21,392
+So even if it's nothing
+more than a decision,
+
+64
+00:03:21,393 --> 00:03:23,480
+the result could actually be a decision.
+
+65
+00:03:23,660 --> 00:03:26,360
+You don't have to have a physical product
+or a service.
+
+66
+00:03:26,800 --> 00:03:28,900
+Think, for example, of a feasibility
+study.
+
+67
+00:03:29,380 --> 00:03:32,920
+Sometimes a feasibility study could be an
+entire project by itself.
+
+68
+00:03:33,180 --> 00:03:36,717
+Building a road, you're building a dam,
+you're building a power station.
+
+69
+00:03:36,800 --> 00:03:38,550
+You have to do a feasibility study.
+
+70
+00:03:38,900 --> 00:03:40,777
+Feasibility study may take several years.
+
+71
+00:03:40,860 --> 00:03:42,760
+That might be a project all by itself.
+
+72
+00:03:43,400 --> 00:03:46,297
+But have we actually built anything at the
+end of the feasibility study?
+
+73
+00:03:46,380 --> 00:03:46,560
+No.
+
+74
+00:03:47,000 --> 00:03:48,850
+All we're doing is making a decision.
+
+75
+00:03:49,300 --> 00:03:51,350
+We've got tons and tons of documentation.
+
+76
+00:03:52,020 --> 00:03:55,072
+And we're going to make
+a decision at the end of
+
+77
+00:03:55,073 --> 00:03:57,460
+the feasibility study,
+at the end of the project.
+
+78
+00:03:57,461 --> 00:04:01,115
+So a result then could
+be a physical product
+
+79
+00:04:01,116 --> 00:04:03,991
+or service or it could
+be something intangible.
+
+80
+00:04:05,380 --> 00:04:08,900
+So that is PMI's exact definition then of
+a project.
+
+81
+00:04:09,200 --> 00:04:15,134
+It's a temporary endeavor undertaken to
+create a unique product, service or result.
+
+82
+00:04:15,300 --> 00:04:17,900
+Now, a couple of things I have to consider
+here.
+
+83
+00:04:18,680 --> 00:04:21,977
+One of the major things
+is, what's the project to one
+
+84
+00:04:21,978 --> 00:04:25,140
+team could be an ongoing
+operation to another team?
+
+85
+00:04:25,720 --> 00:04:27,440
+So point of view is very much.
+
+86
+00:04:27,460 --> 00:04:30,260
+important here as well when we're talking
+about projects.
+
+87
+00:04:31,120 --> 00:04:33,660
+So let's just think of something very,
+very simple.
+
+88
+00:04:34,220 --> 00:04:35,370
+Think of a call center.
+
+89
+00:04:35,660 --> 00:04:37,560
+Call center is all ongoing operations.
+
+90
+00:04:38,180 --> 00:04:40,157
+Are you doing the same thing over and over
+again?
+
+91
+00:04:40,240 --> 00:04:41,444
+Call center operator just doing the same
+
+92
+00:04:41,445 --> 00:04:44,094
+thing over and over
+again, taking phone calls.
+
+93
+00:04:45,020 --> 00:04:49,500
+Now, what if there was supposed to be,
+or there's anticipation that there's going
+
+94
+00:04:49,501 --> 00:04:52,200
+to be a huge increase in the number of
+calls, right?
+
+95
+00:04:52,340 --> 00:04:56,380
+Just say for a couple of months and we
+need to bring in some temporary stuff.
+
+96
+00:04:57,460 --> 00:05:00,837
+So just for those couple of months,
+you bring in some temporary staff.
+
+97
+00:05:00,920 --> 00:05:03,741
+Now, as far as a regular
+call center operators
+
+98
+00:05:03,742 --> 00:05:06,371
+are concerned, there's
+increasing number of calls.
+
+99
+00:05:06,700 --> 00:05:08,560
+To them, it's business as usual,
+right?
+
+100
+00:05:08,561 --> 00:05:11,411
+It's still ongoing operations as far as
+they're concerned.
+
+101
+00:05:11,800 --> 00:05:16,580
+But ask one of the temporary staff to you,
+is this a project or an ongoing operation?
+
+102
+00:05:17,120 --> 00:05:20,240
+Well, from their point of view,
+it might be a project.
+
+103
+00:05:20,920 --> 00:05:21,260
+And why?
+
+104
+00:05:21,640 --> 00:05:26,540
+Because they hear temporarily,
+they have a definite start date, right?
+
+105
+00:05:26,541 --> 00:05:29,257
+they're only here for, say, two months and
+they're going to leave.
+
+106
+00:05:29,340 --> 00:05:31,690
+They have a definite start date and an end
+date.
+
+107
+00:05:32,460 --> 00:05:33,710
+They're here temporarily.
+
+108
+00:05:33,820 --> 00:05:37,660
+Plus, this is a unique environment as far
+as they're concerned.
+
+109
+00:05:38,480 --> 00:05:40,097
+We didn't work in this call center before.
+
+110
+00:05:40,180 --> 00:05:42,155
+They were working some
+other call center before, or
+
+111
+00:05:42,156 --> 00:05:44,900
+they might not have been
+working in a call center.
+
+112
+00:05:45,540 --> 00:05:47,590
+This is a service that they're providing.
+
+113
+00:05:48,140 --> 00:05:51,392
+So as far as they're
+concerned, this is a unique
+
+114
+00:05:51,393 --> 00:05:54,051
+service compared to what
+they were doing before.
+
+115
+00:05:54,720 --> 00:05:56,520
+So point of view is important.
+
+116
+00:05:56,540 --> 00:05:59,180
+Right, whose point of view are we looking
+at?
+
+117
+00:05:59,540 --> 00:06:01,375
+Because what is a
+project to one team could
+
+118
+00:06:01,376 --> 00:06:04,114
+be an ongoing operation to another team.
+
+119
+00:06:04,360 --> 00:06:06,534
+Another kind of like,
+basic difference, if you
+
+120
+00:06:06,617 --> 00:06:09,240
+like, between projects and,
+say, ongoing operations.
+
+121
+00:06:10,580 --> 00:06:13,325
+Adding new functionality, adding new
+
+122
+00:06:13,326 --> 00:06:17,494
+functionality is generally
+considered a project.
+
+123
+00:06:18,200 --> 00:06:21,613
+Tweaking or modifying
+functionality that's already
+
+124
+00:06:21,614 --> 00:06:24,480
+there would generally be
+considered ongoing operations.
+
+125
+00:06:24,481 --> 00:06:25,460
+Okay.
+
+126
+00:06:28,160 --> 00:06:32,240
+Now, there's another term, in fact,
+there's a couple of other terms that are
+
+127
+00:06:32,241 --> 00:06:37,160
+very, very important and related to a
+project that I want to explain here.
+
+128
+00:06:38,100 --> 00:06:41,050
+And one of those is this term here,
+progressive elaboration.
+
+129
+00:06:42,820 --> 00:06:45,460
+Now, you've all come across progressive
+elaboration.
+
+130
+00:06:45,760 --> 00:06:50,240
+We use progressive elaborations throughout
+our entire life, right?
+
+131
+00:06:51,060 --> 00:06:54,760
+But basically what progressive elaboration
+refers to is the fact that you're Starting
+
+132
+00:06:54,761 --> 00:06:58,391
+off with something high
+level and then drilling down
+
+133
+00:06:58,392 --> 00:07:00,977
+into the details until
+you get the final product.
+
+134
+00:07:01,060 --> 00:07:03,412
+So when you start off on
+a project, you don't know
+
+135
+00:07:03,413 --> 00:07:05,640
+everything there is to
+know about the project.
+
+136
+00:07:06,180 --> 00:07:08,620
+You have enough information just to get
+started.
+
+137
+00:07:09,340 --> 00:07:10,980
+You have a high level concept.
+
+138
+00:07:11,120 --> 00:07:12,957
+This is what we want from this project.
+
+139
+00:07:13,040 --> 00:07:15,077
+Then from that high level
+concept, you're going to
+
+140
+00:07:15,078 --> 00:07:17,460
+come up with the high
+level scope of the project.
+
+141
+00:07:18,080 --> 00:07:21,240
+And then you're going to come down to some
+of the more details.
+
+142
+00:07:21,840 --> 00:07:24,397
+And then you're going to come up with a
+high level activity.
+
+143
+00:07:24,480 --> 00:07:28,540
+and then drill it down into more detail
+activities until you get your final
+
+144
+00:07:28,541 --> 00:07:33,300
+project or rather until you get your final
+product right that is progressive
+
+145
+00:07:33,301 --> 00:07:37,700
+elaboration right you're constantly
+constantly drilling down into the details
+
+146
+00:07:37,701 --> 00:07:43,220
+so you're making updates you're constantly
+making updates to your project plans your
+
+147
+00:07:43,221 --> 00:07:49,260
+budget your timelines and um risk register
+issues log and all of the all of the plans
+
+148
+00:07:49,261 --> 00:07:52,381
+a risk management plan and
+the schedule management plan
+
+149
+00:07:52,382 --> 00:07:55,071
+and the quality management
+plan and so and so forth.
+
+150
+00:07:55,460 --> 00:07:58,200
+You're drilling down into all of the
+details, right?
+
+151
+00:07:58,720 --> 00:08:00,520
+So your project plans are dynamic.
+
+152
+00:08:00,820 --> 00:08:06,020
+They're constantly, continuously being
+updated as more information is gathered.
+
+153
+00:08:06,760 --> 00:08:10,640
+And we do that every aspect of life,
+right?
+
+154
+00:08:10,740 --> 00:08:13,440
+Use take small baby steps before you can
+start running.
+
+155
+00:08:14,380 --> 00:08:18,180
+I mean, in everything you do, you start
+off with something high level and then you
+
+156
+00:08:18,181 --> 00:08:21,840
+start drilling down to the details,
+right, until you get a final product.
+
+157
+00:08:22,000 --> 00:08:25,800
+Even something as simple as, like, say
+doing a PowerPoint presentation, right?
+
+158
+00:08:25,880 --> 00:08:27,960
+You need to give a presentation,
+right?
+
+159
+00:08:28,080 --> 00:08:29,580
+Say an hour long presentation.
+
+160
+00:08:29,760 --> 00:08:32,035
+Well, you don't just suddenly
+sit down for, you know,
+
+161
+00:08:32,036 --> 00:08:34,371
+10 minutes and write up
+an hour long presentation.
+
+162
+00:08:34,840 --> 00:08:38,700
+No, you start off with a high level
+concept, right, a high level plan.
+
+163
+00:08:38,860 --> 00:08:40,717
+All right, these are what I'm going to be
+talking about.
+
+164
+00:08:40,800 --> 00:08:42,997
+These are the topics I'm going to be
+talking about.
+
+165
+00:08:43,080 --> 00:08:46,530
+Yeah, you're going to come up with some
+high level, high level slides,
+
+166
+00:08:46,840 --> 00:08:47,960
+high level slide deck.
+
+167
+00:08:48,100 --> 00:08:50,780
+Then you're going to start putting in more
+and more detail, right?
+
+168
+00:08:50,860 --> 00:08:52,657
+They're going to move details around.
+
+169
+00:08:52,740 --> 00:08:53,220
+You're going to tweet.
+
+170
+00:08:53,240 --> 00:08:55,780
+it until you get to your final product.
+
+171
+00:08:56,260 --> 00:08:58,440
+Again, that is progressive elaboration.
+
+172
+00:08:59,000 --> 00:09:02,340
+So your project is constantly
+progressively elaborated.
+
+173
+00:09:02,800 --> 00:09:05,950
+We're constantly making updates as more
+information is gathered.
+
+174
+00:09:06,860 --> 00:09:11,340
+Now a type of progressive elaboration is
+something called rolling wave planning.
+
+175
+00:09:12,260 --> 00:09:16,320
+And rolling wave planning, as I said,
+it's a type of progressive elaboration.
+
+176
+00:09:16,860 --> 00:09:20,293
+It's where you are planning
+near-term items in detail
+
+177
+00:09:20,294 --> 00:09:23,031
+and longer-term items at
+a much more higher level.
+
+178
+00:09:23,240 --> 00:09:27,900
+And this is generally used in iterative,
+incremental type methodologies,
+
+179
+00:09:28,140 --> 00:09:31,560
+agile methodologies, all use rolling wave.
+
+180
+00:09:31,940 --> 00:09:36,960
+You're planning near-term items in detail,
+longer term, at a much more high level.
+
+181
+00:09:37,540 --> 00:09:41,097
+So, for example, then,
+let's say we are in the testing
+
+182
+00:09:41,098 --> 00:09:44,600
+phase of a project and we
+have three iterations of testing.
+
+183
+00:09:45,200 --> 00:09:47,580
+Why do we have three iterations of
+testing?
+
+184
+00:09:47,960 --> 00:09:51,880
+Well, because we don't know exactly
+everything that needs to be tested.
+
+185
+00:09:52,500 --> 00:09:57,540
+So we are going to plan all the testing
+for iteration 1 immediately, initially.
+
+186
+00:09:58,100 --> 00:10:00,980
+And the reason why we don't know
+everything that needs to be tested is
+
+187
+00:10:00,981 --> 00:10:05,960
+because, as we are testing, there might be
+some additional tests, right, that might
+
+188
+00:10:05,961 --> 00:10:09,040
+be discovered, that might, you know,
+these tests might spawn off some
+
+189
+00:10:09,041 --> 00:10:11,291
+additional tests that we don't know about
+yet.
+
+190
+00:10:11,520 --> 00:10:16,320
+So we're going to plan iteration 1 in a
+lot of detail, iteration 2 and 3,
+
+191
+00:10:16,460 --> 00:10:18,420
+you know, at a much more high level.
+
+192
+00:10:18,480 --> 00:10:20,980
+These are the milestones we want to hit
+for 2 and 3.
+
+193
+00:10:20,981 --> 00:10:25,640
+once we start getting results from
+iteration one then we can start planning
+
+194
+00:10:25,641 --> 00:10:29,900
+iteration two in detail and so and so
+forth so we're not planning the entire
+
+195
+00:10:29,901 --> 00:10:35,560
+phase all in one go we're planning in
+stages we're planning in waves and that's
+
+196
+00:10:35,561 --> 00:10:41,180
+what rolling wave planning is so in an
+agile environment those iterations are
+
+197
+00:10:41,181 --> 00:10:46,900
+known as Springs so you're planning each
+sprint in detail one by one you're not
+
+198
+00:10:46,901 --> 00:10:50,020
+planning every single sprint in detail
+right at the beginning.
+
+199
+00:10:50,940 --> 00:10:53,700
+You are first going to plan the current
+sprint.
+
+200
+00:10:53,960 --> 00:10:58,680
+As you get to each sprint, you're going to
+plan each sprint in detail at that time.
+
+201
+00:10:59,160 --> 00:11:02,710
+All the other sprints are going to be
+planned at a much more high level.
+
+202
+00:11:03,100 --> 00:11:07,754
+So that is rolling wave planning, which
+is a type of progressive elaboration.
+
+203
+00:11:08,080 --> 00:11:12,200
+And your project is constantly
+progressively elaborated.
+
+204
+00:11:12,880 --> 00:11:13,713
+Okay.
+

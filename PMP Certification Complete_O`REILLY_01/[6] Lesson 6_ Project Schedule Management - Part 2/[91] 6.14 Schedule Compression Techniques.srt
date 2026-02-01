@@ -1,0 +1,607 @@
+﻿1
+00:00:05,920 --> 00:00:09,666
+Okay, so in this video, we're
+going to talk about another
+
+2
+00:00:09,667 --> 00:00:13,100
+tool-in technique called
+Schedule compression, right?
+
+3
+00:00:13,260 --> 00:00:14,860
+Schedule compression techniques.
+
+4
+00:00:16,180 --> 00:00:19,560
+Now, scheduled compression
+is considered a tool and
+
+5
+00:00:19,561 --> 00:00:24,200
+technique, right, from the
+old pinbox 6, right, standard.
+
+6
+00:00:24,760 --> 00:00:27,933
+So they have scheduled
+compression techniques was one
+
+7
+00:00:27,934 --> 00:00:30,980
+of the tools and techniques
+of developed schedule.
+
+8
+00:00:32,640 --> 00:00:36,660
+Now, there are two types of schedule
+compression techniques, something called
+
+9
+00:00:36,661 --> 00:00:39,260
+crashing and the other one called fast
+tracking.
+
+10
+00:00:40,600 --> 00:00:42,445
+Now, first of all, let's
+actually talk about
+
+11
+00:00:42,446 --> 00:00:44,594
+what do we mean by schedule compression.
+
+12
+00:00:45,020 --> 00:00:48,200
+I mean, as the name suggests, compression
+reducing the schedule.
+
+13
+00:00:49,020 --> 00:00:53,580
+So let's say we go behind schedule,
+right, we're going behind schedule.
+
+14
+00:00:54,780 --> 00:00:57,725
+And so the remaining schedule
+now we want to try and compress
+
+15
+00:00:57,726 --> 00:01:01,600
+it, try and reduce the schedule
+so that we can finish on time.
+
+16
+00:01:02,560 --> 00:01:06,340
+So that's what schedule compression refers
+to.
+
+17
+00:01:06,420 --> 00:01:09,240
+Now there's two times, crashing and fast
+tracking.
+
+18
+00:01:09,520 --> 00:01:11,820
+Now, let's talk about this first one,
+crashing.
+
+19
+00:01:11,920 --> 00:01:15,600
+Crashing specifically means adding
+additional resources.
+
+20
+00:01:16,860 --> 00:01:20,980
+And you're adding additional resources to
+critical path activities.
+
+21
+00:01:22,080 --> 00:01:26,180
+So whenever you hear the term,
+we have to crash the schedule.
+
+22
+00:01:26,900 --> 00:01:29,228
+Whenever you hear that
+term crashing the schedule,
+
+23
+00:01:29,229 --> 00:01:32,280
+it always refers to adding
+additional resources.
+
+24
+00:01:32,640 --> 00:01:36,380
+So whether there are additional team
+members or additional machines,
+
+25
+00:01:36,780 --> 00:01:40,717
+additional raw materials, or whatever it
+is, are you adding additional resources?
+
+26
+00:01:40,800 --> 00:01:44,120
+But you're adding them to critical path
+activities.
+
+27
+00:01:45,140 --> 00:01:47,685
+Not to non-critical path
+activities, non-critical
+
+28
+00:01:47,686 --> 00:01:49,714
+path activities can be delayed anyway.
+
+29
+00:01:50,560 --> 00:01:55,280
+So if an activity that can have float,
+if that gets delayed, that's not going to
+
+30
+00:01:55,281 --> 00:01:58,588
+delay the project, but
+if a critical path activity
+
+31
+00:01:58,589 --> 00:02:01,554
+is delayed, that's a
+delay on the whole project.
+
+32
+00:02:02,420 --> 00:02:06,620
+So you're adding additional resources to
+critical path activities.
+
+33
+00:02:07,260 --> 00:02:13,360
+Whether you're adding people or
+whether you're adding machines,
+
+34
+00:02:13,361 --> 00:02:15,997
+well, what effect is that
+going to have on your project?
+
+35
+00:02:16,080 --> 00:02:16,520
+Think about that.
+
+36
+00:02:16,640 --> 00:02:17,897
+What effect is that going to have?
+
+37
+00:02:17,980 --> 00:02:20,680
+You're adding more people, you're adding
+more machines.
+
+38
+00:02:21,480 --> 00:02:23,000
+That's going to increase cost.
+
+39
+00:02:23,960 --> 00:02:26,720
+The biggest effect is your cost is going
+to increase.
+
+40
+00:02:27,440 --> 00:02:28,600
+That's a main effect.
+
+41
+00:02:29,200 --> 00:02:32,920
+Now, it can also increase risk,
+but the main effect is to increase cost.
+
+42
+00:02:34,260 --> 00:02:39,500
+So, even say we want to bring in a
+machine, right, well, we want to bring in
+
+43
+00:02:39,501 --> 00:02:44,420
+an extra machine, that's going to cost
+money, but then we might need to bring in
+
+44
+00:02:44,421 --> 00:02:47,000
+some additional labour to utilise that
+machine.
+
+45
+00:02:47,580 --> 00:02:50,000
+Again, that's going to cost more money,
+right?
+
+46
+00:02:50,360 --> 00:02:53,610
+So crashing is always going to have the
+effect of increasing cost.
+
+47
+00:02:53,740 --> 00:02:56,820
+It can increase risk, main effect is to
+increase cost.
+
+48
+00:02:58,800 --> 00:03:03,660
+So, from an example perspective,
+right, you are going to choose crashing
+
+49
+00:03:03,661 --> 00:03:07,552
+when you have the funds
+for crashing, right, when
+
+50
+00:03:07,553 --> 00:03:10,731
+you have the funds to
+increase additional resources.
+
+51
+00:03:11,060 --> 00:03:13,560
+So let's say you've got
+a situation where you're
+
+52
+00:03:13,561 --> 00:03:16,161
+going behind schedule,
+but then you're under budget.
+
+53
+00:03:17,100 --> 00:03:19,910
+Well, you've got some
+additional funds that are under
+
+54
+00:03:19,911 --> 00:03:22,740
+budget, so crashing might
+be an option there, right?
+
+55
+00:03:22,960 --> 00:03:24,604
+Or let's say senior management or your
+
+56
+00:03:24,605 --> 00:03:26,700
+customer has approved
+some additional funding.
+
+57
+00:03:27,160 --> 00:03:29,740
+Again, crashing would be an option there.
+
+58
+00:03:30,320 --> 00:03:32,557
+Now, crashing also is not just a
+free-for-all.
+
+59
+00:03:32,640 --> 00:03:34,590
+Oh, let's bring in anyone and everyone.
+
+60
+00:03:34,800 --> 00:03:38,260
+No, again, remember,
+doubling the number of resources
+
+61
+00:03:38,261 --> 00:03:41,231
+is not going to halve the
+time in which to do the work.
+
+62
+00:03:41,940 --> 00:03:47,000
+So you're going to crash, you're going to
+bring in resources incrementally at the
+
+63
+00:03:47,001 --> 00:03:50,820
+most incrementally efficient, you know,
+cost.
+
+64
+00:03:52,960 --> 00:03:54,100
+So that's crashing.
+
+65
+00:03:54,780 --> 00:03:57,580
+Another tool then is this one called fast
+tracking.
+
+66
+00:03:58,360 --> 00:04:02,885
+And fast tracking means
+items that you'd plan to run
+
+67
+00:04:02,886 --> 00:04:06,361
+sequentially, you're now
+going to run them in parallel.
+
+68
+00:04:07,020 --> 00:04:10,020
+So you're converting sequential items into
+parallel.
+
+69
+00:04:10,700 --> 00:04:13,560
+And the main effect of that is to increase
+risk.
+
+70
+00:04:13,920 --> 00:04:18,240
+That can also increase cost, but the main
+effect is to increase risk.
+
+71
+00:04:19,060 --> 00:04:23,700
+Because now you had planned, you had
+planned to finish this activity before you
+
+72
+00:04:23,701 --> 00:04:27,320
+start this next one, but now you're going
+to do them in parallel, right?
+
+73
+00:04:27,440 --> 00:04:28,740
+So that can increase risk.
+
+74
+00:04:29,380 --> 00:04:33,272
+All right, so we first want
+to paint the upstairs of the
+
+75
+00:04:33,273 --> 00:04:36,561
+house blue, then we'll paint
+the downstairs of the house red.
+
+76
+00:04:38,000 --> 00:04:40,760
+But let's do them both in parallel now.
+
+77
+00:04:41,000 --> 00:04:42,937
+But we're going a little behind schedule.
+
+78
+00:04:43,020 --> 00:04:45,040
+We'll do them both at the same time.
+
+79
+00:04:45,820 --> 00:04:49,480
+Well, we might end up mixing the colors
+together, right?
+
+80
+00:04:49,580 --> 00:04:54,200
+Or, you know, some rooms upstairs will end
+up painting red instead of blue and some
+
+81
+00:04:54,201 --> 00:04:56,024
+rooms downstairs,
+we'll, you know, again, we
+
+82
+00:04:56,025 --> 00:04:58,254
+might end up painting
+them the wrong colour.
+
+83
+00:04:59,140 --> 00:05:00,940
+This is a very, very simple example.
+
+84
+00:05:01,260 --> 00:05:04,620
+So the main effect of fast tracking is
+going to increase risk.
+
+85
+00:05:06,400 --> 00:05:09,720
+Now, also understand something very,
+very important here.
+
+86
+00:05:10,560 --> 00:05:15,634
+Fast tracking, you can all do fast tracking
+if you have a discretionary dependency.
+
+87
+00:05:16,320 --> 00:05:18,070
+Remember, discretionary dependency.
+
+88
+00:05:18,540 --> 00:05:19,040
+It's up to us.
+
+89
+00:05:19,180 --> 00:05:22,800
+We can move activities around as opposed
+to mandatory dependency.
+
+90
+00:05:22,940 --> 00:05:24,490
+If it's a mandatory dependency.
+
+91
+00:05:25,580 --> 00:05:27,430
+We won't be able to move them around.
+
+92
+00:05:27,560 --> 00:05:30,220
+So as a simple example, building a house,
+right?
+
+93
+00:05:30,900 --> 00:05:32,097
+We have to dig the foundations.
+
+94
+00:05:32,180 --> 00:05:34,733
+We have to finish digging
+the foundations before we can
+
+95
+00:05:34,734 --> 00:05:37,431
+start framing, before we
+can start putting up the walls.
+
+96
+00:05:37,840 --> 00:05:40,590
+Right, we can't decide as we're digging
+the foundations.
+
+97
+00:05:40,700 --> 00:05:41,000
+You know what?
+
+98
+00:05:41,060 --> 00:05:42,810
+Let's just do this in parallel now.
+
+99
+00:05:43,240 --> 00:05:45,417
+We'll, you know, we're going a little
+behind a schedule.
+
+100
+00:05:45,500 --> 00:05:48,760
+So let's, as we're digging the
+foundations, once we start digging the
+
+101
+00:05:48,761 --> 00:05:50,817
+foundations, then we can start putting up
+the walls.
+
+102
+00:05:50,900 --> 00:05:51,733
+No.
+
+103
+00:05:52,160 --> 00:05:53,680
+You have to finish.
+
+104
+00:05:53,700 --> 00:05:56,920
+digging the foundations before you can
+start framing.
+
+105
+00:05:58,060 --> 00:06:01,254
+So that would be a mandatory
+dependency, in which
+
+106
+00:06:01,255 --> 00:06:04,194
+case, fast tracking will
+not be a viable option.
+
+107
+00:06:06,020 --> 00:06:08,160
+It's only if it's a discretionary.
+
+108
+00:06:08,300 --> 00:06:12,480
+So for example, quality control versus
+user acceptance testing.
+
+109
+00:06:13,700 --> 00:06:16,100
+We want to test the product first.
+
+110
+00:06:16,280 --> 00:06:17,113
+We as a team.
+
+111
+00:06:17,620 --> 00:06:19,177
+We want to finish quality control.
+
+112
+00:06:19,260 --> 00:06:21,008
+We want to finish
+testing the product before
+
+113
+00:06:21,009 --> 00:06:22,760
+we give it to the
+customer for their testing.
+
+114
+00:06:22,761 --> 00:06:25,340
+for their user acceptance testing.
+
+115
+00:06:26,620 --> 00:06:28,120
+Ideally, we'd like to do that.
+
+116
+00:06:28,800 --> 00:06:33,080
+So we've planned quality control first,
+user acceptance testing afterwards.
+
+117
+00:06:34,180 --> 00:06:38,240
+However, if we're running a little behind
+schedule, there's no reason why,
+
+118
+00:06:38,760 --> 00:06:41,091
+you know, the customer
+can't start their testing
+
+119
+00:06:41,092 --> 00:06:43,834
+while we're still
+finishing up our testing.
+
+120
+00:06:44,080 --> 00:06:49,340
+So we can convert now these two sequential
+items into parallel.
+
+121
+00:06:49,880 --> 00:06:52,680
+Because at that point, that's a
+discretionary dependency.
+
+122
+00:06:53,240 --> 00:06:57,240
+There's nothing saying that we have to
+test it first before the customer test it,
+
+123
+00:06:57,500 --> 00:06:59,691
+or rather there's nothing
+saying that we have to
+
+124
+00:06:59,692 --> 00:07:02,200
+complete testing before
+the customer can test it.
+
+125
+00:07:02,380 --> 00:07:07,140
+So that's a discretionary dependency and
+therefore we can fast track.
+
+126
+00:07:07,900 --> 00:07:08,060
+All right.
+
+127
+00:07:08,420 --> 00:07:11,121
+So these are the two types
+of scheduled compression
+
+128
+00:07:11,122 --> 00:07:13,454
+techniques are crashing and fast tracking.
+

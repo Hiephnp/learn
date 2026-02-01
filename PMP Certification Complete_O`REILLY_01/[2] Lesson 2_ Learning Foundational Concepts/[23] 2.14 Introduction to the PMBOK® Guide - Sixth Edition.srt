@@ -1,0 +1,269 @@
+﻿1
+00:00:05,920 --> 00:00:11,480
+Now we're going to discuss the introduction
+to the PIMBAC Guide, 6th edition.
+
+2
+00:00:13,560 --> 00:00:21,240
+So our five process groups, again,
+refer back to page 25 in your PIMBock.
+
+3
+00:00:21,900 --> 00:00:25,500
+That's your process map or process matrix.
+
+4
+00:00:26,940 --> 00:00:31,440
+Our five process groups are the columns
+going across.
+
+5
+00:00:32,540 --> 00:00:35,900
+Our five process groups in the PIMBock are
+a variant.
+
+6
+00:00:35,920 --> 00:00:42,440
+of the plan, do, check, act cycle created
+by Shoehart, later modified by Deming.
+
+7
+00:00:43,260 --> 00:00:43,580
+All right.
+
+8
+00:00:44,040 --> 00:00:47,140
+So we'll start our project or phase.
+
+9
+00:00:47,920 --> 00:00:50,400
+Then we will plan, figure out the
+specifics.
+
+10
+00:00:51,220 --> 00:00:54,140
+So plan, do, check, act.
+
+11
+00:00:55,700 --> 00:00:59,820
+Planning will figure out how we're going
+to accomplish project objectives.
+
+12
+00:01:00,620 --> 00:01:04,860
+And then we'll keep going through our
+planning processes to develop our
+
+13
+00:01:04,861 --> 00:01:07,480
+baselines, scope, time, and cost
+baselines.
+
+14
+00:01:08,400 --> 00:01:12,140
+Once we are baseline, we'll move into
+executing.
+
+15
+00:01:12,820 --> 00:01:14,040
+That's the due part.
+
+16
+00:01:14,920 --> 00:01:18,580
+So we'll move into the executing process
+group.
+
+17
+00:01:19,280 --> 00:01:24,294
+We'll create our deliverables, do the
+work of the project according to our plan.
+
+18
+00:01:26,460 --> 00:01:29,540
+Then we check all along the way.
+
+19
+00:01:30,360 --> 00:01:35,220
+We're monitoring and controlling, reviewing,
+tracking, monitoring against the plan.
+
+20
+00:01:35,560 --> 00:01:39,180
+So we'll check to see if there's any
+variance.
+
+21
+00:01:40,160 --> 00:01:42,300
+Are we off of that plan at all?
+
+22
+00:01:42,980 --> 00:01:48,360
+So you'll see in monitoring and
+controlling when we cover integration.
+
+23
+00:01:49,400 --> 00:01:52,880
+We, the PM, is overseeing everything.
+
+24
+00:01:53,300 --> 00:01:55,900
+We'll review track monitor progress
+against the plan.
+
+25
+00:01:56,560 --> 00:01:59,840
+But all of our monitoring and controlling
+process is below us.
+
+26
+00:02:00,080 --> 00:02:02,160
+Again, I'm referring to your process map.
+
+27
+00:02:03,400 --> 00:02:08,540
+each of those monitoring and controlling
+processes will compare the plan what was
+
+28
+00:02:08,541 --> 00:02:14,680
+agreed upon to data what's actually
+happening in executing those are your
+
+29
+00:02:14,681 --> 00:02:20,220
+actuals so we're going to check we're
+trying to stay on top of everything so
+
+30
+00:02:20,221 --> 00:02:27,240
+that we can quickly take action all right
+so we check and act which often leads us
+
+31
+00:02:27,241 --> 00:02:34,600
+to plan again whether we have to change
+our strategies approaches or our baselines
+
+32
+00:02:34,601 --> 00:02:37,720
+and then we'll go through our processes
+again.
+
+33
+00:02:39,540 --> 00:02:44,380
+Our 10 knowledge areas are the rows going
+across.
+
+34
+00:02:45,320 --> 00:02:49,780
+So we have 10 right just use my fingers
+integration scope time cost.
+
+35
+00:02:50,320 --> 00:02:51,153
+All right.
+
+36
+00:02:51,400 --> 00:02:55,280
+So each of our knowledge areas is specific
+to a topic.
+
+37
+00:02:56,100 --> 00:03:02,420
+So in the integration management all the
+process is going across that row deal with
+
+38
+00:03:02,421 --> 00:03:07,880
+integration what we the PM will do to
+manage coordinate unify that entire
+
+39
+00:03:07,881 --> 00:03:12,720
+project we're overseeing everything and
+that's our focus and we'll have the scope
+
+40
+00:03:12,721 --> 00:03:17,640
+knowledge area this will contain all the
+processes dealing with scope same with
+
+41
+00:03:17,641 --> 00:03:24,560
+schedule cost quality resources
+communications risk procurement and
+
+42
+00:03:24,561 --> 00:03:28,480
+stakeholder management so those are all
+the rows going across.
+
+43
+00:03:29,200 --> 00:03:32,760
+So again, each row is a knowledge area
+specific to a topic.
+
+44
+00:03:33,520 --> 00:03:37,860
+They intersect in each process group.
+
+45
+00:03:38,840 --> 00:03:44,200
+So you want to understand where you are in
+a process group, initiating through
+
+46
+00:03:44,201 --> 00:03:48,960
+closing and in a knowledge area to know
+where you are.
+
+47
+00:03:49,600 --> 00:03:52,920
+So integration again is what the PM
+focuses on.
+
+48
+00:03:52,921 --> 00:03:57,532
+That's everything we do to
+manage, coordinate, unify that
+
+49
+00:03:57,533 --> 00:04:01,540
+entire project and how we'll
+take it from beginning to end.
+
+50
+00:04:02,200 --> 00:04:07,080
+I do want to point out, you've got this
+little notebook documents that were
+
+51
+00:04:07,081 --> 00:04:13,660
+referred to as inputs and outputs in the
+PIMBock are now called project artifacts.
+
+52
+00:04:14,140 --> 00:04:16,820
+So I want you to know that they can be
+called either.
+
+53
+00:04:17,580 --> 00:04:21,065
+Inputs, information documentation
+key to the process, those
+
+54
+00:04:21,066 --> 00:04:25,000
+are artifacts that will come
+in that we need to review.
+
+55
+00:04:25,660 --> 00:04:30,405
+Tools and techniques TTs
+will be verbs, what will do
+
+56
+00:04:30,406 --> 00:04:35,640
+in a process to create
+an output another artifact.
+

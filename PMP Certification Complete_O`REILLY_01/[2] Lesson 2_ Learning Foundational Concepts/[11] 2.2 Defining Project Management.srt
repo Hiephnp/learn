@@ -1,0 +1,444 @@
+﻿1
+00:00:05,920 --> 00:00:10,440
+Okay, so let's talk about the definition
+of project management now.
+
+2
+00:00:10,760 --> 00:00:13,260
+Okay, so let's define project management.
+
+3
+00:00:14,700 --> 00:00:20,060
+Now, PMI defines project management as the
+application of knowledge, skills,
+
+4
+00:00:20,340 --> 00:00:24,520
+tools, and techniques to project
+activities to meet project requirements.
+
+5
+00:00:25,300 --> 00:00:29,780
+Okay, so project management then is the
+application of knowledge, skills,
+
+6
+00:00:30,040 --> 00:00:35,054
+tools, and techniques to project activities
+to meet the project requirements.
+
+7
+00:00:35,920 --> 00:00:40,080
+So that is PMI's exact definition of
+project management.
+
+8
+00:00:41,520 --> 00:00:48,640
+Now, key terms, three key terms here are
+knowledge, skills, tools, and techniques.
+
+9
+00:00:49,360 --> 00:00:51,060
+So let's talk about each of these.
+
+10
+00:00:51,400 --> 00:00:54,180
+So knowledge, knowledge about what?
+
+11
+00:00:54,960 --> 00:00:57,360
+Well, this is a definition of project
+management.
+
+12
+00:00:57,840 --> 00:01:00,100
+So it's a knowledge of project management.
+
+13
+00:01:00,580 --> 00:01:03,620
+It's a knowledge of managing your project,
+right?
+
+14
+00:01:03,680 --> 00:01:05,840
+So it's understanding then, proceed.
+
+15
+00:01:05,920 --> 00:01:09,120
+It's understanding methodologies,
+right?
+
+16
+00:01:09,300 --> 00:01:11,600
+There's many different methodologies out
+there.
+
+17
+00:01:11,780 --> 00:01:14,681
+Different industries use
+different project management
+
+18
+00:01:14,682 --> 00:01:17,931
+methodologies, and different
+industries are managed differently.
+
+19
+00:01:18,120 --> 00:01:20,393
+An IT project is managed
+very differently to a
+
+20
+00:01:20,394 --> 00:01:22,854
+construction project, and
+a very simple example.
+
+21
+00:01:23,140 --> 00:01:25,190
+There's different methodologies involved.
+
+22
+00:01:25,680 --> 00:01:32,754
+So let's see, it's understanding, the
+standards, project management standards.
+
+23
+00:01:32,860 --> 00:01:34,665
+It's understanding project management
+
+24
+00:01:34,666 --> 00:01:37,744
+methodologies and which
+methodology to use, when.
+
+25
+00:01:38,430 --> 00:01:41,780
+So it's the application of that,
+it's application of that knowledge.
+
+26
+00:01:42,350 --> 00:01:43,350
+And whose knowledge?
+
+27
+00:01:44,190 --> 00:01:46,457
+Well, since there's a definition
+of project management,
+
+28
+00:01:46,458 --> 00:01:48,890
+generally the knowledge
+of the project manager.
+
+29
+00:01:50,050 --> 00:01:56,310
+But anybody else involved in the project
+as well, such as the project team,
+
+30
+00:01:56,530 --> 00:02:02,190
+team leads, customers, anybody that is
+involved in the project.
+
+31
+00:02:02,970 --> 00:02:05,696
+So it's the application of knowledge, And
+
+32
+00:02:05,697 --> 00:02:09,210
+remember, knowledge is
+progressively elaborated.
+
+33
+00:02:09,550 --> 00:02:12,090
+You're constantly learning more and more,
+right?
+
+34
+00:02:12,290 --> 00:02:14,526
+As more information is
+gathered, you're starting
+
+35
+00:02:14,609 --> 00:02:17,140
+off with high level, drilling
+down into the details.
+
+36
+00:02:18,010 --> 00:02:20,970
+So it's a knowledge about project
+management.
+
+37
+00:02:21,330 --> 00:02:27,050
+It's also the knowledge about the product,
+about the industry that you're working in,
+
+38
+00:02:27,550 --> 00:02:27,670
+right?
+
+39
+00:02:27,850 --> 00:02:30,908
+It's about the process
+and about the, basically it's
+
+40
+00:02:30,909 --> 00:02:34,170
+knowledge about anything and
+everything regarding the project.
+
+41
+00:02:35,130 --> 00:02:38,270
+So it's the application of knowledge and
+then skills.
+
+42
+00:02:39,470 --> 00:02:41,487
+What skill sets are we talking about here?
+
+43
+00:02:41,570 --> 00:02:45,330
+Well, again, all skill sets required to
+manage a project.
+
+44
+00:02:46,410 --> 00:02:49,454
+So a skill set such as, I
+mean, think about this,
+
+45
+00:02:49,455 --> 00:02:52,061
+what kind of skill sets do
+project managers have?
+
+46
+00:02:52,530 --> 00:02:55,930
+They have interpersonal skills,
+management skills, leadership skills,
+
+47
+00:02:56,570 --> 00:02:58,070
+networking, collaboration.
+
+48
+00:02:58,830 --> 00:03:02,530
+There's going to be conflict, so project
+managers need to manage conflicts.
+
+49
+00:03:02,670 --> 00:03:04,490
+So it's going to be conflict management
+skills.
+
+50
+00:03:04,491 --> 00:03:07,491
+empathy, all of these skills we're going
+to be talking about.
+
+51
+00:03:07,690 --> 00:03:09,035
+In subsequent videos, we're going to be
+
+52
+00:03:09,036 --> 00:03:10,910
+mentioning and talking
+about all of these skills.
+
+53
+00:03:11,390 --> 00:03:16,230
+Emotional intelligence, communication
+skills, facilitation skills, right?
+
+54
+00:03:16,790 --> 00:03:20,122
+It's going to be many meetings
+and focus groups and brainstorming
+
+55
+00:03:20,123 --> 00:03:22,787
+sessions that project managers
+are going to be leading.
+
+56
+00:03:22,870 --> 00:03:25,830
+So they need to be able to facilitate
+these meetings.
+
+57
+00:03:27,490 --> 00:03:32,530
+So all of these skills are going to play a
+big major part in managing your project.
+
+58
+00:03:32,531 --> 00:03:35,801
+Now, the number one
+job skill for a project
+
+59
+00:03:35,802 --> 00:03:39,270
+manager is generally
+considered as communication.
+
+60
+00:03:39,910 --> 00:03:43,790
+That is why you hire a project manager to
+communicate.
+
+61
+00:03:44,710 --> 00:03:48,574
+A project manager is someone
+that can get tasks moving
+
+62
+00:03:48,575 --> 00:03:52,310
+along, right, that can get team
+members working together.
+
+63
+00:03:53,010 --> 00:03:56,110
+Project manager is someone that can get
+teams working together.
+
+64
+00:03:56,430 --> 00:03:58,330
+There's going to be conflicts within
+teams.
+
+65
+00:03:58,410 --> 00:04:01,560
+So a project manager is someone that can
+manage these conflicts.
+
+66
+00:04:03,150 --> 00:04:06,290
+Now, is a project manager a technical
+expert?
+
+67
+00:04:07,030 --> 00:04:09,930
+For the purpose of the
+PMP exam, you are going
+
+68
+00:04:09,931 --> 00:04:12,370
+to assume they are not a technical expert.
+
+69
+00:04:13,410 --> 00:04:15,623
+And generally in order
+to manage a project, you
+
+70
+00:04:15,624 --> 00:04:18,250
+don't necessarily need
+to be a technical expert.
+
+71
+00:04:19,130 --> 00:04:23,150
+Now, having said that though, in many
+industries, in order to get to that
+
+72
+00:04:23,151 --> 00:04:25,990
+position, you need to be a technical
+expert.
+
+73
+00:04:26,410 --> 00:04:28,887
+And that's perfectly fine, PMI are not
+saying that's wrong.
+
+74
+00:04:28,970 --> 00:04:30,370
+That's not wrong in any way.
+
+75
+00:04:30,910 --> 00:04:35,770
+all the saying is even if you're a
+technical expert you need to be a good
+
+76
+00:04:35,771 --> 00:04:43,010
+communicator project managers spend 90% of
+their time communicating so you need to be
+
+77
+00:04:43,011 --> 00:04:47,690
+a good communicator right so project
+manager then have these communication
+
+78
+00:04:47,691 --> 00:04:51,730
+skills if you're not a good communicator
+you won't necessarily make a very good
+
+79
+00:04:51,731 --> 00:04:56,270
+project manager right i mean your skills
+will still be required in other areas i
+
+80
+00:04:56,271 --> 00:05:00,270
+mean project manager is just one role on a
+project right there are a many,
+
+81
+00:05:00,271 --> 00:05:03,486
+many roles on a project,
+but in order to be a good
+
+82
+00:05:03,487 --> 00:05:07,110
+project manager, you need
+to be a good communicator.
+
+83
+00:05:07,690 --> 00:05:11,910
+So that's one of the key skills for a
+project manager is communication.
+
+84
+00:05:13,490 --> 00:05:18,070
+So again, project management then is the
+application of knowledge, which is
+
+85
+00:05:18,071 --> 00:05:22,050
+progressively elaborated, skills,
+and then tools and techniques.
+
+86
+00:05:22,830 --> 00:05:26,830
+So project managers need the tools and
+techniques to manage their project.
+
+87
+00:05:27,510 --> 00:05:31,310
+Team members need tools and techniques to
+do the work, right?
+
+88
+00:05:31,510 --> 00:05:32,560
+So appropriate tools.
+
+89
+00:05:32,770 --> 00:05:35,654
+Likewise, project managers
+also need appropriate tools
+
+90
+00:05:35,655 --> 00:05:38,590
+and techniques for them to
+be able to manage the project.
+
+91
+00:05:39,370 --> 00:05:41,464
+And all these tools and
+techniques, skills we're
+
+92
+00:05:41,465 --> 00:05:43,584
+going to be talking
+about in separate videos.
+

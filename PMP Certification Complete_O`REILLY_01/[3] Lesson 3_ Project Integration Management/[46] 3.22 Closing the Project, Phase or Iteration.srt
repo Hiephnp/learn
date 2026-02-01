@@ -1,0 +1,274 @@
+﻿1
+00:00:05,920 --> 00:00:11,840
+closing the project phase or iteration now
+we're going to cover this in a lot more
+
+2
+00:00:11,841 --> 00:00:21,340
+detailed now too so various reasons
+projects or phases can end the project was
+
+3
+00:00:21,341 --> 00:00:27,980
+successfully completed met the objectives
+the project was canceled terminated
+
+4
+00:00:27,981 --> 00:00:33,700
+mentioned that before the deliverable
+became obsolete and is no longer needed
+
+5
+00:00:33,701 --> 00:00:38,340
+that can happen too, especially with
+technology changing so quickly.
+
+6
+00:00:39,360 --> 00:00:42,020
+Financing or resources are no longer
+available.
+
+7
+00:00:42,760 --> 00:00:46,620
+Another project can be deemed more
+important.
+
+8
+00:00:47,740 --> 00:00:48,940
+There goes your project.
+
+9
+00:00:49,460 --> 00:00:54,639
+Regulatory changes, mergers,
+acquisitions, all reasons that
+
+10
+00:00:54,640 --> 00:00:58,660
+can stop projects and economic
+and other external changes.
+
+11
+00:00:59,260 --> 00:01:01,200
+So note, I mentioned this before too.
+
+12
+00:01:01,660 --> 00:01:05,353
+The end of a phase is often
+called a kill point or exit gate
+
+13
+00:01:05,354 --> 00:01:09,906
+where appropriate stakeholders
+determine whether or not the
+
+14
+00:01:09,907 --> 00:01:13,594
+project should move
+forward or is completed.
+
+15
+00:01:14,500 --> 00:01:15,333
+Canceled.
+
+16
+00:01:16,220 --> 00:01:17,270
+Transition readiness.
+
+17
+00:01:17,960 --> 00:01:19,240
+This is important too.
+
+18
+00:01:19,920 --> 00:01:23,209
+If objectives have been
+met, we must plan to
+
+19
+00:01:23,210 --> 00:01:27,214
+transition to the end
+of the project or phase.
+
+20
+00:01:27,320 --> 00:01:31,840
+We prepare transition planning artifacts
+such as training and support documents.
+
+21
+00:01:32,160 --> 00:01:33,277
+That's really important.
+
+22
+00:01:33,360 --> 00:01:37,066
+We've got to make sure
+that whoever we're going to
+
+23
+00:01:37,067 --> 00:01:40,071
+hand off the deliverables
+too know how to use them.
+
+24
+00:01:40,380 --> 00:01:44,320
+So we'll determine the readiness of the
+organization to start the transition,
+
+25
+00:01:45,160 --> 00:01:47,240
+end users, business teams, etc.
+
+26
+00:01:48,260 --> 00:01:52,540
+So steps in administrative closure,
+we're talking all the paperwork.
+
+27
+00:01:53,140 --> 00:01:56,280
+So we need to obtain formal acceptance
+from the customer.
+
+28
+00:01:56,880 --> 00:02:00,180
+And this will be for the project as a
+whole.
+
+29
+00:02:00,720 --> 00:02:03,738
+All the deliverables
+should have already been
+
+30
+00:02:03,739 --> 00:02:08,840
+created, verified and
+accepted before we close.
+
+31
+00:02:09,260 --> 00:02:10,310
+So keep that in mind.
+
+32
+00:02:10,860 --> 00:02:17,080
+We'll move the deliverables, transition,
+hand them over to operations or production
+
+33
+00:02:17,081 --> 00:02:19,640
+so that they'll make it out to the store
+shelves.
+
+34
+00:02:20,700 --> 00:02:23,580
+Update and sign off on any outstanding
+documents.
+
+35
+00:02:23,760 --> 00:02:26,940
+We've got to make sure everything has been
+completed.
+
+36
+00:02:28,480 --> 00:02:32,920
+Again, before we release the team,
+we'll do a final lessons learned.
+
+37
+00:02:34,520 --> 00:02:39,499
+We are doing lessons
+learned throughout documenting
+
+38
+00:02:39,579 --> 00:02:42,340
+what's going well, what's not going well.
+
+39
+00:02:42,880 --> 00:02:47,560
+We'll do our final lessons learned as we
+close the entire project.
+
+40
+00:02:48,100 --> 00:02:52,320
+We'll prepare the final project report
+that will go out to our stakeholders.
+
+41
+00:02:53,100 --> 00:02:55,580
+We archive all the project documents.
+
+42
+00:02:56,240 --> 00:02:58,590
+So remember, the documents are called
+artifacts.
+
+43
+00:02:59,120 --> 00:03:02,220
+We've been pulling from those OPAs this
+entire time.
+
+44
+00:03:02,221 --> 00:03:05,981
+we have been contributing to them as well,
+
+45
+00:03:05,982 --> 00:03:10,500
+especially at the end,
+all the project documents.
+
+46
+00:03:11,200 --> 00:03:15,280
+And once we do the lessons learn,
+we'll formally release the team.
+
+47
+00:03:16,500 --> 00:03:21,280
+So the prior steps must be performed
+regardless of how the project ended.
+
+48
+00:03:22,040 --> 00:03:26,720
+So if your project was terminated early or
+there was a breach of contract,
+
+49
+00:03:26,840 --> 00:03:31,600
+for example, one side didn't do what they
+were supposed to do, you still close.
+
+50
+00:03:32,220 --> 00:03:38,340
+you'll document what has been completed
+and you will transition whatever
+
+51
+00:03:38,341 --> 00:03:44,500
+deliverables are done or even if you're
+halfway through you'll document and
+
+52
+00:03:44,501 --> 00:03:50,020
+transition hand those over and some
+organizations might have a project
+
+53
+00:03:50,021 --> 00:03:56,440
+termination checklist all right so with
+predictive that's called a close out
+
+54
+00:03:56,441 --> 00:04:05,340
+meeting your final agile that's called a
+retrospective So throughout the project
+
+55
+00:04:05,341 --> 00:04:11,560
+with Agile 2, you're documenting lessons
+learned that at the end of each iteration,
+
+56
+00:04:11,920 --> 00:04:14,688
+that's called a respective,
+at the end of the project, went
+
+57
+00:04:14,689 --> 00:04:19,080
+well, what didn't go well, and
+are there ways we can improve?
+

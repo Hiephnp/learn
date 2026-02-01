@@ -1,0 +1,1067 @@
+﻿1
+00:00:05,920 --> 00:00:09,380
+Okay, so let's talk about three-point
+estimating now.
+
+2
+00:00:10,860 --> 00:00:12,778
+And three-point estimating is one of the
+
+3
+00:00:12,779 --> 00:00:15,914
+estimating methods,
+right, for schedule and cost.
+
+4
+00:00:16,700 --> 00:00:19,620
+And this is primarily used for predictive
+projects, right?
+
+5
+00:00:19,700 --> 00:00:22,700
+This will not be for agile projects.
+
+6
+00:00:23,260 --> 00:00:24,093
+Okay.
+
+7
+00:00:24,260 --> 00:00:27,360
+Now, there are two types of three-point
+estimating.
+
+8
+00:00:27,820 --> 00:00:32,100
+You have something called the triangular
+distribution, which is a straight average,
+
+9
+00:00:32,720 --> 00:00:32,820
+right?
+
+10
+00:00:33,060 --> 00:00:35,120
+The triangular distribution is a straight
+average.
+
+11
+00:00:35,121 --> 00:00:39,680
+then there's another one on the next slide
+called the beta distribution or the pert
+
+12
+00:00:39,681 --> 00:00:45,000
+which is a weighted average all right so
+one is a straight average one is a
+
+13
+00:00:45,001 --> 00:00:48,340
+weighted average all right so let's go
+back to the previous slide and let me just
+
+14
+00:00:48,341 --> 00:00:52,280
+briefly talk about the straight average
+and it's a straight average of three
+
+15
+00:00:52,281 --> 00:00:56,020
+points right three numbers those numbers
+or those points happen to be called
+
+16
+00:00:56,021 --> 00:01:00,300
+optimistic most likely pessimistic right
+and how do you get an average of three
+
+17
+00:01:00,301 --> 00:01:02,589
+numbers right well you add
+them up and you divide by three i
+
+18
+00:01:02,590 --> 00:01:05,660
+mean that's what an average
+is right so it's nice and simple.
+
+19
+00:01:06,440 --> 00:01:09,820
+They give you the three numbers,
+optimistic, most likely pessimistic, right?
+
+20
+00:01:09,980 --> 00:01:12,503
+You add them up, divide
+by three, there's your
+
+21
+00:01:12,504 --> 00:01:15,001
+triangular distribution
+or your straight average.
+
+22
+00:01:16,340 --> 00:01:19,320
+And of course, because it's so nice and
+simple, the chance of you getting a
+
+23
+00:01:19,321 --> 00:01:22,680
+question on that and the exam is not very
+high, right?
+
+24
+00:01:22,780 --> 00:01:25,340
+It's less likely to appear on the exam,
+right?
+
+25
+00:01:25,420 --> 00:01:27,060
+But it can appear, right?
+
+26
+00:01:27,960 --> 00:01:31,560
+More than likely, though, you'll get a
+question on the beta distribution,
+
+27
+00:01:32,000 --> 00:01:33,750
+right, which is a weighted average.
+
+28
+00:01:34,600 --> 00:01:36,700
+And again, it's a weighted average,
+right?
+
+29
+00:01:36,980 --> 00:01:37,897
+Also known as a pert.
+
+30
+00:01:37,980 --> 00:01:41,180
+All right, so let's talk about this
+formula in a bit more detail.
+
+31
+00:01:42,620 --> 00:01:45,760
+Now, PERD stands for program, evaluation,
+and review technique.
+
+32
+00:01:47,120 --> 00:01:48,760
+And it's a weighted average.
+
+33
+00:01:49,180 --> 00:01:51,280
+Not a straight average, a weighted
+average.
+
+34
+00:01:51,460 --> 00:01:54,460
+And it's also known as an expected
+activity duration.
+
+35
+00:01:54,840 --> 00:01:57,995
+And you see the same
+form in cost as well, in which
+
+36
+00:01:57,996 --> 00:02:01,060
+case it will be called
+an expected activity cost.
+
+37
+00:02:01,061 --> 00:02:04,020
+Now, the formula for Pert, then,
+is this here.
+
+38
+00:02:05,100 --> 00:02:09,300
+Optimistic plus four times most likely
+plus pessimistic divided by six.
+
+39
+00:02:10,080 --> 00:02:12,420
+Remember, this is a weighted average.
+
+40
+00:02:12,680 --> 00:02:13,880
+It's a weighted average.
+
+41
+00:02:14,260 --> 00:02:18,260
+And what we're doing here is we are
+weighting our most likely by four.
+
+42
+00:02:19,520 --> 00:02:23,820
+So it's optimistic plus four times most
+likely even pessimistic divided by six.
+
+43
+00:02:24,020 --> 00:02:28,700
+Now, you don't need to know why your most
+likely is weighted by four.
+
+44
+00:02:28,820 --> 00:02:30,920
+You just need to know that that is a case.
+
+45
+00:02:31,360 --> 00:02:33,117
+And the reason why
+it's divided by six though
+
+46
+00:02:33,118 --> 00:02:35,314
+is because there are six data points now.
+
+47
+00:02:35,400 --> 00:02:39,050
+You've got four most likely than
+optimistic and a pessimistic, that's six.
+
+48
+00:02:39,140 --> 00:02:40,740
+That's why you divide it by six.
+
+49
+00:02:41,440 --> 00:02:44,300
+Alright, so let's look at how you actually
+use it.
+
+50
+00:02:45,780 --> 00:02:47,918
+Now typically then, this is a typical type
+
+51
+00:02:47,919 --> 00:02:50,240
+of question that you
+could get on the exam.
+
+52
+00:02:50,700 --> 00:02:55,440
+So this says the activity should take 16
+days, however, if things go well,
+
+53
+00:02:55,600 --> 00:02:59,240
+it might only take 10 days, if things go
+badly, it might end up taking 34 days.
+
+54
+00:02:59,241 --> 00:02:59,700
+Right.
+
+55
+00:03:00,120 --> 00:03:01,970
+So they give you these three numbers.
+
+56
+00:03:02,320 --> 00:03:06,280
+So these three numbers then, activity
+should take 16 days.
+
+57
+00:03:06,560 --> 00:03:08,010
+That's my most likely figure.
+
+58
+00:03:08,460 --> 00:03:11,280
+If things go well, it might only take 10
+days.
+
+59
+00:03:11,660 --> 00:03:13,060
+That's my optimistic figure.
+
+60
+00:03:13,860 --> 00:03:16,600
+If things go badly, you might end up
+taking 34 days.
+
+61
+00:03:17,080 --> 00:03:18,677
+Pessimistically, it might take 34.
+
+62
+00:03:18,760 --> 00:03:20,210
+That's my pessimistic figure.
+
+63
+00:03:21,040 --> 00:03:24,000
+In the exam, they will always give you
+these three numbers.
+
+64
+00:03:24,820 --> 00:03:27,550
+And then, in order to get
+the pert estimate, you'll
+
+65
+00:03:27,551 --> 00:03:30,520
+literally just add them
+into the hurt formula, right?
+
+66
+00:03:30,800 --> 00:03:32,860
+Just basically plug the numbers in.
+
+67
+00:03:33,680 --> 00:03:33,700
+Right.
+
+68
+00:03:33,860 --> 00:03:36,960
+So this is a formula, optimistic,
+plus four times most likely, plus
+
+69
+00:03:36,961 --> 00:03:40,180
+pessimistic divide by six, plug the
+numbers in, right?
+
+70
+00:03:40,440 --> 00:03:46,640
+So the optimistic figure is 10, pessimistic
+figure is 34, most likely 16, right?
+
+71
+00:03:46,780 --> 00:03:52,240
+And you're waiting our most likely by
+four, so four times 16, and divide by six,
+
+72
+00:03:52,660 --> 00:03:53,500
+you get 18 days.
+
+73
+00:03:54,740 --> 00:03:57,180
+Now, what do we do with this 18 days.
+
+74
+00:03:58,420 --> 00:04:00,339
+I mean, why do we have, I
+mean, we have these three
+
+75
+00:04:00,340 --> 00:04:02,757
+figures, what we're trying to
+do with these three figures?
+
+76
+00:04:02,840 --> 00:04:04,864
+Basically, what we're trying
+to do is come up with some
+
+77
+00:04:04,865 --> 00:04:07,860
+kind of range or some kind
+of confidence range, right?
+
+78
+00:04:07,940 --> 00:04:13,620
+So we don't just basically set 18 days
+aside, right, as our timeline,
+
+79
+00:04:14,140 --> 00:04:16,490
+right, because there could be so much
+variation.
+
+80
+00:04:17,240 --> 00:04:19,360
+Remember, we're coming up with a range,
+right?
+
+81
+00:04:19,380 --> 00:04:21,737
+Just said we're coming up with a
+confidence range.
+
+82
+00:04:21,820 --> 00:04:25,880
+And so in order to come up with a
+confidence range, next thing we have to
+
+83
+00:04:25,881 --> 00:04:28,940
+do, now is calculate something called
+standard deviation.
+
+84
+00:04:30,000 --> 00:04:33,920
+Now, I'm sure some of you have spent
+entire college semesters in standard
+
+85
+00:04:33,921 --> 00:04:38,020
+deviation, and some of you may have no
+idea what standard deviation is.
+
+86
+00:04:38,760 --> 00:04:42,540
+I will literally just tell you what you
+need to know for the PMP exam.
+
+87
+00:04:43,080 --> 00:04:45,128
+You don't need to know
+a huge amount of detail,
+
+88
+00:04:45,168 --> 00:04:47,513
+you just need to know
+the very, very basics.
+
+89
+00:04:48,480 --> 00:04:51,231
+Now, standard deviation
+is a measure of precision,
+
+90
+00:04:51,232 --> 00:04:54,820
+and it's denoted by this
+symbol a sigma, right?
+
+91
+00:04:54,821 --> 00:04:56,540
+So this symbol is called sigma.
+
+92
+00:04:57,600 --> 00:05:00,660
+Sigma and standard deviation basically
+mean the same thing.
+
+93
+00:05:01,060 --> 00:05:02,710
+Now, it's a measure of precision.
+
+94
+00:05:03,100 --> 00:05:05,857
+There's various different ways of
+calculating standard deviation,
+
+95
+00:05:05,940 --> 00:05:09,740
+but for the purpose of the P&P exam,
+this is a formula that you need to know.
+
+96
+00:05:10,160 --> 00:05:12,620
+It's pessimistic minus optimistic,
+divided by six.
+
+97
+00:05:13,700 --> 00:05:16,380
+It's the same pessimistic and optimistic
+figures, right?
+
+98
+00:05:16,460 --> 00:05:18,417
+Same figures as what we had before,
+right?
+
+99
+00:05:18,500 --> 00:05:22,380
+So most likely were 16, optimistic is 10,
+pessimistic is 34.
+
+100
+00:05:22,660 --> 00:05:24,660
+But this one does not use most likely.
+
+101
+00:05:25,180 --> 00:05:28,100
+So these figures were from the previous
+slide, right?
+
+102
+00:05:28,200 --> 00:05:30,140
+We calculated the pert of 18 days.
+
+103
+00:05:30,600 --> 00:05:32,750
+That was calculated from the previous
+slide.
+
+104
+00:05:33,220 --> 00:05:37,340
+So in order to get the standard deviation,
+just plug the numbers in, right?
+
+105
+00:05:37,560 --> 00:05:40,660
+So the pessimistic
+figure is 34, optimistic
+
+106
+00:05:40,661 --> 00:05:44,400
+is 10, 34 minus 10
+divided by 6, so we get 4.
+
+107
+00:05:44,980 --> 00:05:46,930
+So a standard deviation then is 4 days.
+
+108
+00:05:47,760 --> 00:05:49,180
+Now what do we do with this?
+
+109
+00:05:49,380 --> 00:05:51,120
+Well, we're trying to come up with a
+range.
+
+110
+00:05:51,121 --> 00:05:55,440
+So we calculated the pert of 18 days from
+the previous slide.
+
+111
+00:05:56,200 --> 00:05:57,700
+That is the average, remember.
+
+112
+00:05:58,620 --> 00:06:02,520
+That is the expected duration,
+expected activity duration.
+
+113
+00:06:03,600 --> 00:06:05,360
+That is the mean, the pert of mean.
+
+114
+00:06:05,520 --> 00:06:07,420
+It's a weighted mean, but it's a mean.
+
+115
+00:06:08,300 --> 00:06:13,940
+So in order to come up with a range,
+we will take our pert, right, this 18
+
+116
+00:06:13,941 --> 00:06:17,530
+days, and plus the standard
+deviation to get an upper
+
+117
+00:06:17,531 --> 00:06:21,100
+range and minus a standard
+deviation to get a lower range.
+
+118
+00:06:21,120 --> 00:06:22,640
+range, right?
+
+119
+00:06:22,720 --> 00:06:27,380
+So we've got the 18, 18 days, plus
+standard deviation, 18 plus 4,
+
+120
+00:06:27,560 --> 00:06:30,520
+which is 22, and then 18 minus 4,
+which is 14.
+
+121
+00:06:31,320 --> 00:06:34,980
+So that is our standard deviation range.
+
+122
+00:06:36,240 --> 00:06:40,200
+Now, I am going to expand on this a little
+bit more.
+
+123
+00:06:40,420 --> 00:06:43,400
+I'm going to expand on standard deviation
+a little bit more.
+
+124
+00:06:43,920 --> 00:06:46,562
+And for this, we need this, we need to, I
+
+125
+00:06:46,563 --> 00:06:50,494
+need to explain using
+this little graph here.
+
+126
+00:06:51,160 --> 00:06:55,440
+Now, first of all, though, standard
+deviation involves percentages.
+
+127
+00:06:56,080 --> 00:06:57,980
+So you need to know these percentages.
+
+128
+00:06:58,320 --> 00:07:01,400
+You need to know that 1 sigma is 68.26%.
+
+129
+00:07:01,401 --> 00:07:04,040
+2 sigma is 95.46%.
+
+130
+00:07:04,740 --> 00:07:10,240
+3 sigma 99.73, 6 sigma, 99.997%.
+
+131
+00:07:10,241 --> 00:07:13,600
+All right, so you need to memorize these
+percentages.
+
+132
+00:07:13,900 --> 00:07:15,750
+Make sure you know these percentages.
+
+133
+00:07:16,100 --> 00:07:18,860
+Now, what this graph is showing very
+briefly, right?
+
+134
+00:07:18,861 --> 00:07:22,160
+This is a normal distribution of a
+population.
+
+135
+00:07:23,500 --> 00:07:23,520
+Right.
+
+136
+00:07:24,380 --> 00:07:28,380
+And straight down the middle, you've got
+the mean, denoted by this symbol,
+
+137
+00:07:28,680 --> 00:07:29,513
+mu.
+
+138
+00:07:30,600 --> 00:07:36,220
+34.1% of the population, either side of
+the mean add up to 68.2%.
+
+139
+00:07:36,221 --> 00:07:36,380
+Right.
+
+140
+00:07:36,500 --> 00:07:38,080
+And there's always rounding errors,
+though.
+
+141
+00:07:38,140 --> 00:07:39,537
+Don't worry about the rounding errors.
+
+142
+00:07:39,620 --> 00:07:42,640
+But that adds up to 68% or 68.2%.
+
+143
+00:07:42,641 --> 00:07:45,300
+That represents a range of one standard
+deviation.
+
+144
+00:07:46,040 --> 00:07:48,840
+Add on another 13.6% either.
+
+145
+00:07:48,860 --> 00:07:55,400
+side of the mean, that entire population
+adds up to 95.46% of the population,
+
+146
+00:07:56,020 --> 00:07:59,040
+and that represents a range of two
+standard deviations.
+
+147
+00:07:59,280 --> 00:08:04,190
+Add on another 2.1% either side
+of the mean, that adds up to 99.
+
+148
+00:08:04,191 --> 00:08:07,340
+73% of the population, which
+is three standard deviations.
+
+149
+00:08:08,460 --> 00:08:12,040
+And they're not drawn to scale,
+but add on another 0.1% either side,
+
+150
+00:08:12,560 --> 00:08:16,538
+and that adds up to
+99.997% of the population,
+
+151
+00:08:16,539 --> 00:08:19,840
+and that is a range of basically 6-sigma.
+
+152
+00:08:20,320 --> 00:08:25,460
+Now, notice, these sigma levels are all
+equal distance apart, right?
+
+153
+00:08:26,180 --> 00:08:29,300
+So a 6-sigma would really be all the way
+out here, somewhere.
+
+154
+00:08:29,900 --> 00:08:33,834
+Right, there's also 4-and-5 sigma, which
+you do not need to know for the exam.
+
+155
+00:08:34,180 --> 00:08:37,216
+So we have a formula for
+standard deviation, right,
+
+156
+00:08:37,217 --> 00:08:40,340
+which is pessimistic minus
+optimistic divided by 6.
+
+157
+00:08:41,140 --> 00:08:45,080
+But there are 6 standard deviation levels,
+so which one does this refer to?
+
+158
+00:08:45,081 --> 00:08:49,120
+this refers to one sigma, one standard
+deviation.
+
+159
+00:08:50,480 --> 00:08:55,880
+Now, when it comes to schedule management
+and cost, right, we do these both in
+
+160
+00:08:55,881 --> 00:09:02,280
+schedule and cost, these percentages here
+do not represent populations, they
+
+161
+00:09:02,281 --> 00:09:07,760
+represent confidence levels, right,
+or represent probabilities.
+
+162
+00:09:08,040 --> 00:09:13,020
+So at one sigma, we'll say there's a 68%
+probability of an event happening,
+
+163
+00:09:13,400 --> 00:09:18,900
+or we are 68% confident or 68.26%
+confident of an event happening.
+
+164
+00:09:19,760 --> 00:09:24,000
+2 Sigma will be 95.46% confidence,
+right?
+
+165
+00:09:24,320 --> 00:09:27,280
+Or we're at 95.46% confidence level.
+
+166
+00:09:27,780 --> 00:09:33,360
+So in the previous slide then, previous
+page, we calculated the range, right?
+
+167
+00:09:33,460 --> 00:09:36,700
+Remember, the pert was 18, standard
+deviation was 4.
+
+168
+00:09:37,100 --> 00:09:42,440
+So we calculated this range of 22 and 14,
+18 plus 4, 18 minus 4.
+
+169
+00:09:42,441 --> 00:09:48,640
+using this formula standard deviation
+remember that is one sigma one standard
+
+170
+00:09:48,641 --> 00:09:55,800
+deviation so this range that we've
+calculated is to a range of 68% one sigma
+
+171
+00:09:55,801 --> 00:10:05,620
+68% or 68.26% so this is a 68% confidence
+range right now if this was on our graph
+
+172
+00:10:05,621 --> 00:10:09,260
+then right those numbers on our graph
+would basically look like this right
+
+173
+00:10:09,261 --> 00:10:11,804
+straight down the
+middle is a mean right and
+
+174
+00:10:11,805 --> 00:10:15,154
+And our mean is our
+pert, which is 18 days.
+
+175
+00:10:15,620 --> 00:10:18,460
+One standard deviation, we've calculated
+as 4.
+
+176
+00:10:19,440 --> 00:10:22,840
+So 18 plus 4, 18 minus 4.
+
+177
+00:10:23,080 --> 00:10:24,880
+That's our standard deviation range.
+
+178
+00:10:26,000 --> 00:10:30,720
+And that is our 68.26% confidence range.
+
+179
+00:10:31,900 --> 00:10:34,740
+Now, 68% is not very confident.
+
+180
+00:10:35,820 --> 00:10:38,720
+So maybe we want to go with a 95%
+confidence.
+
+181
+00:10:39,500 --> 00:10:42,280
+So what's our 95% confidence then?
+
+182
+00:10:42,440 --> 00:10:46,920
+95% confidence is two standard deviations,
+2 sigma.
+
+183
+00:10:47,900 --> 00:10:53,280
+If one sigma is 4, then 2 sigma is
+literally going to be 2 times 4.
+
+184
+00:10:53,520 --> 00:10:55,720
+Remember, these are all equal distance
+apart.
+
+185
+00:10:55,900 --> 00:10:58,484
+So one standard deviation
+is 4, right, therefore
+
+186
+00:10:58,485 --> 00:11:00,674
+2 standard deviations is going to be 8.
+
+187
+00:11:01,940 --> 00:11:09,780
+So the range then at 95% confidence will
+be 18 plus 8, 18 minus 8.
+
+188
+00:11:11,480 --> 00:11:17,880
+right so 26 and 10 that's our 95%
+confidence if we were calculating to a
+
+189
+00:11:17,881 --> 00:11:25,640
+99.73% confidence then it would literally
+again be right 99.73 is three standard
+
+190
+00:11:25,641 --> 00:11:30,460
+deviations right if one standard deviation
+is four that means three standard
+
+191
+00:11:30,461 --> 00:11:37,160
+deviations three times four which is 12 so
+it would be 18 plus 12 18 minus 12 right
+
+192
+00:11:37,161 --> 00:11:40,220
+that would be a range to a 99.73 percent
+confidence.
+
+193
+00:11:41,900 --> 00:11:46,160
+And that really is about as much as what
+you need for the PMP exam regarding
+
+194
+00:11:46,780 --> 00:11:50,000
+standard deviation and perks.
+
+195
+00:11:50,280 --> 00:11:52,480
+That's really about as much as what you
+need.
+
+196
+00:11:52,580 --> 00:11:55,017
+Now, there is one more
+formula I want to mention, or one
+
+197
+00:11:55,018 --> 00:11:57,840
+more term, and that is
+something called activity variance.
+
+198
+00:11:58,600 --> 00:12:00,407
+And all you need to
+know regarding activity
+
+199
+00:12:00,408 --> 00:12:02,480
+variance is that standard
+deviation squared.
+
+200
+00:12:02,740 --> 00:12:06,040
+And our standard deviation we've
+calculated is a four, right?
+
+201
+00:12:06,100 --> 00:12:07,800
+So four squared then is 16.
+
+202
+00:12:08,620 --> 00:12:08,860
+Right.
+
+203
+00:12:09,280 --> 00:12:10,747
+So that's That's really
+all you need to know,
+
+204
+00:12:10,748 --> 00:12:13,174
+say the activity variance then will be 16.
+
+205
+00:12:13,260 --> 00:12:16,760
+You don't necessarily need to know how to
+use it in any detail, right?
+
+206
+00:12:17,380 --> 00:12:20,660
+Just in case they ask you, what calculate
+activity variance?
+
+207
+00:12:20,940 --> 00:12:22,540
+It's standard deviation squared.
+
+208
+00:12:23,480 --> 00:12:23,540
+Okay.
+
+209
+00:12:24,080 --> 00:12:28,680
+All right, so if I just quickly go back to
+the formula pages, right?
+
+210
+00:12:29,160 --> 00:12:33,540
+So we just did the beta distribution,
+which is a weighted average, right?
+
+211
+00:12:33,541 --> 00:12:35,457
+And we went through this formula,
+right?
+
+212
+00:12:35,540 --> 00:12:39,760
+The mean, the pert, right, and the
+standard deviation, and the variance.
+
+213
+00:12:39,780 --> 00:12:42,060
+which is a standard deviation squared.
+
+214
+00:12:42,960 --> 00:12:45,275
+So remember, this could also be called the
+
+215
+00:12:45,276 --> 00:12:48,454
+expected duration,
+expected activity duration.
+
+216
+00:12:49,820 --> 00:12:51,220
+Now remember, the other one then is a
+
+217
+00:12:51,221 --> 00:12:54,134
+triangular distribution,
+less likely to appear.
+
+218
+00:12:54,300 --> 00:12:57,491
+But if they do, right,
+the mean is optimistic,
+
+219
+00:12:57,492 --> 00:12:59,980
+most likely pessimistic divided by three.
+
+220
+00:13:00,480 --> 00:13:04,960
+If they ask you to calculate standard
+deviation, using the triangular
+
+221
+00:13:04,961 --> 00:13:10,380
+distribution, then again, it's going to be
+divided by three, by 6.
+
+222
+00:13:11,240 --> 00:13:14,260
+Now, which one do you use on the exam?
+
+223
+00:13:15,180 --> 00:13:20,000
+Well, if it doesn't tell you which one to
+use, the beta distribution is the default,
+
+224
+00:13:20,440 --> 00:13:20,460
+right?
+
+225
+00:13:20,660 --> 00:13:22,020
+The pert is the default.
+
+226
+00:13:23,020 --> 00:13:26,424
+If it just says use a
+three-point estimating,
+
+227
+00:13:26,425 --> 00:13:28,931
+then use the beta
+distribution, use the pert.
+

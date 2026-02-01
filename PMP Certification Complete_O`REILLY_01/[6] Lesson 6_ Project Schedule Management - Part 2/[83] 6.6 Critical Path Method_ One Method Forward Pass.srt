@@ -1,0 +1,475 @@
+﻿1
+00:00:05,920 --> 00:00:09,760
+Okay, so let's do the one method this
+time.
+
+2
+00:00:09,960 --> 00:00:12,980
+So we're going to do the forward pass
+using the one method.
+
+3
+00:00:14,380 --> 00:00:20,460
+Now remember with the one method now,
+subsequent activities start the next day.
+
+4
+00:00:21,340 --> 00:00:24,800
+With a zero method, subsequent activities
+start the same day.
+
+5
+00:00:25,440 --> 00:00:28,500
+Now subsequent activities start the next
+day.
+
+6
+00:00:29,320 --> 00:00:31,968
+Now the basic difference
+between zero and the
+
+7
+00:00:31,969 --> 00:00:34,774
+one method, basic
+differences and similarities.
+
+8
+00:00:35,920 --> 00:00:41,934
+First of all, in both methods, critical
+path is still going to be the same.
+
+9
+00:00:42,180 --> 00:00:43,730
+No change in the critical path.
+
+10
+00:00:44,600 --> 00:00:46,750
+Float values are still going to be the
+same.
+
+11
+00:00:47,340 --> 00:00:48,290
+No change in float.
+
+12
+00:00:48,660 --> 00:00:52,100
+In fact, even the finish dates are still
+going to be the same.
+
+13
+00:00:52,340 --> 00:00:53,952
+The early finish and late finish of each
+
+14
+00:00:53,953 --> 00:00:56,000
+activity is still going
+to be exactly the same.
+
+15
+00:00:56,320 --> 00:01:00,840
+We will see that this project is still
+finishing on day 19, same as before.
+
+16
+00:01:02,160 --> 00:01:06,680
+The only difference between the zero
+method and the one method, the only
+
+17
+00:01:06,681 --> 00:01:11,500
+difference is that the late start and
+early start, left inside of the boxes,
+
+18
+00:01:12,540 --> 00:01:14,790
+they're just going to be now increased by
+one.
+
+19
+00:01:15,080 --> 00:01:19,720
+Now, in a separate video, we've got the
+two methods side by side, comparing them
+
+20
+00:01:19,721 --> 00:01:24,400
+side by side, and I will explain what I
+mean there when I say the early start,
+
+21
+00:01:24,500 --> 00:01:28,560
+late start, just going to be increased by
+one, and we'll see it clearly there.
+
+22
+00:01:28,561 --> 00:01:32,220
+But that really is the only difference,
+right?
+
+23
+00:01:32,320 --> 00:01:37,500
+Is that the early start and late start in
+the zero method, all the activities,
+
+24
+00:01:37,840 --> 00:01:39,917
+they're just going to be increased by one.
+
+25
+00:01:40,000 --> 00:01:42,517
+And that is it, because they're starting
+the next day.
+
+26
+00:01:42,600 --> 00:01:45,050
+And so the math is going to be slightly
+different.
+
+27
+00:01:45,340 --> 00:01:47,790
+All right, so let's just go straight into
+it then.
+
+28
+00:01:48,120 --> 00:01:49,470
+We're doing the one method.
+
+29
+00:01:50,060 --> 00:01:53,640
+A is a starting activity, so the early
+start of A is going to be a one.
+
+30
+00:01:54,620 --> 00:01:56,620
+Now, we're calculating the early finish.
+
+31
+00:01:57,400 --> 00:01:59,450
+How did we calculate early finish before?
+
+32
+00:01:59,620 --> 00:02:01,770
+It was simply early start plus the
+duration.
+
+33
+00:02:02,820 --> 00:02:04,960
+This time we have to minus 1.
+
+34
+00:02:05,740 --> 00:02:08,640
+In the 0 method, it was just early start
+plus the duration.
+
+35
+00:02:08,740 --> 00:02:11,500
+But in the 1 method now, we have to
+remember to minus 1.
+
+36
+00:02:11,600 --> 00:02:14,180
+So it's going to be 1 plus 2 minus the 1.
+
+37
+00:02:14,800 --> 00:02:16,340
+So we finish on day 2.
+
+38
+00:02:17,360 --> 00:02:21,360
+Again, we're still finishing on day 2,
+same as we did before in the 0 method.
+
+39
+00:02:22,220 --> 00:02:24,500
+But this time we're finishing right at the
+end of day 2.
+
+40
+00:02:24,501 --> 00:02:26,640
+Now, again, think logically.
+
+41
+00:02:27,280 --> 00:02:33,360
+If A finishes on day two, the next
+activity that's dependent on A,
+
+42
+00:02:33,620 --> 00:02:36,080
+B, D and G, when do they start?
+
+43
+00:02:36,540 --> 00:02:39,300
+This time they start the next day.
+
+44
+00:02:39,980 --> 00:02:43,160
+So B, D and G will start on day three.
+
+45
+00:02:43,600 --> 00:02:45,540
+So they're now starting on day three.
+
+46
+00:02:45,700 --> 00:02:46,940
+They start the next day.
+
+47
+00:02:47,580 --> 00:02:49,820
+So it's kind of like plus one now.
+
+48
+00:02:50,000 --> 00:02:51,120
+And then when do they finish?
+
+49
+00:02:51,140 --> 00:02:54,480
+If you look at B, say math, it's going to
+be early.
+
+50
+00:02:54,500 --> 00:02:56,420
+set up plus the duration minus the 1.
+
+51
+00:02:56,640 --> 00:03:01,680
+So for B, it's going to be 3 plus 4 minus
+the 1, so it finishes on day 6.
+
+52
+00:03:01,920 --> 00:03:03,580
+For D, when does D finish?
+
+53
+00:03:04,300 --> 00:03:08,000
+3 plus 5 minus the 1, so it finished on
+day 7.
+
+54
+00:03:08,660 --> 00:03:13,380
+G, 3 plus 6 minus the 1, so it finishes on
+day 8.
+
+55
+00:03:14,000 --> 00:03:17,800
+So again, you always have to remember
+minus 1 in this case.
+
+56
+00:03:18,660 --> 00:03:24,320
+So you can see now how the 1 method is a
+little bit more challenging, because you
+
+57
+00:03:24,321 --> 00:03:28,520
+always always have to remember when
+to plus one and when to minus one, right?
+
+58
+00:03:28,900 --> 00:03:34,040
+And if you plus one or minus one at the
+wrong time, right, you plus one instead of
+
+59
+00:03:34,041 --> 00:03:36,908
+minus one and vice
+versa, it throws off the
+
+60
+00:03:36,909 --> 00:03:39,494
+whole, you know, the whole calculations.
+
+61
+00:03:40,300 --> 00:03:43,000
+That's why the one method is a little more
+challenging.
+
+62
+00:03:43,380 --> 00:03:45,705
+Now if you look at C here, B, finishing on
+
+63
+00:03:45,706 --> 00:03:49,354
+day six, so when do
+we start C the next day?
+
+64
+00:03:49,440 --> 00:03:50,440
+Day seven, right?
+
+65
+00:03:50,580 --> 00:03:51,780
+So that's where we plus one.
+
+66
+00:03:51,781 --> 00:03:56,500
+So that's where this early finish is early
+start plus duration minus 1.
+
+67
+00:03:56,640 --> 00:03:59,181
+But the early start of
+the successor, the next
+
+68
+00:03:59,182 --> 00:04:02,100
+activity is early finish
+of the current plus 1.
+
+69
+00:04:02,720 --> 00:04:05,360
+So successor then, C is a successor of B.
+
+70
+00:04:05,900 --> 00:04:10,780
+So C finishes on day 6, C will start the
+next day, day 7.
+
+71
+00:04:11,380 --> 00:04:15,260
+7 plus 7 minus the 1 when to C finish,
+day 13.
+
+72
+00:04:15,760 --> 00:04:17,660
+So now let's look at E.
+
+73
+00:04:18,820 --> 00:04:21,760
+E is dependent on D, D finish than day 7.
+
+74
+00:04:21,780 --> 00:04:24,700
+When do we start E the next day,
+day 8?
+
+75
+00:04:25,900 --> 00:04:27,100
+When do we finish E?
+
+76
+00:04:27,460 --> 00:04:30,240
+8 plus 2 minus the 1, finish on day 9.
+
+77
+00:04:30,980 --> 00:04:32,540
+So now let's look at F.
+
+78
+00:04:33,320 --> 00:04:35,640
+F again, same principle as before.
+
+79
+00:04:36,040 --> 00:04:38,380
+F is dependent on B and E.
+
+80
+00:04:39,580 --> 00:04:42,740
+B finishes on day 6, E finished than day
+9.
+
+81
+00:04:43,280 --> 00:04:44,580
+When do we start F?
+
+82
+00:04:45,280 --> 00:04:48,620
+Well, the earliest we can start F is when
+E finishes.
+
+83
+00:04:49,240 --> 00:04:50,360
+E finishes on day 9.
+
+84
+00:04:50,640 --> 00:04:51,760
+So F will start the next.
+
+85
+00:04:51,780 --> 00:04:53,360
+day, day 10.
+
+86
+00:04:54,660 --> 00:04:57,520
+And then 10 plus 6, minus the 1 is 50.
+
+87
+00:04:58,300 --> 00:04:59,133
+Same with H.
+
+88
+00:04:59,980 --> 00:05:02,040
+H have a choice between 9 and 8.
+
+89
+00:05:02,760 --> 00:05:05,220
+E finishes on day 9, G finish on day 8.
+
+90
+00:05:06,040 --> 00:05:08,071
+So the early we can
+start H is when E finishes
+
+91
+00:05:08,072 --> 00:05:10,800
+on day 9, but it starts
+the next day, day 10.
+
+92
+00:05:11,500 --> 00:05:14,600
+And then 10 plus 7, minus the 1,
+16.
+
+93
+00:05:16,100 --> 00:05:17,660
+And same with I then.
+
+94
+00:05:18,480 --> 00:05:23,380
+C finishes on day 13, F finishes on day
+15, H finishes on day 16.
+
+95
+00:05:24,060 --> 00:05:27,119
+The earliest we can
+start I is a later of the 3,
+
+96
+00:05:27,120 --> 00:05:31,000
+which is day 16, but it
+starts the next day, day 17.
+
+97
+00:05:31,460 --> 00:05:32,293
+Oops, day 17.
+
+98
+00:05:33,100 --> 00:05:36,680
+Then 17 plus 3 minus the 1, 19.
+
+99
+00:05:37,700 --> 00:05:41,360
+And again, we're still finishing on day
+19, same as before.
+
+100
+00:05:42,100 --> 00:05:44,679
+Whether you're doing
+the zero method or the
+
+101
+00:05:44,680 --> 00:05:47,540
+one method, we're
+still finishing on day 19.
+
+102
+00:05:47,620 --> 00:05:49,657
+The finish date is still going to be the
+same.
+
+103
+00:05:49,740 --> 00:05:51,560
+Okay, so that was the first.
+
+104
+00:05:51,580 --> 00:05:53,420
+forward pass using the one method.
+

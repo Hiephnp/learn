@@ -1,0 +1,264 @@
+﻿1
+00:00:06,300 --> 00:00:08,440
+Work performance reports.
+
+2
+00:00:09,300 --> 00:00:14,500
+So we've already
+mentioned that we'll put all the
+
+3
+00:00:14,501 --> 00:00:18,261
+progress together called
+work performance information.
+
+4
+00:00:19,560 --> 00:00:21,933
+What's happening with every aspect of our
+
+5
+00:00:21,934 --> 00:00:24,980
+project together,
+progress to create reports.
+
+6
+00:00:25,160 --> 00:00:29,940
+Reports go out to stakeholders so that
+we're letting them know, communicating
+
+7
+00:00:29,941 --> 00:00:33,360
+with them what's happening with the
+project, right?
+
+8
+00:00:33,920 --> 00:00:36,280
+So remember that it's only with work
+performance.
+
+9
+00:00:36,300 --> 00:00:42,240
+reports that we raise awareness,
+take action, and make decisions.
+
+10
+00:00:43,280 --> 00:00:45,302
+Because work performance
+reports are stating
+
+11
+00:00:45,303 --> 00:00:47,774
+what's happening with
+every aspect of the project.
+
+12
+00:00:48,340 --> 00:00:52,714
+So if we look at the second slide, examples
+of types of work performance reports.
+
+13
+00:00:53,020 --> 00:00:55,860
+Status reports, where the project
+currently stands.
+
+14
+00:00:57,100 --> 00:00:59,735
+Also progress reports,
+what's been accomplished
+
+15
+00:00:59,736 --> 00:01:02,394
+since the last report that we sent out.
+
+16
+00:01:02,900 --> 00:01:06,280
+We also will include forecasts for
+schedule and calls.
+
+17
+00:01:06,281 --> 00:01:07,114
+costs.
+
+18
+00:01:07,220 --> 00:01:07,420
+All right.
+
+19
+00:01:08,080 --> 00:01:14,080
+So we'll predict either estimate at
+completion or estimate to complete.
+
+20
+00:01:15,760 --> 00:01:18,420
+So those will be discussed in more detail
+later.
+
+21
+00:01:19,000 --> 00:01:24,260
+But estimate at completion, based on our
+performance and what we predict think is
+
+22
+00:01:24,261 --> 00:01:28,800
+going to happen in the future, how
+much is the whole project going to cost?
+
+23
+00:01:29,200 --> 00:01:31,260
+Or how long will the whole project take?
+
+24
+00:01:31,800 --> 00:01:37,042
+Estimate to complete ETC
+from this point forward, how
+
+25
+00:01:37,043 --> 00:01:40,281
+long will it take us to
+finish the remaining work?
+
+26
+00:01:40,420 --> 00:01:43,940
+How much will it cost us to finish the
+remaining work?
+
+27
+00:01:44,740 --> 00:01:46,090
+So those will be forecasts.
+
+28
+00:01:46,600 --> 00:01:46,800
+All right.
+
+29
+00:01:47,140 --> 00:01:52,420
+So types of forecast, you can have time
+series, projects based on historical data,
+
+30
+00:01:53,400 --> 00:01:58,080
+causal econometric forecast based on
+causes and events that are happening.
+
+31
+00:01:59,340 --> 00:02:00,740
+Judgmental, expert judgment.
+
+32
+00:02:02,280 --> 00:02:05,060
+Others can be simulation, Probabilistic
+forecasting.
+
+33
+00:02:06,700 --> 00:02:10,480
+All right, so types of reports can include
+variance reports.
+
+34
+00:02:10,980 --> 00:02:12,580
+Off are we from our plan?
+
+35
+00:02:12,820 --> 00:02:17,180
+Remember, we're comparing our plan to
+actuals looking for variance.
+
+36
+00:02:17,360 --> 00:02:19,640
+Variants will say how far off we are.
+
+37
+00:02:20,620 --> 00:02:25,600
+Trend reports, how we're performing over
+time, better or worse, as well as earned
+
+38
+00:02:25,601 --> 00:02:28,120
+value with the value of the work we've
+completed.
+
+39
+00:02:29,340 --> 00:02:31,572
+Now with Agile, which will be covered in
+
+40
+00:02:31,573 --> 00:02:35,334
+detail, and I believe we
+have examples as well.
+
+41
+00:02:35,640 --> 00:02:37,922
+You also have burn-up
+charts, which will show
+
+42
+00:02:37,923 --> 00:02:40,754
+the work that's been completed or earned.
+
+43
+00:02:41,420 --> 00:02:43,020
+Ties right in with earned value.
+
+44
+00:02:43,700 --> 00:02:46,820
+There's also burned-down charts,
+shows the work remaining.
+
+45
+00:02:47,900 --> 00:02:51,700
+And we can also have velocity,
+velocity charts.
+
+46
+00:02:52,100 --> 00:02:56,015
+This shows how the
+team's performing over time
+
+47
+00:02:56,016 --> 00:02:59,480
+within sprints to help
+forecast future performance.
+
+48
+00:03:00,040 --> 00:03:04,600
+And then con bond boards, the task boards
+showing the work and progress,
+
+49
+00:03:05,720 --> 00:03:08,965
+what needs to be done,
+what's in progress, what needs
+
+50
+00:03:08,966 --> 00:03:11,700
+to be tested, what's been
+completed, for example.
+
+51
+00:03:12,340 --> 00:03:15,720
+All of these are types of reports that
+we'll send out to our stakeholders to let
+
+52
+00:03:15,721 --> 00:03:18,840
+them know what's happening with every
+aspect of our project.
+
+53
+00:03:19,480 --> 00:03:24,540
+So again, remember that reports are used
+that we send out to our stakeholders,
+
+54
+00:03:24,720 --> 00:03:29,260
+communicate out to raise awareness,
+take action, and make decisions,
+
+55
+00:03:29,880 --> 00:03:30,980
+only based on reports.
+
+56
+00:03:31,320 --> 00:03:32,300
+Thank you.
+

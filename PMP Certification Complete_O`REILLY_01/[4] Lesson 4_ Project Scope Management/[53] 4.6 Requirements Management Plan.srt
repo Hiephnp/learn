@@ -1,0 +1,327 @@
+﻿1
+00:00:05,920 --> 00:00:10,520
+Okay, so in this video, we're going to
+discuss the requirements management plan.
+
+2
+00:00:11,180 --> 00:00:15,660
+And the requirements management plan,
+just like any of the other subsidiary
+
+3
+00:00:15,661 --> 00:00:19,560
+plans, it is a component of the project
+management plan.
+
+4
+00:00:20,160 --> 00:00:24,420
+And again, just like any other subsidiary
+plan, it's documenting procedures,
+
+5
+00:00:24,980 --> 00:00:30,220
+it's documenting how, how we're going to
+collect requirements, how we're going to
+
+6
+00:00:30,221 --> 00:00:35,554
+plan, manage, execute, monitor and control,
+the requirements management process.
+
+7
+00:00:36,240 --> 00:00:40,520
+It does not contain the actual
+requirements itself.
+
+8
+00:00:41,860 --> 00:00:46,120
+So first of all, though, we really should
+discuss exactly what is a requirement.
+
+9
+00:00:46,900 --> 00:00:48,000
+What is a requirement?
+
+10
+00:00:48,820 --> 00:00:51,920
+So a requirement is what we are going to
+deliver.
+
+11
+00:00:52,820 --> 00:00:55,460
+And refers to the what, what we are going
+to deliver.
+
+12
+00:00:55,860 --> 00:00:57,610
+Not how are we going to deliver it.
+
+13
+00:00:58,340 --> 00:01:00,040
+It's what we are going to deliver.
+
+14
+00:01:00,300 --> 00:01:01,400
+That is a requirement.
+
+15
+00:01:01,960 --> 00:01:05,420
+What the customer wants, what the customer
+needs, right?
+
+16
+00:01:06,080 --> 00:01:10,560
+the agreed upon capability, a condition of
+the product, service, or result.
+
+17
+00:01:10,640 --> 00:01:12,197
+I mean, that's the official definition.
+
+18
+00:01:12,280 --> 00:01:15,001
+You don't need to
+memorize the definition, but
+
+19
+00:01:15,002 --> 00:01:17,540
+that basically is the
+definition of a requirement.
+
+20
+00:01:17,940 --> 00:01:20,997
+And really it is what we are going to
+deliver, what the customer wants,
+
+21
+00:01:21,080 --> 00:01:23,280
+what the customer needs, and so and so
+forth.
+
+22
+00:01:23,460 --> 00:01:27,340
+Now, there are many, many types of
+requirements as well.
+
+23
+00:01:27,720 --> 00:01:30,580
+Right, so we're going to cover that in a
+separate video.
+
+24
+00:01:30,800 --> 00:01:32,757
+We'll talk about that in a separate video.
+
+25
+00:01:32,840 --> 00:01:37,240
+But just as a high-level summary,
+right, you've got requirements related to
+
+26
+00:01:37,241 --> 00:01:39,156
+the product, requirements
+are related to the
+
+27
+00:01:39,157 --> 00:01:41,574
+stakeholder, what the
+stakeholder requirements.
+
+28
+00:01:41,820 --> 00:01:43,742
+You've got something
+called solution requirements,
+
+29
+00:01:43,825 --> 00:01:45,857
+non-functional requirements,
+and so and so forth.
+
+30
+00:01:45,940 --> 00:01:48,680
+There are many, many types of
+requirements, right?
+
+31
+00:01:50,000 --> 00:01:53,260
+So, but a requirement basically is what we
+are going to deliver.
+
+32
+00:01:54,200 --> 00:01:59,180
+Now, the requirements management plan is
+going to be documenting procedures.
+
+33
+00:02:00,040 --> 00:02:03,620
+First of all, it's going to document what
+kind of requirements we need.
+
+34
+00:02:03,621 --> 00:02:04,454
+Right.
+
+35
+00:02:05,440 --> 00:02:07,457
+As I mentioned, there's many, many types
+of requirements.
+
+36
+00:02:07,540 --> 00:02:09,540
+So what kind of requirements do we need?
+
+37
+00:02:10,680 --> 00:02:13,920
+But in addition, it's going to be
+documenting how.
+
+38
+00:02:14,480 --> 00:02:16,820
+It's going to be documenting procedures.
+
+39
+00:02:17,800 --> 00:02:23,680
+So how are we going to plan, manage,
+execute the collection of requirements,
+
+40
+00:02:24,080 --> 00:02:25,960
+monitor and control the requirements?
+
+41
+00:02:26,600 --> 00:02:27,737
+How are we going to do that?
+
+42
+00:02:27,820 --> 00:02:29,277
+What are the procedures for that?
+
+43
+00:02:29,360 --> 00:02:31,300
+Who are we collecting requirements from?
+
+44
+00:02:31,301 --> 00:02:35,840
+what level of details do these
+requirements need to be collected in right
+
+45
+00:02:35,841 --> 00:02:40,060
+what level of details do we need again
+remember progressive elaboration right
+
+46
+00:02:40,061 --> 00:02:43,700
+we're starting off at something high level
+we're going to drill down into the details
+
+47
+00:02:43,701 --> 00:02:48,460
+right we may collect high level
+requirements then we may start drilling
+
+48
+00:02:48,461 --> 00:02:52,560
+down to more the detail requirements right
+from those high level then we will collect
+
+49
+00:02:52,561 --> 00:02:57,000
+we will then you know figure out some more
+of the details of those requirements right
+
+50
+00:02:57,001 --> 00:03:02,220
+so there may be more than one step right
+so we may need to reach out to the same
+
+51
+00:03:02,221 --> 00:03:06,440
+stakeholder several times to get a good
+detailed set requirements.
+
+52
+00:03:06,840 --> 00:03:10,680
+So what level of detail do we need to
+collect our requirements in?
+
+53
+00:03:11,000 --> 00:03:13,680
+Where are we going to be documenting our
+requirements?
+
+54
+00:03:14,240 --> 00:03:19,260
+So the requirements management plan is
+documenting all of these procedures.
+
+55
+00:03:20,020 --> 00:03:23,940
+How will be collected, where it's going to
+be collected, who is collected from,
+
+56
+00:03:24,460 --> 00:03:27,601
+where it's documented, what
+happens if halfway through
+
+57
+00:03:27,602 --> 00:03:30,340
+the project we realized
+we've missed a requirement?
+
+58
+00:03:30,341 --> 00:03:32,540
+What do we do in that situation?
+
+59
+00:03:33,640 --> 00:03:35,240
+How do we handle that situation?
+
+60
+00:03:35,880 --> 00:03:38,187
+What happens if halfway
+through the project,
+
+61
+00:03:38,188 --> 00:03:40,317
+the customer wants some
+additional requirements?
+
+62
+00:03:40,400 --> 00:03:42,000
+How do we handle that situation?
+
+63
+00:03:42,720 --> 00:03:47,320
+Again, all of that is documented in the
+Requirements Management Plan.
+
+64
+00:03:47,940 --> 00:03:52,400
+So the Requirements Management Plan,
+again, are documenting procedures.
+
+65
+00:03:53,160 --> 00:03:54,560
+They're documenting the how.
+
+66
+00:03:54,860 --> 00:03:58,940
+They do not contain any of their
+requirements itself.
+
+67
+00:03:58,941 --> 00:04:03,660
+The requirements are going to be
+documented in the requirements document,
+
+68
+00:04:04,560 --> 00:04:08,020
+but the management plan is always
+documenting how.
+
+69
+00:04:08,580 --> 00:04:10,480
+It's always documenting procedures.
+

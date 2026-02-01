@@ -1,0 +1,33 @@
+﻿1
+00:00:05,820 --> 00:00:09,680
+Project integration management learning
+objectives.
+
+2
+00:00:11,200 --> 00:00:15,200
+So you need to know how the project
+manager integrates the project processes.
+
+3
+00:00:15,800 --> 00:00:18,050
+Understand the purpose of the project
+charter.
+
+4
+00:00:18,320 --> 00:00:20,870
+Learn the components of the project
+management plan.
+
+5
+00:00:21,320 --> 00:00:26,660
+Recognize a difference between executing
+and monitoring and controlling processes.
+
+6
+00:00:27,340 --> 00:00:28,640
+Learn the closing processes.
+
+7
+00:00:28,641 --> 00:00:29,474
+Thank you.
+

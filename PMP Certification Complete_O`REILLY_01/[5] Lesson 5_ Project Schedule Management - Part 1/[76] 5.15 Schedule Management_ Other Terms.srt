@@ -1,0 +1,455 @@
+﻿1
+00:00:05,920 --> 00:00:10,040
+All right, so there's just a couple of
+additional terms I want to mention when it
+
+2
+00:00:10,041 --> 00:00:13,491
+comes to a schedule, a couple of
+additional schedule management terms.
+
+3
+00:00:13,880 --> 00:00:16,408
+And these are not necessarily
+terms that, you know,
+
+4
+00:00:16,409 --> 00:00:18,851
+you need to know about
+in a huge amount of detail.
+
+5
+00:00:18,960 --> 00:00:20,710
+They just need to be aware of them.
+
+6
+00:00:20,800 --> 00:00:24,000
+And they're not really in a separate
+category by themselves.
+
+7
+00:00:24,260 --> 00:00:29,780
+So that's why I just want to summarize
+them all in one area here.
+
+8
+00:00:30,420 --> 00:00:32,470
+So the first term here, Gant chart,
+right?
+
+9
+00:00:33,180 --> 00:00:35,300
+I'm sure many of you have come across Gant
+charts before.
+
+10
+00:00:35,301 --> 00:00:37,351
+but many of you probably use Gant charts.
+
+11
+00:00:37,500 --> 00:00:41,240
+But a Gant chart is really just nothing
+more than just a bar chart.
+
+12
+00:00:41,720 --> 00:00:44,040
+And it's just showing your schedule,
+showing all the different schedule
+
+13
+00:00:44,041 --> 00:00:46,691
+activities, just showing the progress of
+the schedule.
+
+14
+00:00:46,800 --> 00:00:50,271
+Right, you can use a
+Gant chart initially to show
+
+15
+00:00:50,272 --> 00:00:53,534
+the proposed timeline
+of different activities.
+
+16
+00:00:54,480 --> 00:00:59,200
+And then you can also use it to show the
+actual progress against the timelines.
+
+17
+00:00:59,620 --> 00:01:03,900
+And a very simple example of a Gant chart
+is shown here on this next slide here.
+
+18
+00:01:03,920 --> 00:01:05,280
+So you have your different activities.
+
+19
+00:01:05,300 --> 00:01:09,100
+down here on the left and side and then
+you've got your timeline, you know,
+
+20
+00:01:10,440 --> 00:01:12,890
+just a very high level, month one,
+month two, etc.
+
+21
+00:01:13,400 --> 00:01:17,337
+And these are just kind of like showing
+you the progress, how we're progressing,
+
+22
+00:01:17,420 --> 00:01:21,280
+how these activities are progressing
+against these different timelines.
+
+23
+00:01:22,120 --> 00:01:26,960
+Again, nothing that you need to know in a
+huge amount of detail for the P&P exam.
+
+24
+00:01:27,220 --> 00:01:29,920
+I doubt they'll even ask you to interpret
+a Gant chart.
+
+25
+00:01:30,240 --> 00:01:32,137
+You just need to know that it is there.
+
+26
+00:01:32,220 --> 00:01:34,560
+It is a tooling technique for the
+schedule.
+
+27
+00:01:35,560 --> 00:01:38,833
+And generally, Gant charts
+are going to be used more in
+
+28
+00:01:38,834 --> 00:01:42,140
+the predictive life cycle
+rather than an agile life cycle.
+
+29
+00:01:42,240 --> 00:01:49,180
+There are other tools that we will be
+talking about in Lesson 6, where we will,
+
+30
+00:01:49,620 --> 00:01:52,020
+there are other tools for Agar.
+
+31
+00:01:52,880 --> 00:01:55,780
+Now, another tool then is something called
+milestone chart.
+
+32
+00:01:56,580 --> 00:01:58,120
+Very similar to a Gant chart.
+
+33
+00:01:58,500 --> 00:01:59,950
+Again, it's like a bar chart.
+
+34
+00:02:00,080 --> 00:02:01,860
+It's not like a bar chart.
+
+35
+00:02:01,960 --> 00:02:02,860
+It is a bar chart.
+
+36
+00:02:03,480 --> 00:02:07,420
+Very similar to a Gant chart, except this
+time, they're showing milestones, right?
+
+37
+00:02:07,520 --> 00:02:12,020
+Whereas a Gant chart is showing individual
+activities, the milestone chart is just
+
+38
+00:02:12,021 --> 00:02:16,460
+showing you milestones, you know, so
+all the significant points on a project.
+
+39
+00:02:16,540 --> 00:02:17,937
+And that's what a milestone is.
+
+40
+00:02:18,020 --> 00:02:21,800
+A milestone is a key deliverable,
+a significant point on a project.
+
+41
+00:02:22,600 --> 00:02:25,400
+Then you have this term here, law of
+diminishing returns.
+
+42
+00:02:25,800 --> 00:02:29,960
+And I'm sure some of you have experienced
+law of diminution returned before,
+
+43
+00:02:30,120 --> 00:02:30,460
+right?
+
+44
+00:02:30,560 --> 00:02:33,460
+But essentially, one unit of input does
+not propose.
+
+45
+00:02:33,480 --> 00:02:35,720
+lead to one unit of output.
+
+46
+00:02:36,300 --> 00:02:39,355
+So doubling the number of
+team members, for example, it's
+
+47
+00:02:39,356 --> 00:02:42,480
+not going to halve the time
+in which to perform the work.
+
+48
+00:02:43,320 --> 00:02:48,760
+At some point, you know, there will be,
+right, if you add in one more team member,
+
+49
+00:02:49,200 --> 00:02:51,300
+right, that will be a significant
+increase.
+
+50
+00:02:51,480 --> 00:02:54,880
+Add on another team member, that would be
+another significant increase, or rather
+
+51
+00:02:54,881 --> 00:02:59,100
+decrease, I should say a decrease in the
+time to do the work.
+
+52
+00:02:59,760 --> 00:03:01,623
+But at some point, you're going to be
+
+53
+00:03:01,624 --> 00:03:04,974
+experiencing what's known
+as diminishing returns.
+
+54
+00:03:05,160 --> 00:03:06,398
+It's just like, for example,
+when you're studying,
+
+55
+00:03:06,399 --> 00:03:08,700
+when you're studying for this exam, right?
+
+56
+00:03:09,120 --> 00:03:10,770
+You're studying for the P&P exam.
+
+57
+00:03:10,980 --> 00:03:15,360
+When you're nice and fresh early in the
+morning, right, your mind is fresh and you
+
+58
+00:03:15,361 --> 00:03:19,460
+study for two hours, you will get two
+hours worth of work done, right?
+
+59
+00:03:19,720 --> 00:03:23,580
+Right at the end of the day, you've been
+working all day, you come home,
+
+60
+00:03:23,760 --> 00:03:27,640
+you're a little, you know, maybe a little
+stressed, maybe an untired, and now you
+
+61
+00:03:27,641 --> 00:03:31,460
+start studying, you might be looking at
+the same page for two hours, right?
+
+62
+00:03:31,461 --> 00:03:35,523
+So, you know, you're not
+really getting as much out of
+
+63
+00:03:35,524 --> 00:03:38,861
+studying as you would have
+done, say, early in the morning.
+
+64
+00:03:38,960 --> 00:03:40,377
+Just to a very simple example.
+
+65
+00:03:40,460 --> 00:03:41,557
+Of course, everybody is different.
+
+66
+00:03:41,640 --> 00:03:43,017
+Every situation is different.
+
+67
+00:03:43,100 --> 00:03:47,280
+But that's what the law of diminishing
+returns, refers to.
+
+68
+00:03:48,140 --> 00:03:51,640
+Then you've got Parkinson's Law,
+this other term here, Parkinson's Law.
+
+69
+00:03:52,080 --> 00:03:55,735
+And Parkinson's Law, also
+known as student syndrome,
+
+70
+00:03:55,736 --> 00:03:58,720
+right, or otherwise
+known as procrastination.
+
+71
+00:03:58,721 --> 00:04:03,960
+and basically what that refers to is work
+expands to fill the time available.
+
+72
+00:04:04,260 --> 00:04:05,457
+And it says here, right?
+
+73
+00:04:05,540 --> 00:04:07,540
+Work expands to fill the time available.
+
+74
+00:04:07,900 --> 00:04:13,854
+So in other words, you give somebody, say,
+three weeks to perform a 10-hour task.
+
+75
+00:04:14,100 --> 00:04:14,700
+Well, guess what?
+
+76
+00:04:15,000 --> 00:04:17,100
+They will take three weeks to do it,
+right?
+
+77
+00:04:17,280 --> 00:04:20,980
+As a general rule, you can expect that
+they will take three weeks to do it.
+
+78
+00:04:21,160 --> 00:04:24,477
+They're not just going to sit down and
+give it to you after 10 hours.
+
+79
+00:04:24,560 --> 00:04:28,700
+No, you have given them 10, you have given
+them three weeks to perform this time.
+
+80
+00:04:28,720 --> 00:04:29,000
+task.
+
+81
+00:04:29,540 --> 00:04:31,897
+They know it's only going to take them 10
+hours to do.
+
+82
+00:04:31,980 --> 00:04:34,880
+They'll do a couple of hours here,
+a couple of hours there.
+
+83
+00:04:35,480 --> 00:04:38,632
+More than likely, what
+they'll do is they'll leave
+
+84
+00:04:38,633 --> 00:04:41,940
+it all the way until the
+last 10 hours, right?
+
+85
+00:04:42,380 --> 00:04:44,780
+And that's really what Parkinson's law
+refers to.
+
+86
+00:04:45,060 --> 00:04:47,210
+Work will expand to fill the time
+available.
+
+87
+00:04:47,740 --> 00:04:50,200
+So you give somebody a deadline.
+
+88
+00:04:50,620 --> 00:04:53,071
+And whatever that deadline
+is, if it's a tight deadline,
+
+89
+00:04:53,072 --> 00:04:55,511
+team members will work
+hard to meet that deadline.
+
+90
+00:04:55,720 --> 00:05:00,500
+If it's a long deadline, team members,
+you know, we'll still meet that deadline,
+
+91
+00:05:00,840 --> 00:05:04,500
+but they'll deliver it during,
+you know, they'll deliver it with by
+
+92
+00:05:04,501 --> 00:05:09,360
+whatever deadline you, or rather on the
+deadline that you tell them.
+
+93
+00:05:09,500 --> 00:05:09,580
+Okay.
+
+94
+00:05:09,980 --> 00:05:11,980
+So these are just some additional terms.
+
+95
+00:05:12,500 --> 00:05:16,660
+Again, they're not in a separate category
+anywhere, but they are part of schedule.
+
+96
+00:05:16,820 --> 00:05:18,920
+Just a couple of schedule management
+terms.
+

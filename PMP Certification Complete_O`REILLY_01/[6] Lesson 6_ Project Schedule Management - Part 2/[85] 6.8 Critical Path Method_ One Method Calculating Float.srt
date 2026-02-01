@@ -1,0 +1,176 @@
+﻿1
+00:00:06,590 --> 00:00:12,670
+Okay, so let's calculate the float then
+using the one method and in fact the
+
+2
+00:00:12,671 --> 00:00:17,270
+calculation of float using the one method
+is exactly the same as when we calculated
+
+3
+00:00:17,271 --> 00:00:20,470
+the float using the zero method exactly
+the same.
+
+4
+00:00:20,570 --> 00:00:23,598
+It's basically late finish
+minus early finish or
+
+5
+00:00:23,599 --> 00:00:26,610
+late start minus early
+start or think logically.
+
+6
+00:00:27,630 --> 00:00:33,710
+B can start on day 3 or it could be
+delayed by 3 days on start on day 6.
+
+7
+00:00:33,950 --> 00:00:35,310
+No impact on the schedule.
+
+8
+00:00:35,730 --> 00:00:37,950
+So B has a float of three, right?
+
+9
+00:00:38,610 --> 00:00:40,127
+So I'm basically using this formula.
+
+10
+00:00:40,210 --> 00:00:43,390
+It's 9 minus 6 or 6 minus 3.
+
+11
+00:00:43,490 --> 00:00:43,950
+The float is 3.
+
+12
+00:00:44,110 --> 00:00:44,570
+Same with C.
+
+13
+00:00:44,990 --> 00:00:49,190
+16 minus 13 or 10 minus 7, float is 3.
+
+14
+00:00:49,670 --> 00:00:49,790
+Right.
+
+15
+00:00:49,910 --> 00:00:52,830
+C can start on day 7 or it could start on
+day 10.
+
+16
+00:00:52,950 --> 00:00:54,650
+It could be delayed by three days.
+
+17
+00:00:54,790 --> 00:00:56,007
+No impact on the schedule.
+
+18
+00:00:56,090 --> 00:00:56,590
+Same with F.
+
+19
+00:00:56,910 --> 00:00:59,250
+16 minus 15 or 11 minus 10.
+
+20
+00:00:59,810 --> 00:01:00,710
+F has a flow of 1.
+
+21
+00:01:01,150 --> 00:01:05,230
+And then G, 9 minus 8, 4 minus 3 has a
+flow of 1.
+
+22
+00:01:05,870 --> 00:01:10,930
+And with A, D, E, H, and I, right,
+they are on the critical path,
+
+23
+00:01:11,230 --> 00:01:12,680
+so they all have a flow of 0.
+
+24
+00:01:12,790 --> 00:01:14,610
+7 minus 7, float is 0.
+
+25
+00:01:14,750 --> 00:01:17,130
+9 minus 9, float is 0, and so and so far.
+
+26
+00:01:18,850 --> 00:01:23,270
+Again, same principle, right, is this is
+total float.
+
+27
+00:01:23,650 --> 00:01:26,210
+B and C have a total float of 3.
+
+28
+00:01:26,910 --> 00:01:30,550
+B can be delayed by 3 days, or C can be
+delayed by 3 days.
+
+29
+00:01:30,970 --> 00:01:34,710
+B and C in total can only be delayed by 3
+days.
+
+30
+00:01:34,730 --> 00:01:39,310
+right so again if they ever ask you what
+is a total float of a path total float of
+
+31
+00:01:39,311 --> 00:01:46,650
+a b c i is still going to be three you
+never never add float values together if
+
+32
+00:01:46,651 --> 00:01:52,170
+float values are different you always take
+the highest number total float of a b f i
+
+33
+00:01:52,171 --> 00:01:57,070
+right is still going to be three f has a
+float of one b has a float of three you
+
+34
+00:01:57,071 --> 00:02:00,048
+take the highest total float
+right so if they ever ask you what
+
+35
+00:02:00,049 --> 00:02:03,219
+is the total float of the path,
+it's always whatever is the
+
+36
+00:02:03,220 --> 00:02:06,364
+highest of the total
+floats of each activity.
+
+37
+00:02:06,670 --> 00:02:10,890
+Remember, a total float is how long that
+activity can be delayed.
+
+38
+00:02:11,530 --> 00:02:14,570
+But remember, they share the float.
+
+39
+00:02:15,050 --> 00:02:17,030
+B and C will share this float.
+

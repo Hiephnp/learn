@@ -1,0 +1,361 @@
+﻿1
+00:00:06,970 --> 00:00:10,430
+Okay, so this lesson is about scope
+management.
+
+2
+00:00:10,830 --> 00:00:13,309
+I remember scope management is trying to
+
+3
+00:00:13,310 --> 00:00:16,644
+determine what is
+included, what is excluded.
+
+4
+00:00:17,130 --> 00:00:21,330
+It's trying to make sure we understand
+what we're going to be delivering.
+
+5
+00:00:21,750 --> 00:00:24,864
+So we're doing all the work
+necessary to complete the
+
+6
+00:00:24,865 --> 00:00:27,971
+project and only the work
+necessary to complete the project.
+
+7
+00:00:28,550 --> 00:00:33,530
+Now there are two types of scope that you
+have to be able to distinguish between.
+
+8
+00:00:33,531 --> 00:00:39,210
+you have something called the product
+scope and something called the project
+
+9
+00:00:39,211 --> 00:00:45,630
+scope right so let's talk about each one
+now the product scope let's talk about the
+
+10
+00:00:45,631 --> 00:00:52,690
+product scope first the product scope
+refers to the what it refers to what we
+
+11
+00:00:52,691 --> 00:01:00,230
+are trying to build what we are trying to
+make what we are trying to deliver so it
+
+12
+00:01:00,231 --> 00:01:03,873
+refers to basically the
+features the functions
+
+13
+00:01:03,874 --> 00:01:06,584
+specific this is what the customer wants.
+
+14
+00:01:07,070 --> 00:01:08,970
+This is what we are trying to deliver.
+
+15
+00:01:09,950 --> 00:01:12,471
+And since it's the what, it refers to the
+
+16
+00:01:12,472 --> 00:01:15,590
+specifications, it refers
+to the requirements.
+
+17
+00:01:16,750 --> 00:01:18,530
+This is what we need to deliver.
+
+18
+00:01:18,690 --> 00:01:20,290
+This is what the customer wants.
+
+19
+00:01:21,250 --> 00:01:24,730
+So for example, then, we need to build a
+supercar that's going to drive at 200
+
+20
+00:01:24,731 --> 00:01:28,310
+miles an hour and give us a fuel
+efficiency of 200 miles per gallon.
+
+21
+00:01:29,210 --> 00:01:31,110
+This is what we are trying to deliver.
+
+22
+00:01:32,150 --> 00:01:35,070
+Those are the specifications, those are
+the requirements.
+
+23
+00:01:36,230 --> 00:01:38,570
+Let's say we have to build a high-tech
+home.
+
+24
+00:01:38,990 --> 00:01:41,510
+Well, what are we building?
+
+25
+00:01:42,310 --> 00:01:44,110
+We are building this high-tech home.
+
+26
+00:01:44,410 --> 00:01:46,810
+What are all the features of this
+high-tech home?
+
+27
+00:01:47,330 --> 00:01:48,990
+Well, those are the requirements.
+
+28
+00:01:49,450 --> 00:01:53,350
+So the product scope specifically refers
+to the requirements.
+
+29
+00:01:53,890 --> 00:01:55,390
+This is what we need to build.
+
+30
+00:01:55,910 --> 00:02:00,750
+The project scope on the other hand,
+this is referring to how.
+
+31
+00:02:01,490 --> 00:02:04,990
+How are we going to deliver this product?
+
+32
+00:02:05,550 --> 00:02:08,530
+How are we going to build this product?
+
+33
+00:02:10,350 --> 00:02:12,430
+What's all the work that is involved?
+
+34
+00:02:13,130 --> 00:02:16,110
+All right, now we know that this is what
+the customer wants.
+
+35
+00:02:16,890 --> 00:02:19,630
+How are we actually going to go about
+delivering this?
+
+36
+00:02:20,050 --> 00:02:22,210
+What's all the tasks that need to be done?
+
+37
+00:02:22,430 --> 00:02:25,930
+What's all the configuration work or the
+construction work?
+
+38
+00:02:26,250 --> 00:02:27,650
+What's all the testing work?
+
+39
+00:02:28,310 --> 00:02:31,037
+You know, what are all
+the tasks and activities that
+
+40
+00:02:31,038 --> 00:02:34,710
+need to be done in order
+to deliver this product?
+
+41
+00:02:35,390 --> 00:02:39,370
+The work that must be done in order to
+deliver whatever it is.
+
+42
+00:02:40,350 --> 00:02:45,030
+And so since it's a how, it's referring to
+the project management plan.
+
+43
+00:02:45,310 --> 00:02:49,060
+So it's great having the requirements,
+but now we've got these requirements,
+
+44
+00:02:49,830 --> 00:02:52,580
+we need to figure out how to deliver those
+requirements.
+
+45
+00:02:52,790 --> 00:02:57,290
+And since it's a how, remember,
+how any of the management plans,
+
+46
+00:02:58,070 --> 00:03:01,930
+the scope management plan, requirements
+management plan, cost management plan,
+
+47
+00:03:02,870 --> 00:03:06,310
+they're all documenting procedures,
+they're all documenting the how.
+
+48
+00:03:06,890 --> 00:03:12,770
+The project management plan is documenting
+how we are going to go about executing the
+
+49
+00:03:12,771 --> 00:03:16,771
+work, planning the work and so on and so
+forth, and actually performing the work.
+
+50
+00:03:17,150 --> 00:03:21,502
+So the product scope
+refers to the requirements, the
+
+51
+00:03:21,503 --> 00:03:24,870
+project scope refers to the
+project management plan.
+
+52
+00:03:25,210 --> 00:03:29,950
+And so it's very important to distinguish
+this because now throughout the whole
+
+53
+00:03:29,951 --> 00:03:34,130
+project management process, right,
+when we are talking about the scope of the
+
+54
+00:03:34,131 --> 00:03:39,910
+project, it's referring to both the
+product scope as well as a project scope.
+
+55
+00:03:40,490 --> 00:03:44,750
+We need to know what we are delivering,
+the requirements.
+
+56
+00:03:45,090 --> 00:03:47,340
+We need to know how we're going to deliver
+it.
+
+57
+00:03:47,790 --> 00:03:51,050
+So we're building a house, how we're going
+
+58
+00:03:51,051 --> 00:03:54,030
+to deliver all of the
+requirements from the.
+
+59
+00:03:54,050 --> 00:03:54,883
+the customer.
+
+60
+00:03:55,510 --> 00:03:57,984
+And then plus, not just
+requirements from the
+
+61
+00:03:57,985 --> 00:04:00,964
+customer, but we have
+all the coding standards.
+
+62
+00:04:01,830 --> 00:04:04,765
+You're not just slapping
+pieces of wood together and,
+
+63
+00:04:04,766 --> 00:04:07,530
+you know, slapping bricks
+together to build a house.
+
+64
+00:04:08,330 --> 00:04:10,470
+No, they have to be according to standard.
+
+65
+00:04:10,990 --> 00:04:13,340
+They have to be according to the building
+codes.
+
+66
+00:04:14,370 --> 00:04:17,950
+So again, all of that then refers to scope
+management.
+
+67
+00:04:18,310 --> 00:04:23,190
+You have the product scope, which is the
+requirements and you have the project
+
+68
+00:04:23,191 --> 00:04:28,570
+scope which is the how the project
+management plan now it's often considered
+
+69
+00:04:28,571 --> 00:04:33,290
+though and it's this mentioned in PIMBOC
+as well right it's often considered that
+
+70
+00:04:33,291 --> 00:04:40,230
+the project scope includes the product
+scope so a lot of times we are considered
+
+71
+00:04:40,231 --> 00:04:47,050
+that we generally in real world
+terminology in real world projects that we
+
+72
+00:04:47,051 --> 00:04:52,110
+will just have a project scope we'll call
+it the project scope but it will include
+
+73
+00:04:52,111 --> 00:04:57,770
+the product scope right so project scope
+is sometimes seen as including the product
+
+74
+00:04:57,771 --> 00:05:02,590
+scope and that's perfectly fine but make
+sure you understand the difference being
+
+75
+00:05:02,591 --> 00:05:06,330
+the two because then when it comes to
+quality management as well right we want
+
+76
+00:05:06,331 --> 00:05:11,070
+to do a quality on the product we want to
+do a quality on the project as well
+

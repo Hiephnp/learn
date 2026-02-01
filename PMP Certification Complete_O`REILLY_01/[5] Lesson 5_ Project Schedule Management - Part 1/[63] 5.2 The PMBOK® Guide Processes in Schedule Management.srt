@@ -1,0 +1,388 @@
+﻿1
+00:00:05,920 --> 00:00:08,542
+All right, so in this
+section then, we're going to
+
+2
+00:00:08,543 --> 00:00:12,300
+cover the PIMBOC guide
+processes of schedule management.
+
+3
+00:00:13,280 --> 00:00:19,060
+So in PIMBOC then, so we're talking about
+PIMBOC version 6 here, there are six
+
+4
+00:00:19,061 --> 00:00:22,260
+processes altogether in the Schedule
+Management section.
+
+5
+00:00:22,860 --> 00:00:26,951
+So the very first process
+then under planning, right, so
+
+6
+00:00:26,952 --> 00:00:30,439
+there's basically the six processes
+covered under the planning
+
+7
+00:00:30,440 --> 00:00:32,340
+process group and
+monitoring and controlling.
+
+8
+00:00:32,880 --> 00:00:35,680
+Very first one then is plan schedule
+management.
+
+9
+00:00:35,920 --> 00:00:41,200
+Now, plan schedule management,
+just like any plan management process,
+
+10
+00:00:41,920 --> 00:00:45,820
+we're planning how we're going to,
+in this case, develop the schedule.
+
+11
+00:00:46,400 --> 00:00:49,261
+What are all the procedures
+regarded to develop the schedule,
+
+12
+00:00:49,262 --> 00:00:52,005
+how we're going to develop it,
+how we're going to monitor and
+
+13
+00:00:52,006 --> 00:00:53,940
+control the schedule,
+and so on and so forth.
+
+14
+00:00:54,600 --> 00:01:01,320
+So the artifact that's created,
+or the output, as PMI calls it in version
+
+15
+00:01:01,321 --> 00:01:04,774
+6, PIMBOV version 6,
+the output of plan schedule
+
+16
+00:01:04,775 --> 00:01:07,691
+management, is the schedule
+management plan, right?
+
+17
+00:01:07,960 --> 00:01:10,989
+So the artifact that's
+created or the document
+
+18
+00:01:10,990 --> 00:01:13,694
+that's created is the
+schedule management plan.
+
+19
+00:01:14,080 --> 00:01:16,957
+And there's a separate video on that,
+the schedule management plan.
+
+20
+00:01:17,040 --> 00:01:20,277
+It's basically documenting how we're going
+to develop the schedule.
+
+21
+00:01:20,360 --> 00:01:23,820
+And all the procedures around developing
+the schedule and all the procedures
+
+22
+00:01:23,821 --> 00:01:28,420
+around, you know, what happens if we're
+going behind schedule and so and so forth.
+
+23
+00:01:29,200 --> 00:01:31,960
+Now, the next process here is define
+activities.
+
+24
+00:01:32,780 --> 00:01:37,356
+And in define activities,
+This process is a continuation,
+
+25
+00:01:37,357 --> 00:01:40,121
+if you like, of the work
+breakdown structure.
+
+26
+00:01:40,840 --> 00:01:46,240
+So in scope management, we create the work
+breakdown structure, and the work
+
+27
+00:01:46,241 --> 00:01:51,580
+breakdown structure is decomposing your
+project down to the work package.
+
+28
+00:01:52,000 --> 00:01:53,900
+So the lowest level is a work package.
+
+29
+00:01:54,680 --> 00:01:57,553
+It's here in schedule
+management, right, and
+
+30
+00:01:57,554 --> 00:02:00,820
+specifically the PIMBOP
+process called define activities.
+
+31
+00:02:01,380 --> 00:02:04,364
+While we further take each work package,
+
+32
+00:02:04,365 --> 00:02:07,920
+and decompose it
+into individual activities.
+
+33
+00:02:09,020 --> 00:02:11,740
+And then, again, there's a separate video
+on that.
+
+34
+00:02:11,920 --> 00:02:15,900
+So we'll talk about the difference between
+a work package and an activity.
+
+35
+00:02:16,120 --> 00:02:18,270
+What is an activity versus the work
+package?
+
+36
+00:02:18,400 --> 00:02:20,620
+We'll talk about that in that video.
+
+37
+00:02:21,980 --> 00:02:24,780
+Now, we've identified our activities.
+
+38
+00:02:25,720 --> 00:02:27,220
+Now, we need to sequence them.
+
+39
+00:02:27,620 --> 00:02:29,070
+Put them in the proper order.
+
+40
+00:02:29,180 --> 00:02:32,080
+And that's what the sequence activity
+process refers to.
+
+41
+00:02:32,280 --> 00:02:33,680
+This is a starting activity.
+
+42
+00:02:33,980 --> 00:02:38,840
+this is the next activity this is the next
+activity this activity is dependent on uh
+
+43
+00:02:38,841 --> 00:02:44,020
+you know the successor activity is
+dependent on the predecessor activity and
+
+44
+00:02:44,021 --> 00:02:47,880
+so and so forth so these activities can be
+running parallel right so we're putting
+
+45
+00:02:47,881 --> 00:02:52,320
+them in the proper order and essentially
+creating a network diagram of all of our
+
+46
+00:02:52,321 --> 00:02:56,720
+different activities now each of these
+activities are going to take a certain
+
+47
+00:02:56,721 --> 00:03:00,940
+time right certain time to perform a
+length of time to perform and that's where
+
+48
+00:03:00,941 --> 00:03:03,743
+this activity duration
+estimate comes in That's
+
+49
+00:03:03,744 --> 00:03:06,360
+this process called
+Activity Duration Estimate.
+
+50
+00:03:06,780 --> 00:03:09,830
+So for each activity, how long do we think
+it's going to take?
+
+51
+00:03:10,140 --> 00:03:12,580
+And there are various
+estimating methods, which, again,
+
+52
+00:03:12,581 --> 00:03:16,020
+we are going to be discussing
+in these subsequent videos.
+
+53
+00:03:17,000 --> 00:03:19,621
+And then now we can develop the overall
+
+54
+00:03:19,622 --> 00:03:23,394
+schedule, the schedule
+for the overall project.
+
+55
+00:03:23,680 --> 00:03:27,560
+So up until now, right, notice define
+activities, sequence activities,
+
+56
+00:03:28,080 --> 00:03:29,430
+estimate activity duration.
+
+57
+00:03:29,840 --> 00:03:31,500
+They're all at an activity level.
+
+58
+00:03:31,980 --> 00:03:33,820
+They've all got the word activity in
+there.
+
+59
+00:03:33,840 --> 00:03:39,400
+They're all at an activity level,
+whereas now developing the schedule is now
+
+60
+00:03:39,401 --> 00:03:41,820
+developing the schedule for the overall
+project.
+
+61
+00:03:42,360 --> 00:03:44,957
+So these are all the activities that need
+to be done.
+
+62
+00:03:45,040 --> 00:03:46,677
+This is a start date of the project.
+
+63
+00:03:46,760 --> 00:03:48,857
+And based on one of
+these activities are going
+
+64
+00:03:48,858 --> 00:03:50,700
+to complete, this is the
+end date of the project.
+
+65
+00:03:50,880 --> 00:03:53,920
+So developed schedule then refers to the
+project as a whole.
+
+66
+00:03:54,880 --> 00:03:58,920
+And developed schedule really refers to
+the critical path method and the network
+
+67
+00:03:58,921 --> 00:04:02,180
+diagramming that we're going to be
+performing in the critical path.
+
+68
+00:04:02,181 --> 00:04:05,462
+So this is going to be
+covered in Lesson 6, and
+
+69
+00:04:05,463 --> 00:04:08,400
+Lesson 6 then is Schedule
+Management Part 2.
+
+70
+00:04:09,140 --> 00:04:13,100
+Now, in Monitoring Controlling there,
+the process is Control Schedule.
+
+71
+00:04:13,920 --> 00:04:15,977
+And remember, what is monitoring
+controlling?
+
+72
+00:04:16,060 --> 00:04:20,380
+Monitoring controlling is comparing actual
+results to your plan.
+
+73
+00:04:21,380 --> 00:04:26,680
+So our actual results versus a plan when
+it comes to the schedule, essentially
+
+74
+00:04:26,681 --> 00:04:29,560
+refers to the fact that, you know,
+are we ahead of schedule or behind
+
+75
+00:04:29,561 --> 00:04:32,820
+schedule, how many activities have
+completed, how many should have been
+
+76
+00:04:32,821 --> 00:04:35,720
+completed, right, and then how do we move
+forward?
+
+77
+00:04:36,120 --> 00:04:39,900
+So that's all monitoring controlling,
+that's all controlling the schedule.
+
+78
+00:04:41,260 --> 00:04:43,520
+So these are the basic processes then.
+
+79
+00:04:43,660 --> 00:04:48,482
+These are the six
+processes, or the six PIMBOC
+
+80
+00:04:48,483 --> 00:04:52,920
+guide processes as it
+relates to PIMBOC version 6.
+

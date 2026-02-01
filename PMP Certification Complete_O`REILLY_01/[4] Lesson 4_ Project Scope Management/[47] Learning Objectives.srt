@@ -1,0 +1,147 @@
+﻿1
+00:00:06,010 --> 00:00:10,090
+Okay, so let's talk about the learning
+objectives for Lesson 4.
+
+2
+00:00:11,130 --> 00:00:12,950
+Now, lesson 4 is scope management.
+
+3
+00:00:13,790 --> 00:00:16,278
+Scope management is
+basically documenting what
+
+4
+00:00:16,279 --> 00:00:19,104
+is included and what is
+excluded on the project.
+
+5
+00:00:19,470 --> 00:00:23,310
+Scope management is about making sure
+you're doing all the work necessary and
+
+6
+00:00:23,311 --> 00:00:25,810
+only the work necessary to complete the
+project.
+
+7
+00:00:26,530 --> 00:00:31,270
+So we'll be talking about product scope
+and project scope.
+
+8
+00:00:32,050 --> 00:00:34,312
+So you need to recognize
+that the difference
+
+9
+00:00:34,313 --> 00:00:36,824
+between the scope and
+the scope requirements.
+
+10
+00:00:36,970 --> 00:00:38,847
+What's the basic difference in the two?
+
+11
+00:00:38,930 --> 00:00:40,618
+I mean, essentially
+you need to collect some
+
+12
+00:00:40,619 --> 00:00:43,104
+requirements before you
+can scope out the project.
+
+13
+00:00:43,430 --> 00:00:44,980
+So we'll be talking about that.
+
+14
+00:00:45,630 --> 00:00:49,890
+You need to understand the basic approach
+to scope management and understand the
+
+15
+00:00:49,891 --> 00:00:53,090
+difference between the predictive and the
+agile approach.
+
+16
+00:00:53,650 --> 00:00:56,370
+The agile approach to scope management is
+
+17
+00:00:56,371 --> 00:00:59,904
+slightly different to
+the predictive approach.
+
+18
+00:01:00,270 --> 00:01:02,320
+So what's the difference between the two?
+
+19
+00:01:02,530 --> 00:01:06,490
+You also need to understand how to collect
+requirements.
+
+20
+00:01:07,170 --> 00:01:09,620
+There's different ways of collecting
+requirements.
+
+21
+00:01:10,110 --> 00:01:13,010
+So you will learn the requirements
+solicitation techniques.
+
+22
+00:01:13,870 --> 00:01:15,730
+Plus the work breakdown structure.
+
+23
+00:01:16,150 --> 00:01:19,270
+That's an important topic in scope
+management.
+
+24
+00:01:20,050 --> 00:01:24,450
+So you need to understand just the basic
+concepts of the work breakdown structure,
+
+25
+00:01:24,670 --> 00:01:28,552
+what the WBS is, and
+how you basically break
+
+26
+00:01:28,553 --> 00:01:31,770
+your project down into
+its individual components.
+
+27
+00:01:31,910 --> 00:01:32,310
+Right.
+
+28
+00:01:32,590 --> 00:01:34,250
+The lowest level then would be the work.
+
+29
+00:01:34,270 --> 00:01:38,610
+package right and then you also talk about
+the different artifacts so you need to
+
+30
+00:01:38,611 --> 00:01:42,870
+understand the different artifacts the
+different documents that's created as well
+
+31
+00:01:42,871 --> 00:01:46,450
+as all of the tools and techniques right
+for scope management
+

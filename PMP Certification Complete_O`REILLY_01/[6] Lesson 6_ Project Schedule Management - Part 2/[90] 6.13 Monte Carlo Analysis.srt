@@ -1,0 +1,308 @@
+﻿1
+00:00:06,520 --> 00:00:09,868
+Okay, so let's discuss
+Monte Carlo analysis, at
+
+2
+00:00:09,869 --> 00:00:12,940
+least what you need to
+know for the PMP exam.
+
+3
+00:00:13,400 --> 00:00:18,200
+Okay, I'm just going to discuss the level
+of detail that you need for the exam.
+
+4
+00:00:19,900 --> 00:00:23,380
+Now, Monte Carlo, then, is a random
+iterative compute model, right?
+
+5
+00:00:23,520 --> 00:00:26,440
+He uses a whole series of probability
+distributions.
+
+6
+00:00:27,380 --> 00:00:31,840
+Alright, so in an early video then, we
+talked about three-point estimating, right?
+
+7
+00:00:31,920 --> 00:00:35,900
+And in three-point estimating,
+you get your optimistic, most-like,
+
+8
+00:00:36,680 --> 00:00:39,040
+pessimistic figures, right,
+and then come up with
+
+9
+00:00:39,041 --> 00:00:41,494
+a pert estimate and so
+and so and so forth, right?
+
+10
+00:00:42,020 --> 00:00:46,120
+Now, we were just talking about one
+particular activity, and even with one
+
+11
+00:00:46,121 --> 00:00:48,573
+particular activity, you're
+not just necessarily going to
+
+12
+00:00:48,656 --> 00:00:51,600
+have one optimistic, one most
+likely, one pessimistic figure.
+
+13
+00:00:52,100 --> 00:00:55,760
+I mean, first of all, why do we have
+optimistic, most likely pessimistic figures?
+
+14
+00:00:56,320 --> 00:00:59,785
+Well, because of some
+kind of uncertainties, some
+
+15
+00:00:59,786 --> 00:01:02,371
+kind of risks that can
+happen on your project.
+
+16
+00:01:03,320 --> 00:01:05,900
+So if this happens, then it'll take us
+this much time.
+
+17
+00:01:05,920 --> 00:01:06,060
+time.
+
+18
+00:01:06,220 --> 00:01:08,620
+If this happens, it might take us this
+much time.
+
+19
+00:01:09,100 --> 00:01:10,867
+So you're not just going
+to have one risk on your
+
+20
+00:01:10,868 --> 00:01:13,460
+project, you're going to have
+many risks, multiple risks.
+
+21
+00:01:14,380 --> 00:01:19,280
+So you may have multiple optimistic,
+most likely pessimistic figures, right?
+
+22
+00:01:19,780 --> 00:01:22,240
+So, and for each activity, right?
+
+23
+00:01:22,400 --> 00:01:27,600
+So for one activity, you may have maybe
+five, 10, 15, even, right, optimistic,
+
+24
+00:01:27,860 --> 00:01:29,760
+most likely pessimistic figures,
+right?
+
+25
+00:01:29,800 --> 00:01:32,480
+Now, I mean, maybe not as many as that,
+but I mean, or maybe even more.
+
+26
+00:01:32,500 --> 00:01:36,220
+It all depends on the situation and
+scenario, but you may have multiple
+
+27
+00:01:36,221 --> 00:01:38,371
+optimistic, most likely pessimistic
+figures.
+
+28
+00:01:39,060 --> 00:01:40,510
+That's just for one activity.
+
+29
+00:01:41,040 --> 00:01:46,220
+Now multiply that by a thousand, two
+thousand, however many activities you have.
+
+30
+00:01:46,940 --> 00:01:51,620
+Now you can see that the whole series of
+events that could potentially happen on
+
+31
+00:01:51,621 --> 00:01:54,260
+your project, whole series of
+uncertainties.
+
+32
+00:01:55,300 --> 00:01:57,557
+And that's where the Monte Carlo comes in,
+right?
+
+33
+00:01:57,640 --> 00:02:01,320
+You plug basically all of these numbers
+into a Monte Carlo analysis.
+
+34
+00:02:02,040 --> 00:02:06,120
+So, It requires having multiple estimates
+for each activity, right?
+
+35
+00:02:06,280 --> 00:02:09,660
+You calculate the three-point estimate,
+right, and there might be several
+
+36
+00:02:09,661 --> 00:02:13,211
+three-point estimates, and then you build
+this probability distribution,
+
+37
+00:02:14,060 --> 00:02:17,280
+and you may get, you may end it with
+something like, you know, some kind of
+
+38
+00:02:17,281 --> 00:02:19,920
+curve like this, some kind of S-curve like
+this.
+
+39
+00:02:20,520 --> 00:02:24,320
+Right, and the way to interpret it,
+right, you've got your probability,
+
+40
+00:02:25,000 --> 00:02:28,980
+right, on the, on the y-axis here,
+and you've got, say, in this case,
+
+41
+00:02:29,080 --> 00:02:32,780
+we're looking at timeline, you've got the
+timeline down here on the x.
+
+42
+00:02:32,800 --> 00:02:38,480
+right and basically you could use this
+then so based on all of these
+
+43
+00:02:38,481 --> 00:02:43,660
+probabilities that we've identified all
+these uncertainties right now we can
+
+44
+00:02:43,661 --> 00:02:49,940
+determine you know the most likely if you
+like or now we can determine just some
+
+45
+00:02:49,941 --> 00:02:55,460
+degree of certainty right when we should
+be finishing our project right or what
+
+46
+00:02:55,461 --> 00:02:59,720
+timeline in this case we should set for
+our project what deadline right so for
+
+47
+00:02:59,721 --> 00:03:02,138
+example if we're thinking
+here of 22 weeks what is a
+
+48
+00:03:02,139 --> 00:03:05,280
+possible possibility of our
+project finishing by week 22.
+
+49
+00:03:05,780 --> 00:03:09,000
+When we look at this, saying, well,
+it's just over 20%, right?
+
+50
+00:03:09,320 --> 00:03:11,220
+Maybe, what, 23%.
+
+51
+00:03:12,560 --> 00:03:14,320
+Are we very confident?
+
+52
+00:03:14,560 --> 00:03:17,160
+Do you think we'll be very confident at 22
+weeks?
+
+53
+00:03:17,480 --> 00:03:21,260
+There's only a 23% of us finishing this
+project by week 22.
+
+54
+00:03:22,600 --> 00:03:23,600
+So maybe not.
+
+55
+00:03:23,860 --> 00:03:28,640
+What we'll be looking at is more of the
+80, 85, 90% probability.
+
+56
+00:03:29,160 --> 00:03:32,720
+So the 85% probability says we might be
+finishing between 24.
+
+57
+00:03:32,780 --> 00:03:33,800
+in 25 weeks.
+
+58
+00:03:35,000 --> 00:03:38,350
+So that's where we might be setting,
+trying to look at our deadline.
+
+59
+00:03:38,580 --> 00:03:43,620
+Maybe we'll set it round about 24,
+24 and a half, 25 weeks, right?
+
+60
+00:03:43,920 --> 00:03:48,070
+Then we have some level of confidence that
+yes, we'll be able to meet that deadline.
+
+61
+00:03:48,340 --> 00:03:52,900
+So that's just a very, very high level way
+of looking at Monte Carlo analysis.
+
+62
+00:03:53,880 --> 00:03:56,706
+And really about as much
+as what you need, about as
+
+63
+00:03:56,707 --> 00:03:59,680
+much analysis as what you
+would need for the PMP exam.
+

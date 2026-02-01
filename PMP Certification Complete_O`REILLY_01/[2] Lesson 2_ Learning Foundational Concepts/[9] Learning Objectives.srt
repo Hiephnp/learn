@@ -1,0 +1,162 @@
+﻿1
+00:00:05,820 --> 00:00:09,453
+Okay, so lesson two
+covers the basic foundational
+
+2
+00:00:09,454 --> 00:00:12,100
+concepts of project management, right?
+
+3
+00:00:12,200 --> 00:00:13,573
+And that's really what
+you're going to be learning
+
+4
+00:00:13,574 --> 00:00:15,780
+in this lesson, just some
+of the basic foundations.
+
+5
+00:00:16,580 --> 00:00:19,380
+So let's just cover some of the learning
+objectives then.
+
+6
+00:00:20,260 --> 00:00:23,110
+Now, what this really
+refers to essentially
+
+7
+00:00:23,111 --> 00:00:25,760
+is chapters one to three of Pimbok, right?
+
+8
+00:00:25,880 --> 00:00:28,820
+Pinbock Guide version 6, just really
+chapters one to three.
+
+9
+00:00:30,280 --> 00:00:35,060
+And these are just the basic foundations,
+the basic framework, the building blocks,
+
+10
+00:00:35,200 --> 00:00:38,680
+if you like, of project management,
+the ABCs of project management.
+
+11
+00:00:39,340 --> 00:00:43,548
+The rest of the syllabus,
+the rest of the class is
+
+12
+00:00:43,549 --> 00:00:46,754
+going to build upon
+these basic building blocks.
+
+13
+00:00:47,160 --> 00:00:50,760
+So we're going to be covering the basic
+framework, the basic foundations,
+
+14
+00:00:51,120 --> 00:00:53,080
+such as defining a project.
+
+15
+00:00:53,660 --> 00:00:57,760
+I want to talk about the definition of a
+project, definition of project management.
+
+16
+00:00:58,240 --> 00:01:02,317
+Along with this, we're going to be talking
+about things like progressive elaboration.
+
+17
+00:01:02,400 --> 00:01:06,720
+We're going to be introducing enterprise
+environmental factors and organizational
+
+18
+00:01:06,721 --> 00:01:12,360
+process asset and how they interact with
+each other, how they affect the project,
+
+19
+00:01:13,000 --> 00:01:14,750
+how constraints affect the project.
+
+20
+00:01:15,160 --> 00:01:18,156
+We'll talk about the
+roles, the basic roles on a
+
+21
+00:01:18,157 --> 00:01:20,661
+project, structures of
+different organizations.
+
+22
+00:01:21,100 --> 00:01:25,640
+These all fall under the basic framework,
+the basic foundations.
+
+23
+00:01:26,520 --> 00:01:30,077
+Plus, we're going to talk about the
+different types of project life cycles,
+
+24
+00:01:30,160 --> 00:01:32,639
+such as iterative life
+cycle and incremental,
+
+25
+00:01:32,640 --> 00:01:35,080
+right, and of course
+it's predictive and agile.
+
+26
+00:01:35,720 --> 00:01:38,000
+Remember, 50% of the exam is predictive.
+
+27
+00:01:38,640 --> 00:01:40,620
+50% is agile and hybrid.
+
+28
+00:01:42,100 --> 00:01:47,280
+And predictive and agile are two almost
+conflicting views of project management.
+
+29
+00:01:47,820 --> 00:01:50,520
+So you need to recognize the difference
+between them.
+
+30
+00:01:51,360 --> 00:01:55,700
+And so overall, you need to understand the
+PMI framework.
+
+31
+00:01:56,080 --> 00:01:57,980
+You need to understand PMI standards.
+
+32
+00:01:58,720 --> 00:01:58,800
+Right.
+
+33
+00:01:59,040 --> 00:02:02,140
+So you need to appreciate
+the standards of project
+
+34
+00:02:02,141 --> 00:02:05,580
+management as it relates to
+PMI as it relates to Pembuck.
+

@@ -1,0 +1,603 @@
+﻿1
+00:00:06,430 --> 00:00:09,417
+Now we're going to cover
+the ITTOs of integration
+
+2
+00:00:09,418 --> 00:00:12,140
+management, Develop
+Project Charter Process.
+
+3
+00:00:13,940 --> 00:00:19,000
+So I do recommend that you follow along in
+your PIMBOC.
+
+4
+00:00:19,780 --> 00:00:22,560
+So we're on page 75, page 75.
+
+5
+00:00:23,320 --> 00:00:29,780
+All right, so develop project charter
+process, if you look at page 75,
+
+6
+00:00:31,060 --> 00:00:35,640
+is we're creating a document to formally
+get our project authorized.
+
+7
+00:00:35,820 --> 00:00:37,000
+rise to begin.
+
+8
+00:00:37,920 --> 00:00:41,210
+In the PMI world, we do not
+have a project until we have a
+
+9
+00:00:41,211 --> 00:00:44,600
+project charter that is signed,
+published by the sponsor.
+
+10
+00:00:45,120 --> 00:00:48,570
+All right, so it will show the business
+justification for the project,
+
+11
+00:00:48,960 --> 00:00:50,620
+why the project exists.
+
+12
+00:00:51,140 --> 00:00:54,961
+So our inputs, information,
+documentation, key to the
+
+13
+00:00:54,962 --> 00:00:58,160
+process, what are the
+artifacts that will come in?
+
+14
+00:00:58,700 --> 00:01:00,000
+What do we need to review?
+
+15
+00:01:00,700 --> 00:01:02,760
+We'll have our business documents.
+
+16
+00:01:03,040 --> 00:01:05,800
+The business case does show.
+
+17
+00:01:05,820 --> 00:01:10,100
+show the feasibility, justification,
+need of the project.
+
+18
+00:01:10,560 --> 00:01:13,173
+It goes hand in hand with
+the benefits management
+
+19
+00:01:13,174 --> 00:01:16,080
+plan, how the project will
+benefit the organization.
+
+20
+00:01:16,860 --> 00:01:22,820
+Project does help the organization meet
+their strategic needs.
+
+21
+00:01:23,560 --> 00:01:23,720
+All right.
+
+22
+00:01:24,400 --> 00:01:27,080
+So what else comes in, agreements,
+contracts.
+
+23
+00:01:27,780 --> 00:01:33,280
+So sales or business development landed a
+project through the contract.
+
+24
+00:01:35,320 --> 00:01:41,460
+this process is where you will officially
+be assigned all right then we have those
+
+25
+00:01:41,461 --> 00:01:48,480
+EEFs and OPAs so you can go to page 38 in
+your PIMBOC enterprise environmental
+
+26
+00:01:48,481 --> 00:01:55,020
+factors are things beyond our control that
+will impact us some of the main categories
+
+27
+00:01:55,021 --> 00:02:01,600
+organizational culture structure and
+governance PMIS the project management
+
+28
+00:02:01,601 --> 00:02:08,180
+information system, which includes any
+technology softwares we use, whether it's
+
+29
+00:02:08,181 --> 00:02:11,860
+Microsoft Project, Timberline,
+Clarity, Primavera, SmartSheet,
+
+30
+00:02:12,660 --> 00:02:17,280
+or and Microsoft Office, Lotus Notes,
+whatever you're using.
+
+31
+00:02:17,940 --> 00:02:21,860
+Then we have organizational resources,
+people, material, equipment, supplies,
+
+32
+00:02:22,520 --> 00:02:24,620
+facilities, already with the organization.
+
+33
+00:02:25,340 --> 00:02:29,840
+Then on the next page, you'll see
+government and industry standards,
+
+34
+00:02:30,160 --> 00:02:32,560
+laws, regulations, we're going to have to
+follow.
+
+35
+00:02:32,860 --> 00:02:34,960
+So those are your main categories.
+
+36
+00:02:35,540 --> 00:02:41,160
+So anything external to the project,
+anything that will impact us, marketplace
+
+37
+00:02:41,161 --> 00:02:44,924
+conditions, whether
+we're at war, COVID, all
+
+38
+00:02:44,925 --> 00:02:48,094
+things beyond our
+control that will impact us.
+
+39
+00:02:48,380 --> 00:02:52,140
+We have to be familiar with these and
+consider these things.
+
+40
+00:02:52,780 --> 00:02:54,700
+So that's why they are inputs.
+
+41
+00:02:55,640 --> 00:02:57,291
+And you will see them throughout all the
+
+42
+00:02:57,292 --> 00:02:59,814
+integration and all our
+planning processes.
+
+43
+00:03:00,220 --> 00:03:01,100
+over and over.
+
+44
+00:03:01,660 --> 00:03:05,220
+And if you see me do this, I'm going
+through your process map.
+
+45
+00:03:05,980 --> 00:03:07,857
+I'm not doing Father, Son, Holy Ghost.
+
+46
+00:03:07,940 --> 00:03:11,490
+I'm going through your process map,
+which is on page 25 of your Pimpock.
+
+47
+00:03:11,780 --> 00:03:13,960
+So we're in the integration knowledge
+area.
+
+48
+00:03:14,640 --> 00:03:14,880
+All right.
+
+49
+00:03:15,220 --> 00:03:20,674
+What else comes in that we have to
+consider our organizational process assets?
+
+50
+00:03:21,360 --> 00:03:23,240
+So I believe that's on page 41.
+
+51
+00:03:23,900 --> 00:03:28,080
+So these are the, or I think they start on
+39, actually.
+
+52
+00:03:28,600 --> 00:03:29,557
+These are the policy.
+
+53
+00:03:29,640 --> 00:03:34,520
+these processes, procedures, guidelines,
+methods we have to follow on our project.
+
+54
+00:03:35,020 --> 00:03:39,780
+The PMO is telling us these policies,
+processes, procedures we have to follow.
+
+55
+00:03:40,280 --> 00:03:45,520
+The second part, which I believe is on
+page 41, is the knowledge repository.
+
+56
+00:03:46,160 --> 00:03:49,260
+I want you to think anything you can pull
+and use.
+
+57
+00:03:49,980 --> 00:03:56,754
+So big categories, configuration management,
+the first one, that's version control.
+
+58
+00:03:57,100 --> 00:03:59,620
+To always make sure we're working from
+the.
+
+59
+00:03:59,640 --> 00:04:03,720
+the latest versions, plans, baselines,
+documents.
+
+60
+00:04:04,680 --> 00:04:07,960
+We'll also pull historical information and
+lessons learned.
+
+61
+00:04:08,780 --> 00:04:11,880
+History is bound to repeat itself if we
+don't know what it was.
+
+62
+00:04:12,380 --> 00:04:15,440
+I don't remember the exact saying,
+but it's George Santiana.
+
+63
+00:04:16,640 --> 00:04:19,960
+So you document what's happened before.
+
+64
+00:04:20,740 --> 00:04:24,060
+The lessons learned, what's gone well,
+what hasn't gone well.
+
+65
+00:04:24,440 --> 00:04:26,340
+So we can learn from these things too.
+
+66
+00:04:26,720 --> 00:04:29,060
+So these are things we'll pull and use.
+
+67
+00:04:29,061 --> 00:04:34,880
+The last one, your best friend, previous
+similar recently completed project files.
+
+68
+00:04:35,440 --> 00:04:37,090
+Why would you reinvent the wheel?
+
+69
+00:04:37,220 --> 00:04:40,802
+If you have a previous similar
+recently completed project
+
+70
+00:04:40,803 --> 00:04:44,980
+and you can look at the
+plans, baselines, all right?
+
+71
+00:04:45,900 --> 00:04:49,900
+So tools and techniques, verbs,
+what we will do in a process.
+
+72
+00:04:50,620 --> 00:04:51,797
+We'll use expert judgment.
+
+73
+00:04:51,880 --> 00:04:52,930
+We'll see this a lot.
+
+74
+00:04:53,640 --> 00:04:58,740
+We use ours, our team members, our
+SMEs, subject matter experts, experiences.
+
+75
+00:04:59,060 --> 00:05:01,020
+and expertise to do this process.
+
+76
+00:05:02,400 --> 00:05:04,140
+We're using our brains.
+
+77
+00:05:04,760 --> 00:05:06,000
+We'll gather data.
+
+78
+00:05:06,140 --> 00:05:07,157
+We need some details.
+
+79
+00:05:07,240 --> 00:05:10,520
+So brainstorming small group tries to
+generate as many ideas.
+
+80
+00:05:11,340 --> 00:05:16,100
+Here we're trying to generate as many high
+level ideas as possible.
+
+81
+00:05:17,020 --> 00:05:19,180
+What needs to be in our project charter?
+
+82
+00:05:19,500 --> 00:05:21,340
+All high level details.
+
+83
+00:05:22,140 --> 00:05:22,973
+Focus groups.
+
+84
+00:05:23,100 --> 00:05:25,280
+You can do pre-qualified SMEs.
+
+85
+00:05:26,180 --> 00:05:27,013
+Ask them.
+
+86
+00:05:27,780 --> 00:05:29,040
+So these are usually people.
+
+87
+00:05:29,060 --> 00:05:35,020
+have some experience with these types of
+projects and then we're going to interview
+
+88
+00:05:35,021 --> 00:05:42,400
+our sponsor key stakeholders what are your
+high level needs we'll use interpersonal
+
+89
+00:05:42,401 --> 00:05:47,940
+team skills so anytime you see
+interpersonal and team skills these are
+
+90
+00:05:47,941 --> 00:05:54,080
+our soft skills we're dealing with
+stakeholders so some of the things we'll
+
+91
+00:05:54,081 --> 00:06:00,480
+do manage conflict will facilitate the
+meetings come to some conclusion as we're
+
+92
+00:06:00,481 --> 00:06:04,620
+managing the meetings while we're having
+meetings so a lot of these tools and
+
+93
+00:06:04,621 --> 00:06:09,860
+techniques are done concurrently so keep
+that in mind your output another noun
+
+94
+00:06:09,861 --> 00:06:16,240
+inputs and outputs are artifacts outputs
+are artifacts we create some form of
+
+95
+00:06:16,241 --> 00:06:22,400
+deliverable so the process is develop
+project charter what do we produce the
+
+96
+00:06:22,401 --> 00:06:27,656
+project charter and i believe
+it's on page 80 in your pinback
+
+97
+00:06:27,657 --> 00:06:31,880
+that will tell you the key
+components of your project charter.
+
+98
+00:06:32,620 --> 00:06:37,140
+Again, I want you to think
+high level requirements,
+
+99
+00:06:37,141 --> 00:06:40,460
+summary budget, summary
+milestone schedule.
+
+100
+00:06:40,900 --> 00:06:41,820
+So high level.
+
+101
+00:06:42,940 --> 00:06:44,440
+And at least you are in there.
+
+102
+00:06:44,540 --> 00:06:50,460
+This is where you are assigned as a
+project manager given authority levels and
+
+103
+00:06:50,461 --> 00:06:53,700
+authority to use resources to accomplish
+project objectives.
+
+104
+00:06:54,160 --> 00:06:59,680
+So you and that sponsor or initiator are
+listed in that project charter,
+
+105
+00:07:00,340 --> 00:07:01,490
+their authority levels.
+
+106
+00:07:02,480 --> 00:07:05,640
+So the sponsor is the one funding your
+project.
+
+107
+00:07:06,200 --> 00:07:07,900
+All right, what else do we create?
+
+108
+00:07:08,680 --> 00:07:15,360
+Any other high level details that we know
+about, like overall project success
+
+109
+00:07:15,361 --> 00:07:20,968
+criteria, exit criteria,
+measurable project objectives, any
+
+110
+00:07:20,969 --> 00:07:25,220
+key stakeholders we know
+about, any risks we know about.
+
+111
+00:07:25,720 --> 00:07:30,140
+Your project charter will contain all your
+high level details.
+
+112
+00:07:30,800 --> 00:07:34,619
+What else do we create when
+we develop project charter
+
+113
+00:07:34,620 --> 00:07:38,040
+process will be our
+assumptions and constraints log?
+
+114
+00:07:38,560 --> 00:07:40,857
+So I know it just says
+assumptions log, but I
+
+115
+00:07:40,858 --> 00:07:43,494
+want you to think
+assumptions and constraints.
+
+116
+00:07:43,980 --> 00:07:47,120
+So we document those things we believe to
+be true.
+
+117
+00:07:47,960 --> 00:07:52,240
+Like we're going to use the same resources
+we used for the last project.
+
+118
+00:07:52,340 --> 00:07:58,880
+We assume we can use the same contractors
+as we did in the last project.
+
+119
+00:07:59,820 --> 00:08:00,653
+Constraints.
+
+120
+00:08:01,180 --> 00:08:02,140
+We also document.
+
+121
+00:08:02,920 --> 00:08:07,500
+A constraint is anything that impedes or
+dictates the actions of the project team.
+
+122
+00:08:08,160 --> 00:08:08,993
+We have six.
+
+123
+00:08:09,600 --> 00:08:13,860
+So we'll start with the triple
+constraints, or classic iron triangle,
+
+124
+00:08:14,480 --> 00:08:15,600
+scope, time, and cost.
+
+125
+00:08:16,060 --> 00:08:17,680
+They all affect each other.
+
+126
+00:08:18,100 --> 00:08:20,780
+But those are not the only constraints.
+
+127
+00:08:21,560 --> 00:08:29,080
+We also have quality, risks, uncertainties,
+and resources, or lack thereof.
+
+128
+00:08:29,300 --> 00:08:35,120
+These are all constraints, so we need to
+document any that we know about from the
+
+129
+00:08:35,121 --> 00:08:40,920
+get-go and continuously through our
+project because they will affect us.
+

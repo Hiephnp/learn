@@ -1,0 +1,201 @@
+﻿1
+00:00:06,110 --> 00:00:08,990
+Let's create the project charter.
+
+2
+00:00:09,190 --> 00:00:12,910
+So we talked about the ITTOs and we did
+cover this at a high level.
+
+3
+00:00:13,870 --> 00:00:15,250
+Let's go into more depth.
+
+4
+00:00:15,630 --> 00:00:18,231
+So the purpose of the
+project charter, formal
+
+5
+00:00:18,232 --> 00:00:21,244
+authorization for the project to begin.
+
+6
+00:00:21,350 --> 00:00:25,690
+Remember in the PMI world, we do not have
+a project till we have a project charter.
+
+7
+00:00:26,470 --> 00:00:32,110
+So it will show the business justification
+of the project, why the project exists.
+
+8
+00:00:32,930 --> 00:00:35,570
+So we will definitely list the need for
+the project.
+
+9
+00:00:35,571 --> 00:00:40,670
+Outlines the project's measurable
+objectives, related success criteria.
+
+10
+00:00:41,530 --> 00:00:42,730
+This is at a high level.
+
+11
+00:00:43,190 --> 00:00:46,270
+This is a high level document signed off.
+
+12
+00:00:46,690 --> 00:00:51,210
+They might say published by the project
+sponsor or initiator.
+
+13
+00:00:51,990 --> 00:00:56,712
+So it identifies the sponsor
+who is funding the project
+
+14
+00:00:56,713 --> 00:00:59,810
+and the project manager
+and their authority levels.
+
+15
+00:00:59,990 --> 00:01:05,550
+It contains high level requirements,
+scope, risk, summary budget.
+
+16
+00:01:05,570 --> 00:01:07,210
+budget, summary schedule.
+
+17
+00:01:07,810 --> 00:01:08,860
+Those are high level.
+
+18
+00:01:10,570 --> 00:01:13,930
+High level assumptions and constraints we
+already know about.
+
+19
+00:01:14,610 --> 00:01:17,359
+Pre-assigned resources meaning promised
+
+20
+00:01:17,360 --> 00:01:21,044
+resources, team, people,
+and physical resources.
+
+21
+00:01:21,710 --> 00:01:26,210
+Documents any key stakeholders identified,
+identifies who will approve the
+
+22
+00:01:26,211 --> 00:01:30,570
+deliverables, summary milestone and exit
+criteria.
+
+23
+00:01:32,470 --> 00:01:35,690
+So the PM's role in creating the project
+charter.
+
+24
+00:01:35,890 --> 00:01:38,502
+They can assist in
+writing the project charter
+
+25
+00:01:38,503 --> 00:01:41,004
+or the PM can write
+the entire project charter.
+
+26
+00:01:41,550 --> 00:01:45,641
+If you're a senior level
+project manager, we're
+
+27
+00:01:45,642 --> 00:01:48,824
+often being asked to
+write the project charter.
+
+28
+00:01:49,270 --> 00:01:53,370
+But the sponsor or initiator will sign it.
+
+29
+00:01:53,890 --> 00:01:55,640
+And we'll do a benefits evaluation.
+
+30
+00:01:55,750 --> 00:01:59,410
+Is the project in line with the
+organization's strategic plan?
+
+31
+00:01:59,910 --> 00:02:02,810
+So that is our job to make sure it is.
+
+32
+00:02:03,350 --> 00:02:04,370
+We'll communicate.
+
+33
+00:02:04,390 --> 00:02:07,036
+communicate to the appropriate
+key stakeholders, letting
+
+34
+00:02:07,037 --> 00:02:11,270
+them know we've got a
+project authorized to begin.
+
+35
+00:02:12,490 --> 00:02:16,070
+So the project charter also be called an
+overview statement.
+
+36
+00:02:16,830 --> 00:02:19,550
+It's an executive summary of the project
+charter.
+
+37
+00:02:20,230 --> 00:02:22,525
+Elevator pitch communicates the intent and
+
+38
+00:02:22,526 --> 00:02:25,924
+vision of the project
+must be clear and concise.
+
+39
+00:02:26,330 --> 00:02:28,430
+But note, I'm going to read this.
+
+40
+00:02:28,830 --> 00:02:32,482
+Authorization of the project
+starts when the project charter
+
+41
+00:02:32,483 --> 00:02:35,550
+is signed or the project
+overview statement is approved.
+
+42
+00:02:36,110 --> 00:02:39,650
+Then the PM can start spending
+money on the project and
+
+43
+00:02:39,651 --> 00:02:43,150
+obtaining resources to actually
+accomplish project objectives.
+

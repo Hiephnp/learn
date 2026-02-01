@@ -1,0 +1,356 @@
+﻿1
+00:00:06,010 --> 00:00:08,997
+Okay, so in this video
+we're going to cover
+
+2
+00:00:08,998 --> 00:00:11,984
+the PIMBOC processes for scope management.
+
+3
+00:00:12,170 --> 00:00:14,750
+And this is all taken from PIMBOC version
+6.
+
+4
+00:00:15,710 --> 00:00:20,910
+So the processes, then, there are six
+processes in scope management altogether.
+
+5
+00:00:21,530 --> 00:00:23,480
+So in planning, there's four processes.
+
+6
+00:00:24,010 --> 00:00:26,060
+In monitoring controlling, there are two.
+
+7
+00:00:26,290 --> 00:00:32,250
+Now, just like all of the other processes,
+right, from scope management actually all
+
+8
+00:00:32,251 --> 00:00:34,851
+the way down, when you look
+at the knowledge areas, the
+
+9
+00:00:34,852 --> 00:00:38,690
+very first process, is always
+plan something management.
+
+10
+00:00:38,930 --> 00:00:42,490
+So in this case, the very first process
+will be plan scope management.
+
+11
+00:00:43,530 --> 00:00:46,023
+And remember in plan
+scope management, you're
+
+12
+00:00:46,024 --> 00:00:48,950
+going to be creating the
+scope management plan.
+
+13
+00:00:49,470 --> 00:00:55,310
+So in the old PIMBOC 6 terminology,
+we would say that the scope management
+
+14
+00:00:55,311 --> 00:00:59,630
+plan is actually an output of plan scope
+management.
+
+15
+00:01:01,070 --> 00:01:08,610
+So the scope management plan then remember
+is an artifact that is documenting how
+
+16
+00:01:08,611 --> 00:01:13,530
+we're going to develop the scope and
+there's a separate video in more details
+
+17
+00:01:13,531 --> 00:01:19,310
+in the kind of information that it
+contains but that is an artifact that is
+
+18
+00:01:19,311 --> 00:01:25,590
+created as part of plan scope management
+and the artifact then in this case is
+
+19
+00:01:25,591 --> 00:01:30,590
+considered an output and any artifact that
+you're creating from any process is
+
+20
+00:01:30,591 --> 00:01:36,210
+loosely considered an output right the old
+PMI terminology Pimbox 6, terminology,
+
+21
+00:01:36,430 --> 00:01:38,080
+it would be considered an output.
+
+22
+00:01:39,370 --> 00:01:42,447
+Now, that's the very first process in any
+of the knowledge areas.
+
+23
+00:01:42,530 --> 00:01:46,150
+The very first process is to create the
+plan, right?
+
+24
+00:01:46,270 --> 00:01:50,330
+Plan how we're going to, you know,
+do this particular knowledge area.
+
+25
+00:01:50,410 --> 00:01:53,610
+So in this case, how are we going to
+develop the scope?
+
+26
+00:01:54,330 --> 00:01:58,170
+Now, this next process then is collect
+requirements.
+
+27
+00:01:58,950 --> 00:02:03,230
+We need some requirements in order to
+understand what the customer wants,
+
+28
+00:02:03,231 --> 00:02:05,670
+in order to be able to scope out the
+project.
+
+29
+00:02:06,050 --> 00:02:08,500
+So that's this process here, collect
+requirements.
+
+30
+00:02:09,050 --> 00:02:12,550
+And the artifact that's created or the
+output, if you like, of collect
+
+31
+00:02:12,551 --> 00:02:17,070
+requirements, is the requirements
+documentation and the requirements
+
+32
+00:02:17,071 --> 00:02:21,390
+traceability matrix, both of which are
+going to be covered in a future video.
+
+33
+00:02:21,870 --> 00:02:24,545
+Then once we've started
+collecting some requirements,
+
+34
+00:02:24,546 --> 00:02:27,121
+then we can start defining
+the scope of the project.
+
+35
+00:02:27,450 --> 00:02:29,750
+So that's the other process here,
+define scope.
+
+36
+00:02:29,950 --> 00:02:32,330
+And that's where we're going to create the
+scope statement.
+
+37
+00:02:32,331 --> 00:02:36,790
+So the scope statement is considered the
+output of defined scope.
+
+38
+00:02:36,930 --> 00:02:40,510
+It's an artifact that's created as part of
+defined scope.
+
+39
+00:02:41,190 --> 00:02:43,787
+And then we're going to create the work
+breakdown structure.
+
+40
+00:02:43,870 --> 00:02:44,730
+Create WBS.
+
+41
+00:02:45,230 --> 00:02:48,370
+WBS stands for the work breakdown
+structure.
+
+42
+00:02:49,110 --> 00:02:51,187
+And the work breakdown
+structure, the graphical
+
+43
+00:02:51,188 --> 00:02:53,451
+hierarchy of all the work
+that needs to be done.
+
+44
+00:02:54,130 --> 00:02:58,970
+And one of the key artifacts that's
+created is the scope baseline.
+
+45
+00:02:59,530 --> 00:03:04,110
+And the scope baseline is made up of the
+work breakdown structure, as well as
+
+46
+00:03:04,111 --> 00:03:07,810
+something called the work breakdown
+structure dictionary and the scope
+
+47
+00:03:07,811 --> 00:03:11,970
+statement, which is created from the
+defined scope process, and again,
+
+48
+00:03:12,130 --> 00:03:16,070
+we've got videos on, or detailed videos on
+each of these.
+
+49
+00:03:17,010 --> 00:03:18,260
+So that's under planning.
+
+50
+00:03:18,990 --> 00:03:21,054
+Under the monitoring
+controlling side, we have
+
+51
+00:03:21,055 --> 00:03:24,030
+something, we have a
+process called validate scope.
+
+52
+00:03:24,690 --> 00:03:28,610
+And validate scope is the customer's
+acceptance of the deliverable.
+
+53
+00:03:29,310 --> 00:03:32,010
+So it's a customer that's accepting the
+deliverable.
+
+54
+00:03:32,770 --> 00:03:36,630
+So as a team, we are going to implement
+the work.
+
+55
+00:03:36,750 --> 00:03:40,450
+We're first going to plan the work,
+then we're going to implement the work,
+
+56
+00:03:40,590 --> 00:03:43,887
+and then we're going to test the work,
+right, which is quality control.
+
+57
+00:03:43,970 --> 00:03:47,770
+Once we've tested it, now the customer
+needs to test and sign off.
+
+58
+00:03:48,470 --> 00:03:50,954
+And the customer's
+testing and signing off on
+
+59
+00:03:50,955 --> 00:03:54,104
+the deliverable is
+known as validate scope.
+
+60
+00:03:54,330 --> 00:03:56,737
+And then control scope
+is something that as a
+
+61
+00:03:56,738 --> 00:03:59,411
+project manager you're
+doing throughout your project.
+
+62
+00:03:59,690 --> 00:04:02,047
+You're controlling the scope of the
+project, right?
+
+63
+00:04:02,130 --> 00:04:04,820
+You're making sure
+that we are doing all the
+
+64
+00:04:04,821 --> 00:04:07,390
+work necessary and
+only the work necessary.
+
+65
+00:04:07,630 --> 00:04:09,327
+We're not doing anything additional.
+
+66
+00:04:09,410 --> 00:04:13,030
+We're trying to prevent scope creep and
+gold plating, remember?
+
+67
+00:04:13,590 --> 00:04:15,940
+How are we controlling the scope of the
+project?
+
+68
+00:04:16,170 --> 00:04:18,434
+By going through a
+change control, by having
+
+69
+00:04:18,435 --> 00:04:21,104
+a proper change control process in place.
+
+70
+00:04:21,690 --> 00:04:22,523
+Okay?
+
+71
+00:04:22,630 --> 00:04:26,590
+So these are the six processes then in
+scope management.
+
+72
+00:04:27,150 --> 00:04:29,909
+And so we're going to be
+covering going through the
+
+73
+00:04:29,910 --> 00:04:32,451
+details of each of these
+in our subsequent videos.
+

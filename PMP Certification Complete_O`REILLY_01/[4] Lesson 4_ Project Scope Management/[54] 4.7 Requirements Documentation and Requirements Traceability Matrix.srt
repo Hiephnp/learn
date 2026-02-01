@@ -1,0 +1,647 @@
+﻿1
+00:00:06,010 --> 00:00:12,284
+Okay, so in this section then, we are going
+to talk about two important artifacts.
+
+2
+00:00:12,970 --> 00:00:15,185
+We're going to be talking
+about the requirements
+
+3
+00:00:15,186 --> 00:00:17,861
+documentation and the
+requirements traceability matrix.
+
+4
+00:00:18,330 --> 00:00:23,510
+So these are two very, very important
+documents or artifacts, right,
+
+5
+00:00:23,630 --> 00:00:27,789
+and in the old PIMBox 6
+terminology, they were referred
+
+6
+00:00:27,790 --> 00:00:30,550
+to as outputs of the requirements
+management process.
+
+7
+00:00:30,551 --> 00:00:34,430
+They were outputs of collect requirements.
+
+8
+00:00:35,370 --> 00:00:37,430
+So let's talk about each of these then.
+
+9
+00:00:38,490 --> 00:00:41,850
+So the first document here then,
+the requirements document, right?
+
+10
+00:00:41,950 --> 00:00:43,300
+Requirements documentation.
+
+11
+00:00:44,050 --> 00:00:49,330
+Remember, a requirement is what we are
+going to be delivering, what the customer
+
+12
+00:00:49,331 --> 00:00:54,290
+wants, what the customer needs,
+what is the end product or service,
+
+13
+00:00:54,750 --> 00:00:56,650
+whatever it is that we are delivering.
+
+14
+00:00:56,790 --> 00:00:59,430
+And again, the official definition,
+right?
+
+15
+00:00:59,431 --> 00:01:03,206
+It's what is to be delivered
+and the agreed upon capability
+
+16
+00:01:03,207 --> 00:01:06,470
+or condition of the product,
+right, service or result.
+
+17
+00:01:07,910 --> 00:01:09,850
+So that is a requirement.
+
+18
+00:01:10,610 --> 00:01:13,390
+And there are many, many types of
+requirements.
+
+19
+00:01:13,730 --> 00:01:16,286
+And exactly what kind of
+requirements you need for
+
+20
+00:01:16,287 --> 00:01:18,971
+your project is going to be
+dependent by the industry.
+
+21
+00:01:19,190 --> 00:01:21,490
+It's going to be dependent by the
+organization.
+
+22
+00:01:21,810 --> 00:01:25,270
+The main requirement is a product
+requirement.
+
+23
+00:01:25,690 --> 00:01:26,790
+This is what we are delivering.
+
+24
+00:01:26,810 --> 00:01:28,010
+This is what we need to build.
+
+25
+00:01:28,011 --> 00:01:30,311
+Right, that's going to be the main
+requirement.
+
+26
+00:01:30,510 --> 00:01:32,167
+And again, that's going to be industry
+specific.
+
+27
+00:01:32,250 --> 00:01:34,147
+But there's other types of requirements as
+well.
+
+28
+00:01:34,230 --> 00:01:35,987
+You've got something called the business
+requirements.
+
+29
+00:01:36,070 --> 00:01:37,727
+Well, what does the business need?
+
+30
+00:01:37,810 --> 00:01:39,090
+It's an internal project.
+
+31
+00:01:39,310 --> 00:01:42,187
+You're doing a project and there's several
+business units involved.
+
+32
+00:01:42,270 --> 00:01:43,867
+Well, what are their requirements?
+
+33
+00:01:43,950 --> 00:01:43,990
+Right.
+
+34
+00:01:44,250 --> 00:01:45,500
+Stakeholder requirements.
+
+35
+00:01:45,590 --> 00:01:47,040
+What does a stakeholder need?
+
+36
+00:01:47,230 --> 00:01:48,680
+What does a stakeholder want?
+
+37
+00:01:49,130 --> 00:01:51,467
+You've got something called the solution
+requirements.
+
+38
+00:01:51,550 --> 00:01:54,447
+Down here we have something called
+non-functional requirements.
+
+39
+00:01:54,530 --> 00:01:57,990
+Non-functional requirements would be
+things like training requirements.
+
+40
+00:01:58,010 --> 00:02:02,230
+for example, we're building this product
+and, you know, whether it's a system,
+
+41
+00:02:02,450 --> 00:02:06,190
+an IT system, or whether it's a machine,
+end users need training.
+
+42
+00:02:06,650 --> 00:02:08,550
+So what are the training requirements?
+
+43
+00:02:08,730 --> 00:02:11,730
+What are the safety requirements for the
+use of this machine?
+
+44
+00:02:12,370 --> 00:02:14,131
+Safety requirements
+for the person actually
+
+45
+00:02:14,132 --> 00:02:16,970
+using it and then for
+people around that machine.
+
+46
+00:02:17,510 --> 00:02:20,230
+So that's a type of requirement as well.
+
+47
+00:02:20,590 --> 00:02:22,970
+Requirements related to security as well.
+
+48
+00:02:23,550 --> 00:02:26,890
+And what are all the security
+requirements, protection from security
+
+49
+00:02:26,891 --> 00:02:30,390
+risk, confidentiality of information,
+right?
+
+50
+00:02:30,770 --> 00:02:32,944
+If you're delivering a
+system, an IT system,
+
+51
+00:02:32,945 --> 00:02:35,364
+well, when is it going to be available?
+
+52
+00:02:35,590 --> 00:02:37,447
+What happens if that system goes down?
+
+53
+00:02:37,530 --> 00:02:39,830
+How quickly does it need to be restored?
+
+54
+00:02:40,490 --> 00:02:43,672
+What's the continuity
+of this system, right, in
+
+55
+00:02:43,673 --> 00:02:46,544
+case of disaster recovery
+and so on and so forth?
+
+56
+00:02:46,950 --> 00:02:50,030
+So these would all be things like
+non-functional requirements.
+
+57
+00:02:50,830 --> 00:02:54,557
+And plus you've got things
+like transition requirements,
+
+58
+00:02:54,558 --> 00:02:58,790
+transitioning from the current
+system to deployment to go live.
+
+59
+00:02:59,430 --> 00:03:01,430
+What are the requirements for that?
+
+60
+00:03:01,930 --> 00:03:04,610
+You have the old system that needs to be
+sunset.
+
+61
+00:03:05,210 --> 00:03:08,210
+Now you've got the new system that's going
+to be taking over.
+
+62
+00:03:08,350 --> 00:03:10,587
+So what's the transition requirements for
+that?
+
+63
+00:03:10,670 --> 00:03:12,970
+We've also got requirements related to
+quality.
+
+64
+00:03:13,070 --> 00:03:17,764
+That is a very important set of requirements,
+very, very vital set of requirements.
+
+65
+00:03:18,030 --> 00:03:22,110
+There's a completely separate section in
+quality and on quality management.
+
+66
+00:03:22,630 --> 00:03:26,810
+But what are the quality requirements for
+this project?
+
+67
+00:03:26,910 --> 00:03:28,650
+and for this product.
+
+68
+00:03:29,110 --> 00:03:30,990
+Are we meeting ISO standards?
+
+69
+00:03:31,370 --> 00:03:33,650
+Are we meeting Six Sigma standards?
+
+70
+00:03:34,110 --> 00:03:35,347
+What are the requirements for that?
+
+71
+00:03:35,430 --> 00:03:37,150
+Plus regulatory requirements?
+
+72
+00:03:37,890 --> 00:03:40,840
+Just think of something simple when you're
+building a house.
+
+73
+00:03:41,010 --> 00:03:42,720
+You're not just slapping pieces of wood
+
+74
+00:03:42,721 --> 00:03:44,850
+together and bricks
+together to build a house.
+
+75
+00:03:45,190 --> 00:03:48,270
+The house has to meet building codes.
+
+76
+00:03:48,950 --> 00:03:53,210
+There are building standards, building
+codes for everything related to the house,
+
+77
+00:03:53,350 --> 00:03:56,810
+plumbing, electric and the furnace and so
+on and so forth.
+
+78
+00:03:56,910 --> 00:04:03,010
+and also foundations and everything has to
+meet a certain building code requirement.
+
+79
+00:04:03,310 --> 00:04:05,187
+So what are the requirements for that?
+
+80
+00:04:05,270 --> 00:04:06,670
+What are the building codes?
+
+81
+00:04:07,130 --> 00:04:09,150
+Those are separate requirements as well.
+
+82
+00:04:09,890 --> 00:04:12,730
+So there are many, many types of
+requirements.
+
+83
+00:04:13,830 --> 00:04:16,830
+And so those are all documented in the
+requirements document.
+
+84
+00:04:17,750 --> 00:04:20,427
+And again, like I said,
+there's not just going to be one
+
+85
+00:04:20,428 --> 00:04:23,510
+or not necessarily going to
+be one requirement document.
+
+86
+00:04:23,770 --> 00:04:25,870
+There might be many requirement documents.
+
+87
+00:04:26,650 --> 00:04:29,150
+based on all these different types of
+requirements.
+
+88
+00:04:29,710 --> 00:04:32,260
+So these are just a handful that I
+mentioned, right?
+
+89
+00:04:32,430 --> 00:04:35,286
+Based on the industry, there may
+be many, many more requirements
+
+90
+00:04:35,369 --> 00:04:38,550
+as well or many, many more
+different types of requirements.
+
+91
+00:04:39,330 --> 00:04:43,130
+Now, the other important artifact is this
+one called the traceability matrix,
+
+92
+00:04:43,670 --> 00:04:45,320
+requirements traceability matrix.
+
+93
+00:04:45,830 --> 00:04:48,927
+And what are requirements traceability
+matrix is, it's just basically a grid.
+
+94
+00:04:49,010 --> 00:04:50,867
+It's usually nothing more than a
+spreadsheet.
+
+95
+00:04:50,950 --> 00:04:55,370
+And it's making sure, again, that we are
+doing all the work necessary and only the
+
+96
+00:04:55,371 --> 00:04:59,310
+work necessary to deliver the product,
+right?
+
+97
+00:05:00,410 --> 00:05:02,360
+So we're not doing anything additional.
+
+98
+00:05:02,910 --> 00:05:08,030
+And basically what it's doing is every
+activity is time back to a requirement and
+
+99
+00:05:08,031 --> 00:05:10,481
+every requirement is time back to a
+business need.
+
+100
+00:05:10,790 --> 00:05:16,070
+So if we have an activity that's planned
+and it's not time back to a requirement,
+
+101
+00:05:16,650 --> 00:05:20,870
+then the question is, why do we have this
+activity, right?
+
+102
+00:05:21,130 --> 00:05:24,130
+That might identify some scope creep or
+gold plating or something.
+
+103
+00:05:24,150 --> 00:05:25,850
+something going on.
+
+104
+00:05:26,430 --> 00:05:30,085
+It's also making sure then
+we have our requirements,
+
+105
+00:05:30,086 --> 00:05:33,091
+we have enough activities
+to meet those requirements.
+
+106
+00:05:33,850 --> 00:05:36,870
+Do we have enough activities to meet those
+requirements?
+
+107
+00:05:37,730 --> 00:05:40,757
+Enough configuration
+activities or enough testing
+
+108
+00:05:40,758 --> 00:05:44,430
+activities, right, enough
+construction activities, right?
+
+109
+00:05:44,450 --> 00:05:48,310
+Whatever activities need to be done in
+order to fulfill this requirement,
+
+110
+00:05:48,890 --> 00:05:49,790
+do we have enough?
+
+111
+00:05:50,170 --> 00:05:50,690
+Right.
+
+112
+00:05:50,910 --> 00:05:54,210
+So that is what the traceability matrix is
+going to be documenting.
+
+113
+00:05:54,730 --> 00:05:58,930
+So it's basically document, as I said,
+it's just a grid, right?
+
+114
+00:05:59,050 --> 00:06:01,730
+It's just basically a spreadsheet,
+trace the requirements and the
+
+115
+00:06:01,731 --> 00:06:04,670
+deliverables back to the objective and the
+business need.
+
+116
+00:06:05,150 --> 00:06:07,950
+Do we have enough requirements to meet the
+business need?
+
+117
+00:06:08,470 --> 00:06:10,927
+And do we have enough activities to meet
+the requirements?
+
+118
+00:06:11,010 --> 00:06:14,510
+If we've got additional activities,
+that's not meeting the requirement,
+
+119
+00:06:14,690 --> 00:06:18,310
+I might expose some scope, creep,
+goal plating, something going on.
+
+120
+00:06:18,810 --> 00:06:23,070
+We use this also to develop test
+strategies and test scenarios.
+
+121
+00:06:23,071 --> 00:06:27,350
+we will often use that to develop test
+scenarios because we want to make sure we
+
+122
+00:06:27,351 --> 00:06:31,030
+have enough activities to meet the
+requirements.
+
+123
+00:06:31,510 --> 00:06:33,867
+Some of those activities are going to
+involve testing.
+
+124
+00:06:33,950 --> 00:06:37,090
+We have enough testing activities to meet
+those requirements.
+
+125
+00:06:37,850 --> 00:06:40,900
+And so it's also making sure that
+requirements are not missed.
+
+126
+00:06:41,330 --> 00:06:42,680
+We have these requirements.
+
+127
+00:06:43,350 --> 00:06:46,130
+Do we have enough activities to meet these
+requirements?
+
+128
+00:06:46,530 --> 00:06:49,610
+Making sure then the customer's needs
+being fulfilled.
+
+129
+00:06:49,750 --> 00:06:52,207
+Make sure we're delivering what the
+customer wants.
+
+130
+00:06:52,290 --> 00:06:56,450
+We are delivering what is required of the
+project.
+
+131
+00:06:57,290 --> 00:07:00,110
+And making sure then deliverables are
+being tested.
+
+132
+00:07:01,310 --> 00:07:05,750
+So that's the purpose then of the
+traceability matrix.
+
+133
+00:07:05,990 --> 00:07:09,238
+So these are two very
+important artifacts and
+
+134
+00:07:09,239 --> 00:07:12,384
+they're considered
+outputs of the requirements.
+
+135
+00:07:13,330 --> 00:07:16,910
+And so again, these are two very important
+artifacts, right?
+
+136
+00:07:17,210 --> 00:07:20,750
+The requirements documentation and
+requirements traceability matrix,
+
+137
+00:07:21,350 --> 00:07:25,030
+and both of these are outputs of the
+collect requirements process.
+
