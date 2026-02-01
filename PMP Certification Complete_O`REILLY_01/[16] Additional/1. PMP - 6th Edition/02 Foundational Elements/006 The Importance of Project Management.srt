@@ -1,0 +1,570 @@
+﻿1
+00:00:14,170 --> 00:00:18,030
+1.2, the importance of project management.
+
+2
+00:00:18,850 --> 00:00:21,801
+The BIMBOC guide defines
+project management, and
+
+3
+00:00:21,802 --> 00:00:24,870
+it's important to remember
+this definition as well.
+
+4
+00:00:25,950 --> 00:00:31,370
+Project management is the application of
+knowledge, skills, tools and techniques to
+
+5
+00:00:31,371 --> 00:00:34,570
+project activities to meet the project
+requirements.
+
+6
+00:00:35,770 --> 00:00:40,650
+Project management is accomplished through
+the appropriate application and
+
+7
+00:00:40,651 --> 00:00:44,130
+integration of the project management
+processes.
+
+8
+00:00:44,170 --> 00:00:45,790
+identifying for the project.
+
+9
+00:00:46,690 --> 00:00:49,551
+Project management
+enables organisations to
+
+10
+00:00:49,552 --> 00:00:52,524
+execute projects
+effectively and efficiently.
+
+11
+00:00:53,010 --> 00:00:53,910
+Stop for a moment.
+
+12
+00:00:54,770 --> 00:00:56,370
+Did you notice what I just said?
+
+13
+00:00:57,430 --> 00:01:00,646
+Project management
+enables organisations to
+
+14
+00:01:00,647 --> 00:01:03,824
+execute projects
+effectively and efficiently.
+
+15
+00:01:04,390 --> 00:01:08,950
+Does that mean the projects can be
+completed without project management?
+
+16
+00:01:09,690 --> 00:01:11,770
+Yes, that's exactly what it means.
+
+17
+00:01:12,310 --> 00:01:13,260
+Is that a surprise.
+
+18
+00:01:14,150 --> 00:01:16,773
+Many of the tools and
+techniques for project
+
+19
+00:01:16,774 --> 00:01:19,550
+management were
+developed in the last century.
+
+20
+00:01:20,110 --> 00:01:25,030
+For example, the Gant chart, which is the
+basis of a project schedule, was developed
+
+21
+00:01:25,031 --> 00:01:30,490
+in 1917 by Henry Grant and used in
+building ships for the First World War.
+
+22
+00:01:31,570 --> 00:01:38,910
+Computerised project scheduling was first
+used in 1957 for the DuPont Organization
+
+23
+00:01:38,911 --> 00:01:45,190
+for decommissioning obsolete factories And
+PDM, the precedence diagramming method,
+
+24
+00:01:45,810 --> 00:01:51,730
+also known as Activity on Node,
+was invented in the 1960s by John Fondale,
+
+25
+00:01:52,330 --> 00:01:57,944
+as a hand-drawn alternative to the
+Activity on Arrow method used by computers.
+
+26
+00:01:58,310 --> 00:02:03,650
+Ironically, modern scheduling software is
+based on John Fondale's hand-drawn
+
+27
+00:02:03,651 --> 00:02:07,099
+precedent diagramming
+method rather than the Activity
+
+28
+00:02:07,100 --> 00:02:10,130
+on Arrow method, which is
+originally used by computers.
+
+29
+00:02:11,210 --> 00:02:17,430
+The Critical Path was foreshadowed in the
+1950s by the US Navy in Critical Chain,
+
+30
+00:02:17,850 --> 00:02:22,850
+but then developed by John Fondow and
+others into the Critical Path method.
+
+31
+00:02:23,550 --> 00:02:29,670
+John Fondale also helped to fund the
+Project Management Institute in 1969,
+
+32
+00:02:30,190 --> 00:02:32,690
+and he later served as its president and
+chairman.
+
+33
+00:02:33,610 --> 00:02:39,890
+Possibly the oldest project management
+technique has its roots in the second half
+
+34
+00:02:39,891 --> 00:02:48,290
+of the 17th century when Blaise Pascal and
+Pierre de Format developed probability
+
+35
+00:02:48,291 --> 00:02:52,164
+theory which led to
+considerable improvements
+
+36
+00:02:52,165 --> 00:02:55,161
+in calculating premiums
+for shipping insurance.
+
+37
+00:02:56,070 --> 00:03:00,390
+Actual risk management was probably
+developed in the first half of the 20th
+
+38
+00:03:00,391 --> 00:03:06,045
+century and then in 1956 Russell
+Gallagher introduced the term
+
+39
+00:03:06,046 --> 00:03:10,250
+risk management in the whole
+Harvard Business Review Volume 34.
+
+40
+00:03:10,870 --> 00:03:13,296
+But the point I'm trying to
+make is that all of the main
+
+41
+00:03:13,297 --> 00:03:16,350
+tools and techniques of project
+management are quite recent.
+
+42
+00:03:17,050 --> 00:03:20,810
+Now let's think about the
+building of the pyramids
+
+43
+00:03:20,811 --> 00:03:24,030
+and that's often stated
+as one of the first projects.
+
+44
+00:03:24,970 --> 00:03:31,484
+Each one is a very large temporary endeavor
+that was created as a unique product.
+
+45
+00:03:31,710 --> 00:03:36,930
+This means that by definition the creation
+of each pyramid passes a test for a
+
+46
+00:03:36,931 --> 00:03:42,490
+project because if you remember the
+pyramids were built for the death of a
+
+47
+00:03:42,491 --> 00:03:47,610
+pharaoh before the pharaoh was actually
+dead usually and so that means it would be
+
+48
+00:03:47,611 --> 00:03:52,250
+working on quite a tight time scale and so
+it wasn't considered an operation actually
+
+49
+00:03:52,251 --> 00:03:56,550
+one of the things that really surprised me
+was i always thought that pyramids had
+
+50
+00:03:56,551 --> 00:04:01,350
+been built by teams of slaves because
+that's what we learned in high school but
+
+51
+00:04:01,351 --> 00:04:07,530
+what was later discovered was that in
+Egypt they had a type of national service
+
+52
+00:04:07,531 --> 00:04:13,310
+where everyone, when they were late
+teenagers, they would serve a couple of
+
+53
+00:04:13,311 --> 00:04:15,698
+years of national service
+which would include
+
+54
+00:04:15,699 --> 00:04:18,544
+all of the skills for
+building the pyramids.
+
+55
+00:04:18,630 --> 00:04:23,770
+Okay, so back to the pyramids,
+we know that they're now a project,
+
+56
+00:04:24,890 --> 00:04:29,650
+but they did not have the tools and
+techniques of project management.
+
+57
+00:04:30,050 --> 00:04:34,230
+So then they feel the test for being
+managed by project management.
+
+58
+00:04:34,250 --> 00:04:39,350
+and so this proves the projects can be
+completed without project management.
+
+59
+00:04:40,090 --> 00:04:45,030
+The PIMBOC guide says that effective
+project management helps individuals,
+
+60
+00:04:45,310 --> 00:04:50,210
+groups and public and private
+organisations to meet business objectives,
+
+61
+00:04:51,210 --> 00:04:57,630
+to satisfy stakeholder expectations,
+be more predictable, increase chances of
+
+62
+00:04:57,631 --> 00:05:04,350
+success, deliver the right products at the
+right time, resolve problems and issues,
+
+63
+00:05:05,310 --> 00:05:11,070
+respond to risks in a timely manner,
+optimise use of organisational resources,
+
+64
+00:05:11,930 --> 00:05:18,590
+identify, recover or terminate failing
+projects, manage constraints, for example,
+
+65
+00:05:19,010 --> 00:05:24,670
+scope, quality, schedule, costs and
+resources, balance the influence of
+
+66
+00:05:24,671 --> 00:05:29,670
+constraints on a project, example,
+increase scope may increase cost or
+
+67
+00:05:29,671 --> 00:05:34,130
+schedule and manage change in a better
+manner.
+
+68
+00:05:34,630 --> 00:05:38,550
+When you come to the examination,
+you'll find there's 200 questions.
+
+69
+00:05:38,730 --> 00:05:43,150
+All of the questions are multiple choice
+and you're choosing from four answers.
+
+70
+00:05:43,810 --> 00:05:50,890
+And you will find there could be a
+question which will ask something like how
+
+71
+00:05:50,891 --> 00:05:53,930
+does project management help an
+organisation.
+
+72
+00:05:54,470 --> 00:05:59,890
+And it will be a list of several from the
+list which I've just read.
+
+73
+00:05:59,910 --> 00:06:01,910
+will be the correct answer.
+
+74
+00:06:03,210 --> 00:06:07,170
+The PIMBOC guide goes on to say that
+poorly managed projects or the absence of
+
+75
+00:06:07,171 --> 00:06:13,450
+project management may result in missed
+deadlines, cost overruns, per quality,
+
+76
+00:06:14,510 --> 00:06:19,650
+rework, uncontrolled expansion of the
+project, loss of reputation for the
+
+77
+00:06:19,651 --> 00:06:27,330
+organisation, unsatisfied stakeholders,
+and failure in achieving the objectives
+
+78
+00:06:27,331 --> 00:06:31,710
+for which the project was undertaken,
+Again, there could be a question in the
+
+79
+00:06:31,711 --> 00:06:39,210
+examination for examples of how the
+absence of project management can harm an
+
+80
+00:06:39,211 --> 00:06:41,661
+organisation and they'll be chosen from
+that list.
+
+81
+00:06:42,010 --> 00:06:46,484
+The PINBock guide makes
+an important point that projects
+
+82
+00:06:46,485 --> 00:06:50,790
+are a key way to create value
+and benefits in organisations.
+
+83
+00:06:51,450 --> 00:06:54,073
+Yet strangely the definition
+of a project and the
+
+84
+00:06:54,074 --> 00:06:58,970
+definition of project management
+do not mention benefits.
+
+85
+00:06:58,971 --> 00:07:02,621
+See, if you're familiar with Prince 2,
+this might seem a bit strange here.
+
+86
+00:07:03,650 --> 00:07:07,990
+With each person here, organisations are
+called upon to do more or less.
+
+87
+00:07:08,490 --> 00:07:10,830
+And I'm sure you're probably in that
+situation.
+
+88
+00:07:11,790 --> 00:07:13,990
+They have to become ever more efficient.
+
+89
+00:07:14,330 --> 00:07:19,510
+They need to reduce costs and delivery
+times, but without reducing quality.
+
+90
+00:07:20,010 --> 00:07:23,370
+And that's why on the news
+we see so much interest in
+
+91
+00:07:23,371 --> 00:07:27,610
+machine learning, artificial
+intelligence and robots.
+
+92
+00:07:27,611 --> 00:07:32,410
+The robots can either be the type of
+mechanical robots that build cars or they
+
+93
+00:07:32,411 --> 00:07:36,033
+could be the software
+type robots which can enter
+
+94
+00:07:36,034 --> 00:07:38,901
+thousands of invoices in
+10 seconds or something.
+
+95
+00:07:39,430 --> 00:07:44,150
+These are all examples of trying to do
+more with less.
+
+96
+00:07:44,770 --> 00:07:47,840
+And the only way that they
+can succeed is by ensuring
+
+97
+00:07:47,841 --> 00:07:51,770
+that projects are managed
+using robust project management.
+
+98
+00:07:52,190 --> 00:07:55,028
+Otherwise, they will be a drain on the
+
+99
+00:07:55,029 --> 00:07:57,590
+resources instead of
+adding to their effects.
+
+100
+00:07:57,610 --> 00:08:00,964
+And going forward, I can see more and more
+
+101
+00:08:00,965 --> 00:08:04,490
+organisations adapting
+agile methods of delivery.
+
+102
+00:08:04,930 --> 00:08:07,745
+And you can see that the
+PIMBOC guide 6 edition has
+
+103
+00:08:07,746 --> 00:08:10,770
+introduced a lot of
+information on agile methods.
+
+104
+00:08:11,250 --> 00:08:14,510
+Now, there won't be a lot of us asked on
+the examination.
+
+105
+00:08:15,210 --> 00:08:20,370
+It'll be quite a high level, but still
+it's coming into the PIMBOC, and not only
+
+106
+00:08:20,371 --> 00:08:27,110
+that whenever you buy the PIMBOC guide,
+or if you're a member of PMI, you can
+
+107
+00:08:27,111 --> 00:08:33,210
+download electronic version of the PIMBOC
+guide free of charge it also comes with
+
+108
+00:08:33,211 --> 00:08:40,230
+the book on PMI Agile Methods and that
+brings us to the end of the importance of
+
+109
+00:08:40,231 --> 00:08:44,930
+project management please remember to
+learn the definition of project management
+
+110
+00:08:44,931 --> 00:08:50,590
+for the exam and also refresh your memory
+on the list of advantages of project
+
+111
+00:08:50,591 --> 00:08:54,212
+management and the
+disadvantages of not having project
+
+112
+00:08:54,213 --> 00:08:57,630
+management in case you get
+an examination question that too.
+
+113
+00:08:58,130 --> 00:09:02,342
+The next lesson is 1.3
+relationship between project,
+
+114
+00:09:02,343 --> 00:09:05,191
+programme, portfolio and
+operations management.
+
+115
+00:09:05,690 --> 00:09:09,530
+Please read the corresponding chapter in
+the PIMBOC guide before watching the video
+
+116
+00:09:09,531 --> 00:09:12,381
+so that you can have a good relationship
+with this course.
+

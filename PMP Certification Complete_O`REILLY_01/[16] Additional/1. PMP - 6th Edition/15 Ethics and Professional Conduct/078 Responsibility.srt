@@ -1,0 +1,465 @@
+﻿1
+00:00:13,980 --> 00:00:19,820
+14.1 responsibility and this is the first
+of our four codes.
+
+2
+00:00:20,520 --> 00:00:25,140
+You will find this in chapter 2 of the
+code of ethics and professional conduct
+
+3
+00:00:25,141 --> 00:00:31,720
+and just a reminder this is not in the pin
+box although it is examinable it's on a
+
+4
+00:00:31,721 --> 00:00:35,720
+separate document which you can download
+from the PMI site free of charge.
+
+5
+00:00:36,840 --> 00:00:42,140
+Responsibility section 1 description of
+responsibility Responsibility is our duty
+
+6
+00:00:42,141 --> 00:00:47,500
+to take ownership for the decisions we
+make or fail to make, the actions we take
+
+7
+00:00:47,501 --> 00:00:51,180
+or fail to take and the consequences that
+result.
+
+8
+00:00:51,940 --> 00:00:55,920
+Section 2 Responsibility, Aspirational
+standards.
+
+9
+00:00:56,940 --> 00:01:01,600
+As practitioners in the global project
+management community, you will see the
+
+10
+00:01:01,601 --> 00:01:04,900
+word practitioners is underlined in the
+code.
+
+11
+00:01:05,320 --> 00:01:07,740
+That means the word is defined in the
+glossary.
+
+12
+00:01:08,520 --> 00:01:12,940
+Aspirational standard number one,
+we make decisions and take actions based
+
+13
+00:01:12,941 --> 00:01:17,360
+on the best interests of society,
+public safety and the environment.
+
+14
+00:01:18,260 --> 00:01:23,200
+Number two, we accept only those
+assignments that are consistent with our
+
+15
+00:01:23,201 --> 00:01:26,860
+background, experience, skills and
+qualifications.
+
+16
+00:01:27,700 --> 00:01:32,574
+Consider the case where you are a contractor
+and you've been offered a project.
+
+17
+00:01:32,680 --> 00:01:37,280
+It sounds interesting and you'll be well
+paid for it and you don't actually have
+
+18
+00:01:37,281 --> 00:01:40,900
+any other work currently so this is going
+to be a good match.
+
+19
+00:01:41,060 --> 00:01:44,556
+But as you read the
+business case, you realize
+
+20
+00:01:44,557 --> 00:01:48,040
+it's outside your
+experience in some areas.
+
+21
+00:01:48,680 --> 00:01:54,720
+You are thinking that you need work,
+you obviously need the money, and perhaps
+
+22
+00:01:54,721 --> 00:01:58,293
+you might be able to
+learn those extra skills
+
+23
+00:01:58,294 --> 00:02:01,280
+somehow or perhaps
+even hire someone to help.
+
+24
+00:02:01,980 --> 00:02:06,820
+But the aspirational standard says you
+need to be honest about your abilities and
+
+25
+00:02:06,821 --> 00:02:09,736
+tell your prospective
+employers about the gap in
+
+26
+00:02:09,737 --> 00:02:12,720
+your abilities and then it
+becomes their decision.
+
+27
+00:02:13,460 --> 00:02:16,205
+whether or not they
+still want you to proceed,
+
+28
+00:02:16,206 --> 00:02:19,020
+you have fulfilled the
+aspirational standard.
+
+29
+00:02:19,720 --> 00:02:24,420
+If you are an employee rather than a
+contractor and your boss offers you a
+
+30
+00:02:24,421 --> 00:02:28,680
+contract that you don't believe you have
+the skills or experience for, again,
+
+31
+00:02:29,000 --> 00:02:33,000
+you just have to be honest with your boss
+and then it's up to the boss to decide,
+
+32
+00:02:33,220 --> 00:02:37,220
+maybe the boss will say, yep, that's fine,
+I will see that you get that extra
+
+33
+00:02:37,221 --> 00:02:40,629
+training that you need, or I'll
+put somebody on the team to
+
+34
+00:02:40,630 --> 00:02:45,060
+help you with that particular
+area where you need more help.
+
+35
+00:02:46,000 --> 00:02:49,046
+Aspirational standard
+number three, we fulfil the
+
+36
+00:02:49,047 --> 00:02:53,960
+commitments that we undertake,
+we do what we say we will do.
+
+37
+00:02:54,280 --> 00:02:57,790
+Number four, when we
+make errors or omissions,
+
+38
+00:02:57,791 --> 00:03:01,000
+we take ownership and
+make corrections promptly.
+
+39
+00:03:01,820 --> 00:03:07,100
+When we discover errors or omissions
+caused by others, we communicate them to
+
+40
+00:03:07,101 --> 00:03:09,940
+the appropriate body as soon as they are
+discovered.
+
+41
+00:03:09,941 --> 00:03:13,964
+We accept accountability
+for any issues resulting from
+
+42
+00:03:13,965 --> 00:03:18,320
+our errors or omissions or
+any resulting consequences.
+
+43
+00:03:18,520 --> 00:03:23,360
+And in this standard, we also have to
+watch out for poor quality work performed
+
+44
+00:03:23,361 --> 00:03:26,720
+by others and notify the appropriate
+people.
+
+45
+00:03:27,580 --> 00:03:34,220
+Now, what other thing about that standard
+is where it says that when we make errors
+
+46
+00:03:34,221 --> 00:03:39,100
+or omissions, we take ownership and make
+corrections promptly.
+
+47
+00:03:39,940 --> 00:03:46,680
+I'll just put up a warning flag there that
+on a project if something has gone wrong
+
+48
+00:03:46,681 --> 00:03:53,040
+something needs fixing you can't just fix
+it everything has to go through the
+
+49
+00:03:53,041 --> 00:03:57,780
+integrated change control system so you
+can't change something what you have to do
+
+50
+00:03:57,781 --> 00:04:06,860
+is raise a change control request okay so
+on to number five we protect proprietary
+
+51
+00:04:06,861 --> 00:04:12,200
+or confidential information that has been
+entrusted to us Number six, we uphold this
+
+52
+00:04:12,201 --> 00:04:15,320
+code and hold each other accountable to
+it.
+
+53
+00:04:15,700 --> 00:04:18,343
+And again, the code clearly says that we
+
+54
+00:04:18,344 --> 00:04:21,914
+can't ignore unethical
+behaviour by others.
+
+55
+00:04:22,460 --> 00:04:24,820
+Responsibility, mandatory standards.
+
+56
+00:04:25,660 --> 00:04:30,400
+As practitioners in the global project
+management community, we require the
+
+57
+00:04:30,401 --> 00:04:33,580
+following of ourselves and our fellow
+practitioners.
+
+58
+00:04:34,300 --> 00:04:36,540
+Regulations and legal requirements.
+
+59
+00:04:37,200 --> 00:04:39,920
+Number one, we inform ourselves and uphold
+the policy.
+
+60
+00:04:39,921 --> 00:04:43,204
+policies, rules, regulations
+and laws that govern
+
+61
+00:04:43,205 --> 00:04:45,920
+our work, professional
+and volunteer activities.
+
+62
+00:04:46,740 --> 00:04:46,980
+2.
+
+63
+00:04:47,580 --> 00:04:50,857
+We report unethical or
+illegal conduct to appropriate
+
+64
+00:04:50,858 --> 00:04:55,000
+management and if necessary
+to those affected by the conduct.
+
+65
+00:04:55,980 --> 00:04:59,828
+Did you notice that it said
+we report to management
+
+66
+00:04:59,829 --> 00:05:03,240
+and if necessary to those
+affected by the contact?
+
+67
+00:05:03,540 --> 00:05:09,060
+There is nowhere that it says that we have
+to approach the unethical person.
+
+68
+00:05:10,140 --> 00:05:16,580
+You can read the notes on the mandatory
+standards for responsibility yourself,
+
+69
+00:05:16,720 --> 00:05:22,400
+but basically it says we don't do anything
+it's illegal, including plagiarism or IP
+
+70
+00:05:22,401 --> 00:05:27,780
+theft, and we don't condone illegal
+behaviour in others, nor do we do anything
+
+71
+00:05:27,781 --> 00:05:31,312
+to assist them in their
+illegal behaviour, and
+
+72
+00:05:31,313 --> 00:05:34,720
+we must report any
+illegal or unethical conduct.
+
+73
+00:05:34,721 --> 00:05:36,580
+Ethics complaints.
+
+74
+00:05:37,700 --> 00:05:39,975
+We bring violations of this code to the
+
+75
+00:05:39,976 --> 00:05:43,234
+attention of the appropriate
+body for resolution.
+
+76
+00:05:43,540 --> 00:05:48,280
+We only file ethics complaints when they
+are substantiated by facts.
+
+77
+00:05:48,700 --> 00:05:52,526
+In other words, we don't
+report people if we've just heard
+
+78
+00:05:52,527 --> 00:05:55,531
+rumours about it or we suspect
+something has gone wrong.
+
+79
+00:05:55,840 --> 00:05:58,540
+We need hard documented proof.
+
+80
+00:05:58,900 --> 00:06:04,600
+We cooperate with PMI concerning ethics
+violations in a collection of related
+
+81
+00:06:04,720 --> 00:06:10,320
+information whether we are a complainant
+or a respondent.
+
+82
+00:06:10,340 --> 00:06:14,055
+We also abstain from
+accusing others of unethical
+
+83
+00:06:14,056 --> 00:06:17,314
+conduct when we do not have all the facts.
+
+84
+00:06:17,660 --> 00:06:22,057
+Further, we pursue disciplinary
+reaction against individuals
+
+85
+00:06:22,058 --> 00:06:26,080
+who knowingly make false
+allegations against others.
+
+86
+00:06:26,300 --> 00:06:30,735
+We pursue disciplinary
+reaction against an individual who
+
+87
+00:06:30,736 --> 00:06:35,180
+retaliates against the person
+raising his issues concerns.
+
+88
+00:06:35,620 --> 00:06:40,200
+So if someone's a whistleblower and you
+find that someone is attacking him,
+
+89
+00:06:40,560 --> 00:06:42,660
+you've got to stand by that whistleblower.
+
+90
+00:06:42,840 --> 00:06:45,999
+As long as that person has
+got hard documented evidence
+
+91
+00:06:46,000 --> 00:06:49,700
+and they're not just working
+on rumour and innuendo.
+
+92
+00:06:50,200 --> 00:06:53,160
+That brings us to the end of 14.1
+responsibility.
+
+93
+00:06:53,800 --> 00:06:55,740
+Next lesson is 14.2 respect.
+
+94
+00:06:56,280 --> 00:06:59,312
+Please read the corresponding
+section of the Code of
+
+95
+00:06:59,313 --> 00:07:02,480
+Ethics and Proversional
+Conduct before watching the video.
+

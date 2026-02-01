@@ -1,0 +1,384 @@
+﻿1
+00:00:14,170 --> 00:00:16,630
+1.5 tailoring.
+
+2
+00:00:17,270 --> 00:00:22,370
+Previously we have covered the importance
+of projects and project management tools
+
+3
+00:00:22,371 --> 00:00:26,730
+and techniques in delivering benefits to
+the organisation and keeping the
+
+4
+00:00:26,731 --> 00:00:32,390
+organisation up to date, compliant with
+legislation and efficient and competitive.
+
+5
+00:00:33,190 --> 00:00:36,503
+But there is something
+else needed too, and
+
+6
+00:00:36,504 --> 00:00:39,770
+that is a robust project
+management methodology.
+
+7
+00:00:39,771 --> 00:00:45,045
+It may come as a surprise to
+many of you and as a shock to
+
+8
+00:00:45,046 --> 00:00:50,570
+others that the PIMBOR guide
+is not a project methodology.
+
+9
+00:00:51,290 --> 00:00:53,090
+But how can this be you say?
+
+10
+00:00:53,570 --> 00:00:55,290
+What kind of heresy is this?
+
+11
+00:00:55,870 --> 00:00:56,703
+It's true.
+
+12
+00:00:56,830 --> 00:01:00,610
+The PIMBOR guide is not a project
+methodology.
+
+13
+00:01:01,710 --> 00:01:05,656
+In fact, I have been interviewed
+for jobs before and have
+
+14
+00:01:05,657 --> 00:01:09,750
+asked me what sort of project
+management methodologies I use.
+
+15
+00:01:09,770 --> 00:01:14,310
+and I say I use Prince too and they say do
+you do any others?
+
+16
+00:01:14,470 --> 00:01:21,610
+I said yes I do PIMBOC great we use PIMBEC
+methodology here but as it said PIMBOC
+
+17
+00:01:21,611 --> 00:01:27,290
+guide is not a project management
+methodology can I prove it easy the PIMBOC
+
+18
+00:01:27,291 --> 00:01:33,730
+guide itself says on page 28 usually
+project managers apply a project
+
+19
+00:01:33,731 --> 00:01:39,130
+management methodology to their work a
+methodology is a system of practices
+
+20
+00:01:39,131 --> 00:01:45,250
+techniques, procedures and rules used by
+those who work in a discipline.
+
+21
+00:01:45,710 --> 00:01:52,010
+This definition makes it clear that the
+guide itself is not a methodology.
+
+22
+00:01:53,270 --> 00:01:58,110
+So the PIMBOC guide has just said that
+it's not a methodology.
+
+23
+00:01:58,730 --> 00:02:04,950
+You will find that wherever you go to
+manage projects, you can't just open the
+
+24
+00:02:04,951 --> 00:02:09,110
+PIMBock guide and use it as a series of
+steps to direct you.
+
+25
+00:02:09,130 --> 00:02:14,034
+or to set up authorities or
+to find phases or stages and
+
+26
+00:02:14,035 --> 00:02:17,510
+so on, you always need
+something else in methodology.
+
+27
+00:02:18,370 --> 00:02:20,922
+Project management methodologies may be
+
+28
+00:02:20,923 --> 00:02:23,904
+developed by experts
+within the organisation.
+
+29
+00:02:24,590 --> 00:02:29,322
+They can be purchased from
+vendors, obtain from professional
+
+30
+00:02:29,323 --> 00:02:32,210
+associations or acquired
+from government agencies.
+
+31
+00:02:33,150 --> 00:02:36,684
+Most organisations and
+project managers they devise
+
+32
+00:02:36,685 --> 00:02:39,110
+their own methodology
+to work with the binbox.
+
+33
+00:02:39,111 --> 00:02:41,130
+guide or else they purchase one.
+
+34
+00:02:42,130 --> 00:02:46,730
+Now I've developed many myself over the
+years but I found one that works
+
+35
+00:02:46,731 --> 00:02:53,370
+particularly well with the pinball guide
+is Prince 2 and you know something that's
+
+36
+00:02:53,371 --> 00:02:56,350
+pretty good about Prince 2 is actually
+free.
+
+37
+00:02:56,610 --> 00:03:00,830
+You don't have to buy Prince 2 whereas if
+you look at some of these other
+
+38
+00:03:00,831 --> 00:03:04,318
+methodologies which are
+not as good as Prince 2
+
+39
+00:03:04,319 --> 00:03:07,690
+and they're asking a big
+fact fee just to use them.
+
+40
+00:03:08,170 --> 00:03:10,270
+You can develop your own as I've done.
+
+41
+00:03:10,690 --> 00:03:13,119
+They're not going to be
+anywhere near as good as
+
+42
+00:03:13,120 --> 00:03:16,090
+Prince 2 and they'll take
+a lot of time and effort.
+
+43
+00:03:16,770 --> 00:03:19,913
+You're much better off using
+something which has been
+
+44
+00:03:19,993 --> 00:03:23,670
+proven over many, many years
+to be a very robust framework.
+
+45
+00:03:24,530 --> 00:03:28,146
+But the thing about Prince
+2 is it does not go into
+
+46
+00:03:28,147 --> 00:03:31,430
+depth in all the necessary
+tools and techniques.
+
+47
+00:03:32,070 --> 00:03:38,630
+It's a framework, but the PIMBOC guide
+does go into all the depth needed and all
+
+48
+00:03:38,631 --> 00:03:41,750
+the necessary tools and techniques,
+but it's not a framework.
+
+49
+00:03:42,530 --> 00:03:46,028
+So once you pass a PNP
+exam, I would recommend
+
+50
+00:03:46,029 --> 00:03:48,991
+considering studying for
+a Princeton certification.
+
+51
+00:03:49,530 --> 00:03:50,790
+It just makes sense.
+
+52
+00:03:51,670 --> 00:03:54,139
+But you won't be asked
+questions about project
+
+53
+00:03:54,140 --> 00:03:56,870
+management methodologies on the PMP exam.
+
+54
+00:03:57,550 --> 00:04:04,250
+The project manager collaborates with the
+project team, sponsor, organizational
+
+55
+00:04:04,251 --> 00:04:09,370
+management to decide upon the appropriate
+project management processes, inputs,
+
+56
+00:04:09,730 --> 00:04:12,252
+tools, techniques, outputs and life cycle
+
+57
+00:04:12,253 --> 00:04:14,810
+phases to use in the
+management of a project.
+
+58
+00:04:15,210 --> 00:04:19,730
+Take them to consideration the project
+environment, the organizational culture,
+
+59
+00:04:20,350 --> 00:04:22,430
+the stakeholder needs and other factors.
+
+60
+00:04:23,230 --> 00:04:29,130
+This selection activity is known as
+tailoring project management to the project.
+
+61
+00:04:29,570 --> 00:04:35,010
+And if you're familiar with Prince 2 you
+will immediately realise that the
+
+62
+00:04:35,011 --> 00:04:43,410
+tailoring in PIMBOC is not really a lot to
+it not compared with the Prince 2.
+
+63
+00:04:43,590 --> 00:04:48,990
+And so it's a good chance you will see
+something on tailoring in the examination.
+
+64
+00:04:49,590 --> 00:04:54,450
+The PIMBOC guide says tailoring is
+necessary because each project is unique,
+
+65
+00:04:55,150 --> 00:04:59,990
+not every process tool, technique,
+input or output identified in the PIMBOC
+
+66
+00:04:59,991 --> 00:05:05,890
+guide is required for every project,
+tailoring should address the competing
+
+67
+00:05:05,891 --> 00:05:10,930
+constraints of scope, schedule,
+cost, resources, quality and risk.
+
+68
+00:05:11,670 --> 00:05:17,470
+In addition, consideration of whether the
+customer of the project is internal or
+
+69
+00:05:17,471 --> 00:05:21,930
+external to the organisation may affect
+project management tailoring decisions.
+
+70
+00:05:22,790 --> 00:05:27,950
+Some project management methodologies take
+into account the unique nature of project.
+
+71
+00:05:27,970 --> 00:05:32,170
+and allow tailoring to some extent by the
+project manager.
+
+72
+00:05:33,130 --> 00:05:36,992
+However, the tailoring that is
+included in the methodology
+
+73
+00:05:36,993 --> 00:05:41,710
+may still require additional
+tailoring for a given project.
+
+74
+00:05:42,230 --> 00:05:46,210
+And that brings us to the end of a very
+short section on tailoring.
+
+75
+00:05:46,690 --> 00:05:51,290
+The next lesson in the module is 1.6
+project management business documents.
+
+76
+00:05:51,610 --> 00:05:57,450
+Please read the corresponding chapter of
+the PIMBOC guide before watching the video
+
+77
+00:05:57,451 --> 00:06:05,370
+And as a spoiler, let me just say the
+project management business documents are
+
+78
+00:06:05,371 --> 00:06:08,510
+not the same as project management
+documents.
+
+79
+00:06:08,870 --> 00:06:11,170
+So hopefully that's got your interest up a
+bit.
+

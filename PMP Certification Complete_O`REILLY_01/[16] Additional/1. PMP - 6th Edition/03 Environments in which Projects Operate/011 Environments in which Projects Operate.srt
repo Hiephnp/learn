@@ -1,0 +1,142 @@
+﻿1
+00:00:10,330 --> 00:00:15,730
+Module 2.0 environments in which projects
+operate module overview.
+
+2
+00:00:16,350 --> 00:00:20,025
+In this module we will cover
+2.0 environments in which
+
+3
+00:00:20,026 --> 00:00:23,370
+projects operate module
+overview, which is this video.
+
+4
+00:00:24,010 --> 00:00:31,938
+2.1 Enterprise Environmental Factors,
+2.2 organizational process assets and 2.
+
+5
+00:00:31,939 --> 00:00:33,550
+3 organizational systems.
+
+6
+00:00:33,551 --> 00:00:40,490
+environments in which projects operate,
+the Pimbaughan says that projects exist
+
+7
+00:00:40,491 --> 00:00:44,470
+and operate in environments that may have
+an influence on them.
+
+8
+00:00:44,930 --> 00:00:50,910
+These influences can have a favourable or
+a non-favorable impact on the project.
+
+9
+00:00:51,750 --> 00:00:56,610
+Two major categories of influences are
+enterprise environmental factors,
+
+10
+00:00:57,090 --> 00:01:01,390
+EEFs and organisational process assets,
+OPS.
+
+11
+00:01:01,391 --> 00:01:08,230
+enterprise environmental factors originate
+from the environment outside the project
+
+12
+00:01:08,231 --> 00:01:15,150
+and despite the name enterprise they can
+often be from outside the enterprise as
+
+13
+00:01:15,151 --> 00:01:20,630
+well enterprise environmental factors may
+have an impact on the organization
+
+14
+00:01:20,631 --> 00:01:27,890
+portfolio program or project level
+organizational process assets are internal
+
+15
+00:01:27,891 --> 00:01:33,630
+to the organization These may arise from
+the organisation itself, a portfolio,
+
+16
+00:01:33,970 --> 00:01:37,390
+a programme, another project, or a
+combination of these.
+
+17
+00:01:38,250 --> 00:01:43,527
+Figure 2.1 shows the breakdown
+of project influences into
+
+18
+00:01:43,528 --> 00:01:48,750
+enterprise environmental factors
+and organisational process assets.
+
+19
+00:01:49,430 --> 00:01:54,870
+In addition to enterprise environmental
+factors and organisational process assets,
+
+20
+00:01:55,450 --> 00:01:58,970
+organisational systems play a significant
+role in the large.
+
+21
+00:01:58,990 --> 00:02:00,290
+lifecycle of the project.
+
+22
+00:02:00,950 --> 00:02:07,190
+System factors that impact the power,
+influence, interests, competencies and
+
+23
+00:02:07,191 --> 00:02:12,290
+political capabilities of the people to
+act within the organizational system are
+
+24
+00:02:12,291 --> 00:02:15,770
+discussed further in the section on
+organizational system.
+
+25
+00:02:15,850 --> 00:02:18,929
+And that brings us to
+the end of a very short
+
+26
+00:02:18,930 --> 00:02:22,250
+environment in which projects
+operate module overview.
+
+27
+00:02:22,630 --> 00:02:26,730
+The next lesson is 2.1 enterprise
+environmental factors.
+
+28
+00:02:27,050 --> 00:02:28,910
+Please read the corresponding chapter.
+
+29
+00:02:28,990 --> 00:02:31,550
+in the Pimbaugh guide before watching the
+video.
+

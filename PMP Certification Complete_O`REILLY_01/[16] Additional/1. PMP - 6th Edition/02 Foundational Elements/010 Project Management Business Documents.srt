@@ -1,0 +1,1136 @@
+﻿1
+00:00:14,170 --> 00:00:18,550
+1.6 project management business documents.
+
+2
+00:00:19,250 --> 00:00:26,390
+Now as I said in my spoiler alert from the
+previous lesson, project management
+
+3
+00:00:26,391 --> 00:00:30,530
+business documents are not the same as
+project management documents.
+
+4
+00:00:31,150 --> 00:00:33,600
+I don't know why they have the name is so
+similar.
+
+5
+00:00:33,970 --> 00:00:40,750
+On a project there are 33 project
+management documents but they're just two
+
+6
+00:00:40,751 --> 00:00:43,970
+business documents and they're not treated
+the same way.
+
+7
+00:00:43,971 --> 00:00:47,830
+So this is the project management business
+documents.
+
+8
+00:00:49,070 --> 00:00:52,295
+The project manager needs
+to ensure that the project
+
+9
+00:00:52,296 --> 00:00:56,890
+management approach captures
+the intent of business documents.
+
+10
+00:00:57,330 --> 00:00:59,167
+And that's the purpose of the documents.
+
+11
+00:00:59,250 --> 00:01:01,910
+And these documents are defined in Table
+15.
+
+12
+00:01:02,670 --> 00:01:08,950
+Pimbach Guide says these two documents are
+interdependent and iteratively developed
+
+13
+00:01:08,951 --> 00:01:11,470
+and maintained throughout the life cycle
+of the project.
+
+14
+00:01:11,471 --> 00:01:16,510
+The project sponsor is generally
+accountable for the development and
+
+15
+00:01:16,511 --> 00:01:19,210
+maintenance of the project business case
+document.
+
+16
+00:01:19,570 --> 00:01:25,990
+The project manager is responsible for
+providing recommendations and oversight to
+
+17
+00:01:25,991 --> 00:01:30,050
+keep the project business case,
+project management plan, project charter
+
+18
+00:01:30,051 --> 00:01:35,090
+and project benefits management plan,
+success measures in alignment with one
+
+19
+00:01:35,091 --> 00:01:38,430
+another and with the goals and objectives
+of the organisation.
+
+20
+00:01:38,431 --> 00:01:42,384
+Project managers should
+appropriately tailor the
+
+21
+00:01:42,385 --> 00:01:46,030
+noted project management
+documents for their projects.
+
+22
+00:01:46,470 --> 00:01:49,512
+Now, stop there for a
+moment, you've almost
+
+23
+00:01:49,513 --> 00:01:52,370
+certainly misunderstood what I just said.
+
+24
+00:01:52,870 --> 00:01:56,869
+Almost everyone does, and
+that misunderstanding can cost
+
+25
+00:01:56,870 --> 00:02:00,390
+you at least two questions
+on the exam, probably more.
+
+26
+00:02:01,110 --> 00:02:03,450
+We're talking about project business
+documents, right?
+
+27
+00:02:03,451 --> 00:02:09,770
+The PIMBOC guide says project managers
+should appropriately tailor the noted
+
+28
+00:02:09,771 --> 00:02:13,050
+project management documents for their
+projects.
+
+29
+00:02:13,950 --> 00:02:14,850
+Read it carefully.
+
+30
+00:02:15,490 --> 00:02:21,090
+The PIMBOC guide is not saying project
+managers should appropriately tailor the
+
+31
+00:02:21,091 --> 00:02:24,270
+noted project business documents for their
+projects.
+
+32
+00:02:24,830 --> 00:02:28,530
+The paragraph started talking about
+project business documents.
+
+33
+00:02:29,150 --> 00:02:33,430
+But in the sentence it is talking about
+project management documents.
+
+34
+00:02:33,431 --> 00:02:36,874
+documents, not project
+business documents, also
+
+35
+00:02:36,875 --> 00:02:40,244
+called project management
+business documents.
+
+36
+00:02:40,550 --> 00:02:41,400
+Feeling confused?
+
+37
+00:02:42,530 --> 00:02:48,450
+Project Manager uses the two project
+business documents, the business case and
+
+38
+00:02:48,451 --> 00:02:53,710
+the benefits management plan, but is not
+authorized to change them.
+
+39
+00:02:54,120 --> 00:03:00,990
+On the project, there are also 33 project
+management documents, sometimes just
+
+40
+00:03:00,991 --> 00:03:07,170
+called project documents and the project
+manager will change these.
+
+41
+00:03:07,171 --> 00:03:12,370
+The paragraph tells us that the project
+manager can recommend changes to the
+
+42
+00:03:12,371 --> 00:03:16,470
+business documents but they're maintained
+by the sponsor.
+
+43
+00:03:16,650 --> 00:03:18,050
+Very important for the exam.
+
+44
+00:03:18,810 --> 00:03:22,150
+Figure 1.8 illustrates the
+interrelationship of these critical
+
+45
+00:03:22,151 --> 00:03:27,430
+business documents and the needs
+assessments as well as an approximation of
+
+46
+00:03:27,431 --> 00:03:31,970
+the life cycle of these various documents
+against the generic life cycle.
+
+47
+00:03:32,530 --> 00:03:34,570
+One, project business case.
+
+48
+00:03:35,290 --> 00:03:40,690
+The PIMBOC guide says the project business
+case is a documented economic feasibility
+
+49
+00:03:40,691 --> 00:03:45,950
+study used to establish the validity of
+the benefits of a selected component,
+
+50
+00:03:46,410 --> 00:03:50,593
+lacking sufficient definition
+and that is used as a basis for
+
+51
+00:03:50,594 --> 00:03:53,830
+the authorization of further
+project management activities.
+
+52
+00:03:54,450 --> 00:03:58,850
+The business case lists the objectives and
+the reasons for.
+
+53
+00:03:58,870 --> 00:04:00,110
+or project initiation.
+
+54
+00:04:00,570 --> 00:04:03,381
+It helps measure the
+project success at the end
+
+55
+00:04:03,382 --> 00:04:05,950
+of the project, against
+the project objectives.
+
+56
+00:04:06,830 --> 00:04:09,639
+The business case is a
+project business document
+
+57
+00:04:09,640 --> 00:04:12,150
+that is used throughout
+the project lifecycle.
+
+58
+00:04:13,090 --> 00:04:18,590
+The business case may be used before the
+project initiation, it may result in a go,
+
+59
+00:04:18,830 --> 00:04:20,380
+no-go decision for the project.
+
+60
+00:04:21,450 --> 00:04:25,470
+A needs assessment often precedes the
+business case.
+
+61
+00:04:25,990 --> 00:04:29,390
+The needs assessment involves
+understanding business goals and
+
+62
+00:04:29,391 --> 00:04:35,044
+objectives and issues and opportunities
+and recommending proposals to address them.
+
+63
+00:04:35,230 --> 00:04:40,630
+The results of the needs assessment may be
+summarised in the business case document.
+
+64
+00:04:41,650 --> 00:04:46,150
+The process of defining a business need,
+analysing situation, making
+
+65
+00:04:46,151 --> 00:04:49,558
+recommendations and
+defining evaluation criteria
+
+66
+00:04:49,559 --> 00:04:52,630
+is applicable to any
+organisation's projects.
+
+67
+00:04:53,290 --> 00:04:57,290
+A business case may include document in
+the following.
+
+68
+00:04:57,291 --> 00:05:01,790
+And in the exam, you may be asked a
+question on the following headings,
+
+69
+00:05:01,890 --> 00:05:07,410
+plus of course all of the previous uses of
+the business case.
+
+70
+00:05:08,070 --> 00:05:10,010
+So started with business needs.
+
+71
+00:05:10,870 --> 00:05:13,750
+Determination of what is prompting the
+need for action.
+
+72
+00:05:14,190 --> 00:05:15,290
+Why are we doing this?
+
+73
+00:05:15,510 --> 00:05:16,910
+Do we need to fix something?
+
+74
+00:05:17,510 --> 00:05:19,070
+Do we need to increase sales?
+
+75
+00:05:19,190 --> 00:05:21,690
+Do we need to comply with legislation,
+for example?
+
+76
+00:05:22,790 --> 00:05:25,393
+Situational statement
+documenting the business
+
+77
+00:05:25,394 --> 00:05:27,230
+problem or opportunity to be addressed.
+
+78
+00:05:27,290 --> 00:05:30,130
+including the value to be delivered to the
+organisation.
+
+79
+00:05:31,190 --> 00:05:37,310
+Was this a specific problem, opportunity
+or mandate that is driving this?
+
+80
+00:05:37,910 --> 00:05:42,450
+Identification of stakeholders affected
+and identification of the scope.
+
+81
+00:05:42,710 --> 00:05:47,090
+This is not the scope statement initially,
+it's just the main deliverables but this
+
+82
+00:05:47,091 --> 00:05:52,050
+will be progressively elaborated during
+the project to form the scope statement.
+
+83
+00:05:53,550 --> 00:05:55,290
+Analysis of the situation.
+
+84
+00:05:56,090 --> 00:05:59,930
+So far we've said that perhaps,
+Perhaps we can see an opportunity to
+
+85
+00:05:59,931 --> 00:06:03,570
+increase sales by developing a better type
+of mouse trap.
+
+86
+00:06:04,430 --> 00:06:07,110
+We have listed the main affected
+stakeholders.
+
+87
+00:06:07,630 --> 00:06:12,130
+Please note that mice are not considered
+stakeholders even though they will be
+
+88
+00:06:12,131 --> 00:06:16,430
+perfected by the project or perceive
+themselves to be affected by the project.
+
+89
+00:06:17,250 --> 00:06:20,891
+Now we need to properly
+analyse the situation rather than
+
+90
+00:06:20,892 --> 00:06:24,450
+just rushing ahead in case
+we end up in a trap ourselves.
+
+91
+00:06:24,451 --> 00:06:27,348
+The analysis might
+include identification of
+
+92
+00:06:27,349 --> 00:06:30,604
+organisational strategies,
+goals and objectives.
+
+93
+00:06:31,130 --> 00:06:34,933
+Identification of root
+causes of the problem
+
+94
+00:06:34,934 --> 00:06:38,044
+or main contributors to the opportunity.
+
+95
+00:06:38,750 --> 00:06:42,116
+Gap analysis of capabilities
+needed for the project
+
+96
+00:06:42,117 --> 00:06:44,851
+versus existing capabilities
+of the organisation.
+
+97
+00:06:45,310 --> 00:06:47,150
+Identification of known risks.
+
+98
+00:06:47,650 --> 00:06:50,430
+Identification of critical success
+factors.
+
+99
+00:06:50,970 --> 00:06:54,221
+Identification of
+decision criteria by which,
+
+100
+00:06:54,222 --> 00:06:57,670
+the various courses of
+action can be assessed.
+
+101
+00:06:57,830 --> 00:07:05,470
+Examples of criteria categories used for
+analysis of a situation are required.
+
+102
+00:07:06,370 --> 00:07:10,319
+This is a criterion that
+must be fulfilled, e.g.,
+
+103
+00:07:10,320 --> 00:07:14,070
+the mouse trap must
+be able to kill mice swiftly.
+
+104
+00:07:15,070 --> 00:07:20,350
+Desired, this is a criterion that we would
+really like to have fulfilled,
+
+105
+00:07:20,351 --> 00:07:24,570
+but it is not absolutely
+essential, e.g., we prefer
+
+106
+00:07:24,571 --> 00:07:28,190
+it if the trap did not
+require food as be it.
+
+107
+00:07:29,290 --> 00:07:31,250
+The next one is optional.
+
+108
+00:07:31,950 --> 00:07:34,510
+This is a criterion that is not essential.
+
+109
+00:07:35,410 --> 00:07:41,130
+Fulfillment of this criterion may become a
+differentiator between alternative courses
+
+110
+00:07:41,131 --> 00:07:44,529
+of action, and that's an
+important note for the examination,
+
+111
+00:07:44,530 --> 00:07:47,790
+that although it's optional,
+we don't actually need it.
+
+112
+00:07:47,791 --> 00:07:52,890
+If there's nothing else to choose on,
+we may use that to choose the project.
+
+113
+00:07:53,410 --> 00:07:53,630
+E.g.
+
+114
+00:07:53,830 --> 00:07:57,164
+the mousetrap won't harm
+white mice because we
+
+115
+00:07:57,165 --> 00:07:59,841
+don't want pet mice to
+get harmed by our trap.
+
+116
+00:08:00,150 --> 00:08:00,710
+That's an option.
+
+117
+00:08:00,870 --> 00:08:02,120
+We don't need to have it.
+
+118
+00:08:02,330 --> 00:08:03,180
+It would be nice.
+
+119
+00:08:04,290 --> 00:08:06,706
+Identification of a set of
+options to be considered
+
+120
+00:08:06,707 --> 00:08:09,430
+for addressing the business
+problem or opportunity.
+
+121
+00:08:09,990 --> 00:08:15,750
+The most commonly used three options are
+do nothing.
+
+122
+00:08:16,210 --> 00:08:19,590
+This is referred to as the business as
+usual option.
+
+123
+00:08:19,970 --> 00:08:25,664
+Selection of this option results in
+the project not being authorised, i.e.
+
+124
+00:08:25,665 --> 00:08:28,410
+, what happens if we don't
+develop a new match trap?
+
+125
+00:08:29,550 --> 00:08:29,790
+2.
+
+126
+00:08:30,090 --> 00:08:34,290
+The minimum work possible to address the
+problem or opportunity.
+
+127
+00:08:35,030 --> 00:08:40,070
+The minimum may be established by
+identifying the set of documented criteria
+
+128
+00:08:40,071 --> 00:08:43,530
+that are key at address the problem or
+opportunity.
+
+129
+00:08:44,150 --> 00:08:47,448
+The next option is do
+more than the minimum work
+
+130
+00:08:47,449 --> 00:08:50,061
+possible to address the
+problem or opportunity.
+
+131
+00:08:50,410 --> 00:08:53,890
+This option meets the
+minimum set of criteria
+
+132
+00:08:53,891 --> 00:08:57,430
+and some or all of the
+other documented criteria.
+
+133
+00:08:58,030 --> 00:09:01,810
+It may be more than one of these options
+documented in the business case.
+
+134
+00:09:02,950 --> 00:09:04,300
+Next is the recommendation.
+
+135
+00:09:05,250 --> 00:09:07,900
+We are considering the reasons for
+starting a project.
+
+136
+00:09:08,330 --> 00:09:12,050
+We vandalise the situation in detail and
+now we have considered options.
+
+137
+00:09:12,770 --> 00:09:16,140
+Now it's the time to to
+pull all this information
+
+138
+00:09:16,141 --> 00:09:19,470
+together and recommend
+what the organisation should do.
+
+139
+00:09:20,890 --> 00:09:25,250
+A statement of the recommended option to
+pursue in the project, e.g.
+
+140
+00:09:25,730 --> 00:09:30,110
+we will develop an electric marsh trap,
+which is artificial intelligence and
+
+141
+00:09:30,111 --> 00:09:33,543
+machine learning
+capabilities, so it can constantly
+
+142
+00:09:33,544 --> 00:09:36,290
+evolve to become an
+even better marsh trap.
+
+143
+00:09:37,330 --> 00:09:42,630
+Items too include, and the statement may
+include analysis results for the potential
+
+144
+00:09:42,631 --> 00:09:45,336
+options, constraints,
+assumptions, risks and
+
+145
+00:09:45,337 --> 00:09:49,630
+dependencies for potential
+options, and success measures.
+
+146
+00:09:50,710 --> 00:09:54,145
+An implementation approach
+that may include milestones,
+
+147
+00:09:54,146 --> 00:09:56,530
+dependencies and
+roles and responsibilities.
+
+148
+00:09:57,630 --> 00:09:59,210
+That brings us to evaluation.
+
+149
+00:10:00,130 --> 00:10:05,724
+Statement describing the plan for measuring
+benefits the project will deliver.
+
+150
+00:10:05,910 --> 00:10:09,710
+This will cover not just the benefits
+realized if any during the project.
+
+151
+00:10:10,070 --> 00:10:13,310
+For example, during testing, the project
+will probably be.
+
+152
+00:10:13,330 --> 00:10:16,090
+reduce the number of mice in the
+organisation.
+
+153
+00:10:16,970 --> 00:10:22,090
+But we also want to look at benefits when
+the project has moved into operation.
+
+154
+00:10:23,270 --> 00:10:27,850
+The business case document provides the
+basis to measure success and progress
+
+155
+00:10:27,851 --> 00:10:31,411
+throughout the project
+lifecycle by comparing the results
+
+156
+00:10:31,412 --> 00:10:34,630
+with the objectives and the
+identified success criteria.
+
+157
+00:10:35,570 --> 00:10:38,910
+Two, the project benefits management plan.
+
+158
+00:10:39,790 --> 00:10:44,770
+The project benefits management plan is
+the document that the describes how and
+
+159
+00:10:44,771 --> 00:10:47,271
+when the benefits of the project will be
+delivered.
+
+160
+00:10:47,550 --> 00:10:51,590
+And describes the mechanisms it should be
+in place to measure those benefits.
+
+161
+00:10:52,130 --> 00:10:57,710
+For example, if the project is intended to
+enable the service test to resolve
+
+162
+00:10:57,711 --> 00:11:01,963
+customer problems 20%
+faster on average, what does
+
+163
+00:11:01,964 --> 00:11:04,690
+this actually mean and
+how can it be measured?
+
+164
+00:11:04,691 --> 00:11:09,830
+Pimbock Guide says a project benefit is
+defined as the outcome of actions,
+
+165
+00:11:09,970 --> 00:11:15,930
+behaviours, products, services or results
+that provide value to the sponsoring
+
+166
+00:11:15,931 --> 00:11:19,230
+organisation as well as to the project's
+intended beneficiaries.
+
+167
+00:11:20,230 --> 00:11:25,170
+Development of the Benefits Management
+Plan begins early in the lifecycle with
+
+168
+00:11:25,171 --> 00:11:28,010
+the definition of the target benefits to
+be realised.
+
+169
+00:11:28,650 --> 00:11:31,923
+The Benefits Management
+Plan describes key elements of
+
+170
+00:11:31,924 --> 00:11:34,670
+the benefits and may include
+documenting the function.
+
+171
+00:11:34,690 --> 00:11:35,523
+following.
+
+172
+00:11:35,950 --> 00:11:38,230
+Firstly, the target benefits, e.g.
+
+173
+00:11:38,390 --> 00:11:41,251
+the expected tangible
+and intangible value to
+
+174
+00:11:41,252 --> 00:11:44,704
+be gained by the
+implementation of the project.
+
+175
+00:11:45,010 --> 00:11:47,890
+Financial value is
+expressed as net present
+
+176
+00:11:47,891 --> 00:11:51,044
+value, which you'll
+cover later in the course.
+
+177
+00:11:52,030 --> 00:11:53,710
+Strategic alignment, e.g.
+
+178
+00:11:53,810 --> 00:11:58,050
+how well the project benefits align to the
+business strategies of the organisation.
+
+179
+00:11:58,990 --> 00:12:02,450
+The time frame for realising benefits,
+e.g.
+
+180
+00:12:03,430 --> 00:12:06,530
+benefits by phase, short-term,
+long-term and ongoing.
+
+181
+00:12:07,830 --> 00:12:11,890
+Benefits owner, for example, the
+accountable person to monitor,
+
+182
+00:12:12,550 --> 00:12:15,322
+record and report
+realized benefits throughout
+
+183
+00:12:15,323 --> 00:12:17,390
+the time frame established in the plan.
+
+184
+00:12:17,870 --> 00:12:20,909
+And often it's what we
+would call one of the
+
+185
+00:12:20,910 --> 00:12:23,350
+business users would
+be involved in doing that.
+
+186
+00:12:23,410 --> 00:12:28,190
+Someone who actually is going to use the
+products, or rather that their staff is
+
+187
+00:12:28,191 --> 00:12:30,847
+going to be using the products in the best
+one to check it out.
+
+188
+00:12:30,930 --> 00:12:31,867
+Next one is the met.
+
+189
+00:12:31,950 --> 00:12:32,070
+i.e.
+
+190
+00:12:32,750 --> 00:12:35,150
+the measures to be used to show benefits
+
+191
+00:12:35,151 --> 00:12:38,624
+realized, direct measures
+and indirect measures.
+
+192
+00:12:38,950 --> 00:12:40,400
+This is a very important one.
+
+193
+00:12:40,590 --> 00:12:42,450
+Benefits must be measurable.
+
+194
+00:12:45,090 --> 00:12:47,010
+This is a very important one.
+
+195
+00:12:47,530 --> 00:12:49,350
+Benefits must be measurable.
+
+196
+00:12:50,210 --> 00:12:55,404
+Because if you can't measure them, how
+can you tell if the project was a success?
+
+197
+00:12:55,750 --> 00:12:58,602
+In the example of the service
+desk, I said the customer
+
+198
+00:12:58,603 --> 00:13:02,790
+problems were to be solved
+20% faster on average.
+
+199
+00:13:03,310 --> 00:13:09,090
+But if I had just said the service desk
+has to solve customer problems faster,
+
+200
+00:13:09,590 --> 00:13:14,470
+you can't measure this and so you can't
+tell if the project actually achieved it.
+
+201
+00:13:14,970 --> 00:13:17,270
+Next is assumptions, e.g.
+
+202
+00:13:18,030 --> 00:13:22,890
+factors expected to be in place or to be
+in evidence and risks.
+
+203
+00:13:23,470 --> 00:13:26,830
+Example, risks for realization of the
+benefits.
+
+204
+00:13:26,831 --> 00:13:32,190
+Developing the benefits management plan
+makes use of the data and information
+
+205
+00:13:32,191 --> 00:13:35,650
+documented in the business case and needs
+assessment.
+
+206
+00:13:35,990 --> 00:13:40,310
+For example, the cost benefit analysis
+recorded in the documents illustrate the
+
+207
+00:13:40,311 --> 00:13:45,010
+estimate of cost compared with the value
+of the benefits realized by the project.
+
+208
+00:13:45,550 --> 00:13:50,910
+The Benefits Management Plan and project
+management plan include a description of
+
+209
+00:13:50,911 --> 00:13:54,019
+how the business value
+resulting from the project
+
+210
+00:13:54,020 --> 00:13:56,710
+becomes part of the
+organization's ongoing operation.
+
+211
+00:13:56,830 --> 00:13:59,010
+including the metrics to be used.
+
+212
+00:13:59,610 --> 00:14:02,843
+The metrics provide
+verification of the business
+
+213
+00:14:02,844 --> 00:14:05,610
+value and validation
+of the project success.
+
+214
+00:14:06,290 --> 00:14:10,082
+Just a reminder, benefits need
+to be measurable otherwise
+
+215
+00:14:10,083 --> 00:14:12,761
+you don't know for sure
+that you've achieved them.
+
+216
+00:14:13,090 --> 00:14:16,750
+Number three, the project charter and
+project management plan.
+
+217
+00:14:17,410 --> 00:14:23,070
+For the examination, please remember the
+project charter is defined as a document
+
+218
+00:14:23,071 --> 00:14:29,530
+issued by the project sponsor It formally
+authorises the existence of a project and
+
+219
+00:14:29,531 --> 00:14:32,232
+provides a project
+manager with the authority to
+
+220
+00:14:32,233 --> 00:14:36,290
+apply organizational
+resources to project activities.
+
+221
+00:14:36,850 --> 00:14:39,690
+We cover this more in integration
+management.
+
+222
+00:14:40,590 --> 00:14:45,690
+The project management plan is defined as
+a document that describes how the project
+
+223
+00:14:45,691 --> 00:14:48,210
+will be executed, monitored and
+controlled.
+
+224
+00:14:48,830 --> 00:14:53,930
+There are 33 project documents in a
+project which are used to manage the
+
+225
+00:14:53,931 --> 00:14:58,470
+project, but they are not part of the
+project management plan.
+
+226
+00:14:58,690 --> 00:15:01,190
+Number four, project success measures.
+
+227
+00:15:01,870 --> 00:15:07,210
+Please read project success measures in
+the project guide page 34.
+
+228
+00:15:07,630 --> 00:15:10,370
+It's a very simple section to understand.
+
+229
+00:15:10,930 --> 00:15:13,090
+It's just really a very long list.
+
+230
+00:15:13,990 --> 00:15:16,697
+That brings us to the end of
+project management business
+
+231
+00:15:16,698 --> 00:15:20,610
+documents and also to the end
+of foundational elements module.
+
+232
+00:15:21,070 --> 00:15:24,350
+At the start of this module, I promise
+that you'd learn important information.
+
+233
+00:15:24,430 --> 00:15:27,170
+from it and I've no doubt that you have.
+
+234
+00:15:27,650 --> 00:15:32,350
+The next module is 2.0 environments in
+which projects operate.
+
+235
+00:15:32,670 --> 00:15:36,790
+Please read the corresponding chapter in
+the Poonback Guide before watching the
+
+236
+00:15:36,791 --> 00:15:40,590
+video so that you can operate well in the
+examination environment.
+

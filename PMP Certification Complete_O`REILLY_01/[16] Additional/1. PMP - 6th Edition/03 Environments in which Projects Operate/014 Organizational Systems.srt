@@ -1,0 +1,752 @@
+﻿1
+00:00:14,270 --> 00:00:17,010
+2.3 Organizational Systems.
+
+2
+00:00:17,650 --> 00:00:20,660
+Projects operate within the
+constraints imposed by the
+
+3
+00:00:20,661 --> 00:00:24,250
+organization through their
+structure and governance framework.
+
+4
+00:00:25,090 --> 00:00:30,630
+To operate effectively and efficiently,
+the project manager needs to understand
+
+5
+00:00:30,631 --> 00:00:35,930
+where responsibility, accountability and
+authority reside within the organization.
+
+6
+00:00:36,510 --> 00:00:41,190
+This understanding will help the project
+manager effectively use his or her power,
+
+7
+00:00:41,191 --> 00:00:44,763
+influence, competence,
+leadership and political
+
+8
+00:00:44,764 --> 00:00:47,770
+capabilities to successfully
+complete the project.
+
+9
+00:00:48,190 --> 00:00:53,770
+The interaction of multiple factors within
+an individual organisation creates a
+
+10
+00:00:53,771 --> 00:00:57,810
+unique system that impacts the project
+operating in that system.
+
+11
+00:00:58,370 --> 00:01:02,670
+The resulting organisational system
+determines the power, influence,
+
+12
+00:01:03,630 --> 00:01:06,597
+interests, competence
+and political capabilities of
+
+13
+00:01:06,598 --> 00:01:09,270
+the people who are able
+to act within the system.
+
+14
+00:01:09,271 --> 00:01:13,863
+The system factors,
+management elements, governance
+
+15
+00:01:13,864 --> 00:01:17,150
+frameworks and
+organisational structure types.
+
+16
+00:01:17,550 --> 00:01:19,450
+That's from the PIMBOC Guide, page 42.
+
+17
+00:01:20,150 --> 00:01:23,570
+The first question that we need to answer
+is, what is the system?
+
+18
+00:01:24,410 --> 00:01:30,550
+The Oxford Dictionary defines a system as
+a set of things working together as parts
+
+19
+00:01:30,551 --> 00:01:35,390
+of a mechanism or an interconnecting
+network, a complex whole.
+
+20
+00:01:35,890 --> 00:01:39,250
+The PIMBock defines a system as a
+collection of various.
+
+21
+00:01:39,270 --> 00:01:42,696
+various components that
+together can produce results
+
+22
+00:01:42,697 --> 00:01:45,670
+not obtainable by the
+individual components alone.
+
+23
+00:01:46,030 --> 00:01:51,550
+The principles related to systems are
+systems are dynamic.
+
+24
+00:01:52,510 --> 00:01:53,970
+Systems can be optimized.
+
+25
+00:01:54,850 --> 00:01:56,810
+System components can be optimized.
+
+26
+00:01:57,350 --> 00:02:01,048
+Systems and their components
+cannot be optimized at the
+
+27
+00:02:01,049 --> 00:02:06,450
+same time and systems are
+non-linear in responsiveness, i.e.
+
+28
+00:02:06,790 --> 00:02:11,150
+a change in the input does not produce a
+predictable change in the output.
+
+29
+00:02:12,510 --> 00:02:17,510
+The system's dynamics are defined by the
+interaction between the components based
+
+30
+00:02:17,511 --> 00:02:21,490
+on the relationships and dependencies that
+exist between the components.
+
+31
+00:02:22,010 --> 00:02:26,330
+Typically an organization's management is
+responsible for its systems.
+
+32
+00:02:27,030 --> 00:02:32,830
+They examine the optimum trade-offs
+between the components and the system in
+
+33
+00:02:32,831 --> 00:02:35,823
+order to take the appropriate
+action in modifying the
+
+34
+00:02:35,824 --> 00:02:38,590
+systems to achieve the best
+outcomes for the organization.
+
+35
+00:02:38,610 --> 00:02:46,670
+These systems impact the organization's
+projects and so the project manager must
+
+36
+00:02:46,671 --> 00:02:51,470
+consider these systems as well as the
+organization's governance framework when
+
+37
+00:02:51,471 --> 00:02:54,750
+determining how to fulfill the project's
+objectives.
+
+38
+00:02:55,650 --> 00:02:57,790
+Organizational governance frameworks.
+
+39
+00:02:58,510 --> 00:03:04,610
+Recent PMI research reveals that
+governance refers to organizational or
+
+40
+00:03:04,611 --> 00:03:08,330
+structural arrangements at all levels of
+an organization.
+
+41
+00:03:08,331 --> 00:03:13,190
+designed to determine and influence the
+behaviour of the organisation's members.
+
+42
+00:03:13,990 --> 00:03:19,050
+This research suggests that the concept of
+governance is multidimensional and
+
+43
+00:03:19,051 --> 00:03:25,150
+includes consideration of people,
+roles, structures and policies and
+
+44
+00:03:25,151 --> 00:03:30,370
+requires providing direction and oversight
+through data and feedback.
+
+45
+00:03:31,010 --> 00:03:32,850
+That's from PINBULK guide, page 43.
+
+46
+00:03:33,790 --> 00:03:34,970
+What is governance?
+
+47
+00:03:35,430 --> 00:03:41,930
+It's a framework within which an
+organisation exercises its authority and
+
+48
+00:03:41,931 --> 00:03:49,804
+includes rules, policies, procedures,
+norms, relationships, systems and processes.
+
+49
+00:03:50,370 --> 00:03:56,590
+This framework influences how objectives
+of the organisation are set and achieved,
+
+50
+00:03:57,150 --> 00:04:01,490
+risk is monitored and assessed and
+performance is optimised.
+
+51
+00:04:02,110 --> 00:04:06,210
+Two, governance of portfolios,
+programs and projects.
+
+52
+00:04:07,210 --> 00:04:12,070
+As a member of PMI you can download a copy
+of many publications free of charge.
+
+53
+00:04:12,410 --> 00:04:16,270
+For this section you will find the
+following publication of value.
+
+54
+00:04:16,930 --> 00:04:22,170
+It's the governance or portfolio programs
+and projects, a practice guide.
+
+55
+00:04:22,710 --> 00:04:26,110
+This practice guide describes four
+governance domains of alignment,
+
+56
+00:04:26,710 --> 00:04:28,560
+risk, performance and communications.
+
+57
+00:04:29,150 --> 00:04:32,690
+You can read more about it on the PIMBOC
+guide page 44.
+
+58
+00:04:33,290 --> 00:04:35,430
+Number three, management elements.
+
+59
+00:04:36,170 --> 00:04:40,190
+These are the key functions or principles
+of general management in the organisation
+
+60
+00:04:40,191 --> 00:04:45,450
+and are allocated within the organisation
+according to its governance structure and
+
+61
+00:04:45,451 --> 00:04:47,850
+the organisational structure types
+selected.
+
+62
+00:04:47,930 --> 00:04:55,330
+They include division of work using
+specialised skills and availability to
+
+63
+00:04:55,331 --> 00:05:01,130
+perform work, authority given to perform
+work, responsibility to perform work
+
+64
+00:05:01,131 --> 00:05:04,670
+appropriately assigned based on such
+action.
+
+65
+00:05:04,690 --> 00:05:06,570
+attributes of skill and experience.
+
+66
+00:05:07,630 --> 00:05:09,150
+Discipline of action, e.g.
+
+67
+00:05:09,710 --> 00:05:12,150
+respect for authority, people and rules.
+
+68
+00:05:12,850 --> 00:05:16,544
+Unity of command, e.g.,
+only one person gives
+
+69
+00:05:16,545 --> 00:05:20,124
+orders for any action or
+activity to an individual.
+
+70
+00:05:21,130 --> 00:05:24,370
+The unity of direction, e.g.
+
+71
+00:05:24,990 --> 00:05:29,950
+one plan and one head for a group of
+activities with the same objective.
+
+72
+00:05:30,770 --> 00:05:34,590
+General goals of the organization take
+precedence over individuals.
+
+73
+00:05:34,591 --> 00:05:35,424
+goals.
+
+74
+00:05:36,050 --> 00:05:41,690
+They are to be paid fairly for work
+performed, optimal use of resources,
+
+75
+00:05:42,150 --> 00:05:46,370
+clear communications channels,
+write materials to the right person for
+
+76
+00:05:46,371 --> 00:05:50,790
+the right job at the right time,
+fair and equal treatment of people in the
+
+77
+00:05:50,791 --> 00:05:56,450
+workplace, clear security of work
+positions, safety of people in the
+
+78
+00:05:56,451 --> 00:05:59,815
+workplace, open
+contribution to planning and
+
+79
+00:05:59,816 --> 00:06:03,290
+execution by each
+person, and optimal morale.
+
+80
+00:06:03,291 --> 00:06:08,010
+The PIMBOC guide says in page 45,
+performance of these management elements
+
+81
+00:06:08,011 --> 00:06:11,270
+are assigned to selected individuals
+within the organisation.
+
+82
+00:06:12,270 --> 00:06:14,676
+These individuals might perform the noted
+
+83
+00:06:14,677 --> 00:06:18,064
+functions within various
+organisational structures.
+
+84
+00:06:18,310 --> 00:06:21,873
+For example, in a
+hierarchical structure, there are
+
+85
+00:06:21,874 --> 00:06:24,991
+horizontal and vertical
+levels within the organisation.
+
+86
+00:06:25,310 --> 00:06:29,404
+These hierarchical levels
+range from the line management
+
+87
+00:06:29,405 --> 00:06:32,410
+level through to the
+executive management level.
+
+88
+00:06:32,411 --> 00:06:37,270
+The responsibility, accountability and
+authority assigned to the hierarchical
+
+89
+00:06:37,271 --> 00:06:40,912
+level indicate how the
+individual may perform the
+
+90
+00:06:40,913 --> 00:06:43,901
+noted function within that
+organisational structure.
+
+91
+00:06:44,510 --> 00:06:47,210
+Number four, organisational structure
+types.
+
+92
+00:06:47,830 --> 00:06:50,548
+Please read the list of
+factors in organisation structure
+
+93
+00:06:50,549 --> 00:06:56,930
+selection and study table 2,
+1, on PIMBOC guide page 47.
+
+94
+00:06:57,390 --> 00:06:59,808
+It compares several
+types of organizational
+
+95
+00:06:59,809 --> 00:07:02,061
+structures and their
+influence and projects.
+
+96
+00:07:02,410 --> 00:07:06,510
+There is no one-size-fits-all structure
+for any organisation.
+
+97
+00:07:06,970 --> 00:07:09,602
+The final structure for
+a given organisation is
+
+98
+00:07:09,603 --> 00:07:12,570
+unique due to the numerous
+variables to be considered.
+
+99
+00:07:13,250 --> 00:07:13,490
+3.
+
+100
+00:07:13,990 --> 00:07:20,450
+Project Management Office Pinball Guide
+defines a project management office as an
+
+101
+00:07:20,451 --> 00:07:25,010
+organisational structure that standardises
+the project related governance processes
+
+102
+00:07:25,011 --> 00:07:30,730
+and facilitates the sharing of resources,
+methodologies, tools and techniques.
+
+103
+00:07:30,731 --> 00:07:37,570
+The responsibilities of a PMO can range
+from providing project management support
+
+104
+00:07:37,571 --> 00:07:41,550
+functions to the direct management of one
+or more projects.
+
+105
+00:07:42,530 --> 00:07:46,810
+There are several types of PMO in
+organisations.
+
+106
+00:07:47,610 --> 00:07:50,810
+Each type varies in the degree of control
+and influence.
+
+107
+00:07:51,330 --> 00:07:55,450
+It has some projects within the
+organisation, such as supportive.
+
+108
+00:07:55,610 --> 00:08:02,010
+Supportive PMOs provide a consultative
+role to projects, by supplying templates,
+
+109
+00:08:02,190 --> 00:08:05,019
+best practices, training,
+access to information
+
+110
+00:08:05,020 --> 00:08:07,844
+and lessons learned from other projects.
+
+111
+00:08:08,010 --> 00:08:12,630
+This type of PMO serves as a project
+repository.
+
+112
+00:08:13,290 --> 00:08:17,410
+The degree of control provided by this
+type of PMO is low.
+
+113
+00:08:18,630 --> 00:08:21,050
+And now we move on to controlling PMO.
+
+114
+00:08:21,610 --> 00:08:26,070
+It provides support and requires
+compliance through various means.
+
+115
+00:08:26,570 --> 00:08:29,570
+The degree of control provided by the PMO
+is moderate.
+
+116
+00:08:30,350 --> 00:08:36,510
+Compliance involve adoption of project
+management frameworks and methodologies,
+
+117
+00:08:36,830 --> 00:08:40,110
+use of specific templates, forms and
+tools.
+
+118
+00:08:40,590 --> 00:08:42,247
+And by that they, I mean they actually
+
+119
+00:08:42,248 --> 00:08:45,344
+mandate the use of
+those templates and tools.
+
+120
+00:08:45,470 --> 00:08:48,090
+Conformance to governance frameworks.
+
+121
+00:08:48,870 --> 00:08:51,210
+Then we come to directive PMOs.
+
+122
+00:08:51,930 --> 00:08:55,870
+They take control of projects by directly
+managing the projects.
+
+123
+00:08:56,350 --> 00:08:59,660
+Project managers are assigned by and
+report to the PMO.
+
+124
+00:08:59,661 --> 00:09:04,140
+The degree of control provided by the PMO
+is high.
+
+125
+00:09:05,020 --> 00:09:09,540
+The project management office may have
+organizational wide responsibilities.
+
+126
+00:09:10,140 --> 00:09:12,588
+It may play a role in supporting strategic
+
+127
+00:09:12,589 --> 00:09:15,680
+alignment and delivering
+organizational value.
+
+128
+00:09:15,940 --> 00:09:22,200
+The PMO integrates data and information
+from organizational strategic projects and
+
+129
+00:09:22,201 --> 00:09:26,660
+evaluates how higher level strategic
+projects are being fulfilled.
+
+130
+00:09:27,620 --> 00:09:33,200
+The PMO is the natural liaison between the
+project's portfolios, programs,
+
+131
+00:09:33,380 --> 00:09:36,900
+projects and the organisational measuring
+systems, e.g.
+
+132
+00:09:37,680 --> 00:09:38,580
+Balance Scorecard.
+
+133
+00:09:39,580 --> 00:09:44,700
+The PMO may manage programs of related
+projects or portfolios of unrelated
+
+134
+00:09:44,701 --> 00:09:48,704
+projects and work, but always
+with the view to providing
+
+135
+00:09:48,705 --> 00:09:52,120
+efficiencies and benefits
+of a common administration.
+
+136
+00:09:52,960 --> 00:09:59,360
+A PMO may have the authority to act as an
+integral stakeholder and is a key
+
+137
+00:09:59,361 --> 00:10:02,465
+decision-maker throughout
+the life of each project in
+
+138
+00:10:02,466 --> 00:10:05,301
+order to keep it aligned
+with the business objectives.
+
+139
+00:10:05,960 --> 00:10:12,260
+The PMO may make recommendations,
+lead knowledge transfer, terminate
+
+140
+00:10:12,261 --> 00:10:15,060
+projects and take other actions as
+required.
+
+141
+00:10:16,000 --> 00:10:21,480
+A primary function of a PMO is to support
+project managers in a variety of ways,
+
+142
+00:10:21,980 --> 00:10:26,460
+which may include managing shared
+resources across all projects administered
+
+143
+00:10:26,461 --> 00:10:31,160
+by the PMO, identifying and developing
+project management methodology,
+
+144
+00:10:31,740 --> 00:10:36,320
+best practices and standards, coaching,
+mentoring, training and oversight,
+
+145
+00:10:37,340 --> 00:10:41,560
+monitoring with project management
+standards, policies, procedures and
+
+146
+00:10:41,561 --> 00:10:47,020
+templates by means of project audits,
+developing and managing project policies,
+
+147
+00:10:47,380 --> 00:10:50,607
+procedures, templates and
+other shared documentation,
+
+148
+00:10:50,608 --> 00:10:53,552
+organizational process assets
+and coordinating communication and
+
+149
+00:10:53,553 --> 00:10:56,194
+coordinating communication
+across projects.
+
+150
+00:10:56,980 --> 00:11:01,520
+That brings us to the end of
+organizational systems and also to the end
+
+151
+00:11:01,521 --> 00:11:04,540
+of the environments in which projects
+operate.
+
+152
+00:11:05,580 --> 00:11:10,200
+And the next module is 3.0, the role of
+the project manager.
+
+153
+00:11:10,900 --> 00:11:15,360
+Please read the corresponding project,
+sorry, please read the corresponding
+
+154
+00:11:15,361 --> 00:11:18,410
+chapter in the BIMBOC
+guide before watching the video
+
+155
+00:11:18,411 --> 00:11:20,981
+so that you'll know what
+you're meant to be doing.
+

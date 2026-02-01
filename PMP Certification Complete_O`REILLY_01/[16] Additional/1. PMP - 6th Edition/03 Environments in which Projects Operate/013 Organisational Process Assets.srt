@@ -1,0 +1,580 @@
+﻿1
+00:00:11,000 --> 00:00:15,220
+2.2, Organizational Process Assets,
+OPS.
+
+2
+00:00:15,860 --> 00:00:19,900
+These are the plans, processes,
+policies, procedures and knowledge bases
+
+3
+00:00:19,901 --> 00:00:24,140
+specific to and used by the performing
+organization.
+
+4
+00:00:24,920 --> 00:00:27,640
+These assets influence the management of
+the project.
+
+5
+00:00:28,520 --> 00:00:35,080
+Organizational process assets include any
+artifact, practice or knowledge from any
+
+6
+00:00:35,081 --> 00:00:38,350
+or all of the performing
+organizations involved in the
+
+7
+00:00:38,351 --> 00:00:42,060
+project that can be used
+to execute or the project.
+
+8
+00:00:42,980 --> 00:00:48,720
+The organizational process assets also
+include the organization's lessons learned
+
+9
+00:00:48,721 --> 00:00:52,040
+from previous projects and historical
+information.
+
+10
+00:00:52,520 --> 00:00:56,282
+Organizational process
+assets may include completed
+
+11
+00:00:56,283 --> 00:00:59,414
+schedules, risk data
+and earned value data.
+
+12
+00:00:59,560 --> 00:01:01,260
+That's from Pinball Guide page 39.
+
+13
+00:01:01,720 --> 00:01:06,080
+Please remember for the exam that the
+organizational process assets include
+
+14
+00:01:06,081 --> 00:01:12,120
+lessons learned and historical data such
+as schedule risk data and earned value
+
+15
+00:01:12,121 --> 00:01:16,660
+data from previous projects and that's it
+very important because in most of the
+
+16
+00:01:16,661 --> 00:01:21,160
+processes throughout the project PIMs
+suggested you check the lessons learned
+
+17
+00:01:21,161 --> 00:01:24,740
+and historical data and now you know where
+to find it.
+
+18
+00:01:25,040 --> 00:01:29,420
+It's also important to remember for the
+exam that lessons learned on previous
+
+19
+00:01:29,421 --> 00:01:36,340
+projects are held in the lessons learned
+repository Lessons Learned on the current
+
+20
+00:01:36,341 --> 00:01:39,480
+project are held in the Lessons Learned
+Register.
+
+21
+00:01:40,360 --> 00:01:45,600
+At the end of the project, the Lessons
+Learned Register is edited and finalized
+
+22
+00:01:45,601 --> 00:01:48,460
+and then copied to the Lessons Learned
+repository.
+
+23
+00:01:49,260 --> 00:01:54,800
+The next important point is all
+organizational process assets are internal
+
+24
+00:01:54,801 --> 00:01:59,422
+to the organization and the
+project team members may be
+
+25
+00:01:59,423 --> 00:02:02,500
+able to update them and add
+to them throughout the project.
+
+26
+00:02:02,501 --> 00:02:09,140
+However, and please note this carefully,
+it is usually only the knowledge basis and
+
+27
+00:02:09,141 --> 00:02:13,180
+not the processes, policies and procedures
+that are changed.
+
+28
+00:02:13,240 --> 00:02:18,600
+I said usually there can be exceptions,
+but usually it's not the processes,
+
+29
+00:02:18,860 --> 00:02:21,860
+policies and procedures that are changed
+by the project team.
+
+30
+00:02:22,400 --> 00:02:25,749
+If you remember back to
+enterprise environmental
+
+31
+00:02:25,750 --> 00:02:28,320
+factors, the project team can change them.
+
+32
+00:02:28,321 --> 00:02:33,380
+The enterprise environment defectors is
+split into two categories, internal to the
+
+33
+00:02:33,381 --> 00:02:35,880
+organization and external to the
+organization.
+
+34
+00:02:36,680 --> 00:02:40,387
+Now we come to the organizational
+process assets we find they
+
+35
+00:02:40,388 --> 00:02:44,020
+are also split into two
+categories, but both are internal.
+
+36
+00:02:44,340 --> 00:02:48,780
+Policies, processes and procedures and the
+organizational databases.
+
+37
+00:02:49,400 --> 00:02:52,099
+As I mentioned before,
+generally it is just the
+
+38
+00:02:52,100 --> 00:02:54,560
+knowledge basis that are
+changed throughout the project.
+
+39
+00:02:54,561 --> 00:02:58,387
+For example, financial
+performance information, lessons
+
+40
+00:02:58,388 --> 00:03:02,100
+learned, performance
+metrics, issues and defects.
+
+41
+00:03:02,520 --> 00:03:05,280
+These are constantly updated throughout
+the project.
+
+42
+00:03:05,780 --> 00:03:09,500
+Processes, policies and procedures are
+usually established by the project
+
+43
+00:03:09,501 --> 00:03:14,920
+management office or by management and can
+be updated only by following the
+
+44
+00:03:14,921 --> 00:03:17,371
+appropriate organisational policies and
+processes.
+
+45
+00:03:18,000 --> 00:03:21,394
+Some organisations
+encourage the team to tailor
+
+46
+00:03:21,395 --> 00:03:24,431
+templates, life cycles and
+checklists for the project.
+
+47
+00:03:24,560 --> 00:03:27,249
+These artefacts can be
+found in the organisational
+
+48
+00:03:27,250 --> 00:03:30,420
+knowledge basis within the
+organisational process assets.
+
+49
+00:03:31,440 --> 00:03:35,060
+I'm just reading the following list from
+the PIMBOC guide as they're quite simple
+
+50
+00:03:35,061 --> 00:03:37,760
+and don't really need any further
+explanation.
+
+51
+00:03:38,360 --> 00:03:41,300
+Category 1, processes, policies and
+procedures.
+
+52
+00:03:42,000 --> 00:03:44,754
+The organisation's
+processes and procedures for
+
+53
+00:03:44,755 --> 00:03:48,240
+conducting project work
+include initiating and planning.
+
+54
+00:03:48,241 --> 00:03:54,040
+Guidelines and criteria for tailoring the
+organisation's set of standard processes
+
+55
+00:03:54,041 --> 00:03:57,800
+and procedures to satisfy the specific
+needs of the organisation.
+
+56
+00:03:58,860 --> 00:04:02,140
+Specific organisational standards such as
+policies, e.g.
+
+57
+00:04:02,640 --> 00:04:07,740
+human resource policies, health and safety
+policies, secured income confidentiality
+
+58
+00:04:07,741 --> 00:04:12,280
+policies, quality policies, procurement
+policies and environment policies.
+
+59
+00:04:12,281 --> 00:04:18,860
+product and project life cycles and
+methods and procedures, e.g.
+
+60
+00:04:19,580 --> 00:04:25,340
+project management methods, estimation
+metrics, process audits, improvement,
+
+61
+00:04:26,040 --> 00:04:28,286
+targets, checklists and
+standardised process
+
+62
+00:04:28,287 --> 00:04:30,554
+definitions for use in the organisation.
+
+63
+00:04:31,120 --> 00:04:36,460
+Templates, for example, project management
+plans, project documents, project
+
+64
+00:04:36,461 --> 00:04:41,520
+registers, report formats, contract
+templates, risk categories, risk statement
+
+65
+00:04:41,521 --> 00:04:46,880
+templates, probability and impact
+definitions, probability and impact
+
+66
+00:04:46,881 --> 00:04:52,220
+matrices and stakeholder register
+templates and pre-approved supplier lists
+
+67
+00:04:52,221 --> 00:04:57,040
+and various types of contractual
+agreements for example fixed price cost
+
+68
+00:04:57,041 --> 00:05:00,004
+reimbursable and time
+and materials contracts
+
+69
+00:05:00,005 --> 00:05:02,614
+as we will cover in the
+cost knowledge area.
+
+70
+00:05:03,600 --> 00:05:08,180
+Executing monitoring and controlling
+change control procedures including the
+
+71
+00:05:08,181 --> 00:05:12,860
+steps by which performing organization
+standards, policies, plans and procedures
+
+72
+00:05:12,861 --> 00:05:17,263
+or any document, any project
+documents will be modified
+
+73
+00:05:17,264 --> 00:05:20,281
+and how any changes will
+be approved and validated.
+
+74
+00:05:20,940 --> 00:05:27,120
+Traceability matrices, financial control
+procedures, for example, shed reporting,
+
+75
+00:05:27,820 --> 00:05:30,793
+require expenditure and
+disbursement reviews,
+
+76
+00:05:30,794 --> 00:05:33,711
+accounting codes and
+standard contracting provisions.
+
+77
+00:05:34,520 --> 00:05:39,300
+Issuing defect management procedures,
+for example, defining a and defect
+
+78
+00:05:39,301 --> 00:05:44,880
+controls, identify and resolving issues
+and defects and tracking action items.
+
+79
+00:05:45,660 --> 00:05:48,560
+Resource availability control and
+assignment management.
+
+80
+00:05:49,660 --> 00:05:53,620
+Organizational communication requirements,
+for example, specific communications
+
+81
+00:05:53,621 --> 00:05:59,300
+technology available, authorised
+communication media, record retention
+
+82
+00:05:59,301 --> 00:06:04,634
+policies, video conferencing, collaborative
+tools and security requirements.
+
+83
+00:06:05,100 --> 00:06:08,160
+Procedures for prioritising approving and
+issuing work.
+
+84
+00:06:08,161 --> 00:06:11,439
+in work authorizations,
+templates, for example,
+
+85
+00:06:11,440 --> 00:06:14,294
+risk register, issue log and change log.
+
+86
+00:06:15,000 --> 00:06:19,720
+Standardised guidelines, work
+instructions, proposed evaluation criteria
+
+87
+00:06:19,721 --> 00:06:22,863
+and performance measurement
+and criteria and product
+
+88
+00:06:22,864 --> 00:06:25,940
+service or result verification
+and validation procedures.
+
+89
+00:06:27,260 --> 00:06:28,460
+That brings the closing.
+
+90
+00:06:29,480 --> 00:06:33,540
+Project closure guidelines or
+requirements, example, final project
+
+91
+00:06:33,541 --> 00:06:38,620
+audits, project evaluations, deliverable
+acceptance, contract disclosure,
+
+92
+00:06:39,000 --> 00:06:43,960
+resource assignments and knowledge
+transfer to production and or operations.
+
+93
+00:06:44,760 --> 00:06:46,540
+Category 2.
+
+94
+00:06:46,700 --> 00:06:51,560
+Organizational Knowledge Repositories The
+organizational knowledge repositories for
+
+95
+00:06:51,561 --> 00:06:55,540
+storing and retrieving information include
+the configuration management knowledge
+
+96
+00:06:55,541 --> 00:07:00,300
+repositories containing the versions of
+software and hardware components and
+
+97
+00:07:00,301 --> 00:07:04,038
+baselines of all performing
+organization standards,
+
+98
+00:07:04,039 --> 00:07:06,860
+policies, procedures and
+any project documents.
+
+99
+00:07:06,861 --> 00:07:12,200
+Financial data repositories containing
+information such as labour hours,
+
+100
+00:07:12,760 --> 00:07:17,300
+incurred costs, budgets and any project
+cost overruns.
+
+101
+00:07:17,301 --> 00:07:21,680
+Historical information and lessons learn
+knowledge repositories, e.g.
+
+102
+00:07:22,240 --> 00:07:26,220
+project records and documents,
+or project closure information and
+
+103
+00:07:26,221 --> 00:07:30,540
+documentation, information regarding both
+the results of previous project selection,
+
+104
+00:07:31,240 --> 00:07:34,385
+decisions and previous
+project performance information
+
+105
+00:07:34,386 --> 00:07:36,901
+and information from
+risk management activities.
+
+106
+00:07:37,560 --> 00:07:45,420
+Issue and defect management data
+repositories contain issue and defect
+
+107
+00:07:45,421 --> 00:07:51,100
+status control information, issue and
+defect resolution and action item results.
+
+108
+00:07:52,060 --> 00:07:58,340
+Data repositories for matrices used to
+collect and make available measurements
+
+109
+00:07:58,341 --> 00:08:03,880
+data to processes and products and project
+files in previous projects, for example
+
+110
+00:08:03,881 --> 00:08:09,300
+scope, cost, schedule and performance
+measurement baselines, project calendars,
+
+111
+00:08:09,740 --> 00:08:12,378
+project schedule network diagrams, risk
+
+112
+00:08:12,379 --> 00:08:16,760
+registers, risk reports
+and stakeholder registers.
+
+113
+00:08:17,360 --> 00:08:19,472
+And reminder, this is a list of what's
+
+114
+00:08:19,473 --> 00:08:23,054
+typically held in
+organizational process assets.
+
+115
+00:08:23,500 --> 00:08:26,600
+And that brings us to the end of
+organizational process assets.
+
+116
+00:08:26,760 --> 00:08:30,180
+Next lesson is 2.3 organizational systems.
+
+117
+00:08:30,480 --> 00:08:32,439
+Please read the corresponding chapter in
+
+118
+00:08:32,481 --> 00:08:34,631
+the PIMBOC guide
+before watching the video.
+

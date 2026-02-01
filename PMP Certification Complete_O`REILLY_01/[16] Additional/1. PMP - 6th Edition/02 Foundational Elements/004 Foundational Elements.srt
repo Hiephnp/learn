@@ -1,0 +1,323 @@
+﻿1
+00:00:14,080 --> 00:00:20,140
+Hello, welcome to 1.0 Foundational
+Elements Module Overview.
+
+2
+00:00:20,440 --> 00:00:26,180
+In this module we're going to cover 1.0
+Foundational Elements Module Overview,
+
+3
+00:00:26,520 --> 00:00:27,520
+which is this video.
+
+4
+00:00:27,960 --> 00:00:33,120
+1.1 projects, 1.2, the importance of
+project management.
+
+5
+00:00:33,720 --> 00:00:36,955
+1.3, the relationship between project,
+
+6
+00:00:36,956 --> 00:00:40,260
+program, portfolio and
+operations management.
+
+7
+00:00:40,261 --> 00:00:46,516
+1.4 components of the PIMBOC
+guide, 1.5, tailoring, and 1.
+
+8
+00:00:46,517 --> 00:00:48,900
+6, project management business documents.
+
+9
+00:00:49,620 --> 00:00:52,877
+Now, I would expect that
+you probably became a
+
+10
+00:00:52,878 --> 00:00:55,854
+project manager in much
+the same way that I did.
+
+11
+00:00:56,320 --> 00:00:58,640
+I was an accidental project manager.
+
+12
+00:00:59,380 --> 00:01:02,357
+I was a software developer
+and so I was an expert
+
+13
+00:01:02,358 --> 00:01:05,274
+in the specialist work
+that had to be performed.
+
+14
+00:01:05,760 --> 00:01:08,621
+And when a customer wanted
+a new system developed,
+
+15
+00:01:08,622 --> 00:01:10,240
+I was sent to the customer
+site for your service.
+
+16
+00:01:10,260 --> 00:01:14,920
+few weeks to discuss in detail what the
+customer wanted and then I would work
+
+17
+00:01:14,921 --> 00:01:19,780
+alongside the customer to scope the work
+and then provide a quote for the cost.
+
+18
+00:01:20,000 --> 00:01:23,762
+When the customer signed
+a contract I would be given
+
+19
+00:01:23,763 --> 00:01:27,520
+a team a budget and a
+deadline and that was it.
+
+20
+00:01:28,080 --> 00:01:34,660
+I was a technology and business expert but
+I was somehow expected to make all this
+
+21
+00:01:34,661 --> 00:01:38,820
+magical stuff happen within budgets and
+within timescales.
+
+22
+00:01:39,300 --> 00:01:44,840
+So based Basically, my method was to work
+really hard day and night.
+
+23
+00:01:45,720 --> 00:01:48,580
+I worked my team really hard day and out
+too.
+
+24
+00:01:49,100 --> 00:01:51,147
+And if they started to fall behind, then I
+
+25
+00:01:51,148 --> 00:01:53,814
+would do some of their
+specialist work as well.
+
+26
+00:01:54,240 --> 00:01:56,640
+That's not the way to manage your project,
+is it?
+
+27
+00:01:57,420 --> 00:02:02,460
+My company provided me with what they
+called project management software,
+
+28
+00:02:02,820 --> 00:02:03,740
+but it wasn't.
+
+29
+00:02:04,000 --> 00:02:07,560
+It was just a program for creating a
+project schedule.
+
+30
+00:02:07,561 --> 00:02:13,580
+It was a good program and project schedule
+is an essential tool for any project
+
+31
+00:02:13,581 --> 00:02:17,660
+manager but it does not somehow manage
+projects.
+
+32
+00:02:17,840 --> 00:02:22,514
+I was required to produce a
+project plan for each project and
+
+33
+00:02:22,515 --> 00:02:26,660
+by project plan they meant a
+project schedule or Gant chart.
+
+34
+00:02:26,800 --> 00:02:32,400
+A project schedule is not a project plan
+as we will cover in detail later.
+
+35
+00:02:33,080 --> 00:02:39,800
+So my projects were completed on time but
+my team and I'm were paying the price.
+
+36
+00:02:40,280 --> 00:02:42,060
+We were slaves to the system.
+
+37
+00:02:42,960 --> 00:02:47,249
+I began researching project
+management and I improved my techniques
+
+38
+00:02:47,250 --> 00:02:51,940
+and I developed templates and
+Excel and in word documents.
+
+39
+00:02:52,660 --> 00:02:55,960
+But my greatest step
+forward of course was when I
+
+40
+00:02:55,961 --> 00:02:59,560
+discovered the PIMBOC guide
+by PMI about 20 years ago.
+
+41
+00:03:00,480 --> 00:03:05,660
+PIMBOC stands for a guide to the project
+management body of knowledge.
+
+42
+00:03:06,720 --> 00:03:11,960
+This taught me in detail how to do all
+sorts of project-related processes,
+
+43
+00:03:12,680 --> 00:03:15,960
+but I was still lacking an overall
+structure and methodology.
+
+44
+00:03:17,480 --> 00:03:20,000
+Every project manager works out their own
+method.
+
+45
+00:03:20,640 --> 00:03:25,380
+Some are okay, some are bad and some are
+worse than useless.
+
+46
+00:03:26,340 --> 00:03:31,380
+What you need is a reliable, repeatable
+method that is due to the test of time and
+
+47
+00:03:31,381 --> 00:03:34,973
+every industry, every size,
+and every type of company,
+
+48
+00:03:34,974 --> 00:03:37,931
+in every project, in every
+country, and every culture.
+
+49
+00:03:38,680 --> 00:03:41,143
+A method does not expect you as project
+
+50
+00:03:41,144 --> 00:03:44,974
+manager to work day
+and night in panic mode.
+
+51
+00:03:45,360 --> 00:03:48,560
+And that method is surprisingly Prince 2.
+
+52
+00:03:49,060 --> 00:03:54,380
+This is a truly generic method that means
+it works on any project anyway.
+
+53
+00:03:55,080 --> 00:03:59,060
+But why am I talking about Prince 2 on a
+PMP course?
+
+54
+00:03:59,560 --> 00:04:05,640
+It's because, as we will discuss later,
+the PIMBOC guide is not a methodology.
+
+55
+00:04:06,540 --> 00:04:07,690
+Does that surprise you?
+
+56
+00:04:08,520 --> 00:04:12,320
+The PIMBUC guide is very
+strong and detailed techniques
+
+57
+00:04:12,321 --> 00:04:16,580
+but leaves the overall
+structure to the project manager.
+
+58
+00:04:17,440 --> 00:04:21,152
+But Prince 2 is a structure
+and it leaves many of
+
+59
+00:04:21,153 --> 00:04:24,420
+the detailed techniques
+to the project manager.
+
+60
+00:04:25,600 --> 00:04:31,280
+And so a lot of people say to me after
+they get to PMP certification, what's next?
+
+61
+00:04:31,281 --> 00:04:34,200
+how can I advance my career even more?
+
+62
+00:04:34,300 --> 00:04:41,260
+And so I would suggest once you got your
+PMP certification, consider studying for
+
+63
+00:04:41,261 --> 00:04:45,100
+Prince II and get the Prince II
+practitioner certification as well,
+
+64
+00:04:45,460 --> 00:04:48,760
+and then you will start getting a lot more
+job offers.
+
+65
+00:04:49,220 --> 00:04:54,960
+So we're about to start the very first
+lesson, which is 1.1 projects.
+
+66
+00:04:55,280 --> 00:04:57,340
+Please read the corresponding chapter in
+
+67
+00:04:57,382 --> 00:04:59,641
+the PINBOC guide
+before watching the video.
+

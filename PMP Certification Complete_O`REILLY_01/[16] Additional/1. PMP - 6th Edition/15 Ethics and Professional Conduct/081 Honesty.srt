@@ -1,0 +1,310 @@
+﻿1
+00:00:13,980 --> 00:00:16,240
+14.4, honesty.
+
+2
+00:00:16,740 --> 00:00:20,540
+You'll find this in Chapter 5 of the Code
+of Ethics and Professional Conduct.
+
+3
+00:00:20,900 --> 00:00:21,733
+Honesty.
+
+4
+00:00:22,100 --> 00:00:23,250
+Description of honesty.
+
+5
+00:00:24,000 --> 00:00:28,628
+Honesty is our duty to
+understand the truth and to act in a
+
+6
+00:00:28,629 --> 00:00:32,740
+truthful manner both in our
+communications and in our conduct.
+
+7
+00:00:33,500 --> 00:00:35,500
+Honesty, aspirational standards.
+
+8
+00:00:36,080 --> 00:00:38,885
+As practitioners in the
+global project management
+
+9
+00:00:38,886 --> 00:00:42,300
+community, one, we earnestly
+seek to understand the truth.
+
+10
+00:00:42,880 --> 00:00:43,960
+Two, we are truthful.
+
+11
+00:00:43,980 --> 00:00:46,840
+in our communications and in our conduct.
+
+12
+00:00:47,300 --> 00:00:48,133
+3.
+
+13
+00:00:48,220 --> 00:00:51,320
+We provide accurate information in a
+timely manner.
+
+14
+00:00:51,680 --> 00:00:52,513
+Comment.
+
+15
+00:00:53,160 --> 00:00:58,700
+An implication of these provisions is that
+we take appropriate steps to ensure that
+
+16
+00:00:58,701 --> 00:01:02,356
+the information we are
+based on our decisions upon or
+
+17
+00:01:02,357 --> 00:01:06,140
+providing to others is
+accurate, reliable and timely.
+
+18
+00:01:06,680 --> 00:01:09,169
+This includes having the courage to share
+
+19
+00:01:09,170 --> 00:01:12,394
+bad use even when it
+may be poorly received.
+
+20
+00:01:12,520 --> 00:01:15,791
+Also, when outcomes are negative, we avoid
+
+21
+00:01:15,792 --> 00:01:19,220
+burying information or
+shifting blame to others.
+
+22
+00:01:20,040 --> 00:01:25,274
+When outcomes are positive, we avoid taking
+credit for the achievement of others.
+
+23
+00:01:25,700 --> 00:01:30,220
+These provisions reinforce our commitment
+to be both honest and responsible.
+
+24
+00:01:31,040 --> 00:01:36,500
+Four, we make commitments and promises
+implied or explicit in good faith.
+
+25
+00:01:36,940 --> 00:01:42,740
+We strive to create an environment in
+which others feel safe to tell the truth.
+
+26
+00:01:43,060 --> 00:01:45,100
+Honesty, mandatory standards.
+
+27
+00:01:45,820 --> 00:01:49,480
+As practitioners of the global project
+management community, we require the
+
+28
+00:01:49,481 --> 00:01:52,580
+following of ourselves and our fellow
+practitioners.
+
+29
+00:01:53,320 --> 00:01:58,220
+One, we do not engage in or condone
+behaviour that is designed to deceive
+
+30
+00:01:58,221 --> 00:02:02,900
+others, including but not limited to
+making misleading or false statements,
+
+31
+00:02:03,480 --> 00:02:08,120
+stating have truths, providing information
+out of context, or withholding information
+
+32
+00:02:08,121 --> 00:02:13,020
+that, if known, would render our
+statements as misleading or incomplete.
+
+33
+00:02:14,140 --> 00:02:17,956
+Two, we do not engage in
+dishonest behavior with the
+
+34
+00:02:17,957 --> 00:02:21,760
+intention of personal gain
+or at the expense of another.
+
+35
+00:02:22,260 --> 00:02:25,580
+Now actually I have an issue with standard
+number two.
+
+36
+00:02:26,180 --> 00:02:31,080
+It says we do not engage in dishonest
+behavior with the intention of personal
+
+37
+00:02:31,081 --> 00:02:36,940
+gain or the expensive another because this
+sounds like well it's okay to be dishonest
+
+38
+00:02:36,941 --> 00:02:42,914
+as long as you don't intend to gain personally
+or at the expense of another person.
+
+39
+00:02:43,240 --> 00:02:47,720
+I think it should just be we do not engage
+in dishonest behavior.
+
+40
+00:02:48,080 --> 00:02:50,280
+And that's actually reminded me of
+something.
+
+41
+00:02:50,480 --> 00:02:56,740
+In the earlier days of the PMP
+examination, they used to have questions
+
+42
+00:02:56,741 --> 00:03:00,900
+on the exam on the Code of Ethics and
+Professional Conduct.
+
+43
+00:03:01,420 --> 00:03:03,656
+The original Code of
+Ethics and Professional
+
+44
+00:03:03,657 --> 00:03:06,700
+Conduct was actually
+like a little one-sheet thing.
+
+45
+00:03:06,860 --> 00:03:09,260
+That's quite a few sheets that's been
+expanded.
+
+46
+00:03:09,340 --> 00:03:13,750
+out, but you don't actually
+get specific questions
+
+47
+00:03:13,751 --> 00:03:17,680
+on the Code of Ethics
+and Professional Conduct.
+
+48
+00:03:18,340 --> 00:03:25,660
+What you do get questions where you need
+to understand the code in order to answer
+
+49
+00:03:25,661 --> 00:03:29,960
+the question because you might get two
+answers which appear correct.
+
+50
+00:03:30,400 --> 00:03:34,336
+One of them is obeying Code
+of Ethics and Professional
+
+51
+00:03:34,337 --> 00:03:37,580
+Conduct and the other
+one is not obeying the code.
+
+52
+00:03:37,800 --> 00:03:41,920
+And so obviously you choose the answer
+which obeys the Code.
+
+53
+00:03:43,260 --> 00:03:47,980
+Comment, the aspirational standards exhort
+us to be truthful, half-truths and
+
+54
+00:03:47,981 --> 00:03:51,589
+non-disclosures intended
+to mislead stakeholders or as
+
+55
+00:03:51,590 --> 00:03:56,760
+unprofessional is affirmately
+making misrepresentations.
+
+56
+00:03:57,360 --> 00:04:01,640
+We develop credibility by providing
+complete and accurate information.
+
+57
+00:04:02,940 --> 00:04:05,740
+And that brings us to the end of honesty.
+
+58
+00:04:06,520 --> 00:04:08,420
+We have reached the end of the course.
+
+59
+00:04:08,560 --> 00:04:13,160
+Thank you for joining me on this journey
+and I'm sure that you're not got a much
+
+60
+00:04:13,161 --> 00:04:16,940
+better understanding of the PIMBOC guide
+and the Code of Ethics and Professional
+
+61
+00:04:16,941 --> 00:04:22,054
+Conduct and probably, you know, a little
+bit more about project management itself.
+
+62
+00:04:22,600 --> 00:04:27,140
+And with that understanding, it will
+become clearer as you watch the videos
+
+63
+00:04:27,141 --> 00:04:30,280
+again and you progressively elaborate your
+knowledge.
+
+64
+00:04:31,020 --> 00:04:31,853
+Thank you.
+
+65
+00:04:32,260 --> 00:04:34,520
+And good luck with the PMP examination.
+

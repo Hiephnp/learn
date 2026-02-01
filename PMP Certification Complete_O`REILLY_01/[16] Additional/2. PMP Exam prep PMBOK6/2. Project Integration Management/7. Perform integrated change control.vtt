@@ -1,0 +1,433 @@
+WEBVTT
+
+00:00.720 --> 00:02.290
+Hi Guys welcome back.
+
+00:02.310 --> 00:08.560
+So now we are going to talk about change control process and how it should be managed in a project.
+
+00:08.940 --> 00:12.280
+But before that we need to understand what a change control is.
+
+00:12.270 --> 00:19.230
+So basically here the change means that any change which you do to any project deliverables.
+
+00:19.350 --> 00:27.630
+It could be Duckman it could be a requirement called anything basically which is part of the project
+
+00:27.630 --> 00:28.740
+deliverables.
+
+00:28.740 --> 00:35.970
+Now technically this is performed toward the project where you review and approve the changes.
+
+00:35.970 --> 00:44.870
+But for practical purpose and change control process kicks in once the document is signed off and just
+
+00:44.870 --> 00:48.440
+like let's say a project has started now.
+
+00:48.680 --> 00:54.320
+You'll continue or others start reviewing the changes and approving them.
+
+00:54.450 --> 01:00.780
+But after initial round of requirement gathering that let's say if it's a waterfall then there will
+
+01:00.780 --> 01:06.180
+be a dedicated phase for requirement gathering for a Jain.
+
+01:06.360 --> 01:11.590
+There will be Spruance where you will be in on a the product backlog.
+
+01:11.850 --> 01:19.190
+So whether you are doing a design or waterfall you will reach a point when the requirements are frozen
+
+01:19.200 --> 01:26.520
+they are signed up for that phase for that Sprint and you are not expected to make any changes in that
+
+01:26.690 --> 01:29.910
+and this is the baseline version this is called baselining.
+
+01:29.910 --> 01:36.180
+When you sign off and sign off is not a one step process again you will have to walk through the entire
+
+01:36.180 --> 01:42.450
+document all the requirements in it with all the stakeholders the sponsors they will approve it and
+
+01:42.480 --> 01:44.930
+after getting that baseline.
+
+01:45.180 --> 01:53.670
+Now if any change is proposed in this document Lets say you get a new requirement now that will go to
+
+01:53.670 --> 01:55.370
+the change control process.
+
+01:55.380 --> 02:02.350
+Now most of the organization already have some kind of processes lets say if you receive a change control
+
+02:02.420 --> 02:08.530
+Well the overall effort is less than 40 hours which is less than a week.
+
+02:08.580 --> 02:14.940
+In that case a lot of companies process them you know directly accept and approve them and they start
+
+02:14.940 --> 02:16.360
+working on them.
+
+02:16.360 --> 02:23.130
+But lets see if it is going to take more than a week then it will go to a different channel or it will
+
+02:23.130 --> 02:29.550
+go through funding and the release management where its delivery will be planned separately.
+
+02:29.550 --> 02:31.730
+So all of that does change control process.
+
+02:31.740 --> 02:37.520
+But again the 40 US example which I took is just an example it could be 10 hours it could be 40 hours
+
+02:37.520 --> 02:39.090
+it could be $400.
+
+02:39.090 --> 02:45.120
+And so largely depends upon the organization and the bandwidth of that in the kind of work they do.
+
+02:45.420 --> 02:50.810
+But most of the companies today will have a change control board CCV.
+
+02:51.000 --> 02:58.530
+Now that board usually consist of project managers sponsors important stakeholders and they review these
+
+02:58.530 --> 02:59.220
+changes.
+
+02:59.220 --> 03:05.770
+They approved these changes and the processes performed throughout the project as I said earlier.
+
+03:05.970 --> 03:14.150
+But it largely change the board is involved after the document or the requirements of baseline and a
+
+03:14.170 --> 03:16.460
+change control or other change.
+
+03:16.460 --> 03:21.350
+The worst is in itself can be a project a mini project.
+
+03:21.390 --> 03:27.650
+It may have multiple requirements it could be small it could be a big change are so big that you can't
+
+03:27.660 --> 03:33.940
+even Enorme accommodate in the current release and you may have to plan for the new release.
+
+03:34.110 --> 03:38.320
+So don't assume that these changes are usually small these changes could be big.
+
+03:38.820 --> 03:45.920
+And anybody any stakeholder can propose change if the question is that who can propose a change request
+
+03:45.920 --> 03:47.200
+or change control.
+
+03:48.200 --> 03:53.810
+Remember that any stakeholder can ask you to make change and change here as I said earlier refers to
+
+03:53.810 --> 04:01.790
+the change in the existing requirements documents corde or any other set up in the project.
+
+04:02.010 --> 04:06.770
+And yes even a full stakeholder is asking you verbally.
+
+04:06.790 --> 04:13.260
+Let's say you are well in the document you are in submitting your stakeholders verbally asking you to
+
+04:13.260 --> 04:17.030
+make the change and you are responsible for documenting that.
+
+04:17.040 --> 04:23.310
+So if you are a project manager or even a business analyst or anybody else if you receive a change to
+
+04:23.490 --> 04:32.570
+any medium you have to document that and every undocumented change request will be reviewed approved
+
+04:33.090 --> 04:36.570
+in NASA approved a decision will be taken on that.
+
+04:36.570 --> 04:43.130
+So genes control board can also decide to defer the change request because you know it could be any
+
+04:43.130 --> 04:48.830
+reason they may not have enough money at that stage and there may not be enough resources or other resources
+
+04:49.280 --> 04:54.140
+and they may simply decline saying that it is not correct or it is not important.
+
+04:55.140 --> 05:03.500
+So all change requests are not approved and once a change request is approved it will go through its
+
+05:03.570 --> 05:10.080
+cycle of in-home cost estimation activities sequence and what milestones will be unlike the schedule
+
+05:10.080 --> 05:12.930
+dates for delivery will be finalized.
+
+05:13.140 --> 05:19.470
+And you know resource management and all of that project management will happen for that change request
+
+05:19.470 --> 05:20.230
+also.
+
+05:21.310 --> 05:25.000
+And these other inboards tools and techniques and the output.
+
+05:25.240 --> 05:30.370
+So as far as input is concerned we have project management plan where we have the change management
+
+05:30.370 --> 05:36.190
+plan configuration management plan is called baseline schedule baseline cost baseline.
+
+05:36.370 --> 05:44.530
+So we're going to understand that when I say that it is kind of and baseline all of this will be part
+
+05:44.530 --> 05:52.150
+of in part because when we say that the document has been baseline and it means it implies that the
+
+05:52.450 --> 05:53.250
+is finalized.
+
+05:53.260 --> 05:58.520
+We know that this is the change we are going to do for this project for this phase.
+
+05:58.540 --> 06:06.550
+Now if I am going to make any change to this requirement this functionality it will also impact the
+
+06:07.420 --> 06:16.000
+current scoup and KIDU cost all of that change management plan basically provide direction for managing
+
+06:16.000 --> 06:17.890
+the change control process.
+
+06:17.890 --> 06:24.320
+As I mentioned earlier there could be rules of those 40 years and those kind of rules.
+
+06:24.460 --> 06:31.840
+So you may have a process and change management plan will simply guide that process and configuration
+
+06:31.840 --> 06:40.260
+management and basically guides what all updates will be made in the documents and other processes.
+
+06:40.360 --> 06:42.500
+If theres a change request.
+
+06:42.640 --> 06:50.500
+So this is required to make sure that we follow standard procedures in the event of a change request
+
+06:51.040 --> 06:59.650
+and then we have the project documents again the basis of estimates which you saw earlier for any change.
+
+06:59.840 --> 07:05.850
+We are going to estimate that so initially when we estimate a project we have certain set of requirements.
+
+07:05.860 --> 07:14.290
+We know the features we are expected to deliver but if we receive a change after that it is going to
+
+07:14.290 --> 07:16.060
+impact the basis of estimates.
+
+07:16.050 --> 07:22.860
+So this is going to be our input here of course the requirement traceability Texaco untraceable dramatics
+
+07:22.870 --> 07:29.530
+is basically a quality feature which is done to create a requirement from all reason to delivery.
+
+07:29.530 --> 07:34.770
+So if there is a new requirement it is going to impact the requirement visibility.
+
+07:34.780 --> 07:38.830
+So lets say we are talking about a website now.
+
+07:39.020 --> 07:45.200
+Initially there was a requirement that this website should have a search feature.
+
+07:45.370 --> 07:55.420
+So we created a search bar like you see in Google or YouTube but this requirement never talked about
+
+07:55.990 --> 08:00.050
+having additional features we are let's if you type.
+
+08:00.130 --> 08:07.390
+When you start typing in that spot we should display I know options the option the options you usually
+
+08:07.390 --> 08:10.770
+see in youtube or other websites.
+
+08:10.780 --> 08:14.270
+Let me quickly jump into the Google and show you how it appears.
+
+08:14.460 --> 08:23.690
+So I will go to Google dot com Now here if I type anything it will give it to the star balloon to display
+
+08:23.690 --> 08:29.240
+certain options which are related to what I have entered in the search bar.
+
+08:29.680 --> 08:38.690
+See now you can see that it it is displaying this variety of options here cartoon and there these numerous
+
+08:38.750 --> 08:39.450
+options.
+
+08:39.620 --> 08:45.620
+Point is this is an additional feature or this is something which is which may look small but.
+
+08:45.760 --> 08:51.040
+And if you are in technology you know it is then using a technology called GICs.
+
+08:51.110 --> 08:58.510
+Now SGX it will require dedicated coding dedicated for testing design of development everything.
+
+08:58.580 --> 09:00.340
+This is not a small change.
+
+09:00.530 --> 09:09.020
+Initially even we estimated the project dysfunctionality based on X was not estimated because this requirement
+
+09:09.020 --> 09:10.420
+was not there.
+
+09:10.470 --> 09:13.250
+Now we had a requirement for such.
+
+09:13.400 --> 09:17.930
+And we had a requirement traceability for that search requirement.
+
+09:17.960 --> 09:20.560
+Now we will update that requirement.
+
+09:20.660 --> 09:27.020
+We will upgrade that traceability with this additional information to make sure that this is also tracked
+
+09:27.170 --> 09:28.520
+and maintained.
+
+09:28.700 --> 09:33.220
+And then of course any change in the project will have risk.
+
+09:33.260 --> 09:36.830
+So Risk report will also be part of our input.
+
+09:37.160 --> 09:38.910
+So let's go back slide.
+
+09:39.350 --> 09:44.530
+And of course we have the perf so he performs support in first.
+
+09:44.540 --> 09:52.580
+He says in my mind are two factors and the organizational process assets and for tools and techniques
+
+09:52.850 --> 10:00.190
+we have again the usual suspect except when you can see that we have two new options the autocratic
+
+10:00.200 --> 10:06.500
+decision making where one individual takes the responsibility for making the decision for the entire
+
+10:06.500 --> 10:11.810
+group could be project manager could be sponsor it could be a technical lead and then we have to meet
+
+10:11.810 --> 10:13.670
+the criteria or decision analysis.
+
+10:13.670 --> 10:20.510
+Basically it's a decision matrix to provide a systematic analytical approach to evaluate the requested
+
+10:20.570 --> 10:23.990
+changes according to a set of predefined criteria.
+
+10:23.990 --> 10:27.110
+So let's say I was talking about that as Exchange.
+
+10:27.110 --> 10:33.050
+So in this case we may have certain rules you know based on the technology and the kind of technology
+
+10:33.410 --> 10:36.680
+and then structure it will need things like that.
+
+10:36.680 --> 10:43.850
+So every organization every project will have their own predefined rules and they will use that for
+
+10:44.050 --> 10:46.390
+our multi criteria or decision analysis.
+
+10:46.400 --> 10:52.540
+Other than that we have to do analysis which I had mentioned earlier that it is used to assess the requested
+
+10:52.550 --> 10:57.080
+changes and decide which are accepted so as you can see alternatives.
+
+10:57.180 --> 11:04.700
+So we are looking at the alternative Sometimes the change may be good or really good but there is a
+
+11:04.700 --> 11:09.650
+workaround which is cheaper and we don't have to make any changes for that in that case.
+
+11:09.740 --> 11:17.660
+Stakeholders may opt for that workaround which is not so automatic no not so clean but it's cheap and
+
+11:17.990 --> 11:19.880
+we don't have to make any changes for that.
+
+11:19.880 --> 11:23.330
+So they may go ahead with that same line.
+
+11:23.330 --> 11:30.360
+We had the cost benefit analysis so they are going to do with the cost benefit of the change wording
+
+11:30.380 --> 11:33.440
+simply refers to the process of voting.
+
+11:33.700 --> 11:41.390
+And as the output of this process of perform and degree to change control we will have approved change
+
+11:41.470 --> 11:49.580
+first project management plan update and document updates and these other applications of all the changes
+
+11:49.970 --> 11:56.010
+or anything you do in change control process will impact all of these.
+
+11:56.030 --> 12:02.810
+So largely everything we can see that we have direct and manage Project Vote change quality control
+
+12:02.810 --> 12:09.770
+procurement project management plan update's project document upbraids a variety of other stuff like
+
+12:09.770 --> 12:16.790
+you know a resources monitor communications plan procurement management monitoring stakeholder engagement
+
+12:16.790 --> 12:24.350
+validates Qube devlopment the side of the team plan risk responses conduct procurement control the school
+
+12:24.650 --> 12:31.450
+manage team implement risk responses control procurement control schedule control resources monitor
+
+12:31.460 --> 12:39.740
+risk identify a stakeholder control cost manage quality control quality manage the stakeholder engagement
+
+12:39.740 --> 12:47.720
+so basically variety of things so because as I said earlier a change in itself can be a project.
+
+12:47.750 --> 12:52.600
+So and when we talk about product we are dealing with all of these we have to manage the stakeholders.
+
+12:52.610 --> 12:59.260
+We have to manage the quality we have to manage the cost scoup quality all of it.
+
+12:59.570 --> 13:06.740
+So that's why this integrated change control management will have applications on all of these things.
+
+13:07.010 --> 13:09.440
+So that's it for now and the next video.
+
+13:09.440 --> 13:13.170
+We will continue with PLO's project trophy's activity.
+
+13:13.220 --> 13:13.840
+Thank you.

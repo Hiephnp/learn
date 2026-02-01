@@ -1,0 +1,710 @@
+﻿1
+00:00:13,880 --> 00:00:19,580
+Module 14 Ethics and Professional
+Responsibility, module overview.
+
+2
+00:00:20,460 --> 00:00:24,220
+For many years, project management was not
+considered a profession.
+
+3
+00:00:24,840 --> 00:00:28,100
+And in fact, many people today still think
+it's not a profession.
+
+4
+00:00:28,540 --> 00:00:33,960
+The main reason for this is that many
+on-train people manage a piece of work to
+
+5
+00:00:33,961 --> 00:00:38,400
+completion and then start calling
+themselves a project manager.
+
+6
+00:00:39,000 --> 00:00:42,872
+This is like looking after your
+Aunt Jemima when she has
+
+7
+00:00:42,873 --> 00:00:46,720
+the flu, and then calling
+yourself a doctor or a surgeon.
+
+8
+00:00:47,340 --> 00:00:49,870
+However, there are a couple of things that
+
+9
+00:00:49,871 --> 00:00:53,060
+sets a profession apart
+from an ordinary job.
+
+10
+00:00:53,460 --> 00:00:57,540
+And these things would include that a
+profession has entry requirements,
+
+11
+00:00:58,040 --> 00:01:02,720
+education, special training,
+certification, a body of knowledge,
+
+12
+00:01:03,140 --> 00:01:05,780
+which we call a book, and a code of
+ethics.
+
+13
+00:01:06,840 --> 00:01:12,460
+On this course, we've covered the body of
+knowledge, PIMBOC, and you have the
+
+14
+00:01:12,461 --> 00:01:17,560
+education training for your job and you're
+probably studying towards your PMP
+
+15
+00:01:17,561 --> 00:01:23,480
+certification and now in this module we're
+covering the code of ethics and
+
+16
+00:01:23,481 --> 00:01:29,100
+professional conduct which all adds up to
+the professional project management what
+
+17
+00:01:29,101 --> 00:01:34,360
+we will cover in this module 14.0 ethics
+and professional responsibility module
+
+18
+00:01:34,361 --> 00:01:39,500
+overview which is this video 14.1
+responsibility responsibility,
+
+19
+00:01:40,040 --> 00:01:46,140
+14.2, respect, 14.3, fairness and 14.4,
+honesty.
+
+20
+00:01:46,880 --> 00:01:51,649
+First of all, we will examine
+the vision and applicability, 1.
+
+21
+00:01:51,650 --> 00:01:53,494
+1, vision and purpose.
+
+22
+00:01:54,940 --> 00:01:57,843
+As practitioners of project
+management, we are
+
+23
+00:01:57,844 --> 00:02:00,634
+committed to doing what
+is right and honourable.
+
+24
+00:02:01,000 --> 00:02:05,660
+We set high standards for ourselves and
+aspire to meet those standards in all
+
+25
+00:02:05,661 --> 00:02:11,514
+aspects of our lives, at work, at home,
+and in the service of her profession.
+
+26
+00:02:11,720 --> 00:02:16,300
+Remembering that this is not from the
+PIMBOC guide, and though this is
+
+27
+00:02:16,301 --> 00:02:23,580
+examinable material, this is from a
+separate document called the PMI Code of
+
+28
+00:02:23,581 --> 00:02:29,714
+Ethics and Professional Contact, which you
+can download free from the PMI website.
+
+29
+00:02:30,680 --> 00:02:36,560
+And did you notice that we are called to
+be ethical in all aspects of our lives,
+
+30
+00:02:37,060 --> 00:02:38,660
+at work and at home?
+
+31
+00:02:38,920 --> 00:02:43,620
+That means if we're not managing projects
+and even when we're not at work,
+
+32
+00:02:44,180 --> 00:02:49,440
+as long as we are in any way connected
+with PMI, the Project Management
+
+33
+00:02:49,441 --> 00:02:53,260
+Institute, we must aspire to meet those
+standards.
+
+34
+00:02:54,280 --> 00:02:59,440
+It goes on to say this code of ethics and
+professional conduct describes the
+
+35
+00:02:59,441 --> 00:03:03,064
+expectations that we have
+of ourselves on our fellow
+
+36
+00:03:03,065 --> 00:03:06,640
+practitioners in the global
+project management community.
+
+37
+00:03:06,641 --> 00:03:12,560
+Now, did you notice that it says it's not
+just ourselves, we have to watch out for
+
+38
+00:03:12,561 --> 00:03:17,080
+our fellow practitioners in the global
+project management community is to make
+
+39
+00:03:17,081 --> 00:03:19,930
+sure that they are behaving ethically as
+well.
+
+40
+00:03:20,420 --> 00:03:23,560
+However, we do not have to obey the whole
+code.
+
+41
+00:03:24,280 --> 00:03:26,280
+Certain codes we must obey.
+
+42
+00:03:26,960 --> 00:03:32,800
+Some of these codes are not mandatory,
+but we should still aspire to obey them.
+
+43
+00:03:32,801 --> 00:03:39,840
+The code says it articulates the ideals to
+which we aspire as well as the behaviours
+
+44
+00:03:39,841 --> 00:03:43,580
+that are mandatory in our professional and
+volunteer roles.
+
+45
+00:03:43,780 --> 00:03:48,120
+The purpose of this code is to instill
+confidence in the project management
+
+46
+00:03:48,121 --> 00:03:52,580
+profession and to help an individual
+become a better practitioner.
+
+47
+00:03:52,920 --> 00:03:57,340
+It says instill confidence in the project
+management profession.
+
+48
+00:03:57,341 --> 00:04:05,260
+Every time a project manager acts
+unethically or someone related with the
+
+49
+00:04:05,261 --> 00:04:10,423
+PMI or someone who has a
+PMP, if they act unethically,
+
+50
+00:04:10,424 --> 00:04:14,980
+the profession of project
+managers as a whole suffers.
+
+51
+00:04:15,560 --> 00:04:18,380
+And that is why we must aspire to meet
+these standards.
+
+52
+00:04:18,720 --> 00:04:24,600
+Because when we do, we help not just our
+profession, but also our fellow
+
+53
+00:04:24,601 --> 00:04:27,120
+practitioners and ultimately the whole
+community.
+
+54
+00:04:27,340 --> 00:04:29,340
+How do we do this?
+
+55
+00:04:29,840 --> 00:04:33,749
+We do this by establishing
+a profession-wide
+
+56
+00:04:33,750 --> 00:04:36,121
+understanding of appropriate behaviour.
+
+57
+00:04:36,420 --> 00:04:41,400
+We believe that the credibility and
+reputation of the project management
+
+58
+00:04:41,401 --> 00:04:47,080
+profession is shaped by the collective
+conduct of individual practitioners.
+
+59
+00:04:47,640 --> 00:04:51,680
+We believe that we can advance our
+profession both individually and
+
+60
+00:04:51,681 --> 00:04:55,400
+collectively by embracing this code of
+ethics and professional conduct.
+
+61
+00:04:55,401 --> 00:05:01,460
+Understanding the PMI Code of Ethics and
+Professional Conduct gives us an
+
+62
+00:05:01,461 --> 00:05:05,000
+understanding of the type of behaviour
+which is appropriate.
+
+63
+00:05:05,640 --> 00:05:11,160
+We also believe this code will assist us
+in making wise decisions, particularly
+
+64
+00:05:11,161 --> 00:05:14,248
+when faced with difficult
+situations where we may
+
+65
+00:05:14,249 --> 00:05:18,160
+be asked to compromise
+our integrity or our values.
+
+66
+00:05:18,880 --> 00:05:22,071
+Our hope is that this Code of
+Ethics and Professional Conduct
+
+67
+00:05:22,072 --> 00:05:25,380
+will serve as a catalyst
+for others to study delivery.
+
+68
+00:05:25,400 --> 00:05:28,240
+deliberate and write about ethics and
+values.
+
+69
+00:05:28,720 --> 00:05:31,262
+Further, we hope this
+code will ultimately be
+
+70
+00:05:31,263 --> 00:05:34,074
+used to build upon and
+evolve our profession.
+
+71
+00:05:34,800 --> 00:05:39,860
+This code reduces the guesswork when we're
+faced with an ethical dilemma and provides
+
+72
+00:05:39,861 --> 00:05:44,160
+us with the framework for making the right
+decisions and moving forward.
+
+73
+00:05:45,180 --> 00:05:46,120
+1.2.
+
+74
+00:05:46,680 --> 00:05:48,400
+Persons to whom the code applies.
+
+75
+00:05:48,960 --> 00:05:54,600
+Spoiler alert, the code of ethics and
+professional conduct applies to everybody
+
+76
+00:05:54,601 --> 00:05:57,860
+in any any way connected with PMI
+whatsoever.
+
+77
+00:05:58,980 --> 00:06:02,680
+It says it applies to all PMI members.
+
+78
+00:06:03,200 --> 00:06:06,900
+And so if you're a member of PMI,
+you don't need to look any further in this
+
+79
+00:06:06,901 --> 00:06:10,560
+chapter to find out if you have to follow
+the code.
+
+80
+00:06:11,040 --> 00:06:12,920
+The simple answer is yes you do.
+
+81
+00:06:13,620 --> 00:06:16,160
+Okay but what if you aren't a PMI member?
+
+82
+00:06:16,800 --> 00:06:22,480
+Individuals are not members of PMI but
+meet one or more of the following criteria.
+
+83
+00:06:22,481 --> 00:06:27,120
+non-members who hold a PMI certification.
+
+84
+00:06:27,960 --> 00:06:32,820
+And that's something that many people
+don't actually realise that you don't have
+
+85
+00:06:32,821 --> 00:06:36,920
+to be a member of PMI to have a PMP
+certification.
+
+86
+00:06:37,500 --> 00:06:43,140
+I would strongly recommend that you remain
+a member of PMI.
+
+87
+00:06:43,260 --> 00:06:45,420
+I've been a member of PMI for over 20
+years.
+
+88
+00:06:45,980 --> 00:06:52,460
+But unfortunately, in some countries,
+the amount of money they earn is quite,
+
+89
+00:06:52,480 --> 00:06:55,726
+minuscule compared with
+developed countries and
+
+90
+00:06:55,727 --> 00:07:00,600
+they just can't afford to
+pay the PMI membership.
+
+91
+00:07:01,400 --> 00:07:06,740
+Personally I find the PMI membership is
+very reasonable cost compared with some of
+
+92
+00:07:06,741 --> 00:07:10,600
+my other memberships and I get a lot of
+value for PMI membership.
+
+93
+00:07:12,060 --> 00:07:16,660
+Non-members who apply to commence a PMI
+certification process.
+
+94
+00:07:17,140 --> 00:07:20,742
+So from the instant that
+you hit the button to apply to
+
+95
+00:07:20,743 --> 00:07:25,420
+begin a certification process,
+you are bound by the code.
+
+96
+00:07:26,560 --> 00:07:30,280
+Non-members who serve PMI in a volunteer
+capacity.
+
+97
+00:07:31,400 --> 00:07:34,291
+Now that we know who the
+code applies to and some
+
+98
+00:07:34,292 --> 00:07:37,120
+of its benefits, let's
+consider hard structured.
+
+99
+00:07:38,420 --> 00:07:40,140
+1.3 structure of the code.
+
+100
+00:07:40,520 --> 00:07:45,200
+The Code of Ethics and Professional
+Conduct comprises for values of PMI have
+
+101
+00:07:45,201 --> 00:07:49,580
+identified as most important to the
+project management community and these are
+
+102
+00:07:49,581 --> 00:07:56,380
+responsibility, respect fairness and
+honesty and the code is divided into four
+
+103
+00:07:56,381 --> 00:08:02,200
+main sections with one section for each of
+these codes each section explains the
+
+104
+00:08:02,201 --> 00:08:08,980
+value and it lists three separate things
+for each one a description of the value to
+
+105
+00:08:08,981 --> 00:08:16,200
+the aspirational standards i.e the
+standards which are not compulsory but you
+
+106
+00:08:16,201 --> 00:08:20,204
+can't consider them
+optional either you must try
+
+107
+00:08:20,205 --> 00:08:23,480
+your absolute best to
+aspire to these standards.
+
+108
+00:08:24,100 --> 00:08:27,832
+And number three,
+mandatory standards, i .e., the
+
+109
+00:08:27,833 --> 00:08:31,460
+rules concerning the
+value that you must obey.
+
+110
+00:08:32,180 --> 00:08:34,000
+There's no choice about these.
+
+111
+00:08:34,380 --> 00:08:40,274
+If you do not obey these rules, then by
+definition, you are not behaving ethically.
+
+112
+00:08:40,740 --> 00:08:45,080
+Practitioners who do not conduct
+themselves in accordance with the
+
+113
+00:08:45,081 --> 00:08:47,955
+mandatory standards will be subject to
+
+114
+00:08:47,956 --> 00:08:52,200
+disciplinary procedures
+before PMI's ethics review.
+
+115
+00:08:52,520 --> 00:08:56,480
+You can have your PMP certificate removed,
+for example.
+
+116
+00:08:56,880 --> 00:09:00,720
+You can even be banned from if we're
+taking another PMP exam.
+
+117
+00:09:02,780 --> 00:09:08,020
+For notes that are not part of the
+mandatory or aspirational standards,
+
+118
+00:09:08,220 --> 00:09:09,470
+these appear on the code.
+
+119
+00:09:09,780 --> 00:09:13,440
+They're there to provide examples and
+other clarifications.
+
+120
+00:09:13,780 --> 00:09:19,440
+I'll just point out one thing which I
+noticed is that some of the notes are
+
+121
+00:09:19,441 --> 00:09:23,394
+written in pale grey on top
+of slightly darker grey and
+
+122
+00:09:23,395 --> 00:09:26,660
+it's easy to miss them so
+look carefully for those notes.
+
+123
+00:09:27,000 --> 00:09:29,900
+Finally a glossary can be found at the end
+of the standard.
+
+124
+00:09:30,060 --> 00:09:37,980
+Glossary defines words and phrases used in
+the code and you will find that each time
+
+125
+00:09:37,981 --> 00:09:41,277
+a word which appears in a
+glossary appears from the
+
+126
+00:09:41,278 --> 00:09:44,720
+first time in the text it will
+be underlined in the text.
+
+127
+00:09:45,260 --> 00:09:48,277
+So if you see an underlined
+word it means it appears in the
+
+128
+00:09:48,278 --> 00:09:51,980
+glossary but it's not going
+to be underlined after that.
+
+129
+00:09:52,360 --> 00:09:54,500
+Section 4 values that support this code.
+
+130
+00:09:55,400 --> 00:10:00,080
+Practitioners from the global project
+management community were asked to
+
+131
+00:10:00,081 --> 00:10:02,397
+identify the values
+that formed the basis of
+
+132
+00:10:02,398 --> 00:10:05,054
+their decision-making
+and guided directions.
+
+133
+00:10:05,520 --> 00:10:09,300
+The values that the global project
+management community defined as most
+
+134
+00:10:09,301 --> 00:10:13,420
+important were responsibility,
+respect, fairness and honesty.
+
+135
+00:10:14,040 --> 00:10:18,540
+This code affirms these four values as its
+foundation.
+
+136
+00:10:18,541 --> 00:10:19,840
+Comment.
+
+137
+00:10:20,900 --> 00:10:26,240
+The conduct covered under the aspirational
+standards and conduct covered under the
+
+138
+00:10:26,241 --> 00:10:29,760
+mandatory standards are not mutually
+exclusive.
+
+139
+00:10:30,580 --> 00:10:34,232
+That is, one specific
+act or a mission could
+
+140
+00:10:34,233 --> 00:10:37,520
+violate both aspirational
+and mandatory standards.
+
+141
+00:10:38,900 --> 00:10:41,096
+And that brings us to
+the end of Ethics and
+
+142
+00:10:41,097 --> 00:10:43,894
+Professional Responsibility
+Module Overview.
+
+143
+00:10:44,240 --> 00:10:46,980
+The next lesson is 14.1.
+
+144
+00:10:47,500 --> 00:10:48,333
+Responsibility.
+
+145
+00:10:49,400 --> 00:10:52,821
+Please read the Code
+of Ethics and Professional
+
+146
+00:10:52,822 --> 00:10:55,714
+Responsibility before
+reading this section.
+

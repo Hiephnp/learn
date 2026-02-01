@@ -1,0 +1,553 @@
+﻿1
+00:00:14,170 --> 00:00:20,610
+2.1 Enterprise Environmental Factors
+Enterprise Environmental Factors,
+
+2
+00:00:20,750 --> 00:00:26,530
+EEFs, refer to conditions not under the
+control of the project team that
+
+3
+00:00:26,531 --> 00:00:29,030
+influence, constrain or direct the
+project.
+
+4
+00:00:29,930 --> 00:00:33,610
+These conditions can be internal and or
+external to the organization.
+
+5
+00:00:34,310 --> 00:00:39,210
+Enterprise environmental factors are
+considered as inputs to many project
+
+6
+00:00:39,211 --> 00:00:43,130
+management processes, specifically for
+most planning processes.
+
+7
+00:00:43,131 --> 00:00:47,290
+These factors may enhance our constrained
+project management options.
+
+8
+00:00:48,030 --> 00:00:50,010
+In addition, these factors may have a
+
+9
+00:00:50,011 --> 00:00:52,510
+positive or negative
+influence on the outcome.
+
+10
+00:00:52,950 --> 00:00:55,250
+That's from PIMBOC guide, page 38.
+
+11
+00:00:55,370 --> 00:00:57,710
+So what are these environmental factors
+then?
+
+12
+00:00:58,330 --> 00:01:01,630
+There are many different types of
+enterprise environmental factors,
+
+13
+00:01:01,950 --> 00:01:05,590
+but they can be divided into
+two distinct groups, those that
+
+14
+00:01:05,591 --> 00:01:09,330
+are external to the organization
+and those that are internal.
+
+15
+00:01:09,950 --> 00:01:14,530
+I like to think of enterprise environmental
+environmental factors this way.
+
+16
+00:01:15,030 --> 00:01:17,441
+Imagine you and your project team are
+
+17
+00:01:17,442 --> 00:01:20,570
+traveling to another
+country on a cruise ship.
+
+18
+00:01:20,930 --> 00:01:23,030
+This is where you're managing your
+project.
+
+19
+00:01:23,410 --> 00:01:30,170
+The ship represents the organizational
+enterprise environmental factors internal.
+
+20
+00:01:30,790 --> 00:01:35,750
+So the ones internal to the ship would be
+resource availability, e.g.
+
+21
+00:01:36,450 --> 00:01:41,590
+the vision, mission, values, belief of the
+shipping company, the rules on board the
+
+22
+00:01:41,591 --> 00:01:47,270
+ship, the expected behaviour of the crew
+and passengers, the Code of Ethics and
+
+23
+00:01:47,271 --> 00:01:50,366
+Rule of Law, the leadership
+of the captain, as well as
+
+24
+00:01:50,367 --> 00:01:54,390
+the hierarchy and authority
+relationships of crew members.
+
+25
+00:01:55,770 --> 00:02:00,730
+Geographical distribution of facilities
+and resources, e.g., there would be a
+
+26
+00:02:00,731 --> 00:02:05,570
+floor plan of a ship showing the
+facilities on each deck and you would have
+
+27
+00:02:05,571 --> 00:02:09,110
+information about your cabins and where to
+eat, for example.
+
+28
+00:02:10,310 --> 00:02:13,531
+Infrastructure, e.g., there
+would be details of what
+
+29
+00:02:13,532 --> 00:02:16,501
+equipment is available for
+you to use on board the ship.
+
+30
+00:02:16,790 --> 00:02:19,810
+For example, computers, the gym equipment.
+
+31
+00:02:20,970 --> 00:02:26,510
+There would be resource availability,
+e.g., you would have a list of staff
+
+32
+00:02:26,511 --> 00:02:31,230
+available to help you, and there would be
+a shop for purchasing items.
+
+33
+00:02:32,530 --> 00:02:33,650
+Employee capability.
+
+34
+00:02:34,370 --> 00:02:36,584
+There would be a list of services that can
+
+35
+00:02:36,585 --> 00:02:38,910
+be provided at the
+times that are available.
+
+36
+00:02:38,911 --> 00:02:43,550
+They would include medical, a gym
+instructor, religious services,
+
+37
+00:02:43,690 --> 00:02:46,970
+financial services, dance instruction and
+so on.
+
+38
+00:02:47,870 --> 00:02:52,850
+These are the enterprise environmental
+factors internal to the cruise liner.
+
+39
+00:02:53,390 --> 00:02:54,990
+But what about the organization?
+
+40
+00:02:56,130 --> 00:03:00,950
+One, enterprise environmental factors
+internal to an organization.
+
+41
+00:03:01,750 --> 00:03:06,150
+These would include organizational
+culture, structure and governance,
+
+42
+00:03:06,430 --> 00:03:13,010
+as before, e.g., vision, values,
+belief, cultural norms, leadership style,
+
+43
+00:03:13,530 --> 00:03:16,185
+hierarchy and authority relationships,
+
+44
+00:03:16,186 --> 00:03:20,204
+organizational style,
+ethics and code of conduct.
+
+45
+00:03:20,730 --> 00:03:25,570
+Then we had geographic distribution of
+facilities and resources, easy factory
+
+46
+00:03:25,571 --> 00:03:30,470
+resources, virtual teams, shared systems,
+cloud computing.
+
+47
+00:03:31,270 --> 00:03:32,620
+There's the infrastructure.
+
+48
+00:03:32,910 --> 00:03:36,313
+Examples include existing
+facilities, equipment,
+
+49
+00:03:36,314 --> 00:03:40,100
+organizational telecommunication
+channels, information
+
+50
+00:03:40,101 --> 00:03:43,844
+technology hardware,
+availability and capacity.
+
+51
+00:03:44,930 --> 00:03:49,570
+Information technology software examples
+include scheduling software tools,
+
+52
+00:03:50,050 --> 00:03:53,357
+configuration management
+systems, web interfaces to other
+
+53
+00:03:53,358 --> 00:03:56,770
+online automated systems
+and work authorization systems.
+
+54
+00:03:57,510 --> 00:04:02,390
+Resource availability examples include
+contract and purchasing constraints,
+
+55
+00:04:02,890 --> 00:04:06,140
+approved providers and subcontractors in
+collaboration agreements.
+
+56
+00:04:06,930 --> 00:04:08,890
+And then employee capability.
+
+57
+00:04:09,430 --> 00:04:13,455
+Examples include existing
+human resource expertise,
+
+58
+00:04:13,456 --> 00:04:16,221
+skills, competencies
+and specialist knowledge.
+
+59
+00:04:16,830 --> 00:04:19,698
+Let's go to our cruise
+liner and consider the
+
+60
+00:04:19,699 --> 00:04:22,990
+enterprise environmental
+factors external to the ship.
+
+61
+00:04:23,670 --> 00:04:26,050
+There's the marketplace conditions,
+e.g.
+
+62
+00:04:26,650 --> 00:04:30,410
+the other competitor shipping companies
+that you could have traveled with,
+
+63
+00:04:30,870 --> 00:04:33,671
+the reputation of the
+shipping company that
+
+64
+00:04:33,672 --> 00:04:36,904
+you chose, the name
+and low of the company.
+
+65
+00:04:37,210 --> 00:04:40,330
+Social and cultural influences and issues,
+e.g.
+
+66
+00:04:41,230 --> 00:04:45,040
+political climate, codes of
+conduct, ethics and perceptions
+
+67
+00:04:45,041 --> 00:04:47,581
+of the countries that
+you're travelling through.
+
+68
+00:04:48,250 --> 00:04:52,390
+Legal restrictions, for example,
+country or local laws or regulations.
+
+69
+00:04:53,370 --> 00:04:58,090
+For example, you're not allowed to consume
+alcohol in some countries and in others,
+
+70
+00:04:58,570 --> 00:05:00,375
+such as Australia, there are many types of
+
+71
+00:05:00,376 --> 00:05:03,570
+food that you're not
+allowed to bring ashore.
+
+72
+00:05:03,990 --> 00:05:05,970
+Commercial databases e.g.
+
+73
+00:05:07,650 --> 00:05:12,650
+tables of average ticket prices and
+expected facilities, as well as published
+
+74
+00:05:12,651 --> 00:05:17,330
+data on risk studies, safety reputation of
+the various ocean liners, etc.
+
+75
+00:05:18,910 --> 00:05:20,060
+Academic research, e.g.
+
+76
+00:05:20,910 --> 00:05:23,240
+online forums and
+review sites that rate and
+
+77
+00:05:23,241 --> 00:05:26,164
+compare shipping
+companies and their offerings.
+
+78
+00:05:26,730 --> 00:05:29,750
+Next is government or industry standards,
+e.g.
+
+79
+00:05:29,950 --> 00:05:34,810
+health and safety laws, employment laws,
+such as anti-discrimination, minimum wage,
+
+80
+00:05:35,810 --> 00:05:40,710
+certifications for crew and equipment,
+sea worthness, certification for the ship,
+
+81
+00:05:41,170 --> 00:05:44,220
+laws relating to the storage, preparation
+and serving at food.
+
+82
+00:05:45,130 --> 00:05:47,030
+And then financial considerations,
+e.g.
+
+83
+00:05:47,470 --> 00:05:50,129
+currency exchange rates, interest rates,
+
+84
+00:05:50,130 --> 00:05:53,884
+inflation rates, tariffs
+and geographic location.
+
+85
+00:05:54,530 --> 00:05:57,170
+Then the physical environment elements,
+e.g.
+
+86
+00:05:57,630 --> 00:05:59,780
+working conditions, weather and
+constraints.
+
+87
+00:06:00,150 --> 00:06:02,570
+Okay, so these are the
+enterprise environmental
+
+88
+00:06:02,571 --> 00:06:04,210
+factors external to our cruise line.
+
+89
+00:06:04,211 --> 00:06:06,830
+but how would we apply those to an
+organisation?
+
+90
+00:06:07,370 --> 00:06:09,890
+So enterprise and
+environmental factors external
+
+91
+00:06:09,891 --> 00:06:12,710
+to the organisation,
+marketplace conditions, e.g.
+
+92
+00:06:13,370 --> 00:06:16,810
+competitors, brand share, recognition and
+trademarks.
+
+93
+00:06:18,010 --> 00:06:20,930
+Social and cultural influences and issues,
+e.g.
+
+94
+00:06:21,830 --> 00:06:24,780
+political climate, codes of conduct,
+ethics and perceptions.
+
+95
+00:06:25,550 --> 00:06:26,750
+Then legal restrictions.
+
+96
+00:06:26,870 --> 00:06:31,790
+Examples include country or local laws and
+regulations related to security,
+
+97
+00:06:32,070 --> 00:06:35,310
+data protection, business conduct,
+employment and procurement.
+
+98
+00:06:36,570 --> 00:06:38,030
+Commercial databases, e.g.
+
+99
+00:06:38,370 --> 00:06:42,065
+Benchmarking results,
+standardized cost-estimating
+
+100
+00:06:42,066 --> 00:06:46,510
+data, industry risk
+information, and risk databases.
+
+101
+00:06:47,130 --> 00:06:48,950
+Academic research, e.g.
+
+102
+00:06:49,530 --> 00:06:52,244
+industry studies,
+publications and benchmarking
+
+103
+00:06:52,245 --> 00:06:54,690
+results, and government
+or industry standards.
+
+104
+00:06:55,110 --> 00:07:01,390
+Examples include regulatory agency and
+standards related to products,
+
+105
+00:07:02,290 --> 00:07:05,490
+production, environment, quality and
+workmanship.
+
+106
+00:07:06,410 --> 00:07:07,910
+Financial considerations, e.g.
+
+107
+00:07:08,210 --> 00:07:10,473
+currency, exchange rates, interest rates,
+
+108
+00:07:10,474 --> 00:07:13,784
+inflation rates, tariff
+and geographic location.
+
+109
+00:07:14,270 --> 00:07:18,730
+Physical environment elements would be
+working conditions, weather and constraints.
+
+110
+00:07:18,950 --> 00:07:20,300
+The same as on boardership.
+
+111
+00:07:20,650 --> 00:07:23,700
+That brings us to the end of enterprise
+environmental factors.
+
+112
+00:07:24,110 --> 00:07:27,950
+I hope by analogy with the cruise ladder
+helps you find your sea legs.
+
+113
+00:07:28,410 --> 00:07:31,130
+Next lesson is 2.2, organizational
+process.
+
+114
+00:07:31,810 --> 00:07:33,902
+Please read the corresponding chapter in
+
+115
+00:07:33,944 --> 00:07:36,291
+the pinball guide before
+watching the video.
+

@@ -1,0 +1,244 @@
+WEBVTT
+
+00:05.460 --> 00:12.130
+Earlier in our course they talked about the project lifecycle and the project management lifecycle.
+
+00:12.270 --> 00:18.660
+Recall that the project management lifecycle was the idea of initiating planning executing monitoring
+
+00:18.660 --> 00:21.360
+controlling and closing.
+
+00:21.570 --> 00:28.720
+There are some other characteristics here of the project management lifecycle and the project lifecycle
+
+00:28.770 --> 00:35.610
+there's almost an overlap in how the work is planned and how the work is delivered and the Pinback eyed
+
+00:35.620 --> 00:43.110
+6 edition will have to address what's called both predictive and adaptive life cycles.
+
+00:43.140 --> 00:48.780
+So as we move through the Pinback guide you're going to see little sections where gets has a consideration
+
+00:48.780 --> 00:51.480
+for an adaptive environment.
+
+00:51.750 --> 00:56.190
+So let's nail down the difference between predictive and adaptive.
+
+00:56.190 --> 01:01.950
+First off a predictive life cycle is typically what we have in a construction environment where it's
+
+01:01.950 --> 01:09.210
+plan driven right know everything up front or most things up front in order to get started.
+
+01:09.210 --> 01:15.570
+So it's a pretty good idea of where we're going to get to the end of the construction project predictive
+
+01:15.570 --> 01:22.000
+life cycles are also known as a waterfall approach where we start at a high level and we do work.
+
+01:22.020 --> 01:25.810
+We go to the next phase and we do work and down and down it goes.
+
+01:25.830 --> 01:30.700
+So it is a waterfall moving closer and closer to the finish.
+
+01:30.900 --> 01:34.380
+So it's a predictive lifecycle or a waterfall approach.
+
+01:34.560 --> 01:42.360
+It predicts the project life cycle and construction upfront we can identify the phases that will move
+
+01:42.360 --> 01:48.060
+us from the foundation all the way to closing the project.
+
+01:48.060 --> 01:54.960
+So it predicts the life cycle in a predictive life cycle typically changes to the scope are tightly
+
+01:54.960 --> 02:00.710
+controlled that we are a bit change adverse not to say that changes don't happen in predictive.
+
+02:00.870 --> 02:06.660
+Just generally we try to capture all of the requirements up front and then once we're in motion we become
+
+02:06.660 --> 02:16.320
+change adverse then we have what's called an iterative and incremental life cycles iterative in incremental
+
+02:16.320 --> 02:23.370
+life cycles and we really go through iterations where phases are repeated through iterations iterations
+
+02:23.370 --> 02:31.710
+create deliverables the detailed scope is what's created for each iteration and changes to the project
+
+02:31.760 --> 02:33.600
+are expected.
+
+02:33.600 --> 02:38.110
+What's the difference though between iterative and incremental.
+
+02:38.130 --> 02:39.390
+Both of these are similar.
+
+02:39.390 --> 02:47.070
+They go through phases that are repeated over and over and over incremental though means that I give
+
+02:47.070 --> 02:49.410
+you things in increments.
+
+02:49.500 --> 02:55.050
+So I'm going to create a piece of software that has the limited functionality and then we'll go through
+
+02:55.050 --> 02:56.910
+the whole process again.
+
+02:57.090 --> 03:03.990
+And we're going to add on in an increment that now you can print from that software and then we go through
+
+03:03.990 --> 03:11.670
+it again and now and another increment you're able to you know send text messages from the software
+
+03:11.670 --> 03:12.810
+or whatever it may be.
+
+03:13.020 --> 03:19.310
+So it or iterative or just simply you go through iterations to create in the final product.
+
+03:19.500 --> 03:22.960
+Incremental means you get deliverables in increments.
+
+03:23.010 --> 03:25.860
+So they're similar but different.
+
+03:25.860 --> 03:28.050
+I got one just like that only different.
+
+03:28.050 --> 03:28.280
+All right.
+
+03:28.290 --> 03:37.380
+So incremental are tiny increments for deliverables and adaptive lifecycle can be iterative or incremental.
+
+03:37.380 --> 03:46.240
+You probably know adaptive if you've worked in scrum or XP XP or extreme programming or lean.
+
+03:46.290 --> 03:52.420
+Those are all examples of adaptive with scrum being one of the most common or ad Jayal.
+
+03:52.470 --> 03:56.760
+So this what we're looking at here in this picture is a Conboy on board.
+
+03:56.820 --> 04:01.030
+So a combo on board shows where do we start with the number of stories.
+
+04:01.050 --> 04:05.550
+Stories are requirements user stories what's in motion.
+
+04:05.610 --> 04:06.510
+So what are we doing.
+
+04:06.510 --> 04:07.800
+What's in progress.
+
+04:07.800 --> 04:11.100
+What's going through testing all the way over to what's finished.
+
+04:11.100 --> 04:12.820
+So this is called a sign.
+
+04:12.840 --> 04:18.960
+We'll see this a couple of times but this is one of the things that we can use in an adaptive environment
+
+04:20.130 --> 04:22.590
+adaptive environments are change driven.
+
+04:22.590 --> 04:27.870
+Well we don't know everything that we're going to create at the beginning of the project like a predictive
+
+04:27.880 --> 04:28.860
+lifecycle.
+
+04:29.070 --> 04:34.320
+So what we have an adaptive and this is on general terms I know there's different flavors here but generally
+
+04:34.320 --> 04:36.880
+we have what's called a product backlog.
+
+04:36.990 --> 04:44.940
+That's all of the requirements and a product owner will prioritize with the team what's most important.
+
+04:45.150 --> 04:51.280
+The team then we'll say okay over the next two weeks or four weeks the next iteration sometimes called
+
+04:51.280 --> 04:52.530
+the sprint.
+
+04:52.530 --> 04:54.000
+This is what we can get done.
+
+04:54.000 --> 04:57.750
+I can get done this much work in the next four weeks.
+
+04:57.930 --> 05:04.470
+So they take the most important items and they go and work on those items while they're working on those
+
+05:04.470 --> 05:09.140
+items there can be no changes that we're focused on only these items.
+
+05:09.420 --> 05:11.540
+Well we're done with those items.
+
+05:11.700 --> 05:17.580
+We're done with that iteration we do some reviews sometimes called the retrospective and then we go
+
+05:17.580 --> 05:24.180
+back with the product owner and the project team and then the product owner now has a chance to reorder
+
+05:24.660 --> 05:28.720
+the list of items in that backlog and even add to it.
+
+05:28.950 --> 05:35.340
+And so you go through these iterations to continue to take the requirements and do the work to take
+
+05:35.340 --> 05:42.480
+the requirements do the work and the requirements can shift in priority before each sprint or before
+
+05:42.480 --> 05:43.860
+each iteration.
+
+05:44.040 --> 05:48.110
+So that's kind of the high level picture of adaptive we we'll see that a few more times.
+
+05:48.270 --> 05:52.440
+And yes you'll have a few questions on that on your PMI exam.
+
+05:53.130 --> 05:59.190
+So it's rapid iterations of project work backlog requirement and we expect changes to happen.
+
+05:59.190 --> 06:00.200
+It's just part of it.
+
+06:00.250 --> 06:01.830
+We don't know everything up front.
+
+06:01.860 --> 06:07.110
+So we were adaptive to change so we welcome change in an adaptive lifecycle.
+
+06:07.230 --> 06:13.910
+So we have predictive and we have adaptive and there's two variations there iterative and incremental.
+
+06:14.420 --> 06:15.540
+Okay good job.
+
+06:15.540 --> 06:19.080
+Those are three new terms for you I guess really for two terms.
+
+06:19.080 --> 06:20.210
+If you think about it.
+
+06:20.670 --> 06:23.010
+Okay I'll see you in the next lecture.
+
+06:23.010 --> 06:25.680
+Keep moving forward you're making great progress.

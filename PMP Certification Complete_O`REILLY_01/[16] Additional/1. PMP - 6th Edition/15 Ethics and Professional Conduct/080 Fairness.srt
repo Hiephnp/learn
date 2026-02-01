@@ -1,0 +1,560 @@
+﻿1
+00:00:14,580 --> 00:00:16,420
+14.3 Fairness.
+
+2
+00:00:16,660 --> 00:00:20,980
+You will find this in Chapter 4 of the
+Code of Ethics and Professional Conduct.
+
+3
+00:00:21,460 --> 00:00:24,774
+And just a reminder that although this is
+
+4
+00:00:24,775 --> 00:00:28,474
+examinable, it doesn't
+appear in the Pembark guide.
+
+5
+00:00:28,600 --> 00:00:33,040
+It's available as a free download from the
+PMI website, PMI.org.
+
+6
+00:00:33,780 --> 00:00:37,644
+In fact, if you are a member
+of PMI, which you should be,
+
+7
+00:00:37,645 --> 00:00:40,960
+you can download a heap of
+staff free of charge from PMI.
+
+8
+00:00:40,961 --> 00:00:42,480
+Description of fairness.
+
+9
+00:00:42,920 --> 00:00:48,060
+Fairness is our duty to make decisions and
+act impartially and objectively.
+
+10
+00:00:49,020 --> 00:00:54,300
+Our conduct must be free from competing
+self-interest, prejudice and favouritism.
+
+11
+00:00:55,160 --> 00:00:57,700
+Fairness, aspirational standards.
+
+12
+00:00:58,260 --> 00:01:02,120
+As practitioners of the global project
+management community, one, we demonstrate
+
+13
+00:01:02,121 --> 00:01:04,520
+transparency in our decision-making
+process.
+
+14
+00:01:05,020 --> 00:01:10,500
+Two, we constantly re-examine our
+impartiality and objectivity.
+
+15
+00:01:10,960 --> 00:01:14,354
+taking corrective action as
+appropriate and you don't have
+
+16
+00:01:14,355 --> 00:01:18,200
+to raise a change request to
+make changes to your behaviour.
+
+17
+00:01:18,280 --> 00:01:24,300
+Comment, research with practitioners
+indicates that the subject of conflicts of
+
+18
+00:01:24,301 --> 00:01:28,720
+interest is one of the most challenging
+faced by our profession.
+
+19
+00:01:29,400 --> 00:01:34,320
+One of the biggest problems practitioners
+report is not recognising that we have
+
+20
+00:01:34,321 --> 00:01:41,060
+conflicted loyalties and recognising when
+we are inadvertently placing ourselves or
+
+21
+00:01:41,061 --> 00:01:44,220
+others in a conflict of interest
+situation.
+
+22
+00:01:45,340 --> 00:01:50,400
+We as practitioners must proactively
+search for potential conflicts and help
+
+23
+00:01:50,401 --> 00:01:54,151
+each other by highlighting
+each other's potential
+
+24
+00:01:54,152 --> 00:01:57,820
+conflicts of interest and
+insisting that they be resolved.
+
+25
+00:01:58,380 --> 00:02:01,811
+Did you notice it said help
+each other by highlighting
+
+26
+00:02:01,812 --> 00:02:04,217
+each other's potential
+conflicts of interest?
+
+27
+00:02:04,300 --> 00:02:07,839
+It's because sometimes we
+really don't actually realize
+
+28
+00:02:07,840 --> 00:02:11,320
+that we're getting into a
+conflict of interest situation.
+
+29
+00:02:12,080 --> 00:02:14,811
+But other people can
+see it and they can advise
+
+30
+00:02:14,812 --> 00:02:17,454
+us and we can watch out
+for them and advise them.
+
+31
+00:02:17,720 --> 00:02:22,900
+And of course the other times when we sort
+of know we're getting into a bad area and
+
+32
+00:02:22,901 --> 00:02:26,180
+for some reason we're just going with the
+flow.
+
+33
+00:02:26,880 --> 00:02:29,860
+But as they say, it's only dead fish who
+go with the flow.
+
+34
+00:02:30,540 --> 00:02:35,020
+But sometimes you just need a friend to
+give you a kick in the seat of the pants
+
+35
+00:02:35,021 --> 00:02:38,400
+and waking you up and say, what you're
+doing is actually wrong?
+
+36
+00:02:39,100 --> 00:02:43,332
+Okay, number three, We
+provide equal access to information
+
+37
+00:02:43,333 --> 00:02:46,201
+to those who are authorised
+to have that information.
+
+38
+00:02:46,960 --> 00:02:53,020
+I used to have a manager and each time he
+went on and you leave, he used to lock up
+
+39
+00:02:53,021 --> 00:02:57,061
+the manuals which are under
+his control so that nobody
+
+40
+00:02:57,062 --> 00:03:00,460
+could do as good a job as
+he could while he was away.
+
+41
+00:03:01,180 --> 00:03:07,160
+Number four, we make opportunities equally
+available to qualified candidates.
+
+42
+00:03:07,660 --> 00:03:12,600
+Comment and implication of these
+provisions, is that in the case of a
+
+43
+00:03:12,601 --> 00:03:16,060
+contracting arrangement,
+we provide equal access
+
+44
+00:03:16,061 --> 00:03:19,454
+to information during the bidding process.
+
+45
+00:03:19,860 --> 00:03:25,680
+So we have a friend or a relative who
+works for one of the competing contractors.
+
+46
+00:03:26,280 --> 00:03:29,480
+We don't give them information that the
+others don't help.
+
+47
+00:03:29,580 --> 00:03:31,280
+We don't give them any advantages.
+
+48
+00:03:31,480 --> 00:03:34,240
+We have to make it a level playing field
+for everyone.
+
+49
+00:03:34,560 --> 00:03:37,615
+Imagine if you're a
+contract, you're in the
+
+50
+00:03:37,616 --> 00:03:40,380
+process, you're trying to get some work.
+
+51
+00:03:40,381 --> 00:03:44,584
+and you'd discover that
+went to a company that was
+
+52
+00:03:44,585 --> 00:03:48,121
+related in some way to the
+person who made the decision.
+
+53
+00:03:48,340 --> 00:03:49,400
+How would you feel?
+
+54
+00:03:49,840 --> 00:03:52,822
+So capture those feelings and think, I can
+
+55
+00:03:52,823 --> 00:03:56,614
+cause the same sort
+of problems with others.
+
+56
+00:03:56,900 --> 00:03:59,060
+Fairness, mandatory standards.
+
+57
+00:03:59,360 --> 00:04:02,840
+As practitioners in the global project
+management community, we require the
+
+58
+00:04:02,841 --> 00:04:05,840
+following of ourselves and our fellow
+practitioners.
+
+59
+00:04:06,560 --> 00:04:08,840
+Conflicts of interest is situations.
+
+60
+00:04:09,080 --> 00:04:09,913
+Number one.
+
+61
+00:04:10,380 --> 00:04:15,242
+actively and fully disclose
+any real or potential
+
+62
+00:04:15,243 --> 00:04:18,920
+conflicts of interest to the
+appropriate stakeholders.
+
+63
+00:04:19,560 --> 00:04:26,320
+My personal advice is if you're not sure
+if you're in some sort of conflict of
+
+64
+00:04:26,321 --> 00:04:33,000
+interest situation, tell people anyway,
+let the people decide it then becomes
+
+65
+00:04:33,001 --> 00:04:38,620
+their decision, you have done the right
+thing, you have bed by the code.
+
+66
+00:04:38,900 --> 00:04:41,549
+Without going into details,
+I have been in a couple of
+
+67
+00:04:41,550 --> 00:04:44,880
+situations before where I
+felt this is a conflict of interest.
+
+68
+00:04:45,300 --> 00:04:49,220
+I've gone to the management, told them
+they've gone through the details,
+
+69
+00:04:49,300 --> 00:04:54,500
+come back to say, we don't see a conflict
+of interest, please continue, or there's a
+
+70
+00:04:54,501 --> 00:04:57,526
+conflict of interest
+system, but all you have
+
+71
+00:04:57,527 --> 00:05:00,280
+to do is don't be on
+this particular committee.
+
+72
+00:05:00,500 --> 00:05:06,440
+So it becomes their decision, so never
+hold anything back because it will come
+
+73
+00:05:06,441 --> 00:05:09,660
+back to bite you when you're least
+expecting it.
+
+74
+00:05:09,940 --> 00:05:15,040
+Number two, when we realize that we have a
+real or potential conflict of interest,
+
+75
+00:05:15,420 --> 00:05:19,960
+we refrain from engaging in the
+decision-making process or otherwise
+
+76
+00:05:19,961 --> 00:05:26,740
+attempting to influence outcomes unless or
+until we have made full disclosure to the
+
+77
+00:05:26,741 --> 00:05:29,340
+affected stakeholders, which is what I
+said before.
+
+78
+00:05:29,980 --> 00:05:36,780
+We have an approved mitigation plan which
+means you don't attend certain meetings or
+
+79
+00:05:36,781 --> 00:05:40,760
+withdraw from the project completely,
+whatever it takes, and we have obtained
+
+80
+00:05:40,761 --> 00:05:43,540
+the consent of the stakeholders to
+proceed.
+
+81
+00:05:44,500 --> 00:05:45,333
+Comment.
+
+82
+00:05:45,860 --> 00:05:50,760
+A conflict of interest occurs when we are
+in a position to influence decisions or
+
+83
+00:05:50,761 --> 00:05:56,580
+other outcomes on behalf of one party,
+when such decisions or outcomes would
+
+84
+00:05:56,581 --> 00:06:02,160
+affect one or more of the other parties
+with which we have competing loyalties.
+
+85
+00:06:02,400 --> 00:06:05,906
+For example, when we
+are acting as an employee,
+
+86
+00:06:05,907 --> 00:06:08,820
+we have a duty of loyalty to our employer.
+
+87
+00:06:09,160 --> 00:06:12,843
+When we are acting as a
+PMI volunteer, we have a
+
+88
+00:06:12,844 --> 00:06:16,060
+duty of loyalty to the
+Project Management Institute.
+
+89
+00:06:16,640 --> 00:06:21,140
+You must recognize these divergent
+interests and refrain from influencing
+
+90
+00:06:21,141 --> 00:06:24,500
+decisions when we have a conflict of
+interest.
+
+91
+00:06:25,140 --> 00:06:29,980
+Further, even if we believe that we can
+set aside our divided loyalties make
+
+92
+00:06:29,981 --> 00:06:34,800
+decisions impartially, we treat the
+appearance of a conflict of interest as a
+
+93
+00:06:34,801 --> 00:06:38,720
+conflict of interest and follow the
+provisions described in the code.
+
+94
+00:06:39,460 --> 00:06:45,060
+So, even if there's no certainty it is a
+conflict of interest, treat it as a
+
+95
+00:06:45,061 --> 00:06:49,440
+conflict of interest until you hear
+categorically one way or the other.
+
+96
+00:06:50,640 --> 00:06:52,860
+Favoritism and discrimination three.
+
+97
+00:06:53,420 --> 00:06:59,330
+We do not hire or fire reward or
+punish or reward or deny contracts
+
+98
+00:06:59,331 --> 00:07:04,020
+based on personal considerations,
+including, but not limit.
+
+99
+00:07:04,160 --> 00:07:08,180
+favoritism, nepotism or bribery.
+
+100
+00:07:08,700 --> 00:07:15,720
+Four, we did not discriminate against
+others based on gender, race, age,
+
+101
+00:07:16,040 --> 00:07:22,300
+religion, disability, nationality, sexual
+orientation, or basically anything else.
+
+102
+00:07:22,680 --> 00:07:26,580
+In fact, all of these things, if you do
+them, they are actually illegal.
+
+103
+00:07:27,220 --> 00:07:33,100
+But whenever the Pimbok was first drawn up
+and they were working on their code of
+
+104
+00:07:33,101 --> 00:07:35,985
+ethics, The first code
+of ethics was just like a
+
+105
+00:07:35,986 --> 00:07:38,900
+little half a page thing
+and it gradually evolved.
+
+106
+00:07:39,160 --> 00:07:43,820
+But back in the early days, some of this
+stuff wasn't actually illegal.
+
+107
+00:07:44,280 --> 00:07:49,840
+For example, age discrimination is a
+fairly recent one to be recognised.
+
+108
+00:07:51,580 --> 00:07:56,200
+Number five, we apply the rules of the
+organisation, the employer, project
+
+109
+00:07:56,201 --> 00:08:01,040
+management institute or other group
+without favour or prejudice.
+
+110
+00:08:01,540 --> 00:08:03,337
+In other words, you don't go cherry pick.
+
+111
+00:08:03,420 --> 00:08:07,860
+and I'll use this particular rule,
+I'll ignore this one, etc.
+
+112
+00:08:08,400 --> 00:08:10,300
+to give yourself some sort of benefit.
+
+113
+00:08:10,400 --> 00:08:12,500
+That brings us to the end of fairness.
+
+114
+00:08:13,140 --> 00:08:15,520
+And the next lesson is 14.4 honesty.
+
+115
+00:08:16,300 --> 00:08:18,482
+Please read the corresponding
+section of the Code of
+
+116
+00:08:18,483 --> 00:08:21,520
+Ethics and Professional
+Conduct before watching the video.
+

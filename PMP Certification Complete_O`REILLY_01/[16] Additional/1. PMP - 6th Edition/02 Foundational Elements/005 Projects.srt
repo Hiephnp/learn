@@ -1,0 +1,1021 @@
+﻿1
+00:00:14,560 --> 00:00:19,600
+Welcome to the very first lesson on the
+PMP course.
+
+2
+00:00:19,820 --> 00:00:21,540
+1.1 projects.
+
+3
+00:00:22,060 --> 00:00:26,500
+Before we start examining the PINBOC
+guide, we need to stop and consider some
+
+4
+00:00:26,501 --> 00:00:31,300
+basic concepts to make sure that we are
+all on the same playing field.
+
+5
+00:00:31,920 --> 00:00:34,980
+So in this first lesson we will consider
+
+6
+00:00:34,981 --> 00:00:38,814
+what is not a project
+and what is a project.
+
+7
+00:00:39,780 --> 00:00:42,560
+So number one, what is not a project?
+
+8
+00:00:44,000 --> 00:00:47,860
+Organizations need to do things every day
+in order to remain in business.
+
+9
+00:00:48,540 --> 00:00:52,041
+These daily operations
+tend to be repetitive and
+
+10
+00:00:52,042 --> 00:00:54,740
+really don't take much
+in the way of planning.
+
+11
+00:00:56,020 --> 00:01:00,960
+Organizations usually have admission
+statement which you should be able to find
+
+12
+00:01:00,961 --> 00:01:04,924
+on their website and
+often if you visit their office
+
+13
+00:01:04,925 --> 00:01:08,181
+you'll find one in a frame
+hanging on the wall somewhere.
+
+14
+00:01:08,800 --> 00:01:12,460
+Abmission statement says why the
+organization exists.
+
+15
+00:01:12,461 --> 00:01:14,160
+and what it does.
+
+16
+00:01:14,460 --> 00:01:20,500
+For example, the Grey Campus mission
+statement is Gray Campus transforms
+
+17
+00:01:20,501 --> 00:01:23,780
+careers through skills and certification
+training.
+
+18
+00:01:24,680 --> 00:01:29,660
+We are a leading provider of training for
+working professionals in the areas of
+
+19
+00:01:29,661 --> 00:01:33,479
+project management,
+big data, data science,
+
+20
+00:01:33,480 --> 00:01:36,934
+service management and quality management.
+
+21
+00:01:37,360 --> 00:01:43,140
+We offer live online, instructor led
+online, classroom, instructor-led
+
+22
+00:01:43,141 --> 00:01:47,180
+classroom, and e-learning, online
+self-learning courses.
+
+23
+00:01:47,980 --> 00:01:53,060
+Our growing suite of accredited courses is
+constantly upgraded to address the career
+
+24
+00:01:53,061 --> 00:01:55,740
+enhancement goals of working
+professionals.
+
+25
+00:01:56,400 --> 00:01:59,840
+And this is what Gray Campus does every
+day.
+
+26
+00:02:00,720 --> 00:02:04,381
+We call this everyday
+work operations or business
+
+27
+00:02:04,382 --> 00:02:08,240
+as usual, which is often
+abbreviated to BAU.
+
+28
+00:02:08,241 --> 00:02:12,327
+If a student wants to start
+a new course, the great
+
+29
+00:02:12,328 --> 00:02:15,401
+campus staff follow a few
+step-by-step instructions.
+
+30
+00:02:15,560 --> 00:02:22,380
+In fact, it's so simple and repetitive
+that almost all is totally automated.
+
+31
+00:02:23,280 --> 00:02:28,160
+There's no need to involve senior
+management or a project manager or hold
+
+32
+00:02:28,161 --> 00:02:32,620
+management meetings, develop a risk
+management plan for a student starting a
+
+33
+00:02:32,621 --> 00:02:35,740
+new course or anything out of the
+ordinary.
+
+34
+00:02:35,741 --> 00:02:40,540
+So then clearly operations are not
+projects.
+
+35
+00:02:41,440 --> 00:02:46,920
+Operations maintain the organisation's
+mission statement or to say another way,
+
+36
+00:02:47,640 --> 00:02:50,820
+operations maintain the organisation's
+business as usual.
+
+37
+00:02:51,760 --> 00:02:53,080
+Two, what is a project?
+
+38
+00:02:54,020 --> 00:02:58,340
+To understand what a project is,
+we will consider grey campus again working
+
+39
+00:02:58,341 --> 00:03:01,140
+every day to maintain its business as
+usual.
+
+40
+00:03:01,840 --> 00:03:05,040
+But then something happens that is out of
+the ordinary.
+
+41
+00:03:05,041 --> 00:03:08,960
+For example, there could be a change to
+the country's tax laws.
+
+42
+00:03:09,480 --> 00:03:14,420
+PMI might release a new edition of the
+PIMBOC guide and Great Campus may want a
+
+43
+00:03:14,421 --> 00:03:17,220
+new course developed for it, very like
+this one.
+
+44
+00:03:18,000 --> 00:03:22,420
+They might decide to build a bricks and
+mortar college somewhere.
+
+45
+00:03:23,220 --> 00:03:30,480
+They may decide to redesign their website
+or redesign their office IT systems or get
+
+46
+00:03:30,481 --> 00:03:34,974
+a new e-learning platform or
+countless other circumstances
+
+47
+00:03:34,975 --> 00:03:39,580
+that cannot be dealt with by
+business as usual and that's key.
+
+48
+00:03:40,480 --> 00:03:45,840
+And so one of the clues that these might
+be projects are each of these
+
+49
+00:03:45,841 --> 00:03:49,951
+circumstances requires
+a significant change
+
+50
+00:03:49,952 --> 00:03:53,500
+but business as usual
+does not involve change.
+
+51
+00:03:54,520 --> 00:03:56,940
+Now let's have a look at projects in more
+detail.
+
+52
+00:03:57,540 --> 00:04:02,640
+The Pinball Guide defines projects as and
+please note that many of these definitions
+
+53
+00:04:02,641 --> 00:04:07,090
+are critical for the
+examination and obviously
+
+54
+00:04:07,091 --> 00:04:10,500
+project management
+etc are critical definitions.
+
+55
+00:04:11,040 --> 00:04:17,160
+A project is a temporary endeavour
+undertaken to create a unique product,
+
+56
+00:04:17,660 --> 00:04:18,560
+service or result.
+
+57
+00:04:19,120 --> 00:04:21,960
+Let's examine this definition a piece at a
+time.
+
+58
+00:04:23,280 --> 00:04:26,120
+A project is a temporary endeavour.
+
+59
+00:04:27,200 --> 00:04:33,060
+The Oxford Dictionary defines temporary as
+lasting for only a limited period of time,
+
+60
+00:04:33,520 --> 00:04:34,180
+not permanent.
+
+61
+00:04:34,181 --> 00:04:38,180
+And so right away we can see the contrast
+with operational work.
+
+62
+00:04:38,700 --> 00:04:43,920
+A project lasts for only a limited period
+of time, or to put it another way,
+
+63
+00:04:44,140 --> 00:04:48,940
+a project is planned to have a start at an
+end date right from the beginning.
+
+64
+00:04:49,600 --> 00:04:55,980
+Operational work also has a start,
+but at the start, there's no specific end
+
+65
+00:04:55,981 --> 00:04:59,401
+date planned, because in
+reality, operational work will
+
+66
+00:04:59,402 --> 00:05:03,400
+continue until it is no longer
+serving a useful purpose.
+
+67
+00:05:03,401 --> 00:05:09,300
+It is possible for a very large project to
+last longer than some operations,
+
+68
+00:05:09,700 --> 00:05:15,120
+but the key point is that the project is
+intended to be temporary and will
+
+69
+00:05:15,121 --> 00:05:20,140
+terminate when the products, services or
+results that it was designed to deliver
+
+70
+00:05:20,141 --> 00:05:22,660
+have been completed and accepted by the
+customer.
+
+71
+00:05:23,340 --> 00:05:28,940
+Note that it says temporary endeavour,
+which means it is the endeavour,
+
+72
+00:05:29,260 --> 00:05:33,300
+the project, is temporary rather than the
+product.
+
+73
+00:05:33,400 --> 00:05:34,233
+being temporary.
+
+74
+00:05:35,260 --> 00:05:38,780
+Think of Australia's famous Sydney Harbour
+Bridge, for example.
+
+75
+00:05:39,440 --> 00:05:45,414
+The project lasted eight years, but
+the product has lasted 85 years so far.
+
+76
+00:05:46,180 --> 00:05:51,880
+The second part of the definition is to
+create a unique product, service or result.
+
+77
+00:05:52,280 --> 00:05:54,580
+The word unique is a little harder to
+explain.
+
+78
+00:05:55,560 --> 00:05:59,000
+To be honest, I disagree with the
+definition a bit.
+
+79
+00:05:59,320 --> 00:06:04,720
+I think it should actually be to uniquely
+create a product, service or result
+
+80
+00:06:04,721 --> 00:06:10,460
+because the product itself is not
+necessarily unique, it is the way the
+
+81
+00:06:10,461 --> 00:06:17,154
+product is created that is unique, which
+means it is the project that is unique.
+
+82
+00:06:17,240 --> 00:06:21,820
+But anyway, to create a unique product,
+service or result, as I said earlier,
+
+83
+00:06:22,260 --> 00:06:25,305
+operations are not
+projects, but operations
+
+84
+00:06:25,306 --> 00:06:27,980
+require a project to
+initially create them.
+
+85
+00:06:27,981 --> 00:06:31,725
+And to confuse matters a
+little, some projects can be
+
+86
+00:06:31,726 --> 00:06:35,380
+similar to operations
+for part of their life cycle.
+
+87
+00:06:35,760 --> 00:06:41,880
+For example, suppose you're planning a
+project to lay a water pipeline to the
+
+88
+00:06:41,881 --> 00:06:48,440
+Sahara Desert from the source of water in
+Martins in Mongolia 8,000 kilometers away.
+
+89
+00:06:49,040 --> 00:06:50,460
+This is clearly a project.
+
+90
+00:06:51,220 --> 00:06:55,120
+But for several years it would look very
+like a process.
+
+91
+00:06:55,121 --> 00:06:59,060
+It should leave one piece of pipe,
+next piece of pipe, next piece of pipe,
+
+92
+00:06:59,560 --> 00:06:59,980
+and so on.
+
+93
+00:07:00,280 --> 00:07:05,020
+However, the first key difference is that
+the pipeline would have a planned,
+
+94
+00:07:05,400 --> 00:07:06,920
+start and end it.
+
+95
+00:07:07,480 --> 00:07:10,661
+And the second main difference
+would be that permissions
+
+96
+00:07:10,662 --> 00:07:13,540
+would need to be sought
+from various governments.
+
+97
+00:07:14,220 --> 00:07:19,080
+Different types of terrain would present
+different challenges, rocky ground,
+
+98
+00:07:20,260 --> 00:07:21,900
+very soft ground and so on.
+
+99
+00:07:21,901 --> 00:07:27,520
+and so it still requires risk management,
+quality management, schedule management,
+
+100
+00:07:28,220 --> 00:07:31,300
+cost management, resource management,
+and so on.
+
+101
+00:07:31,740 --> 00:07:35,190
+And it would of course require project
+manager to control the project.
+
+102
+00:07:36,180 --> 00:07:38,037
+How do we know what a project is finished?
+
+103
+00:07:38,120 --> 00:07:43,800
+Now that's an interesting point because
+some of the projects that I've been
+
+104
+00:07:43,801 --> 00:07:49,480
+associated with seem to just go on forever
+and ever and ever end.
+
+105
+00:07:49,481 --> 00:07:53,064
+The end of the project is
+reached when at least one
+
+106
+00:07:53,065 --> 00:07:56,880
+of the following statements
+about the project is true.
+
+107
+00:07:57,360 --> 00:08:03,140
+At a list like this, it's a possible
+source for a question in the examination.
+
+108
+00:08:03,820 --> 00:08:05,820
+So how do we know the project has ended?
+
+109
+00:08:06,060 --> 00:08:08,360
+Okay, so at least one of the following is
+true.
+
+110
+00:08:08,700 --> 00:08:11,180
+The project's objectives have been
+achieved.
+
+111
+00:08:12,300 --> 00:08:16,600
+Number two, the objectives will not or
+cannot be met.
+
+112
+00:08:17,040 --> 00:08:19,460
+If we can't meet them, there's no point in
+the project.
+
+113
+00:08:19,480 --> 00:08:24,660
+keeping the project open, wasting time and
+resources, close the project.
+
+114
+00:08:25,920 --> 00:08:30,120
+Funding is exhausted or no longer
+available for allocation to the project,
+
+115
+00:08:30,460 --> 00:08:34,220
+so basically you've run out of money,
+you can't afford to finish it.
+
+116
+00:08:35,040 --> 00:08:38,800
+The need for the project no longer exists.
+
+117
+00:08:39,420 --> 00:08:44,460
+For example, the customer no longer wants
+the project completed, a change in
+
+118
+00:08:44,461 --> 00:08:48,411
+strategy or priority ends
+the project, the organizational
+
+119
+00:08:48,412 --> 00:08:52,500
+management provides
+direction to end the project.
+
+120
+00:08:53,100 --> 00:08:59,280
+For example, you've been working for the
+last 120 years on the best steam engine
+
+121
+00:08:59,281 --> 00:09:04,000
+ever, but management decides we don't
+think there's going to be a huge market in
+
+122
+00:09:04,001 --> 00:09:06,860
+the future for steam engines, let's just
+end this project.
+
+123
+00:09:07,760 --> 00:09:12,760
+Next one is the human or physical
+resources are no longer available.
+
+124
+00:09:13,380 --> 00:09:18,815
+Suppose you're doing a particular
+project and you have specific
+
+125
+00:09:18,816 --> 00:09:22,780
+Highly trained resources and
+they have quit the company.
+
+126
+00:09:23,260 --> 00:09:27,480
+You've looked around, you can't find
+replacements in a reasonable length of time.
+
+127
+00:09:27,920 --> 00:09:30,220
+It is no option but just to close your
+project.
+
+128
+00:09:30,780 --> 00:09:35,320
+Or the project is termed it for legal
+cause or convenience.
+
+129
+00:09:36,140 --> 00:09:41,742
+Your company may be wind
+up or one of the contractees
+
+130
+00:09:41,743 --> 00:09:45,120
+to your project by
+taking legal action, etc.
+
+131
+00:09:46,500 --> 00:09:49,582
+Fulfilment of project
+objectives may produce
+
+132
+00:09:49,583 --> 00:09:52,374
+one or more of the following deliverables.
+
+133
+00:09:53,060 --> 00:09:58,400
+A unique product that could be either a
+component of another item, an enhancement
+
+134
+00:09:58,401 --> 00:10:02,180
+or correction to an item or an item in
+itself.
+
+135
+00:10:03,200 --> 00:10:09,240
+For example, when you're developing a new
+aircraft, a project might be undertaken to
+
+136
+00:10:09,241 --> 00:10:13,280
+deliver just the scope statement for the
+aircraft project.
+
+137
+00:10:14,140 --> 00:10:18,920
+A unique service or capability to perform
+a service.
+
+138
+00:10:19,580 --> 00:10:24,120
+For example, a project organisation may
+wish to develop a training department.
+
+139
+00:10:25,060 --> 00:10:30,160
+A unique result, such as an outcome or
+document.
+
+140
+00:10:31,060 --> 00:10:36,480
+Or, for example, a river flowing through a
+major city has reached a non-acceptable
+
+141
+00:10:36,481 --> 00:10:40,782
+level of pollution and a
+project is initiated to reduce
+
+142
+00:10:40,783 --> 00:10:45,220
+the pollution by 80% so
+that, produces a unique result.
+
+143
+00:10:46,820 --> 00:10:51,040
+A unique combination of one or more
+products, services or results,
+
+144
+00:10:51,520 --> 00:10:57,374
+for example new training course and
+examination and a related mentoring service.
+
+145
+00:10:57,980 --> 00:11:02,840
+Repetitive elements may be present in some
+project deliverables and activities,
+
+146
+00:11:03,660 --> 00:11:09,160
+as I mentioned before, a pipeline from
+Mongolia to the Sahara Desert.
+
+147
+00:11:10,140 --> 00:11:13,105
+This repetition does not
+change the fundamental
+
+148
+00:11:13,106 --> 00:11:16,460
+and unique characteristics
+of the project work.
+
+149
+00:11:17,180 --> 00:11:22,240
+Another example would be office buildings
+can be constructed with the same or
+
+150
+00:11:22,241 --> 00:11:27,340
+similar materials and maybe the same or
+different teams.
+
+151
+00:11:27,700 --> 00:11:31,520
+However, each building remains unique in
+key characteristics.
+
+152
+00:11:32,180 --> 00:11:38,840
+Example, location, design, environment,
+location, I said location, location,
+
+153
+00:11:39,160 --> 00:11:42,100
+location, that's what they always say for
+buildings anyway.
+
+154
+00:11:42,101 --> 00:11:48,140
+So, location, design, environment,
+situation and people involved.
+
+155
+00:11:48,720 --> 00:11:50,840
+How many people are required for a
+project?
+
+156
+00:11:51,400 --> 00:11:54,620
+There's actually no minimum or maximum
+number.
+
+157
+00:11:55,320 --> 00:12:00,420
+A project can involve just one person or
+thousands of people.
+
+158
+00:12:01,140 --> 00:12:06,374
+It can involve one group in an organisation
+or many groups or many organisations.
+
+159
+00:12:07,060 --> 00:12:12,640
+It can exist within a single small
+location such as, well, the initial
+
+160
+00:12:12,641 --> 00:12:17,540
+projects for the Apple Corporation which
+began in the garage of a house,
+
+161
+00:12:17,840 --> 00:12:24,280
+or can span many countries like modern
+Apple projects, as long as the endeavor is
+
+162
+00:12:24,281 --> 00:12:29,360
+intended to be temporary in nature and
+will create at least one unique product,
+
+163
+00:12:29,640 --> 00:12:30,540
+service or result.
+
+164
+00:12:31,060 --> 00:12:31,893
+It is a project.
+
+165
+00:12:32,760 --> 00:12:36,620
+The Pinball Guide lists examples of
+projects on page 5.
+
+166
+00:12:36,940 --> 00:12:38,840
+Projects drive change.
+
+167
+00:12:39,420 --> 00:12:44,420
+Processes just maintain business as usual,
+They support the mission of the company,
+
+168
+00:12:45,020 --> 00:12:47,780
+but for the business
+to remain competitive,
+
+169
+00:12:47,781 --> 00:12:50,600
+it has to occasionally
+change its operations.
+
+170
+00:12:51,220 --> 00:12:55,800
+It might need to add new products or
+services, improve the efficiency of its
+
+171
+00:12:55,801 --> 00:13:01,160
+current operations and so on, and so
+projects are required, because changes
+
+172
+00:13:01,161 --> 00:13:04,440
+cannot be performed under a business as
+usual.
+
+173
+00:13:05,060 --> 00:13:10,140
+In fact, project management has often been
+called the management of change.
+
+174
+00:13:11,140 --> 00:13:14,220
+Projects in the business value creation.
+
+175
+00:13:14,860 --> 00:13:19,290
+PMI defines business
+value as a net quantifiable
+
+176
+00:13:19,291 --> 00:13:22,021
+benefit derived from a business endeavor.
+
+177
+00:13:22,900 --> 00:13:26,340
+The benefit may be tangible, intangible or
+both.
+
+178
+00:13:27,020 --> 00:13:33,080
+In business analysis, business value is
+considered the return in the form of
+
+179
+00:13:33,081 --> 00:13:35,879
+elements such as time, money, goods, or
+
+180
+00:13:35,880 --> 00:13:39,220
+intangibles in return for
+something exchanged.
+
+181
+00:13:39,221 --> 00:13:44,339
+Business value in projects
+refers to the benefit that the
+
+182
+00:13:44,340 --> 00:13:48,880
+results of a specific project
+provides to its stakeholders.
+
+183
+00:13:49,120 --> 00:13:53,620
+The benefit from projects may be tangible,
+intangible or both.
+
+184
+00:13:53,960 --> 00:14:00,280
+Examples of tangible elements include
+monetary assets, stakeholder equity,
+
+185
+00:14:01,300 --> 00:14:04,400
+utility, fixtures, tools and market share.
+
+186
+00:14:04,940 --> 00:14:11,600
+Examples of intangible elements include
+goodwill, brand recognition, public
+
+187
+00:14:11,601 --> 00:14:15,940
+benefit, trademarks, strategic alignment
+and reputation.
+
+188
+00:14:17,220 --> 00:14:18,660
+Project initiation context.
+
+189
+00:14:19,420 --> 00:14:23,203
+Organizational leaders initiate
+projection response to four
+
+190
+00:14:23,204 --> 00:14:27,220
+fundamental categories of factors
+acting upon their organisations.
+
+191
+00:14:27,900 --> 00:14:30,960
+As you can see in figure 1.2.
+
+192
+00:14:31,240 --> 00:14:36,660
+The four categories are meet regulatory,
+legal or social requirements.
+
+193
+00:14:37,240 --> 00:14:43,380
+Satisfies to a order requests or needs,
+implement or change business or
+
+194
+00:14:43,381 --> 00:14:46,901
+technological strategies
+and create improved
+
+195
+00:14:46,902 --> 00:14:50,314
+or fixed products, processes or services.
+
+196
+00:14:51,080 --> 00:14:55,680
+These factors influence in organisations
+ongoing operations in business strategy.
+
+197
+00:14:56,400 --> 00:15:01,040
+Leaders respond to these factors in order
+to keep the organisation viable.
+
+198
+00:15:01,840 --> 00:15:06,180
+Projects provide the means for
+organisations to successfully make the
+
+199
+00:15:06,181 --> 00:15:08,960
+changes necessary to deal with these
+factors.
+
+200
+00:15:09,480 --> 00:15:13,620
+These factors ultimately should link to
+the strategic objectives of the
+
+201
+00:15:13,621 --> 00:15:17,000
+organisation and the business value of
+each project.
+
+202
+00:15:18,100 --> 00:15:23,540
+And finally, please study Table 1-1 on
+page 9 of the PIMBalk Guide.
+
+203
+00:15:23,960 --> 00:15:28,240
+It would take much too long to discuss it
+here and you'll find it's very easy to
+
+204
+00:15:28,241 --> 00:15:33,079
+understand and it shows
+how factors could be aligned
+
+205
+00:15:33,080 --> 00:15:36,880
+with what or more of the
+fundamental factor categories.
+
+206
+00:15:38,040 --> 00:15:41,760
+Now it brings us to the end of our first
+lesson, 1.1 projects.
+
+207
+00:15:42,380 --> 00:15:46,100
+Please remember to learn the definition of
+a project for the exam.
+
+208
+00:15:47,040 --> 00:15:50,940
+The next lesson is 1.2, the importance of
+project management.
+
+209
+00:15:52,000 --> 00:15:54,082
+Please read the corresponding chapter of
+
+210
+00:15:54,125 --> 00:15:56,461
+the PIMBock Guide
+before watching the video.
+

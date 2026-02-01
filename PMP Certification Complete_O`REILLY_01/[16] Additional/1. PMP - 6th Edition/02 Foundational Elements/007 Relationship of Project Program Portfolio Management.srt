@@ -1,0 +1,1076 @@
+﻿1
+00:00:13,980 --> 00:00:20,520
+1.3, relationship of project, program,
+portfolio and operations management.
+
+2
+00:00:22,460 --> 00:00:25,672
+You will often find in smaller
+companies in particular,
+
+3
+00:00:25,673 --> 00:00:29,100
+many projects are
+managed virtually in isolation.
+
+4
+00:00:29,860 --> 00:00:32,838
+The project managers would
+most likely discuss common
+
+5
+00:00:32,839 --> 00:00:36,860
+dependencies and resourcing,
+but little more than that.
+
+6
+00:00:37,600 --> 00:00:42,160
+Even though some elements of these
+projects could be combined and managed
+
+7
+00:00:42,161 --> 00:00:46,480
+more efficiently, that path just isn't
+followed.
+
+8
+00:00:47,580 --> 00:00:52,840
+However, the projects that are managing
+isolation, the project management
+
+9
+00:00:52,841 --> 00:00:55,481
+processes, tools and
+techniques to scrap the PIMBucke
+
+10
+00:00:55,482 --> 00:00:58,820
+and still gives them a
+high probability of success.
+
+11
+00:00:59,280 --> 00:01:03,143
+What they're missing really
+is just that bit of synergy,
+
+12
+00:01:03,144 --> 00:01:06,261
+a bit of efficiency that can
+be gained by combining them.
+
+13
+00:01:06,780 --> 00:01:09,916
+But as the organisations
+grow larger, they begin to
+
+14
+00:01:09,917 --> 00:01:12,980
+see that their benefits to
+begin by grouping projects.
+
+15
+00:01:13,000 --> 00:01:15,620
+and other related pieces of work together.
+
+16
+00:01:16,300 --> 00:01:19,600
+For example, they can be managed in a
+coordinated way.
+
+17
+00:01:20,020 --> 00:01:23,400
+Resources can be balanced between the
+different projects.
+
+18
+00:01:23,660 --> 00:01:28,680
+There can be better communications across
+projects and clearer oversight by senior
+
+19
+00:01:28,681 --> 00:01:33,140
+management on the whole landscape of
+projects and how they're progressing.
+
+20
+00:01:34,120 --> 00:01:38,240
+So what are the alternatives for managing
+multiple projects then?
+
+21
+00:01:38,660 --> 00:01:40,537
+As it turns out, there are three main
+ones.
+
+22
+00:01:40,620 --> 00:01:43,680
+Option one is simply to continue managing
+and isolation.
+
+23
+00:01:44,340 --> 00:01:47,236
+Each project is treated
+as a separate stand-alone
+
+24
+00:01:47,237 --> 00:01:50,120
+project with minimal
+information interchange.
+
+25
+00:01:51,880 --> 00:01:56,620
+Note that an extremely large project is
+called a mega project.
+
+26
+00:01:57,520 --> 00:02:05,120
+The Pinball Guide defines a mega project
+as one that is expected to cost $1 billion
+
+27
+00:02:05,121 --> 00:02:11,040
+US or more, effect one million or more
+people, and run for years.
+
+28
+00:02:11,280 --> 00:02:15,340
+But I would advise remembering that
+definition because it's new to the PIMBOC
+
+29
+00:02:15,341 --> 00:02:19,340
+as good chance that they're going to test
+us on it.
+
+30
+00:02:19,341 --> 00:02:24,340
+Now option number two is to collect
+related projects together into a program.
+
+31
+00:02:24,940 --> 00:02:31,460
+For example a large mining company might
+create a program of information technology
+
+32
+00:02:31,461 --> 00:02:35,551
+projects, a second program
+for mine site construction
+
+33
+00:02:35,552 --> 00:02:40,380
+projects and a third program
+for mining operations projects.
+
+34
+00:02:41,060 --> 00:02:49,300
+The PIMBOC guide defines a program as a
+group of related projects, subsidiary
+
+35
+00:02:49,301 --> 00:02:54,940
+programs and program activities
+managed in a coordinated way to
+
+36
+00:02:54,941 --> 00:02:58,700
+obtain benefits not available
+from managing them individually.
+
+37
+00:02:59,420 --> 00:03:04,540
+They become the option number three,
+which is the highest level if you like.
+
+38
+00:03:05,160 --> 00:03:11,200
+It's a collection of unrelated projects
+under a portfolio.
+
+39
+00:03:11,201 --> 00:03:16,840
+In the mining example, the company could
+combine the information technology
+
+40
+00:03:16,841 --> 00:03:23,480
+program, the construction program,
+the mining program, plus other projects
+
+41
+00:03:23,481 --> 00:03:26,600
+and even some operations work into a
+portfolio.
+
+42
+00:03:27,240 --> 00:03:34,480
+The PIMBOC guide defines a portfolio as
+projects, programs, subsidiary portfolios
+
+43
+00:03:34,481 --> 00:03:39,380
+and operations manage as a group to
+achieve strategic objectives.
+
+44
+00:03:39,381 --> 00:03:46,560
+So just remind you, a program is a
+collection of related projects,
+
+45
+00:03:47,180 --> 00:03:54,100
+a portfolio is generally a collection of
+unrelated projects or on related programs,
+
+46
+00:03:54,900 --> 00:04:00,480
+and key for the exam, remember,
+it can include some operations as well.
+
+47
+00:04:02,020 --> 00:04:06,479
+The PINBull Guide says
+program management and portfolio
+
+48
+00:04:06,480 --> 00:04:09,360
+management differ from
+project management in their level.
+
+49
+00:04:09,380 --> 00:04:13,880
+life cycles, activities, objectives,
+focus and benefits.
+
+50
+00:04:14,520 --> 00:04:20,100
+However, portfolios, programmes,
+projects and operations often engage with
+
+51
+00:04:20,101 --> 00:04:23,497
+the same stakeholders and
+may need the same resources
+
+52
+00:04:23,498 --> 00:04:26,380
+which may result in a
+conflict in the organisation.
+
+53
+00:04:27,020 --> 00:04:31,360
+This type of situation increases the need
+for coordination within the organisation
+
+54
+00:04:31,361 --> 00:04:34,888
+through the use of portfolio
+programme and project
+
+55
+00:04:34,889 --> 00:04:38,321
+management to achieve a
+workable balance in the organisation.
+
+56
+00:04:39,380 --> 00:04:44,280
+If we have a look at Figure 1-3 from the
+PIMBOC guide, it illustrates a sample
+
+57
+00:04:44,281 --> 00:04:48,300
+portfolio structure indicating
+relationships between the programs,
+
+58
+00:04:48,660 --> 00:04:51,320
+projects, shared resources and
+stakeholders.
+
+59
+00:04:52,620 --> 00:04:59,100
+You can see in this diagram that within
+the portfolio, Project 1 is not part of a
+
+60
+00:04:59,101 --> 00:05:04,920
+program, however, it is still managed
+within the portfolio to obtain benefits
+
+61
+00:05:04,921 --> 00:05:08,840
+not available by managing it is a
+standalone project.
+
+62
+00:05:09,960 --> 00:05:15,400
+Project 2 and Project 3 have been combined
+to form Program A.
+
+63
+00:05:16,300 --> 00:05:22,140
+Project 4 and Project 5 have been combined
+to form Program B1.
+
+64
+00:05:22,860 --> 00:05:25,766
+Project 8 and Project 9 have been combined
+
+65
+00:05:25,767 --> 00:05:30,254
+with some operations
+work to form Program C.
+
+66
+00:05:30,480 --> 00:05:36,720
+Program B2 and Project 6 have been
+combined to form Program B.
+
+67
+00:05:37,680 --> 00:05:43,560
+Project 7 and Program C have been combined
+to form Portfolio A.
+
+68
+00:05:43,860 --> 00:05:47,380
+And everything has been combined to form
+the sample portfolio.
+
+69
+00:05:48,300 --> 00:05:51,700
+I believe it's actually an error in this
+diagram.
+
+70
+00:05:52,020 --> 00:05:54,140
+Yes, the PIMBock Guide can make mistakes.
+
+71
+00:05:54,960 --> 00:05:58,840
+I believe that Program C is actually a
+portfolio.
+
+72
+00:05:59,560 --> 00:06:00,620
+Why do I say that?
+
+73
+00:06:00,900 --> 00:06:02,450
+Well, remember the definitions.
+
+74
+00:06:02,940 --> 00:06:09,580
+The PIMBock Guide defines a program as a
+group with related projects, subsidiary
+
+75
+00:06:09,581 --> 00:06:15,920
+programs, and program activities managed
+in a coordinated manner to obtain benefits
+
+76
+00:06:15,921 --> 00:06:18,480
+not available for managing them
+individually.
+
+77
+00:06:19,200 --> 00:06:26,180
+And a portfolio is projects, programs,
+subsidiary portfolios and operations
+
+78
+00:06:26,181 --> 00:06:30,680
+managed as a group to achieve strategic
+objectives.
+
+79
+00:06:31,320 --> 00:06:36,640
+These tell us that a portfolio, not a
+program, can include operational work.
+
+80
+00:06:36,840 --> 00:06:40,260
+But Program C on the diagram includes
+
+81
+00:06:40,261 --> 00:06:44,714
+operations, which means
+it is really a portfolio.
+
+82
+00:06:45,680 --> 00:06:50,580
+But anyway, grouping the projects together
+in this way makes it easier to enforce
+
+83
+00:06:50,581 --> 00:06:55,080
+robust governance and introduce
+efficiencies and cross-project balancing
+
+84
+00:06:55,081 --> 00:06:58,733
+and prioritisation based
+on risk, funding and other
+
+85
+00:06:58,734 --> 00:07:02,180
+considerations they would not
+otherwise have been possible.
+
+86
+00:07:02,760 --> 00:07:05,640
+But this structure gives us the big
+picture view.
+
+87
+00:07:05,641 --> 00:07:08,937
+Looking at project program and portfolio
+
+88
+00:07:08,938 --> 00:07:12,660
+management from an
+organisational perspective.
+
+89
+00:07:13,780 --> 00:07:20,060
+Program and project management focuses on
+doing programs and projects the right way
+
+90
+00:07:20,061 --> 00:07:26,000
+and portfolio management focuses on doing
+the right programs and projects.
+
+91
+00:07:26,560 --> 00:07:28,820
+And that could be an examination question,
+so.
+
+92
+00:07:29,840 --> 00:07:30,790
+Program management.
+
+93
+00:07:32,040 --> 00:07:40,380
+This is defined as the application of
+knowledge, skills and principles to a
+
+94
+00:07:40,381 --> 00:07:46,100
+program to achieve the program objectives
+and to obtain benefits and control not
+
+95
+00:07:46,101 --> 00:07:49,540
+available by managing program components
+individually.
+
+96
+00:07:50,400 --> 00:07:52,640
+The PIMBOC guide says on page 14.
+
+97
+00:07:53,440 --> 00:07:58,320
+A program component refers to projects and
+other programs within a program.
+
+98
+00:07:58,840 --> 00:08:03,700
+Project management focuses on
+interdependencies within a project to
+
+99
+00:08:03,701 --> 00:08:08,340
+determine the optimal approach for
+managing a project, the optimal approach.
+
+100
+00:08:09,220 --> 00:08:14,280
+Program management focuses on the
+interdependencies between projects and
+
+101
+00:08:14,281 --> 00:08:17,796
+between projects and
+program level to determine
+
+102
+00:08:17,797 --> 00:08:20,560
+the optimal approach for managing them.
+
+103
+00:08:20,680 --> 00:08:25,280
+Actions related to these program and
+project level interdependencies may
+
+104
+00:08:25,281 --> 00:08:31,740
+include aligning with your organizational
+or strategic direction that to fix program
+
+105
+00:08:31,741 --> 00:08:38,980
+and project goals and objectives,
+allocating the program scope into program
+
+106
+00:08:38,981 --> 00:08:42,900
+components, managing
+interdependencies among the
+
+107
+00:08:42,901 --> 00:08:46,580
+components of the program
+to best serve the program.
+
+108
+00:08:47,100 --> 00:08:52,540
+That's moving around funding, balancing
+out the human resources between the
+
+109
+00:08:52,541 --> 00:08:58,560
+projects, trying to control the
+interdependencies between them,
+
+110
+00:08:58,940 --> 00:09:05,540
+maybe moving projects around so that there's
+less focus on some interdependencies.
+
+111
+00:09:06,900 --> 00:09:12,760
+Managing project risks may impact multiple
+projects in the program and that can be a
+
+112
+00:09:12,761 --> 00:09:18,560
+big saving if you have a number of
+projects facing the same fairly major risk
+
+113
+00:09:18,561 --> 00:09:23,280
+but it's too expensive to deal with for a
+single project and you realize we can deal
+
+114
+00:09:23,281 --> 00:09:28,100
+with this risk for all of these projects
+now it's worthwhile going ahead with it.
+
+115
+00:09:28,240 --> 00:09:35,460
+Resolving constraints and conflicts that
+affect multiple projects within a program.
+
+116
+00:09:36,160 --> 00:09:39,957
+And as to recover later,
+a constraint is anything
+
+117
+00:09:39,958 --> 00:09:43,000
+that reduces your ability
+to manage the project.
+
+118
+00:09:43,960 --> 00:09:48,260
+Resolving issues between component
+projects and the program level,
+
+119
+00:09:49,380 --> 00:09:54,040
+managing change requests within a shared
+governance framework, allocating budgets
+
+120
+00:09:54,041 --> 00:09:58,220
+across multiple projects within the
+program which gives you an enormous amount
+
+121
+00:09:58,221 --> 00:10:04,740
+of control and assuring benefits realized
+from the program and component projects.
+
+122
+00:10:04,920 --> 00:10:10,760
+So you still have to be able to identify
+the expected benefits at the start and
+
+123
+00:10:10,761 --> 00:10:13,770
+then check at the end or
+sometime after the project that's
+
+124
+00:10:13,771 --> 00:10:17,360
+finished to make sure those
+benefits were actually achieved.
+
+125
+00:10:18,240 --> 00:10:22,940
+An example of a program is the development
+of a new online training course,
+
+126
+00:10:23,680 --> 00:10:29,180
+the development of a web-based learning
+management system to host and manage the
+
+127
+00:10:29,181 --> 00:10:33,226
+course and the development
+of back-end financial systems
+
+128
+00:10:33,227 --> 00:10:36,640
+to manage payment and
+financial accounting for the course.
+
+129
+00:10:37,000 --> 00:10:38,340
+Portfolio management.
+
+130
+00:10:39,360 --> 00:10:44,740
+A portfolio is defined as projects,
+program, subsidiary portfolios and
+
+131
+00:10:44,741 --> 00:10:50,020
+operations managed as a group to achieve
+strategic objectives.
+
+132
+00:10:50,740 --> 00:10:55,500
+The PIMBOC guide says on page 15 that
+portfolio management is defined as the
+
+133
+00:10:55,501 --> 00:11:01,534
+centralised management of one or more
+portfolios to achieve strategic objectives.
+
+134
+00:11:02,360 --> 00:11:06,189
+The programs or projects
+of the portfolio may not
+
+135
+00:11:06,190 --> 00:11:09,740
+necessarily be interdependent
+or directly related.
+
+136
+00:11:10,460 --> 00:11:16,140
+The aim of portfolio management is to
+guide organizational investment decisions,
+
+137
+00:11:16,780 --> 00:11:22,980
+select the optimal mix of programs and
+projects to meet strategic objectives,
+
+138
+00:11:24,040 --> 00:11:30,400
+provide decision-making transparency,
+prioritise team and physical resource
+
+139
+00:11:30,401 --> 00:11:36,660
+allocation, increase the likelihood of
+realising the desired return on
+
+140
+00:11:36,661 --> 00:11:42,820
+investment, centralise the management of
+the aggregate risk profile of all
+
+141
+00:11:42,821 --> 00:11:47,620
+components and the aggregate means just
+combined together or added up together.
+
+142
+00:11:48,660 --> 00:11:52,332
+Portfolio management also
+confirms that the portfolio is
+
+143
+00:11:52,333 --> 00:11:56,200
+consistent and aligned with
+organizational strategies.
+
+144
+00:11:57,660 --> 00:12:02,180
+Sometimes it's possible to have a project
+on your organization, perhaps a small one
+
+145
+00:12:02,181 --> 00:12:05,253
+or a bit of work, it doesn't
+actually align with your
+
+146
+00:12:05,254 --> 00:12:07,811
+strategy and so something
+you shouldn't be doing.
+
+147
+00:12:08,320 --> 00:12:13,200
+Being in isolation, it can be missed out,
+but once you get into a portfolio and you
+
+148
+00:12:13,201 --> 00:12:18,200
+have people looking at the entire
+portfolio, it is much easier to spot
+
+149
+00:12:18,201 --> 00:12:20,820
+something like that and basically to weed
+it out.
+
+150
+00:12:21,620 --> 00:12:24,840
+Maximizing the value of
+the portfolio requires careful
+
+151
+00:12:24,841 --> 00:12:28,700
+examination of the components
+that comprise the portfolio.
+
+152
+00:12:29,440 --> 00:12:33,840
+As you remember, the components are the
+project, bits of operation work,
+
+153
+00:12:34,620 --> 00:12:39,980
+subsidiary projects and programs and other
+portfolios, so a whole mix.
+
+154
+00:12:40,700 --> 00:12:42,850
+But the component could be any one of
+those.
+
+155
+00:12:43,340 --> 00:12:47,060
+Components are prioritised so that those
+contributing the most to the
+
+156
+00:12:47,061 --> 00:12:53,040
+organisation's strategic objectives have
+the required financial team and physical
+
+157
+00:12:53,041 --> 00:12:57,740
+resources and that reminds me of actually
+managing a project or you have some
+
+158
+00:12:57,741 --> 00:13:06,460
+activities on the critical path and if any
+one of those activities is held up then
+
+159
+00:13:06,461 --> 00:13:10,460
+it's going to slow the entire project it's
+going to hold the entire project up and so
+
+160
+00:13:10,461 --> 00:13:16,240
+what you start to do is you identify those
+particular critical activities and then
+
+161
+00:13:16,241 --> 00:13:19,660
+start putting more time, more people,
+more resources into them.
+
+162
+00:13:20,220 --> 00:13:23,360
+And so now we're taking that up to the
+portfolio level.
+
+163
+00:13:23,780 --> 00:13:27,760
+Instead of looking at individual
+activities, you're looking at maybe
+
+164
+00:13:27,761 --> 00:13:35,000
+programs, other portfolios, pieces of
+work, subsidiary projects, rather,
+
+165
+00:13:35,700 --> 00:13:39,760
+and then seeing which ones are
+contributing the greatest or alternatively
+
+166
+00:13:39,761 --> 00:13:42,434
+which ones are holding the
+company back the most, and
+
+167
+00:13:42,435 --> 00:13:45,080
+you can start putting a lot
+more resources into those.
+
+168
+00:13:45,081 --> 00:13:49,680
+For example, an infrastructure
+organisation that has a strategic
+
+169
+00:13:49,681 --> 00:13:52,833
+objective of maximising
+returns on investments may put
+
+170
+00:13:52,834 --> 00:13:58,899
+together a portfolio that
+includes a mix of projects in oil and
+
+171
+00:13:58,900 --> 00:14:03,454
+gas, power, water,
+roads, rail and airports.
+
+172
+00:14:03,780 --> 00:14:07,163
+From this mix, the organisation may choose
+
+173
+00:14:07,164 --> 00:14:10,834
+to manage related
+projects as one portfolio.
+
+174
+00:14:11,260 --> 00:14:15,060
+All of the power projects may be grouped
+under a power portfolio.
+
+175
+00:14:15,080 --> 00:14:19,000
+similarly, or the water projects grouped
+under the water portfolio.
+
+176
+00:14:19,420 --> 00:14:24,020
+However, when the organization has
+projects in designing and constructing a
+
+177
+00:14:24,021 --> 00:14:27,469
+power plant and then operates
+the power plant to generate
+
+178
+00:14:27,470 --> 00:14:31,720
+energy, these related projects
+can be grouped in one program.
+
+179
+00:14:32,320 --> 00:14:38,000
+This, the power program and similar water
+program become integral components of the
+
+180
+00:14:38,001 --> 00:14:41,380
+portfolio of the infrastructure
+organization.
+
+181
+00:14:42,600 --> 00:14:43,433
+4.
+
+182
+00:14:43,800 --> 00:14:49,740
+Operations Management You will find this
+on page 16 of the Pimbach Guide and this
+
+183
+00:14:49,741 --> 00:14:53,307
+is an area that is really
+outside the scope of form of
+
+184
+00:14:53,308 --> 00:14:56,940
+project management as
+described in the PIMBock Guide.
+
+185
+00:14:57,780 --> 00:15:01,629
+Operations Management
+is concerned with the
+
+186
+00:15:01,630 --> 00:15:04,980
+ongoing production of
+goods and or services.
+
+187
+00:15:05,120 --> 00:15:06,470
+It's the business as usual.
+
+188
+00:15:06,980 --> 00:15:10,823
+It ensures that business
+operations continue efficiently by
+
+189
+00:15:10,824 --> 00:15:14,760
+using the optimal resources
+needed to meet customer demands.
+
+190
+00:15:15,820 --> 00:15:21,820
+It's concerned with managing processes
+that transform inputs, for example,
+
+191
+00:15:22,680 --> 00:15:27,340
+materials, components, energy and labour
+into outputs, e.g.
+
+192
+00:15:28,460 --> 00:15:30,880
+products, goods and or services.
+
+193
+00:15:32,320 --> 00:15:33,153
+Number 5.
+
+194
+00:15:33,320 --> 00:15:39,420
+Operations and Project Management Changes
+in business or organisational operations
+
+195
+00:15:39,421 --> 00:15:44,860
+may be the focus of a project,
+specifically when there are substantial
+
+196
+00:15:44,861 --> 00:15:50,780
+changes to business operations as a result
+of a new product or service delivery.
+
+197
+00:15:51,040 --> 00:15:55,740
+Ongoing operations are outside of the
+scope of a project, however, there are
+
+198
+00:15:55,741 --> 00:15:59,020
+intersecting points where the two areas
+cross.
+
+199
+00:15:59,800 --> 00:16:04,540
+Projects can intersect with operations in
+various points during the product
+
+200
+00:16:04,541 --> 00:16:10,960
+lifecycle, such as when developing a new
+product, upgrading a product or expanding
+
+201
+00:16:10,961 --> 00:16:18,480
+outputs, when improving operations or the
+product development process, or at the end
+
+202
+00:16:18,481 --> 00:16:22,700
+of the project lifecycle, and at each
+close-out phase.
+
+203
+00:16:23,340 --> 00:16:28,540
+At each point, deliverables and knowledge
+are transferred between the project and
+
+204
+00:16:28,541 --> 00:16:31,720
+operations for implementation of the
+delivered work.
+
+205
+00:16:32,620 --> 00:16:35,220
+This implementation occurs through a
+touch.
+
+206
+00:16:35,240 --> 00:16:40,628
+transfer of project resources
+or knowledge to operations or
+
+207
+00:16:40,629 --> 00:16:44,360
+through a transfer of operational
+resources to the project.
+
+208
+00:16:44,700 --> 00:16:50,020
+For example when I'm managing an
+information technology project and we
+
+209
+00:16:50,021 --> 00:16:59,100
+create a software package at one stage we
+will hand over various deliverables to the
+
+210
+00:16:59,101 --> 00:17:03,360
+operations team and so they can get them
+up and running and by the end of the
+
+211
+00:17:03,361 --> 00:17:08,420
+project we will have handed over all all
+of those products, operations will be used
+
+212
+00:17:08,421 --> 00:17:14,720
+them and we will provide a manual and
+instructions or perhaps training to enable
+
+213
+00:17:14,721 --> 00:17:19,320
+the support team to be able to maintain
+those operations in use.
+
+214
+00:17:20,020 --> 00:17:23,440
+And that brings us to the end of
+relationship of project, program,
+
+215
+00:17:23,720 --> 00:17:25,700
+portfolio and operations management.
+
+216
+00:17:26,320 --> 00:17:29,700
+The next lesson is components of the
+PIMBOC guide.
+
+217
+00:17:30,220 --> 00:17:32,110
+Please read the corresponding chapter in
+
+218
+00:17:32,111 --> 00:17:35,194
+the PIMBOC guide
+before watching the video.
+
+219
+00:17:35,660 --> 00:17:36,493
+Thank you.
+
