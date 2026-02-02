@@ -1,0 +1,294 @@
+PARENT | CHILD | FILE
+[0] Introduction | [0] PMP Certification Complete Video Course and Practice Test_ Introduction.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [1] Introduction of Lesson.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [2] 1.1 Class Overview.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [3] 1.2 Understanding Common Reasons for Failing the PMP® exam.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [4] 1.3 Completing the PMP® Application.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [5] 1.4 Choosing Where to Take the Exam.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [6] 1.5 Learning the PMP® Exam Content.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [7] 1.6 Types of Exam Questions.mp4
+[1] Lesson 1_ Getting Prepared for the PMP® Exam | [8] 1.7 Taking the PMP® Exam - Tips and Pointers.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [10] 2.1 Defining a Project.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [11] 2.2 Defining Project Management.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [12] 2.3 Projects vs. Operations.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [13] 2.4 Programs and Portfolios.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [14] 2.5 Project Management Office (PMO).mp4
+[2] Lesson 2_ Learning Foundational Concepts | [15] 2.6 Talent Triangle and the Three Domains v2.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [16] 2.7 Life Cycles.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [17] 2.8 Development Life Cycles.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [18] 2.9 Agile Life Cycle and Agile Manifesto.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [19] 2.10 Project Constraints.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [20] 2.11 Structures of Organizations.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [21] 2.12 Enterprise Environmental Factors (EEFs) and Organizational Process Assets (OPAs).mp4
+[2] Lesson 2_ Learning Foundational Concepts | [22] 2.13 Roles on a Project.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [23] 2.14 Introduction to the PMBOK® Guide - Sixth Edition.mp4
+[2] Lesson 2_ Learning Foundational Concepts | [9] Learning Objectives.mp4
+[3] Lesson 3_ Project Integration Management | [24] Learning Objectives.mp4
+[3] Lesson 3_ Project Integration Management | [25] 3.1 Introduction to Integration Management.mp4
+[3] Lesson 3_ Project Integration Management | [26] 3.2 The PMBOK® Guide Processes in Integration Management.mp4
+[3] Lesson 3_ Project Integration Management | [27] 3.3 ITTOs of Integration Management.mp4
+[3] Lesson 3_ Project Integration Management | [28] 3.4 ITTOs Create Project Management Plan.mp4
+[3] Lesson 3_ Project Integration Management | [29] 3.5 ITTOs Direct and Manage Project Work.mp4
+[3] Lesson 3_ Project Integration Management | [30] 3.6 ITTOs Manage Project Knowledge.mp4
+[3] Lesson 3_ Project Integration Management | [31] 3.7 ITTOs Monitor and Control Project Work.mp4
+[3] Lesson 3_ Project Integration Management | [32] 3.8 ITTOs Perform Integrated Change Control.mp4
+[3] Lesson 3_ Project Integration Management | [33] 3.9 ITTOs Close Project or Phase.mp4
+[3] Lesson 3_ Project Integration Management | [34] 3.10 Creating the Project Charter.mp4
+[3] Lesson 3_ Project Integration Management | [35] 3.11 The Business Case and Benefits Management Plan.mp4
+[3] Lesson 3_ Project Integration Management | [36] 3.12 Considerations for Creating the Project Charter.mp4
+[3] Lesson 3_ Project Integration Management | [37] 3.13 Agile Ceremonies.mp4
+[3] Lesson 3_ Project Integration Management | [38] 3.14 Creating the Project Management Plan.mp4
+[3] Lesson 3_ Project Integration Management | [39] 3.15 Executing the Project to Deliver Business Value.mp4
+[3] Lesson 3_ Project Integration Management | [40] 3.16 Work Performance Data, Information and Reports.mp4
+[3] Lesson 3_ Project Integration Management | [41] 3.17 Ensure Knowledge Transfer for Project Continuity.mp4
+[3] Lesson 3_ Project Integration Management | [42] 3.18 Monitoring and Controlling the Project.mp4
+[3] Lesson 3_ Project Integration Management | [43] 3.19 Types of Work Performance Reports.mp4
+[3] Lesson 3_ Project Integration Management | [44] 3.20 Change Management and Configuration Management.mp4
+[3] Lesson 3_ Project Integration Management | [45] 3.21 Following the Change Control Process.mp4
+[3] Lesson 3_ Project Integration Management | [46] 3.22 Closing the Project, Phase or Iteration.mp4
+[4] Lesson 4_ Project Scope Management | [47] Learning Objectives.mp4
+[4] Lesson 4_ Project Scope Management | [48] 4.1 Introduction to Scope Management.mp4
+[4] Lesson 4_ Project Scope Management | [49] 4.2 Product Scope vs. Project Scope.mp4
+[4] Lesson 4_ Project Scope Management | [50] 4.3 The PMBOK® Guide Processes in Scope Management.mp4
+[4] Lesson 4_ Project Scope Management | [51] 4.4 ITTOs of Scope Management.mp4
+[4] Lesson 4_ Project Scope Management | [52] 4.5 Scope Management Plan.mp4
+[4] Lesson 4_ Project Scope Management | [53] 4.6 Requirements Management Plan.mp4
+[4] Lesson 4_ Project Scope Management | [54] 4.7 Requirements Documentation and Requirements Traceability Matrix.mp4
+[4] Lesson 4_ Project Scope Management | [55] 4.8 Requirements Elicitation Techniques.mp4
+[4] Lesson 4_ Project Scope Management | [56] 4.9 Project Scope Statement.mp4
+[4] Lesson 4_ Project Scope Management | [57] 4.10 Work Breakdown Structure.mp4
+[4] Lesson 4_ Project Scope Management | [58] 4.11 Scope Baseline.mp4
+[4] Lesson 4_ Project Scope Management | [59] 4.12 Scope Management Considerations for Agile.mp4
+[4] Lesson 4_ Project Scope Management | [60] 4.13 Scope Management_ Other terms.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [61] Learning Objectives.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [62] 5.1 Introduction to Schedule Management.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [63] 5.2 The PMBOK® Guide Processes in Schedule Management.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [64] 5.3 ITTOs of Schedue Management.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [65] 5.4 Schedule Management Plan.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [66] 5.5 Schedule Management Considerations for Agile.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [67] 5.6 Project Activities.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [68] 5.7 Activity Relationships.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [69] 5.8 Activity Dependencies, Lead and Lags.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [70] 5.9 Activity Duration Estimates and Estimating Methods.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [71] 5.10 Calculating Three Point Estimates.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [72] 5.11 Summary of the Four Estimating Methods.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [73] 5.12 Agile Prioritization Techniques.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [74] 5.13 Reaching Consensus in Agile.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [75] 5.14 Agile Estimation Techniques.mp4
+[5] Lesson 5_ Project Schedule Management - Part 1 | [76] 5.15 Schedule Management_ Other Terms.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [77] Learning objectives.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [78] 6.1 Understanding the Critical Path Method.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [79] 6.2 Calculating the Critical Path Method.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [80] 6.3 Critical Path Method_ Zero Method Forward Pass.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [81] 6.4 Critical Path Method_ Zero Method Backward Pass.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [82] 6.5 Critical Path Method_ Zero Method Calculating Float.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [83] 6.6 Critical Path Method_ One Method Forward Pass.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [84] 6.7 Critical Path Method_ One Method Backward Pass.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [85] 6.8 Critical Path Method_ One Method Calculating Float.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [86] 6.9 Comparing the Zero Method and One Method.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [87] 6.10 Critical Path Method_ Total Float, Free Float, Project Float.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [88] 6.11 Critical Path Method_ Negative and Positive Float.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [89] 6.12 Resource Optimization Techniques.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [90] 6.13 Monte Carlo Analysis.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [91] 6.14 Schedule Compression Techniques.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [92] 6.15 Agile Release Planning.mp4
+[6] Lesson 6_ Project Schedule Management - Part 2 | [93] 6.16 Iteration Burn-down and Burn-up Charts.mp4
+[7] Lesson 7_ Project Cost Management | [100] 7.6 Reserve Analysis.mp4
+[7] Lesson 7_ Project Cost Management | [101] 7.7 Funding Limit Reconciliation.mp4
+[7] Lesson 7_ Project Cost Management | [102] 7.8 Cost Aggregation.mp4
+[7] Lesson 7_ Project Cost Management | [103] 7.9 Undertanding the Cost Baseline.mp4
+[7] Lesson 7_ Project Cost Management | [104] 7.10 Earned Value Management PV, EV and AC.mp4
+[7] Lesson 7_ Project Cost Management | [105] 7.11 Earned Value Management SV and CV.mp4
+[7] Lesson 7_ Project Cost Management | [106] 7.12 Earned Value Management CPI and SPI.mp4
+[7] Lesson 7_ Project Cost Management | [107] 7.13 Earned Value Management EAC.mp4
+[7] Lesson 7_ Project Cost Management | [108] 7.14 Earned Value Management ETC and VAC.mp4
+[7] Lesson 7_ Project Cost Management | [109] 7.15 Earned Value Management TCPI.mp4
+[7] Lesson 7_ Project Cost Management | [110] 7.16 Earned Value Management - Example.mp4
+[7] Lesson 7_ Project Cost Management | [94] Learning objectives.mp4
+[7] Lesson 7_ Project Cost Management | [95] 7.1 Introduction to Cost Management.mp4
+[7] Lesson 7_ Project Cost Management | [96] 7.2 The PMBOK® Guide Processes in Cost Management.mp4
+[7] Lesson 7_ Project Cost Management | [97] 7.3 ITTOs of Cost Management.mp4
+[7] Lesson 7_ Project Cost Management | [98] 7.4 Cost Management Plan.mp4
+[7] Lesson 7_ Project Cost Management | [99] 7.5 Cost Management Estimating Methods.mp4
+[8] Lesson 8_ Project Quality Management | [111] Learning objectives.mp4
+[8] Lesson 8_ Project Quality Management | [112] 8.1 Introduction to Quality Management.mp4
+[8] Lesson 8_ Project Quality Management | [113] 8.2 Definition of Quality.mp4
+[8] Lesson 8_ Project Quality Management | [114] 8.3 The Five Increasing Cost Approaches to Quality Management.mp4
+[8] Lesson 8_ Project Quality Management | [115] 8.4 The PMBOK® Guide Processes in Quality Management.mp4
+[8] Lesson 8_ Project Quality Management | [116] 8.5 ITTOs of Quality Management.mp4
+[8] Lesson 8_ Project Quality Management | [117] 8.6 Quality Standards and Regulations.mp4
+[8] Lesson 8_ Project Quality Management | [118] 8.7 Quality Management Plan.mp4
+[8] Lesson 8_ Project Quality Management | [119] 8.8 Cost of Quality.mp4
+[8] Lesson 8_ Project Quality Management | [120] 8.9 Common Quality Management Tools.mp4
+[8] Lesson 8_ Project Quality Management | [121] 8.10 Pareto Chart.mp4
+[8] Lesson 8_ Project Quality Management | [122] 8.11 Cause and Effect Diagram.mp4
+[8] Lesson 8_ Project Quality Management | [123] 8.12 Control Charts.mp4
+[8] Lesson 8_ Project Quality Management | [124] 8.13 Quality Theories.mp4
+[8] Lesson 8_ Project Quality Management | [125] 8.14 Quality Methodologies.mp4
+[8] Lesson 8_ Project Quality Management | [126] 8.15 Other Quality Management Terms.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [127] Learning objectives.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [128] 9.1 Introduction to Resource Management.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [129] 9.2 The PMBOK® Guide Processes in Resource Management.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [130] 9.3 ITTOs of Resource Management.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [131] 9.4 Project Team Roles.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [132] 9.5 Resource Management Plan.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [133] 9.6 Team Charter and the Resource Calendar.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [134] 9.7 The RACI Chart.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [135] 9.8 Skillsets for a Project Manager.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [136] 9.9 Resource Management Tools.mp4
+[9] Lesson 9_ Project Resource Management - Part 1 | [137] 9.10 SWOT Analysis.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [138] Learning objectives.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [139] 10.1 Training, Pairing and Mentoring.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [140] 10.2 Leadership vs. Managers.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [141] 10.3 Leadership – Influencing and Team Building.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [142] 10.4 Tuckman Model.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [143] 10.5 Performance Tracking & Reports.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [144] 10.6 Kanban Board.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [145] 10.7 Identifying and Addressing Impediments, Obstacles and Blockers.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [146] 10.8 Conflict Management.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [147] 10.9 Conflict Management Techniques.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [148] 10.10 Agile Levels of Conflict.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [149] 10.11 Organizational Change Management.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [150] 10.12 Emotional Intelligence.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [151] 10.13 Emotional Intelligence - Personal Skills.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [152] 10.14 Emotional Intelligence - Interpersonal Skills.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [153] 10.15 Other Interpersonal and Team Skills.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [154] 10.16 Forms of Power.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [155] 10.17 Motivational Theories part 1.mp4
+[10] Lesson 10_ Project Resource Management - Part 2 | [156] 10.18 Motivational Theories part 2.mp4
+[11] Lesson 11_ Project Communications Management | [157] Learning objectives.mp4
+[11] Lesson 11_ Project Communications Management | [158] 11.1 Introduction to Communications Management.mp4
+[11] Lesson 11_ Project Communications Management | [159] 11.2 The PMBOK® Guide Processes in Communications Management.mp4
+[11] Lesson 11_ Project Communications Management | [160] 11.3 ITTOs of Communication Management.mp4
+[11] Lesson 11_ Project Communications Management | [161] 11.4 Manage Communications - Important Terms.mp4
+[11] Lesson 11_ Project Communications Management | [162] 11.5 Communications Management Plan.mp4
+[11] Lesson 11_ Project Communications Management | [163] 11.6 Communications Requirements Analysis.mp4
+[11] Lesson 11_ Project Communications Management | [164] 11.7 Communication Channels.mp4
+[11] Lesson 11_ Project Communications Management | [165] 11.8 Communication Methods.mp4
+[11] Lesson 11_ Project Communications Management | [166] 11.9 Communication Models.mp4
+[11] Lesson 11_ Project Communications Management | [167] 11.10 Barriers and Enhancers of Communication.mp4
+[11] Lesson 11_ Project Communications Management | [168] 11.11 Types of Communications.mp4
+[11] Lesson 11_ Project Communications Management | [169] 11.12 Guidelines for Facilitating Meetings.mp4
+[11] Lesson 11_ Project Communications Management | [170] 11.13 Task Board.mp4
+[12] Lesson 12_ Project Risk Management | [171] Learning objectives.mp4
+[12] Lesson 12_ Project Risk Management | [172] 12.1 Introduction to Risk Management.mp4
+[12] Lesson 12_ Project Risk Management | [173] 12.2 Classifications of Risk.mp4
+[12] Lesson 12_ Project Risk Management | [174] 12.3 Risk Tolerance, Appettite and Threshold.mp4
+[12] Lesson 12_ Project Risk Management | [175] 12.4 The PMBOK® Guide Processes in Risk Management.mp4
+[12] Lesson 12_ Project Risk Management | [176] 12.5 ITTOs of Risk Management.mp4
+[12] Lesson 12_ Project Risk Management | [177] 12.6 Risk Management Plan.mp4
+[12] Lesson 12_ Project Risk Management | [178] 12.7 Risk Identification Tools.mp4
+[12] Lesson 12_ Project Risk Management | [179] 12.8 SWOT Analysis and Prompt Lists.mp4
+[12] Lesson 12_ Project Risk Management | [180] 12.9 The Risk Register.mp4
+[12] Lesson 12_ Project Risk Management | [181] 12.10 Perform Qualitative Risk Analysis.mp4
+[12] Lesson 12_ Project Risk Management | [182] 12.11 Probablity and Impact Matrix.mp4
+[12] Lesson 12_ Project Risk Management | [183] 12.12 Perform Quantitative Risk Analysis.mp4
+[12] Lesson 12_ Project Risk Management | [184] 12.13 Tools of Quantitative Risk Analysis.mp4
+[12] Lesson 12_ Project Risk Management | [185] 12.14 Expected Monetary Value.mp4
+[12] Lesson 12_ Project Risk Management | [186] 12.15 Decision Trees.mp4
+[12] Lesson 12_ Project Risk Management | [187] 12.16 Risk Response Strategies - Negative Risks.mp4
+[12] Lesson 12_ Project Risk Management | [188] 12.17 Risk Response Strategies - Positive Risks.mp4
+[12] Lesson 12_ Project Risk Management | [189] 12.18 Risk Management - Other Terms.mp4
+[13] Lesson 13_ Project Procurement Management | [190] Learning objectives.mp4
+[13] Lesson 13_ Project Procurement Management | [191] 13.1 Introduction to Procurement Management.mp4
+[13] Lesson 13_ Project Procurement Management | [192] 13.2 The PMBOK® Guide Processes in Procurement Management.mp4
+[13] Lesson 13_ Project Procurement Management | [193] 13.3 ITTOs of Procurement Management.mp4
+[13] Lesson 13_ Project Procurement Management | [194] 13.4 Centralized vs. Decentralized Contracting.mp4
+[13] Lesson 13_ Project Procurement Management | [195] 13.5 Procurement Management Plan.mp4
+[13] Lesson 13_ Project Procurement Management | [196] 13.6 Procurement Strategy and Phases.mp4
+[13] Lesson 13_ Project Procurement Management | [197] 13.7 Components of a Contract.mp4
+[13] Lesson 13_ Project Procurement Management | [198] 13.8 Fixed Price Contract.mp4
+[13] Lesson 13_ Project Procurement Management | [199] 13.9 Cost Reimbursible Contract.mp4
+[13] Lesson 13_ Project Procurement Management | [200] 13.10 Time & Materials Contract.mp4
+[13] Lesson 13_ Project Procurement Management | [201] 13.11 Completion Contract vs. Term Contract.mp4
+[13] Lesson 13_ Project Procurement Management | [202] 13.12 Make or Buy Analysis.mp4
+[13] Lesson 13_ Project Procurement Management | [203] 13.13 Source Selection Criteria.mp4
+[13] Lesson 13_ Project Procurement Management | [204] 13.14 Common Procurement Tools.mp4
+[13] Lesson 13_ Project Procurement Management | [205] 13.15 Common Procurement Artifacts.mp4
+[13] Lesson 13_ Project Procurement Management | [206] 13.16 Common Procurement Terms.mp4
+[13] Lesson 13_ Project Procurement Management | [207] 13.17 Controlling Procurements.mp4
+[13] Lesson 13_ Project Procurement Management | [208] 13.18 Contract Change Control.mp4
+[13] Lesson 13_ Project Procurement Management | [209] 13.19 Closing Procurements.mp4
+[14] Lesson 14_ Project Stakeholder Management | [210] Learning objectives.mp4
+[14] Lesson 14_ Project Stakeholder Management | [211] 14.1 Introduction to Stakeholder Management.mp4
+[14] Lesson 14_ Project Stakeholder Management | [212] 14.2 The PMBOK® Guide Processes in Procurement Management.mp4
+[14] Lesson 14_ Project Stakeholder Management | [213] 14.3 ITTOs of Stakeholder Management.mp4
+[14] Lesson 14_ Project Stakeholder Management | [214] 14.4 Common Tools for Identifying Stakeholders.mp4
+[14] Lesson 14_ Project Stakeholder Management | [215] 14.5 Stakeholder Grid.mp4
+[14] Lesson 14_ Project Stakeholder Management | [216] 14.6 Salience Model.mp4
+[14] Lesson 14_ Project Stakeholder Management | [217] 14.7 Stakeholder Engagement Assesment Matrix.mp4
+[14] Lesson 14_ Project Stakeholder Management | [218] 14.8 Stakeholder Engagement Plan.mp4
+[14] Lesson 14_ Project Stakeholder Management | [219] 14.9 Stakeholder Register.mp4
+[14] Lesson 14_ Project Stakeholder Management | [220] 14.10 Engaging and Collaborating with Stakeholders.mp4
+[15] Summary | [221] PMP Certification Complete Video Course and Practice Test_ Summary.mp4
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 004 Foundational Elements.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 005 Projects.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 006 The Importance of Project Management.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 007 Relationship of Project Program Portfolio Management.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 008 Components of the PMBOK Guide.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 009 Tailoring.mp4 
+[16] Additional | 1. PMP - 6th Edition | 02 Foundational Elements | 010 Project Management Business Documents.mp4 
+[16] Additional | 1. PMP - 6th Edition | 03 Environments in which Projects Operate | 011 Environments in which Projects Operate.mp4 
+[16] Additional | 1. PMP - 6th Edition | 03 Environments in which Projects Operate | 012 Enterprise Environmental Factors.mp4 
+[16] Additional | 1. PMP - 6th Edition | 03 Environments in which Projects Operate | 013 Organisational Process Assets.mp4 
+[16] Additional | 1. PMP - 6th Edition | 03 Environments in which Projects Operate | 014 Organizational Systems.mp4 
+[16] Additional | 1. PMP - 6th Edition | 15 Ethics and Professional Conduct | 077 Ethics and Professional Conduct.mp4 
+[16] Additional | 1. PMP - 6th Edition | 15 Ethics and Professional Conduct | 078 Responsibility.mp4 
+[16] Additional | 1. PMP - 6th Edition | 15 Ethics and Professional Conduct | 079 Respect.mp4 
+[16] Additional | 1. PMP - 6th Edition | 15 Ethics and Professional Conduct | 080 Fairness.mp4 
+[16] Additional | 1. PMP - 6th Edition | 15 Ethics and Professional Conduct | 081 Honesty.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 12. Process Groups | 1. Initiating Process Group.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 12. Process Groups | 2. Planning process group.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 12. Process Groups | 3. Executing process group.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 12. Process Groups | 4. Monitoring & Controlling process group.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 12. Process Groups | 5. Closing the project or phase process group.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 1. Project Integration Management Overview.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 2. Develop Project Charter.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 3. Develop project management plan.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 4. Direct & Manage project work.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 5. Manage Project knowledge.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 6. Monitor & Control the project work.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 7. Perform integrated change control.mp4 
+[16] Additional | 2. PMP Exam prep PMBOK6 | 2. Project Integration Management | 8. Close project or phase.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 1. Section Overview Project Management Foundations.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 10. PMP Coach Don't Think too Much.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 11. Section Wrap Define Project Management Foundations.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 2. Projects are Temporary.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 3. Project Create Unique Products, Services, Or Results.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 4. Projects Enable Business Value Creation.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 5. Project Initiation Context - Why Projects are Created.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 6. Defining Project Management.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 7. Project Management Application areas.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 5. Define Project Management Foundations | 8. Reviewing a Project Life Cycle.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 1. Section Overview Related Areas of Project Management.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 2. Program Management.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 3. Portfolio Management.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 4. Working with a Project Management Office.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 5. Projects Vs. Operations.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 6. OPM and Strategies.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 7. Understanding the Project Environment.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 8. PMP Coach Know Your Terms.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 6. Related Areas of Project Management | 9. Section Wrap Related Areas of Project Management.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 1. Section Overview Project Management Processes Groups and Knowledge Areas.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 11. PMP Coach What's your benefit.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 13. Section Wrap Project Management Components.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 2. Reviewing the Project Management Process Groups.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 3. Work Performance Data, Information, and Reports.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 4. Tailoring the Processes.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 5. Introducing Adaptive Environments.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 6. Introducing Business Documents.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 7. Project Business Case.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 8. Project Benefits Management Plan.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 7. Project Management Components | 9. Reviewing the Project Management Knowledge Areas.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 1. Section Overview Project Environments.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 10. Project Management Office.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 11. PMP Coach Keep going!.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 14. Section Wrap Project Environments.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 2. Enterprise Environmental Factors.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 3. Organizational Process assets.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 4. Processes, Policies, and Procedures.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 5. Organizational Knowledge Repositories.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 6. Organizational Systems.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 7. Frameworks.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 8. Management Elements.mp4 
+[16] Additional | 3. PMP Exam Prep PMBOK6_Udemy | 8. Project Environments | 9. Organizational Structure Types.mp4 
